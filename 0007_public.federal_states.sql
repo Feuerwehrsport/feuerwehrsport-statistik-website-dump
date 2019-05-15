@@ -1,0 +1,31 @@
+
+
+--
+-- Data for Name: federal_states; Type: TABLE DATA; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+COPY public.federal_states (id, name, shortcut, created_at, updated_at) FROM stdin;
+1	Baden-Württemberg	BW	2016-07-12 06:40:58.271202	2016-07-12 06:40:58.271202
+2	Bayern	BY	2016-07-12 06:40:58.29509	2016-07-12 06:40:58.29509
+3	Berlin	BE	2016-07-12 06:40:58.297331	2016-07-12 06:40:58.297331
+4	Brandenburg	BB	2016-07-12 06:40:58.299736	2016-07-12 06:40:58.299736
+5	Bremen	HB	2016-07-12 06:40:58.30185	2016-07-12 06:40:58.30185
+6	Hamburg	HH	2016-07-12 06:40:58.304088	2016-07-12 06:40:58.304088
+7	Hessen	HE	2016-07-12 06:40:58.306115	2016-07-12 06:40:58.306115
+8	Mecklenburg-Vorpommern	MV	2016-07-12 06:40:58.30799	2016-07-12 06:40:58.30799
+9	Niedersachsen	NI	2016-07-12 06:40:58.310073	2016-07-12 06:40:58.310073
+10	Nordrhein-Westfalen	NW	2016-07-12 06:40:58.312562	2016-07-12 06:40:58.312562
+11	Rheinland-Pfalz	RP	2016-07-12 06:40:58.314215	2016-07-12 06:40:58.314215
+12	Saarland	SL	2016-07-12 06:40:58.315858	2016-07-12 06:40:58.315858
+13	Sachsen	SN	2016-07-12 06:40:58.317264	2016-07-12 06:40:58.317264
+14	Sachsen-Anhalt	ST	2016-07-12 06:40:58.31932	2016-07-12 06:40:58.31932
+15	Schleswig-Holstein	SH	2016-07-12 06:40:58.320904	2016-07-12 06:40:58.320904
+16	Thüringen	TH	2016-07-12 06:40:58.322118	2016-07-12 06:40:58.322118
+\.
+
+
+--
+-- Name: federal_states_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+SELECT pg_catalog.setval('public.federal_states_id_seq', 16, true);

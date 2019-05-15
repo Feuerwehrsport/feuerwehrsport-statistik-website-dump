@@ -1,0 +1,1063 @@
+
+
+--
+-- Name: admin_users admin_users_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.admin_users
+    ADD CONSTRAINT admin_users_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: api_users api_users_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.api_users
+    ADD CONSTRAINT api_users_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: appointments appointments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.appointments
+    ADD CONSTRAINT appointments_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: bla_badges bla_badges_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.bla_badges
+    ADD CONSTRAINT bla_badges_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: change_logs change_logs_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.change_logs
+    ADD CONSTRAINT change_logs_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: change_requests change_requests_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.change_requests
+    ADD CONSTRAINT change_requests_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: competition_files competition_files_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.competition_files
+    ADD CONSTRAINT competition_files_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: competitions competitions_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.competitions
+    ADD CONSTRAINT competitions_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: delayed_jobs delayed_jobs_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.delayed_jobs
+    ADD CONSTRAINT delayed_jobs_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: entity_merges entity_merges_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.entity_merges
+    ADD CONSTRAINT entity_merges_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: events events_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.events
+    ADD CONSTRAINT events_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: federal_states federal_states_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.federal_states
+    ADD CONSTRAINT federal_states_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: group_score_categories group_score_categories_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_score_categories
+    ADD CONSTRAINT group_score_categories_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: group_score_types group_score_types_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_score_types
+    ADD CONSTRAINT group_score_types_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: group_scores group_scores_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_scores
+    ADD CONSTRAINT group_scores_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: import_requests import_requests_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.import_requests
+    ADD CONSTRAINT import_requests_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: ipo_registrations ipo_registrations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.ipo_registrations
+    ADD CONSTRAINT ipo_registrations_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: links links_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.links
+    ADD CONSTRAINT links_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: m3_assets m3_assets_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_assets
+    ADD CONSTRAINT m3_assets_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: m3_delivery_settings m3_delivery_settings_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_delivery_settings
+    ADD CONSTRAINT m3_delivery_settings_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: m3_logins m3_logins_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_logins
+    ADD CONSTRAINT m3_logins_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: m3_websites m3_websites_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_websites
+    ADD CONSTRAINT m3_websites_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: nations nations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.nations
+    ADD CONSTRAINT nations_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: news_articles news_articles_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.news_articles
+    ADD CONSTRAINT news_articles_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: pdf2_table_entries pdf2_table_entries_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.pdf2_table_entries
+    ADD CONSTRAINT pdf2_table_entries_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: people people_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.people
+    ADD CONSTRAINT people_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: person_participations person_participations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.person_participations
+    ADD CONSTRAINT person_participations_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: person_spellings person_spellings_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.person_spellings
+    ADD CONSTRAINT person_spellings_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: places places_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.places
+    ADD CONSTRAINT places_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: registrations_assessment_participations registrations_assessment_participations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessment_participations
+    ADD CONSTRAINT registrations_assessment_participations_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: registrations_assessments registrations_assessments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessments
+    ADD CONSTRAINT registrations_assessments_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: registrations_competitions registrations_competitions_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_competitions
+    ADD CONSTRAINT registrations_competitions_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: registrations_people registrations_people_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_people
+    ADD CONSTRAINT registrations_people_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: registrations_teams registrations_teams_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_teams
+    ADD CONSTRAINT registrations_teams_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: score_types score_types_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.score_types
+    ADD CONSTRAINT score_types_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: scores scores_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.scores
+    ADD CONSTRAINT scores_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_assessments series_assessments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_assessments
+    ADD CONSTRAINT series_assessments_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_cups series_cups_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_cups
+    ADD CONSTRAINT series_cups_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_participations series_participations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_participations
+    ADD CONSTRAINT series_participations_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_rounds series_rounds_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_rounds
+    ADD CONSTRAINT series_rounds_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: tags tags_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.tags
+    ADD CONSTRAINT tags_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: team_spellings team_spellings_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.team_spellings
+    ADD CONSTRAINT team_spellings_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: teams teams_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.teams
+    ADD CONSTRAINT teams_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: delayed_jobs_priority; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX delayed_jobs_priority ON public.delayed_jobs USING btree (priority, run_at);
+
+
+--
+-- Name: index_admin_users_on_login_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_admin_users_on_login_id ON public.admin_users USING btree (login_id);
+
+
+--
+-- Name: index_appointments_on_event_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_appointments_on_event_id ON public.appointments USING btree (event_id);
+
+
+--
+-- Name: index_bla_badges_on_hb_score_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_bla_badges_on_hb_score_id ON public.bla_badges USING btree (hb_score_id);
+
+
+--
+-- Name: index_bla_badges_on_hl_score_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_bla_badges_on_hl_score_id ON public.bla_badges USING btree (hl_score_id);
+
+
+--
+-- Name: index_bla_badges_on_person_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_bla_badges_on_person_id ON public.bla_badges USING btree (person_id);
+
+
+--
+-- Name: index_change_logs_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_change_logs_on_admin_user_id ON public.change_logs USING btree (admin_user_id);
+
+
+--
+-- Name: index_change_logs_on_api_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_change_logs_on_api_user_id ON public.change_logs USING btree (api_user_id);
+
+
+--
+-- Name: index_change_requests_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_change_requests_on_admin_user_id ON public.change_requests USING btree (admin_user_id);
+
+
+--
+-- Name: index_change_requests_on_api_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_change_requests_on_api_user_id ON public.change_requests USING btree (api_user_id);
+
+
+--
+-- Name: index_competition_files_on_competition_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_competition_files_on_competition_id ON public.competition_files USING btree (competition_id);
+
+
+--
+-- Name: index_competitions_on_event_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_competitions_on_event_id ON public.competitions USING btree (event_id);
+
+
+--
+-- Name: index_competitions_on_place_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_competitions_on_place_id ON public.competitions USING btree (place_id);
+
+
+--
+-- Name: index_competitions_on_score_type_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_competitions_on_score_type_id ON public.competitions USING btree (score_type_id);
+
+
+--
+-- Name: index_entity_merges_on_source_type_and_source_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_entity_merges_on_source_type_and_source_id ON public.entity_merges USING btree (source_type, source_id);
+
+
+--
+-- Name: index_entity_merges_on_target_type_and_target_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_entity_merges_on_target_type_and_target_id ON public.entity_merges USING btree (target_type, target_id);
+
+
+--
+-- Name: index_group_score_categories_on_competition_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_group_score_categories_on_competition_id ON public.group_score_categories USING btree (competition_id);
+
+
+--
+-- Name: index_group_score_categories_on_group_score_type_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_group_score_categories_on_group_score_type_id ON public.group_score_categories USING btree (group_score_type_id);
+
+
+--
+-- Name: index_group_scores_on_group_score_category_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_group_scores_on_group_score_category_id ON public.group_scores USING btree (group_score_category_id);
+
+
+--
+-- Name: index_group_scores_on_team_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_group_scores_on_team_id ON public.group_scores USING btree (team_id);
+
+
+--
+-- Name: index_import_requests_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_import_requests_on_admin_user_id ON public.import_requests USING btree (admin_user_id);
+
+
+--
+-- Name: index_import_requests_on_edit_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_import_requests_on_edit_user_id ON public.import_requests USING btree (edit_user_id);
+
+
+--
+-- Name: index_import_requests_on_event_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_import_requests_on_event_id ON public.import_requests USING btree (event_id);
+
+
+--
+-- Name: index_import_requests_on_place_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_import_requests_on_place_id ON public.import_requests USING btree (place_id);
+
+
+--
+-- Name: index_m3_assets_on_website_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_m3_assets_on_website_id ON public.m3_assets USING btree (website_id);
+
+
+--
+-- Name: index_m3_delivery_settings_on_website_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_m3_delivery_settings_on_website_id ON public.m3_delivery_settings USING btree (website_id);
+
+
+--
+-- Name: index_m3_logins_on_changed_email_address_token; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_m3_logins_on_changed_email_address_token ON public.m3_logins USING btree (changed_email_address_token);
+
+
+--
+-- Name: index_m3_logins_on_password_reset_token; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_m3_logins_on_password_reset_token ON public.m3_logins USING btree (password_reset_token);
+
+
+--
+-- Name: index_m3_logins_on_verify_token; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_m3_logins_on_verify_token ON public.m3_logins USING btree (verify_token);
+
+
+--
+-- Name: index_m3_logins_on_website_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_m3_logins_on_website_id ON public.m3_logins USING btree (website_id);
+
+
+--
+-- Name: index_m3_websites_on_key; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_m3_websites_on_key ON public.m3_websites USING btree (key);
+
+
+--
+-- Name: index_news_articles_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_news_articles_on_admin_user_id ON public.news_articles USING btree (admin_user_id);
+
+
+--
+-- Name: index_pdf2_table_entries_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_pdf2_table_entries_on_admin_user_id ON public.pdf2_table_entries USING btree (admin_user_id);
+
+
+--
+-- Name: index_pdf2_table_entries_on_api_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_pdf2_table_entries_on_api_user_id ON public.pdf2_table_entries USING btree (api_user_id);
+
+
+--
+-- Name: index_people_on_gender; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_people_on_gender ON public.people USING btree (gender);
+
+
+--
+-- Name: index_people_on_nation_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_people_on_nation_id ON public.people USING btree (nation_id);
+
+
+--
+-- Name: index_person_participations_on_group_score_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_person_participations_on_group_score_id ON public.person_participations USING btree (group_score_id);
+
+
+--
+-- Name: index_person_participations_on_person_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_person_participations_on_person_id ON public.person_participations USING btree (person_id);
+
+
+--
+-- Name: index_person_spellings_on_person_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_person_spellings_on_person_id ON public.person_spellings USING btree (person_id);
+
+
+--
+-- Name: index_registrations_competitions_on_slug; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_registrations_competitions_on_slug ON public.registrations_competitions USING btree (slug);
+
+
+--
+-- Name: index_scores_on_competition_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_scores_on_competition_id ON public.scores USING btree (competition_id);
+
+
+--
+-- Name: index_scores_on_person_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_scores_on_person_id ON public.scores USING btree (person_id);
+
+
+--
+-- Name: index_scores_on_team_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_scores_on_team_id ON public.scores USING btree (team_id);
+
+
+--
+-- Name: index_team_spellings_on_team_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_team_spellings_on_team_id ON public.team_spellings USING btree (team_id);
+
+
+--
+-- Name: unique_schema_migrations; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX unique_schema_migrations ON public.schema_migrations USING btree (version);
+
+
+--
+-- Name: registrations_competitions fk_rails_043fe334db; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_competitions
+    ADD CONSTRAINT fk_rails_043fe334db FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: group_score_categories fk_rails_087bd7ddca; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_score_categories
+    ADD CONSTRAINT fk_rails_087bd7ddca FOREIGN KEY (group_score_type_id) REFERENCES public.group_score_types(id);
+
+
+--
+-- Name: person_participations fk_rails_0a382359da; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.person_participations
+    ADD CONSTRAINT fk_rails_0a382359da FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: team_spellings fk_rails_0fda230754; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.team_spellings
+    ADD CONSTRAINT fk_rails_0fda230754 FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
+-- Name: series_participations fk_rails_10e3de7ab6; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_participations
+    ADD CONSTRAINT fk_rails_10e3de7ab6 FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
+-- Name: series_participations fk_rails_15526a74ba; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_participations
+    ADD CONSTRAINT fk_rails_15526a74ba FOREIGN KEY (cup_id) REFERENCES public.series_cups(id);
+
+
+--
+-- Name: registrations_assessment_participations fk_rails_15c95409f5; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessment_participations
+    ADD CONSTRAINT fk_rails_15c95409f5 FOREIGN KEY (assessment_id) REFERENCES public.registrations_assessments(id);
+
+
+--
+-- Name: scores fk_rails_17052afd34; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.scores
+    ADD CONSTRAINT fk_rails_17052afd34 FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
+-- Name: registrations_teams fk_rails_1fe22e9baa; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_teams
+    ADD CONSTRAINT fk_rails_1fe22e9baa FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
+-- Name: bla_badges fk_rails_21a671eac2; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.bla_badges
+    ADD CONSTRAINT fk_rails_21a671eac2 FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: pdf2_table_entries fk_rails_224da25c7c; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.pdf2_table_entries
+    ADD CONSTRAINT fk_rails_224da25c7c FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: scores fk_rails_23d89423d6; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.scores
+    ADD CONSTRAINT fk_rails_23d89423d6 FOREIGN KEY (competition_id) REFERENCES public.competitions(id);
+
+
+--
+-- Name: registrations_teams fk_rails_2cc62682f7; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_teams
+    ADD CONSTRAINT fk_rails_2cc62682f7 FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: admin_users fk_rails_2eecc1a1f5; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.admin_users
+    ADD CONSTRAINT fk_rails_2eecc1a1f5 FOREIGN KEY (login_id) REFERENCES public.m3_logins(id);
+
+
+--
+-- Name: series_assessments fk_rails_2fdd48a6eb; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_assessments
+    ADD CONSTRAINT fk_rails_2fdd48a6eb FOREIGN KEY (round_id) REFERENCES public.series_rounds(id);
+
+
+--
+-- Name: change_logs fk_rails_31ecca654e; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.change_logs
+    ADD CONSTRAINT fk_rails_31ecca654e FOREIGN KEY (api_user_id) REFERENCES public.api_users(id);
+
+
+--
+-- Name: competitions fk_rails_339a5440d1; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.competitions
+    ADD CONSTRAINT fk_rails_339a5440d1 FOREIGN KEY (event_id) REFERENCES public.events(id);
+
+
+--
+-- Name: registrations_teams fk_rails_3d5190e1c4; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_teams
+    ADD CONSTRAINT fk_rails_3d5190e1c4 FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
+
+
+--
+-- Name: appointments fk_rails_3f47875492; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.appointments
+    ADD CONSTRAINT fk_rails_3f47875492 FOREIGN KEY (event_id) REFERENCES public.events(id);
+
+
+--
+-- Name: m3_delivery_settings fk_rails_42b0945ea5; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_delivery_settings
+    ADD CONSTRAINT fk_rails_42b0945ea5 FOREIGN KEY (website_id) REFERENCES public.m3_websites(id);
+
+
+--
+-- Name: registrations_people fk_rails_45da1b2122; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_people
+    ADD CONSTRAINT fk_rails_45da1b2122 FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: change_requests fk_rails_4716775f9d; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.change_requests
+    ADD CONSTRAINT fk_rails_4716775f9d FOREIGN KEY (api_user_id) REFERENCES public.api_users(id);
+
+
+--
+-- Name: series_cups fk_rails_63932e2707; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_cups
+    ADD CONSTRAINT fk_rails_63932e2707 FOREIGN KEY (competition_id) REFERENCES public.competitions(id);
+
+
+--
+-- Name: m3_logins fk_rails_6b0abf39ba; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_logins
+    ADD CONSTRAINT fk_rails_6b0abf39ba FOREIGN KEY (website_id) REFERENCES public.m3_websites(id);
+
+
+--
+-- Name: news_articles fk_rails_6c5935622b; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.news_articles
+    ADD CONSTRAINT fk_rails_6c5935622b FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: registrations_people fk_rails_6ca390b69a; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_people
+    ADD CONSTRAINT fk_rails_6ca390b69a FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
+
+
+--
+-- Name: person_participations fk_rails_6d79ed02ed; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.person_participations
+    ADD CONSTRAINT fk_rails_6d79ed02ed FOREIGN KEY (group_score_id) REFERENCES public.group_scores(id);
+
+
+--
+-- Name: registrations_assessment_participations fk_rails_6dfb91e2b1; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessment_participations
+    ADD CONSTRAINT fk_rails_6dfb91e2b1 FOREIGN KEY (person_id) REFERENCES public.registrations_people(id);
+
+
+--
+-- Name: registrations_people fk_rails_7188435791; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_people
+    ADD CONSTRAINT fk_rails_7188435791 FOREIGN KEY (team_id) REFERENCES public.registrations_teams(id);
+
+
+--
+-- Name: competitions fk_rails_7f26f3b040; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.competitions
+    ADD CONSTRAINT fk_rails_7f26f3b040 FOREIGN KEY (score_type_id) REFERENCES public.score_types(id);
+
+
+--
+-- Name: bla_badges fk_rails_7fbfa6b42e; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.bla_badges
+    ADD CONSTRAINT fk_rails_7fbfa6b42e FOREIGN KEY (hb_score_id) REFERENCES public.scores(id);
+
+
+--
+-- Name: registrations_people fk_rails_86823d0b62; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_people
+    ADD CONSTRAINT fk_rails_86823d0b62 FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: scores fk_rails_88b53fe618; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.scores
+    ADD CONSTRAINT fk_rails_88b53fe618 FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: pdf2_table_entries fk_rails_98638c8056; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.pdf2_table_entries
+    ADD CONSTRAINT fk_rails_98638c8056 FOREIGN KEY (api_user_id) REFERENCES public.api_users(id);
+
+
+--
+-- Name: group_score_categories fk_rails_a3a6694385; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_score_categories
+    ADD CONSTRAINT fk_rails_a3a6694385 FOREIGN KEY (competition_id) REFERENCES public.competitions(id);
+
+
+--
+-- Name: person_spellings fk_rails_a9dc923e30; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.person_spellings
+    ADD CONSTRAINT fk_rails_a9dc923e30 FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: group_scores fk_rails_bb2ca8f375; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_scores
+    ADD CONSTRAINT fk_rails_bb2ca8f375 FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
+-- Name: competition_files fk_rails_c1790da592; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.competition_files
+    ADD CONSTRAINT fk_rails_c1790da592 FOREIGN KEY (competition_id) REFERENCES public.competitions(id);
+
+
+--
+-- Name: people fk_rails_c201f283e7; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.people
+    ADD CONSTRAINT fk_rails_c201f283e7 FOREIGN KEY (nation_id) REFERENCES public.nations(id);
+
+
+--
+-- Name: registrations_assessments fk_rails_ce616f5f59; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessments
+    ADD CONSTRAINT fk_rails_ce616f5f59 FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
+
+
+--
+-- Name: change_requests fk_rails_d283e0df68; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.change_requests
+    ADD CONSTRAINT fk_rails_d283e0df68 FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: change_logs fk_rails_d36db08295; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.change_logs
+    ADD CONSTRAINT fk_rails_d36db08295 FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
+
+
+--
+-- Name: registrations_assessment_participations fk_rails_d742b584f9; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessment_participations
+    ADD CONSTRAINT fk_rails_d742b584f9 FOREIGN KEY (team_id) REFERENCES public.registrations_teams(id);
+
+
+--
+-- Name: competitions fk_rails_deb9c05685; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.competitions
+    ADD CONSTRAINT fk_rails_deb9c05685 FOREIGN KEY (place_id) REFERENCES public.places(id);
+
+
+--
+-- Name: series_participations fk_rails_e0f7fe67d8; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_participations
+    ADD CONSTRAINT fk_rails_e0f7fe67d8 FOREIGN KEY (assessment_id) REFERENCES public.series_assessments(id);
+
+
+--
+-- Name: group_scores fk_rails_e53e7ce3f3; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.group_scores
+    ADD CONSTRAINT fk_rails_e53e7ce3f3 FOREIGN KEY (group_score_category_id) REFERENCES public.group_score_categories(id);
+
+
+--
+-- Name: series_cups fk_rails_ecdcb1c04e; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_cups
+    ADD CONSTRAINT fk_rails_ecdcb1c04e FOREIGN KEY (round_id) REFERENCES public.series_rounds(id);
+
+
+--
+-- Name: bla_badges fk_rails_f2238e0ce7; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.bla_badges
+    ADD CONSTRAINT fk_rails_f2238e0ce7 FOREIGN KEY (hl_score_id) REFERENCES public.scores(id);
+
+
+--
+-- Name: m3_assets fk_rails_f92f48e703; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.m3_assets
+    ADD CONSTRAINT fk_rails_f92f48e703 FOREIGN KEY (website_id) REFERENCES public.m3_websites(id);
+
+
+--
+-- Name: series_participations fk_rails_fb34e7583c; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_participations
+    ADD CONSTRAINT fk_rails_fb34e7583c FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- PostgreSQL database dump complete
