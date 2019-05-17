@@ -1454,6 +1454,31 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 1453	1933	2016-07-08_10ter_Floodlight-Pokal_Kemberg_-_Wettkampfergebnisse.pdf	la_female,la_male	2019-05-03 08:25:31.907782	2019-05-03 08:25:31.907782
 1454	1936	100m-hindernisbahn-frauen.pdf	hb_female	2019-05-11 19:09:11.078378	2019-05-11 19:09:11.078378
 1455	1936	100m-hindernisbahn-manner.pdf	hb_male	2019-05-11 19:09:11.082259	2019-05-11 19:09:11.082259
+1456	1942	4x100m-feuerwehrstafette-frauen-kreis.pdf	fs_female	2019-05-16 10:21:20.220816	2019-05-16 10:21:20.220816
+1457	1942	4x100m-feuerwehrstafette-frauen-stadt.pdf	fs_female	2019-05-16 10:21:20.223486	2019-05-16 10:21:20.223486
+1458	1942	4x100m-feuerwehrstafette-manner-kreis.pdf	fs_male	2019-05-16 10:21:20.225469	2019-05-16 10:21:20.225469
+1459	1942	4x100m-feuerwehrstafette-manner-stadt.pdf	fs_male	2019-05-16 10:21:20.227458	2019-05-16 10:21:20.227458
+1460	1942	5x80-meter-staffel-ak1-jungen.pdf		2019-05-16 10:21:20.229335	2019-05-16 10:21:20.229335
+1461	1942	5x80-meter-staffel-ak1-madchen.pdf		2019-05-16 10:21:20.231089	2019-05-16 10:21:20.231089
+1462	1942	5x80-meter-staffel-ak2-jungen.pdf		2019-05-16 10:21:20.232824	2019-05-16 10:21:20.232824
+1463	1942	5x80-meter-staffel-ak2-madchen.pdf		2019-05-16 10:21:20.234401	2019-05-16 10:21:20.234401
+1464	1942	100m-hindernisbahn-manner-kreis.pdf	hb_male	2019-05-16 10:21:20.236051	2019-05-16 10:21:20.236051
+1465	1942	100m-hindernisbahn-manner-stadt.pdf	hb_male	2019-05-16 10:21:20.237782	2019-05-16 10:21:20.237782
+1466	1942	gruppenstafette-ak1-jungen.pdf		2019-05-16 10:21:20.239508	2019-05-16 10:21:20.239508
+1467	1942	gruppenstafette-ak1-madchen.pdf		2019-05-16 10:21:20.241133	2019-05-16 10:21:20.241133
+1468	1942	gruppenstafette-ak2-jungen.pdf		2019-05-16 10:21:20.242765	2019-05-16 10:21:20.242765
+1469	1942	gruppenstafette-ak2-madchen.pdf		2019-05-16 10:21:20.244332	2019-05-16 10:21:20.244332
+1470	1942	gruppenstafette-frauen-kreis.pdf	gs_female	2019-05-16 10:21:20.245882	2019-05-16 10:21:20.245882
+1471	1942	gruppenstafette-frauen-stadt.pdf	gs_female	2019-05-16 10:21:20.247509	2019-05-16 10:21:20.247509
+1472	1942	gruppenstafette-manner-stadt.pdf		2019-05-16 10:21:20.24924	2019-05-16 10:21:20.24924
+1473	1942	loschangriff-ak1-jungen.pdf		2019-05-16 10:22:02.017917	2019-05-16 10:22:02.017917
+1474	1942	loschangriff-ak1-madchen.pdf		2019-05-16 10:22:02.021221	2019-05-16 10:22:02.021221
+1475	1942	loschangriff-ak2-jungen.pdf		2019-05-16 10:22:02.023443	2019-05-16 10:22:02.023443
+1476	1942	loschangriff-ak2-madchen.pdf		2019-05-16 10:22:02.025604	2019-05-16 10:22:02.025604
+1477	1942	loschangriff-bambinis.pdf		2019-05-16 10:22:02.027682	2019-05-16 10:22:02.027682
+1478	1942	loschangriff-manner-u40.pdf	la_male	2019-05-16 10:22:02.029728	2019-05-16 10:22:02.029728
+1479	1942	loschangriff-nass-frauen-stadt.pdf	la_female	2019-05-16 10:22:02.031781	2019-05-16 10:22:02.031781
+1480	1942	loschangriff-nass-manner-stadt.pdf	la_male	2019-05-16 10:22:02.033684	2019-05-16 10:22:02.033684
 \.
 
 
@@ -1461,4 +1486,4 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 -- Name: competition_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competition_files_id_seq', 1455, true);
+SELECT pg_catalog.setval('public.competition_files_id_seq', 1480, true);

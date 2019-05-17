@@ -2639,6 +2639,12 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 3141	8	1941	default	2019-05-14 11:41:27.876974	2019-05-14 11:41:27.876974
 3142	8	1941	Halbfinale	2019-05-14 11:41:46.728937	2019-05-14 11:41:46.728937
 3143	8	1941	Finale	2019-05-14 11:42:02.5124	2019-05-14 11:42:02.5124
+3144	14	1942	default	2019-05-16 10:02:28.336628	2019-05-16 10:02:28.336628
+3145	6	1942	default	2019-05-16 10:12:01.974367	2019-05-16 10:12:01.974367
+3146	2	1942	default	2019-05-16 10:12:57.183687	2019-05-16 10:12:57.183687
+3147	1	1942	Ü 40	2019-05-16 10:13:38.076779	2019-05-16 10:13:38.076779
+3148	1	1942	default	2019-05-16 10:14:51.749363	2019-05-16 10:14:51.749363
+3149	1	1942	Finale	2019-05-16 10:15:53.629527	2019-05-16 10:15:53.629527
 \.
 
 
@@ -2646,4 +2652,4 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3143, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3149, true);

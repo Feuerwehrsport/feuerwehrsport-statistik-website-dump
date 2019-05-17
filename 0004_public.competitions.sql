@@ -1936,6 +1936,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1939	1. Lauf Sachsen-Anhalt-Pokal	590	18	\N	2019-05-11	\N	2019-05-12 19:46:14.58272	2019-05-12 19:46:14.58272		0	0	0	0	0	0	0	0	12	6	0	f
 1940	1. Lauf vom Vogtland-Cup	509	10	\N	2019-05-11	\N	2019-05-14 07:07:27.036803	2019-05-14 07:07:27.036803		0	0	0	0	0	0	0	0	16	8	0	f
 1941	1. Klosterpokal	56	10	\N	2019-05-11	\N	2019-05-14 11:40:55.428315	2019-05-14 11:40:55.428315		0	0	0	0	0	0	0	0	26	10	0	f
+1942	Kreismeisterschaften Elbe Elster	60	6	\N	2019-05-11	\N	2019-05-16 09:57:12.857315	2019-05-16 10:23:14.41625	<p>Diese Ergebnisse umfassen die Stadtmeisterschaft Sonnenwalde und den Kreismeisterschaft Elbe Elster.</p>\r\n\r\n<p>Aufgrund des anhaltenden Regens konnten nicht alle Disziplinen durchgef&uuml;hrt werden.</p>\r\n	0	0	0	37	3	3	11	6	25	25	21	f
 \.
 
 
@@ -1943,11 +1944,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1941, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1942, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10829, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10852, true);
