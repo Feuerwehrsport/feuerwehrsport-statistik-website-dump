@@ -1479,6 +1479,7 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 1478	1942	loschangriff-manner-u40.pdf	la_male	2019-05-16 10:22:02.029728	2019-05-16 10:22:02.029728
 1479	1942	loschangriff-nass-frauen-stadt.pdf	la_female	2019-05-16 10:22:02.031781	2019-05-16 10:22:02.031781
 1480	1942	loschangriff-nass-manner-stadt.pdf	la_male	2019-05-16 10:22:02.033684	2019-05-16 10:22:02.033684
+1481	1943	Zerbst.pdf	la_male	2019-05-20 08:19:56.384679	2019-05-20 08:19:56.384679
 \.
 
 
@@ -1486,4 +1487,4 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 -- Name: competition_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competition_files_id_seq', 1480, true);
+SELECT pg_catalog.setval('public.competition_files_id_seq', 1481, true);
