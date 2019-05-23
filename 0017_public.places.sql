@@ -581,6 +581,7 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 589	Röbel/Müritz	53.3717824564	12.5997519493	2019-05-11 19:06:30.456337	2019-05-11 19:10:18.187493
 590	Magdeburg	52.1326450740	11.6249084473	2019-05-12 19:45:59.350517	2019-05-12 19:46:40.838532
 591	Zerbst	51.9996786330	12.1481323242	2019-05-20 08:14:54.081022	2019-05-20 08:19:31.478349
+592	Neustadt-Glewe	53.3792326154	11.5878295898	2019-05-22 15:44:45.283757	2019-05-22 15:46:59.355245
 \.
 
 
@@ -588,7 +589,7 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 -- Name: places_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.places_id_seq', 591, true);
+SELECT pg_catalog.setval('public.places_id_seq', 592, true);
 
 
 --

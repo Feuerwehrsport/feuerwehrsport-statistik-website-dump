@@ -1938,6 +1938,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1941	1. Klosterpokal	56	10	\N	2019-05-11	\N	2019-05-14 11:40:55.428315	2019-05-14 11:40:55.428315		0	0	0	0	0	0	0	0	26	10	0	f
 1942	Kreismeisterschaften Elbe Elster	60	6	\N	2019-05-11	\N	2019-05-16 09:57:12.857315	2019-05-16 10:23:14.41625	<p>Diese Ergebnisse umfassen die Stadtmeisterschaft Sonnenwalde und den Kreismeisterschaft Elbe Elster.</p>\r\n\r\n<p>Aufgrund des anhaltenden Regens konnten nicht alle Disziplinen durchgef&uuml;hrt werden.</p>\r\n	0	0	0	37	3	3	11	6	25	25	21	f
 1943	1. Airportpokal	591	10	\N	2019-05-18	\N	2019-05-20 08:15:22.594584	2019-05-20 08:15:22.594584		0	0	0	0	0	0	0	0	34	9	0	f
+1944		214	15	\N	2019-05-18	\N	2019-05-22 15:39:48.888235	2019-05-22 15:39:48.888235		0	0	0	0	0	0	0	0	10	10	0	f
+1945		592	13	\N	2019-05-18	\N	2019-05-22 15:44:57.080447	2019-05-22 15:44:57.080447		0	0	0	0	0	0	0	4	20	12	0	f
 \.
 
 
@@ -1945,11 +1947,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1943, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1945, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10891, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10907, true);

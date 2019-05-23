@@ -2647,6 +2647,8 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 3149	1	1942	Finale	2019-05-16 10:15:53.629527	2019-05-16 10:15:53.629527
 3150	4	1943	default	2019-05-20 08:16:17.02853	2019-05-20 08:16:17.02853
 3151	1	1943	default	2019-05-20 08:16:58.554602	2019-05-20 08:16:58.554602
+3152	1	1944	default	2019-05-22 15:40:07.641501	2019-05-22 15:40:07.641501
+3153	1	1945	default	2019-05-22 15:45:29.188056	2019-05-22 15:45:29.188056
 \.
 
 
@@ -2654,4 +2656,4 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3151, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3153, true);

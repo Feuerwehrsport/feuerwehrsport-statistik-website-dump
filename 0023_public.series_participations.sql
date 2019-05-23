@@ -12890,6 +12890,17 @@ COPY public.series_participations (id, assessment_id, cup_id, type, team_id, tea
 36874	835	790	Series::TeamParticipation	23	1	\N	2371	10	6	2019-05-14 19:21:02.310313	2019-05-14 19:21:02.310313
 36875	835	790	Series::TeamParticipation	426	1	\N	2627	9	7	2019-05-14 19:21:02.31253	2019-05-14 19:21:02.31253
 36876	835	790	Series::TeamParticipation	3466	1	\N	3235	8	8	2019-05-14 19:21:02.314549	2019-05-14 19:21:02.314549
+36932	828	796	Series::TeamParticipation	159	1	\N	3076	15	1	2019-05-22 20:28:37.693106	2019-05-22 20:28:37.693106
+36933	828	796	Series::TeamParticipation	632	1	\N	4792	14	2	2019-05-22 20:28:37.695753	2019-05-22 20:28:37.695753
+36934	829	796	Series::TeamParticipation	101	1	\N	2338	15	1	2019-05-22 20:28:37.713652	2019-05-22 20:28:37.713652
+36935	829	796	Series::TeamParticipation	515	1	\N	2357	14	2	2019-05-22 20:28:37.716327	2019-05-22 20:28:37.716327
+36936	829	796	Series::TeamParticipation	499	1	\N	2431	13	3	2019-05-22 20:28:37.719094	2019-05-22 20:28:37.719094
+36937	829	796	Series::TeamParticipation	579	1	\N	2461	12	4	2019-05-22 20:28:37.721884	2019-05-22 20:28:37.721884
+36938	829	796	Series::TeamParticipation	491	1	\N	2497	11	5	2019-05-22 20:28:37.724657	2019-05-22 20:28:37.724657
+36939	829	796	Series::TeamParticipation	2899	1	\N	3143	10	6	2019-05-22 20:28:37.727443	2019-05-22 20:28:37.727443
+36940	829	796	Series::TeamParticipation	586	1	\N	5056	9	7	2019-05-22 20:28:37.730248	2019-05-22 20:28:37.730248
+36941	829	796	Series::TeamParticipation	160	1	\N	99999999	7	9	2019-05-22 20:28:37.733011	2019-05-22 20:28:46.171093
+36942	829	796	Series::TeamParticipation	459	1	\N	99999999	7	9	2019-05-22 20:28:37.735828	2019-05-22 20:28:37.735828
 \.
 
 
@@ -12897,4 +12908,4 @@ COPY public.series_participations (id, assessment_id, cup_id, type, team_id, tea
 -- Name: series_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_participations_id_seq', 36876, true);
+SELECT pg_catalog.setval('public.series_participations_id_seq', 36942, true);

@@ -2617,6 +2617,7 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2674	Ergebnisse	1937	Competition	http://www.loeschangriff.info/files/Vehra.pdf	2019-05-12 19:35:23.901158	2019-05-12 19:35:23.901158
 2675	Ergebnisse	1938	Competition	http://www.loeschangriff.info/files/Neuendorf.pdf	2019-05-12 19:40:54.731731	2019-05-12 19:40:54.731731
 2676	Ergebnisse	1939	Competition	http://www.loeschangriff.info/files/Olvenstedt.pdf	2019-05-12 19:46:27.17494	2019-05-12 19:46:27.17494
+2677	Ergebnisse	1945	Competition	https://mv-cup.de/?page_id=503&fbclid=IwAR1oM41hLY8hr19bl7ObvrWCRuTGbDwcYhqkZdqx_c8-1v298pxh65MXXII	2019-05-22 15:45:10.686211	2019-05-22 15:45:10.686211
 \.
 
 
@@ -2624,7 +2625,7 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2676, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2677, true);
 
 
 --

@@ -251,6 +251,7 @@ COPY public.series_cups (id, round_id, competition_id, created_at, updated_at) F
 785	66	1934	2019-05-13 07:41:02.935327	2019-05-13 07:41:02.935327
 787	67	1929	2019-05-13 07:47:24.142973	2019-05-13 07:47:24.142973
 790	68	1938	2019-05-14 19:21:02.255045	2019-05-14 19:21:02.255045
+796	67	1945	2019-05-22 20:28:37.682911	2019-05-22 20:28:37.682911
 \.
 
 
@@ -258,4 +259,4 @@ COPY public.series_cups (id, round_id, competition_id, created_at, updated_at) F
 -- Name: series_cups_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_cups_id_seq', 790, true);
+SELECT pg_catalog.setval('public.series_cups_id_seq', 796, true);
