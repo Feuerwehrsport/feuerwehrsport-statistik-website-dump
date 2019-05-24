@@ -1954,4 +1954,4 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 1945, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10907, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10911, true);
