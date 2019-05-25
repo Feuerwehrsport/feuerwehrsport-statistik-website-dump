@@ -239,6 +239,10 @@ COPY public.entity_merges (id, source_id, source_type, target_id, target_type, c
 237	883	Person	296	Person	2019-01-30 19:01:40.136425	2019-01-30 19:01:40.136425
 238	3744	Team	3069	Team	2019-05-05 19:04:28.555356	2019-05-05 19:04:28.555356
 239	3752	Team	1214	Team	2019-05-20 08:17:17.618108	2019-05-20 08:17:17.618108
+240	3755	Team	3461	Team	2019-05-24 17:54:01.796707	2019-05-24 17:54:01.796707
+241	3754	Team	2204	Team	2019-05-24 17:54:06.23633	2019-05-24 17:54:06.23633
+242	3756	Team	459	Team	2019-05-24 17:54:35.76421	2019-05-24 17:54:35.76421
+243	3757	Team	3321	Team	2019-05-24 17:55:53.313715	2019-05-24 17:55:53.313715
 \.
 
 
@@ -246,4 +250,4 @@ COPY public.entity_merges (id, source_id, source_type, target_id, target_type, c
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 239, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 243, true);

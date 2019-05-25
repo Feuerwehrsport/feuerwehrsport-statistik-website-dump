@@ -1588,7 +1588,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1589	Quarksteinpokal	488	10	\N	2018-05-27	\N	2018-06-08 06:38:33.515251	2018-06-08 06:38:33.515251		0	0	0	0	0	0	0	2	13	15	0	f
 1590	9. Autopointpokal	489	10	\N	2018-05-12	\N	2018-06-08 06:44:55.836912	2018-06-08 06:44:55.836912		0	0	0	0	0	0	0	0	16	8	0	f
 1591	26. Techentiner Feuerwehrtreffen	386	13	\N	2018-06-09	\N	2018-06-10 14:16:10.084921	2018-06-12 09:07:32.185394		1	24	0	0	0	0	0	8	64	37	13	f
-1592		193	13	\N	2018-05-05	\N	2018-06-10 18:48:55.140356	2018-06-10 18:48:55.140356		0	0	0	0	0	0	0	8	26	17	0	f
+1592	MV-Cup & 8. Boizepokal	193	13	\N	2018-05-05	\N	2018-06-10 18:48:55.140356	2019-05-24 09:48:46.659666		0	0	0	0	0	0	0	16	58	22	0	f
 1593		51	13	\N	2018-05-26	\N	2018-06-10 18:56:25.934382	2018-06-10 18:56:25.934382		0	0	0	0	0	0	0	4	24	14	0	f
 1594	3. Lauf TGL-Cup	199	10	\N	2018-06-09	\N	2018-06-11 13:05:40.049907	2018-06-11 13:05:40.049907		0	0	0	0	0	0	0	4	62	20	0	f
 1595	22. LEAG-Pokallauf	98	10	\N	2018-06-08	\N	2018-06-12 16:30:38.35864	2018-06-12 16:30:38.35864		0	0	0	0	0	0	0	19	53	58	0	f
@@ -1940,6 +1940,10 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1943	1. Airportpokal	591	10	\N	2019-05-18	\N	2019-05-20 08:15:22.594584	2019-05-20 08:15:22.594584		0	0	0	0	0	0	0	0	34	9	0	f
 1944		214	15	\N	2019-05-18	\N	2019-05-22 15:39:48.888235	2019-05-22 15:39:48.888235		0	0	0	0	0	0	0	0	10	10	0	f
 1945		592	13	\N	2019-05-18	\N	2019-05-22 15:44:57.080447	2019-05-22 15:44:57.080447		0	0	0	0	0	0	0	4	20	12	0	f
+1946	1. Lauf 9. Boizepokal	193	10	\N	2019-05-11	\N	2019-05-24 09:40:06.834413	2019-05-24 09:40:06.834413		0	0	0	0	0	0	0	2	20	11	0	f
+1947	2. Lauf 8. Boizepokal	193	10	\N	2018-10-06	\N	2019-05-24 09:43:35.213448	2019-05-24 09:43:35.213448		0	0	0	0	0	0	0	4	30	17	0	f
+1948	2. Lauf 7. Boizepokal	193	10	\N	2017-10-07	\N	2019-05-24 09:51:30.08761	2019-05-24 09:51:30.08761		0	0	0	0	0	0	0	6	26	16	0	f
+1949	2. Lauf 6. Boizepokal	193	10	\N	2016-10-01	\N	2019-05-24 09:53:42.639183	2019-05-24 09:53:42.639183		0	0	0	0	0	0	0	4	26	15	0	f
 \.
 
 
@@ -1947,11 +1951,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1945, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1949, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10911, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10949, true);
