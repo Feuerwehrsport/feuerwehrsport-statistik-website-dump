@@ -1944,6 +1944,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1947	2. Lauf 8. Boizepokal	193	10	\N	2018-10-06	\N	2019-05-24 09:43:35.213448	2019-05-24 09:43:35.213448		0	0	0	0	0	0	0	4	30	17	0	f
 1948	2. Lauf 7. Boizepokal	193	10	\N	2017-10-07	\N	2019-05-24 09:51:30.08761	2019-05-24 09:51:30.08761		0	0	0	0	0	0	0	6	26	16	0	f
 1949	2. Lauf 6. Boizepokal	193	10	\N	2016-10-01	\N	2019-05-24 09:53:42.639183	2019-05-24 09:53:42.639183		0	0	0	0	0	0	0	4	26	15	0	f
+1950		33	18	\N	2019-05-25	\N	2019-05-27 08:12:50.470213	2019-05-27 08:12:50.470213		0	0	8	20	0	0	0	6	22	16	14	f
+1951	12. Spreewald-Cup	71	10	\N	2019-05-25	\N	2019-05-27 09:46:08.931046	2019-05-27 09:46:08.931046		0	0	0	0	0	0	0	16	26	21	0	f
 \.
 
 
@@ -1951,11 +1953,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1949, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1951, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10950, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 10966, true);

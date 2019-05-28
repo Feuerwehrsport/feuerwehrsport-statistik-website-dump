@@ -2655,6 +2655,8 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 3157	4	1592	Boizepokal - TGL	2019-05-24 09:50:25.503235	2019-05-24 09:50:25.503235
 3158	1	1948	default	2019-05-24 09:52:02.839873	2019-05-24 09:52:02.839873
 3159	1	1949	default	2019-05-24 09:54:13.920682	2019-05-24 09:54:13.920682
+3160	1	1951	default	2019-05-27 09:47:22.785345	2019-05-27 09:47:22.785345
+3161	1	1950	default	2019-05-27 10:51:02.950756	2019-05-27 10:51:02.950756
 \.
 
 
@@ -2662,4 +2664,4 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3159, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3161, true);
