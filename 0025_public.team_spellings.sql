@@ -254,6 +254,7 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 247	3666	FF Putpus	Putpus	2018-11-12 20:04:36.278505	2018-11-12 20:04:36.278505
 248	1214	FF Garitz/Bornum	Garitz/Bornum	2019-05-20 08:17:17.593719	2019-05-20 08:17:17.593719
 249	3321	Team Amt Schönberger-Land	Amt Schönberger-Land	2019-05-24 17:55:53.306394	2019-05-24 17:55:53.306394
+250	2537	FF Magdeburg-Ovenstedt	Magdeburg-Ovenstedt	2019-05-28 18:44:51.611291	2019-05-28 18:44:51.611291
 \.
 
 
@@ -261,4 +262,4 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 -- Name: team_spellings_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.team_spellings_id_seq', 249, true);
+SELECT pg_catalog.setval('public.team_spellings_id_seq', 250, true);
