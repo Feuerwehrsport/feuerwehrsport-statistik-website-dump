@@ -172,6 +172,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 167	2019-05-11	Stadtmeisterschaften	Stadtmeisterschaften der Stadt Sonnewalde am 11.und 12.05.2019	14	la,fs,gs,hl,hb,hw	2019-04-25 07:45:13.768498	2019-04-25 07:45:13.768498	85	AdminUser	Doki/Breitenau
 168	2019-06-01	Nachtpokallauf	13. Quellentalpokallauf unter Flutlicht	10	la	2019-04-30 02:40:04.6466	2019-04-30 02:40:04.6466	35	AdminUser	Sitzenroda
 169	2019-05-11	1. MV-Hinderniscup und Amtsausscheid	Im Rahmen des diesjährigen Amtsausscheides in Röbel am 11. Mai wird auch der erste Lauf des MV-Hinderniscups durchgeführt.\n\nDer Wettkampf findet auf dem Sportplatz in Röbel statt. Vormittags wird der Löschangriff nass für die Amtsmannschaften durchgeführt und direkt im Anschluss die Hindernisbahn gestartet. Die Wettkämpfer sollten sich also kurz vor dem Mittag bereit halten. Genauere Daten kommen dann noch.\n\nFalls ihr noch Lust habt, dann meldet euch doch bitte an, damit genügend Urkunden vorhanden sind.\n\nBeim MV-Hinderniscup hat jeder Sportler 2 Versuche auf der 100-Meter-Hindernisbahn. In die Jahreswertung gehen die drei besten Wettkämpfe jedes Sportlers ein.	15	la,hb,hw	2019-05-01 18:19:58.623871	2019-05-01 18:19:58.623871	1	AdminUser	Röbel/Müritz
+170	2019-06-15	Bahneröffnung mit MV-Hindernis- und Steigercup	Am 15.06.2019 findet in Techentin (Ludwigslust) die Übergabe der neuen Tartan-Bahn statt. Die Übergabe ist für 11 Uhr geplant. Im Anschluss findet ein MV-Cup mit Hindernisbahn und Hakenleitersteigen statt.\n\nBitte tragt euch ein, damit Bodo entsprechend Urkunden und Pokale besorgen kann. Weitere Infos folgen in der Woche vor der Veranstaltung.\n\nhttps://verwaltung.feuerwehrsport-teammv.de/voting/polls/XQj7LLxftTHdRNNUo4PgPykM\n\nDer MV-Steigercup wurde 2009 zum ersten Mal vom Team MV ausgeschrieben, um die Feuerwehrleute in unserem Bundesland den Sport näher an die Wehr zu bringen. Vorher gab es nur Wettkämpfe in anderen Bundesländern oder beim D-Cup.\n\nDie Wettkämpfe werden jedes Jahr an verschiedenen Orten in MV ausgetragen. Jeder Cup geht in eine Gesamtwertung ein. Beim letzten Wettkampf im Jahr wird dann der Gesamtsieger gekürt.\n\nAusdrücklich sind alle Feuerwehrsportler als Starter willkommen. Auch Starter aus anderen Bundesländern können gerne teilnehmen.	13	la,hl,hb,hw	2019-05-29 09:02:38.241414	2019-05-29 09:02:38.241414	1	AdminUser	Techentin
 \.
 
 
@@ -179,4 +180,4 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 -- Name: appointments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.appointments_id_seq', 169, true);
+SELECT pg_catalog.setval('public.appointments_id_seq', 170, true);
