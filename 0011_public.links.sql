@@ -2620,6 +2620,9 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2677	Ergebnisse	1945	Competition	https://mv-cup.de/?page_id=503&fbclid=IwAR1oM41hLY8hr19bl7ObvrWCRuTGbDwcYhqkZdqx_c8-1v298pxh65MXXII	2019-05-22 15:45:10.686211	2019-05-22 15:45:10.686211
 2678	Weitere Informationen	125	Appointment	https://feuerwehrsport-teammv.de/2019/05/ausschreibung-fuer-d-cup-2019-im-ostseebad-nienhagen/	2019-05-23 13:02:56.259652	2019-05-23 13:02:56.259652
 2679	Anmeldung	170	Appointment	https://verwaltung.feuerwehrsport-teammv.de/voting/polls/XQj7LLxftTHdRNNUo4PgPykM	2019-05-29 09:03:09.8373	2019-05-29 09:03:09.8373
+2680	Ergebnisse	1954	Competition	http://www.loeschangriff.info/files/Gehren.pdf	2019-06-02 18:20:04.200006	2019-06-02 18:20:04.200006
+2681	Ergebnisse	1955	Competition	http://www.loeschangriff.info/files/Gollma.pdf	2019-06-02 18:26:16.488516	2019-06-02 18:26:16.488516
+2682	Ergebnisse	1956	Competition	http://www.loeschangriff.info/files/Marolterode.pdf	2019-06-02 18:33:55.641754	2019-06-02 18:33:55.641754
 \.
 
 
@@ -2627,7 +2630,7 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2679, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2682, true);
 
 
 --
