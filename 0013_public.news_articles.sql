@@ -54,4 +54,4 @@ SELECT pg_catalog.setval('public.news_articles_id_seq', 38, true);
 -- Name: pdf2_table_entries_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.pdf2_table_entries_id_seq', 7, true);
+SELECT pg_catalog.setval('public.pdf2_table_entries_id_seq', 8, true);

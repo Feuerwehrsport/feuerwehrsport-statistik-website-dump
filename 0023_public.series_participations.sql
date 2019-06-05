@@ -12908,4 +12908,4 @@ COPY public.series_participations (id, assessment_id, cup_id, type, team_id, tea
 -- Name: series_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_participations_id_seq', 36942, true);
+SELECT pg_catalog.setval('public.series_participations_id_seq', 37024, true);

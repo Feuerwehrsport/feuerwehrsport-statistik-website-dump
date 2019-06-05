@@ -259,4 +259,4 @@ COPY public.series_cups (id, round_id, competition_id, created_at, updated_at) F
 -- Name: series_cups_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_cups_id_seq', 796, true);
+SELECT pg_catalog.setval('public.series_cups_id_seq', 801, true);
