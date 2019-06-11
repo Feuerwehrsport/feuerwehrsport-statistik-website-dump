@@ -2664,6 +2664,7 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 3166	1	1956	default	2019-06-02 18:34:37.682491	2019-06-02 18:34:37.682491
 3167	1	1956	Lauf um en Wanderpokal	2019-06-02 18:36:15.597551	2019-06-02 18:36:15.597551
 3168	1	1956	Lauf um den Wanderpokal	2019-06-02 18:36:31.902129	2019-06-02 18:36:31.902129
+3169	1	1957	default	2019-06-10 09:27:45.602388	2019-06-10 09:27:45.602388
 \.
 
 
@@ -2671,4 +2672,4 @@ COPY public.group_score_categories (id, group_score_type_id, competition_id, nam
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3168, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3169, true);

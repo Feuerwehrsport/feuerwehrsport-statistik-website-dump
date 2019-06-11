@@ -1951,6 +1951,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1954	13, Waldstadionpokallauf und 2. Lauf BB-Cup	65	16	\N	2019-06-01	\N	2019-06-02 18:19:47.542734	2019-06-02 18:19:47.542734		0	0	0	0	0	0	0	14	22	18	0	f
 1955	23. Parkpokallauf & 3. Lauf SA-Pokal	32	18	\N	2019-06-01	\N	2019-06-02 18:26:01.08417	2019-06-02 18:26:01.08417		0	0	0	0	0	0	0	4	18	10	0	f
 1956	1. Lauf ThFC	22	26	\N	2019-06-01	\N	2019-06-02 18:33:33.523063	2019-06-02 18:33:33.523063		16	14	0	0	0	0	0	6	34	13	15	f
+1957	6. Radinkendorfer Pokallauf	183	10	\N	2019-06-08	\N	2019-06-10 09:25:29.445122	2019-06-10 09:25:29.445122		0	0	0	0	0	0	0	8	26	17	0	f
 \.
 
 
@@ -1958,11 +1959,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1956, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1957, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 11055, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 11065, true);
