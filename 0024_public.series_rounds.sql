@@ -86,4 +86,4 @@ SELECT pg_catalog.setval('public.series_rounds_id_seq', 68, true);
 -- Name: tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.tags_id_seq', 727, true);
+SELECT pg_catalog.setval('public.tags_id_seq', 728, true);
