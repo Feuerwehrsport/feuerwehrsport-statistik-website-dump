@@ -743,6 +743,42 @@ ALTER SEQUENCE public.group_scores_id_seq OWNED BY public.group_scores.id;
 
 
 --
+-- Name: import_request_files; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.import_request_files (
+    id integer NOT NULL,
+    import_request_id integer NOT NULL,
+    file character varying NOT NULL,
+    created_at timestamp without time zone NOT NULL,
+    updated_at timestamp without time zone NOT NULL
+);
+
+
+ALTER TABLE public.import_request_files OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: import_request_files_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.import_request_files_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.import_request_files_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: import_request_files_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.import_request_files_id_seq OWNED BY public.import_request_files.id;
+
+
+--
 -- Name: import_requests; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -759,7 +795,8 @@ CREATE TABLE public.import_requests (
     edited_at timestamp without time zone,
     finished_at timestamp without time zone,
     created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
+    updated_at timestamp without time zone NOT NULL,
+    import_data json
 );
 
 
@@ -2052,6 +2089,13 @@ ALTER TABLE ONLY public.group_scores ALTER COLUMN id SET DEFAULT nextval('public
 
 
 --
+-- Name: import_request_files id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.import_request_files ALTER COLUMN id SET DEFAULT nextval('public.import_request_files_id_seq'::regclass);
+
+
+--
 -- Name: import_requests id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -2258,4 +2302,4 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 90, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 379, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 380, true);

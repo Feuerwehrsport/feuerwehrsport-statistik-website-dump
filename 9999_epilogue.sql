@@ -121,6 +121,14 @@ ALTER TABLE ONLY public.group_scores
 
 
 --
+-- Name: import_request_files import_request_files_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.import_request_files
+    ADD CONSTRAINT import_request_files_pkey PRIMARY KEY (id);
+
+
+--
 -- Name: import_requests import_requests_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -482,6 +490,13 @@ CREATE INDEX index_group_scores_on_group_score_category_id ON public.group_score
 --
 
 CREATE INDEX index_group_scores_on_team_id ON public.group_scores USING btree (team_id);
+
+
+--
+-- Name: index_import_request_files_on_import_request_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_import_request_files_on_import_request_id ON public.import_request_files USING btree (import_request_id);
 
 
 --
@@ -1041,6 +1056,14 @@ ALTER TABLE ONLY public.series_cups
 
 ALTER TABLE ONLY public.bla_badges
     ADD CONSTRAINT fk_rails_f2238e0ce7 FOREIGN KEY (hl_score_id) REFERENCES public.scores(id);
+
+
+--
+-- Name: import_request_files fk_rails_f3bbce993e; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.import_request_files
+    ADD CONSTRAINT fk_rails_f3bbce993e FOREIGN KEY (import_request_id) REFERENCES public.import_requests(id);
 
 
 --

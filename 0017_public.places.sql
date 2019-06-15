@@ -596,7 +596,7 @@ SELECT pg_catalog.setval('public.places_id_seq', 592, true);
 -- Name: registrations_assessment_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 6254, true);
+SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 6255, true);
 
 
 --
