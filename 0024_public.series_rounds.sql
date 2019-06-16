@@ -72,6 +72,7 @@ COPY public.series_rounds (id, name, year, aggregate_type, created_at, updated_a
 66	TGL-Cup	2019	TglCup	2019-05-13 07:31:15.839788	2019-05-13 07:31:23.561653	f	6	tgl-cup
 67	MV-Cup	2019	MVCup	2019-05-13 07:46:27.880278	2019-05-13 07:46:27.880278	f	4	mv-cup
 68	BB-Cup	2019	BrandenburgCup	2019-05-14 19:19:59.419263	2019-05-14 19:19:59.419263	f	4	bb-cup
+69	MV-Steigercup	2019	MVSteigerCup	2019-06-15 16:19:29.431946	2019-06-15 16:19:29.431946	t	4	mv-steigercup
 \.
 
 
@@ -79,7 +80,7 @@ COPY public.series_rounds (id, name, year, aggregate_type, created_at, updated_a
 -- Name: series_rounds_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_rounds_id_seq', 68, true);
+SELECT pg_catalog.setval('public.series_rounds_id_seq', 69, true);
 
 
 --

@@ -1587,7 +1587,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1588		16	20	4	2017-09-16	\N	2018-06-07 08:13:18.066688	2018-06-07 08:14:35.141521		5	19	0	0	0	0	0	0	0	7	24	f
 1589	Quarksteinpokal	488	10	\N	2018-05-27	\N	2018-06-08 06:38:33.515251	2018-06-08 06:38:33.515251		0	0	0	0	0	0	0	2	13	15	0	f
 1590	9. Autopointpokal	489	10	\N	2018-05-12	\N	2018-06-08 06:44:55.836912	2018-06-08 06:44:55.836912		0	0	0	0	0	0	0	0	16	8	0	f
-1591	26. Techentiner Feuerwehrtreffen	386	13	\N	2018-06-09	\N	2018-06-10 14:16:10.084921	2018-06-12 09:07:32.185394		1	24	0	0	0	0	0	8	64	37	13	f
+1591	26. Techentiner Feuerwehrtreffen	386	13	\N	2018-06-09	\N	2018-06-10 14:16:10.084921	2018-06-12 09:07:32.185394		1	24	0	0	0	0	0	8	64	38	13	f
 1592	MV-Cup & 8. Boizepokal	193	13	\N	2018-05-05	\N	2018-06-10 18:48:55.140356	2019-05-24 09:48:46.659666		0	0	0	0	0	0	0	16	58	22	0	f
 1593		51	13	\N	2018-05-26	\N	2018-06-10 18:56:25.934382	2018-06-10 18:56:25.934382		0	0	0	0	0	0	0	4	24	14	0	f
 1594	3. Lauf TGL-Cup	199	10	\N	2018-06-09	\N	2018-06-11 13:05:40.049907	2018-06-11 13:05:40.049907		0	0	0	0	0	0	0	4	62	20	0	f
@@ -1952,6 +1952,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1955	23. Parkpokallauf & 3. Lauf SA-Pokal	32	18	\N	2019-06-01	\N	2019-06-02 18:26:01.08417	2019-06-02 18:26:01.08417		0	0	0	0	0	0	0	4	18	10	0	f
 1956	1. Lauf ThFC	22	26	\N	2019-06-01	\N	2019-06-02 18:33:33.523063	2019-06-02 18:33:33.523063		16	14	0	0	0	0	0	6	34	13	15	f
 1957	6. Radinkendorfer Pokallauf	183	10	\N	2019-06-08	\N	2019-06-10 09:25:29.445122	2019-06-10 09:25:29.445122		0	0	0	0	0	0	0	8	26	17	0	f
+1958	27. Techentiner Feuerwehrtreffen	386	13	\N	2019-06-15	\N	2019-06-15 14:27:46.167562	2019-06-15 14:27:46.167562		6	24	6	22	0	0	0	0	0	12	16	f
+1959	35. Planepokal	66	16	\N	2019-06-15	\N	2019-06-15 19:09:40.499247	2019-06-15 19:09:40.499247		0	0	0	0	0	0	0	16	32	24	0	f
 \.
 
 
@@ -1959,11 +1961,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1957, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1959, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 11082, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 11135, true);

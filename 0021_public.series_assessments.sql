@@ -262,6 +262,8 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 829	67	la		Series::TeamAssessment	1	2019-05-13 07:47:24.16733	2019-05-13 07:47:24.16733
 834	68	la		Series::TeamAssessment	0	2019-05-14 19:21:02.269554	2019-05-14 19:21:02.269554
 835	68	la		Series::TeamAssessment	1	2019-05-14 19:21:02.297921	2019-05-14 19:21:02.297921
+838	69	hl		Series::PersonAssessment	0	2019-06-15 16:19:39.085599	2019-06-15 16:19:39.085599
+839	69	hl		Series::PersonAssessment	1	2019-06-15 16:19:39.096248	2019-06-15 16:19:39.096248
 \.
 
 
@@ -269,4 +271,4 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 -- Name: series_assessments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_assessments_id_seq', 835, true);
+SELECT pg_catalog.setval('public.series_assessments_id_seq', 839, true);
