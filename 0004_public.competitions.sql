@@ -1662,7 +1662,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1665	Pokal des Bürgermeisters der Gemeinde Göda	394	10	\N	2018-06-16	\N	2018-09-03 20:01:26.062774	2018-09-03 20:01:26.062774		0	0	0	0	0	0	0	0	9	7	0	f
 1666		348	26	\N	2018-08-11	\N	2018-09-03 20:54:43.222651	2018-09-03 20:54:43.222651		0	0	0	0	0	0	0	4	15	16	0	f
 1667	Gemeindeausscheid der FF Märkische Heide	454	31	\N	2018-06-23	\N	2018-09-03 21:24:56.577207	2018-09-03 21:24:56.577207		0	0	0	0	0	0	0	5	12	17	0	f
-1668		386	6	\N	2018-09-06	\N	2018-09-07 13:16:34.489715	2018-09-07 13:16:34.489715		0	18	0	0	0	0	0	0	0	0	9	f
+1668		386	6	\N	2018-09-06	\N	2018-09-07 13:16:34.489715	2018-09-07 13:16:34.489715		0	18	0	0	0	0	0	0	0	3	9	f
 1669	17. Budissapokal und 2. Kreispokal 2018	179	10	\N	2018-08-26	\N	2018-09-07 13:30:26.661922	2018-09-07 13:30:26.661922		0	0	0	0	0	0	0	1	8	9	0	f
 1670	Pokallauf Hochkirch und 3. Kreispokal 2018	393	10	\N	2018-09-01	\N	2018-09-07 13:38:03.220946	2018-09-07 13:38:03.220946		0	0	3	7	0	0	0	1	7	10	10	f
 1671		1	1	2	2018-09-08	\N	2018-09-09 14:51:28.591139	2018-09-09 15:02:17.406671		76	80	80	76	5	0	0	10	10	18	86	t
@@ -1954,6 +1954,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1957	6. Radinkendorfer Pokallauf	183	10	\N	2019-06-08	\N	2019-06-10 09:25:29.445122	2019-06-10 09:25:29.445122		0	0	0	0	0	0	0	8	26	17	0	f
 1958	27. Techentiner Feuerwehrtreffen	386	13	\N	2019-06-15	\N	2019-06-15 14:27:46.167562	2019-06-15 14:27:46.167562		6	24	6	22	0	0	0	0	0	12	16	f
 1959	35. Planepokal	66	16	\N	2019-06-15	\N	2019-06-15 19:09:40.499247	2019-06-15 19:09:40.499247		0	0	0	0	0	0	0	16	32	24	0	f
+1960	17. Pokallauf	285	18	\N	2019-06-15	\N	2019-06-16 08:04:10.472235	2019-06-16 08:04:10.472235		0	0	6	20	0	0	0	2	26	14	13	f
 \.
 
 
@@ -1961,11 +1962,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 1959, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 1960, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 11135, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 11161, true);
