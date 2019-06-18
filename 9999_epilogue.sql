@@ -25,6 +25,14 @@ ALTER TABLE ONLY public.appointments
 
 
 --
+-- Name: ar_internal_metadata ar_internal_metadata_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.ar_internal_metadata
+    ADD CONSTRAINT ar_internal_metadata_pkey PRIMARY KEY (key);
+
+
+--
 -- Name: bla_badges bla_badges_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 

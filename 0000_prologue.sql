@@ -166,6 +166,20 @@ ALTER SEQUENCE public.appointments_id_seq OWNED BY public.appointments.id;
 
 
 --
+-- Name: ar_internal_metadata; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.ar_internal_metadata (
+    key character varying NOT NULL,
+    value character varying,
+    created_at timestamp without time zone NOT NULL,
+    updated_at timestamp without time zone NOT NULL
+);
+
+
+ALTER TABLE public.ar_internal_metadata OWNER TO "feuerwehrsport-statistik";
+
+--
 -- Name: bla_badges; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -751,7 +765,8 @@ CREATE TABLE public.import_request_files (
     import_request_id integer NOT NULL,
     file character varying NOT NULL,
     created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
+    updated_at timestamp without time zone NOT NULL,
+    transfered boolean DEFAULT false NOT NULL
 );
 
 
@@ -2302,4 +2317,4 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 90, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 381, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 382, true);
