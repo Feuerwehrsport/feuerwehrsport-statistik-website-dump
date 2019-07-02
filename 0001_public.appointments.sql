@@ -175,6 +175,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 170	2019-06-15	Bahneröffnung mit MV-Hindernis- und Steigercup	Am 15.06.2019 findet in Techentin (Ludwigslust) die Übergabe der neuen Tartan-Bahn statt. Die Übergabe ist für 11 Uhr geplant. Im Anschluss findet ein MV-Cup mit Hindernisbahn und Hakenleitersteigen statt.\n\nBitte tragt euch ein, damit Bodo entsprechend Urkunden und Pokale besorgen kann. Weitere Infos folgen in der Woche vor der Veranstaltung.\n\nhttps://verwaltung.feuerwehrsport-teammv.de/voting/polls/XQj7LLxftTHdRNNUo4PgPykM\n\nDer MV-Steigercup wurde 2009 zum ersten Mal vom Team MV ausgeschrieben, um die Feuerwehrleute in unserem Bundesland den Sport näher an die Wehr zu bringen. Vorher gab es nur Wettkämpfe in anderen Bundesländern oder beim D-Cup.\n\nDie Wettkämpfe werden jedes Jahr an verschiedenen Orten in MV ausgetragen. Jeder Cup geht in eine Gesamtwertung ein. Beim letzten Wettkampf im Jahr wird dann der Gesamtsieger gekürt.\n\nAusdrücklich sind alle Feuerwehrsportler als Starter willkommen. Auch Starter aus anderen Bundesländern können gerne teilnehmen.	13	la,hl,hb,hw	2019-05-29 09:02:38.241414	2019-05-29 09:02:38.241414	1	AdminUser	Techentin
 171	2019-06-22	3. MV-Hinderniscup	\n\nHallo Sportler,\n\nam Samstag, den 22.06.2019 feiert die FF Schwarz ihr 85 jähriges Bestehen. Zu dem Anlass wird im Dorf ein Lauf auf der 100-Meter-Hindernisbahn durchgeführt. Der Lauf geht in die Jahreswertung des MV-Hinderniscups ein.\n\nDer Start ist für 14:30 Uhr geplant. Wir treffen uns also um 14 Uhr in Sportsachen auf dem Platz und machen uns gemeinsam warm. Die Siegerehrung ist direkt nach Beendigung des Wettkampfs geplant.\n\nFürs leibliche Wohl ist gesorgt und der See sollte dann auch schon temperaturtechnisch bereit zum Baden sein.\nBitte meldet euch an, damit für Urkunden gesorgt werden kann.\n	13	hb	2019-06-20 11:48:00.080819	2019-06-20 11:48:00.080819	1	AdminUser	Schwarz
 172	2019-07-20	Hansepokal	1. Hansepokal im Löschangriff nass\nMänner/Frauen/Jugend\n\nhttps://feuerwehr-stendal.de/index.php/sdlpokal	10	la	2019-06-24 15:34:55.528625	2019-06-24 15:34:55.528625	385	APIUser	Stendal
+173	2019-08-24	Schwarzbiercup	DIN Lauf neue TS (Pumpe wird gestellt)\nOffener Lauf alte TS (Pumpe wird nicht gestellt)\nEs können Männer und Frauenmannschaften starten. 	10	la	2019-07-01 13:03:59.157922	2019-07-01 13:05:13.1016	394	APIUser	Gera
 \.
 
 
@@ -182,4 +183,4 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 -- Name: appointments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.appointments_id_seq', 172, true);
+SELECT pg_catalog.setval('public.appointments_id_seq', 173, true);
