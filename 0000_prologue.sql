@@ -2310,7 +2310,7 @@ ALTER TABLE ONLY public.teams ALTER COLUMN id SET DEFAULT nextval('public.teams_
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 95, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 97, true);
 
 
 --
