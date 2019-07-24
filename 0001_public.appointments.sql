@@ -178,10 +178,3 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 173	2019-08-24	Schwarzbiercup	DIN Lauf neue TS (Pumpe wird gestellt)\nOffener Lauf alte TS (Pumpe wird nicht gestellt)\nEs können Männer und Frauenmannschaften starten. 	10	la	2019-07-01 13:03:59.157922	2019-07-01 13:05:13.1016	394	APIUser	Gera
 174	2019-08-10	8. Deutschlandmasters	Löschangriff ohne technisch Reglementierung für die TS. Nach den Regeln der "Deutschlandmasters". Anlehnung an die WKO 2016.\nStart mit eigenem Material.	\N	la	2019-07-22 09:24:07.349716	2019-07-22 09:24:07.349716	409	APIUser	Dobareuth
 \.
-
-
---
--- Name: appointments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
---
-
-SELECT pg_catalog.setval('public.appointments_id_seq', 174, true);
