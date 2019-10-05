@@ -372,7 +372,8 @@ CREATE TABLE public.people (
     hl_count integer DEFAULT 0 NOT NULL,
     la_count integer DEFAULT 0 NOT NULL,
     fs_count integer DEFAULT 0 NOT NULL,
-    gs_count integer DEFAULT 0 NOT NULL
+    gs_count integer DEFAULT 0 NOT NULL,
+    best_scores jsonb DEFAULT '{}'::jsonb
 );
 
 
@@ -447,7 +448,8 @@ CREATE TABLE public.competitions (
     la_male integer DEFAULT 0 NOT NULL,
     teams_count integer DEFAULT 0 NOT NULL,
     people_count integer DEFAULT 0 NOT NULL,
-    scores_for_bla_badge boolean DEFAULT false NOT NULL
+    scores_for_bla_badge boolean DEFAULT false NOT NULL,
+    long_name character varying(200)
 );
 
 
