@@ -183,4 +183,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 178	2020-08-15	Heedebockpokal	Nähere Informationen folgen noch.	10	la,hl,hb,hw	2019-10-26 06:22:45.990192	2019-10-26 06:24:12.797067	473	APIUser	04889 Taura
 179	2020-06-27	Deutschland-Cup	Weitere Infos folgen	1		2019-11-05 12:30:36.304072	2019-11-05 12:30:36.304072	1	AdminUser	Techentin
 180	2020-01-04	Neujahrssteigen	Das Neujahrssteigen findet dieses Jahr wieder in Jänschwalde statt. Weitere Infos gibt es bei Hartmut Bastisch.	29	hl	2019-12-24 09:51:53.233481	2019-12-24 09:51:53.233481	1	AdminUser	Jänschwalde
+181	2020-09-12	Deutschland-Cup	Weitere Informationen folgen	1	la,fs,gs,hl,hb,hw	2020-01-09 20:37:18.465932	2020-01-09 20:37:18.465932	1	AdminUser	Tribsees
 \.
