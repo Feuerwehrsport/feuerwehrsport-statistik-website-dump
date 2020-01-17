@@ -35,6 +35,21 @@ SET default_tablespace = '';
 SET default_with_oids = false;
 
 --
+-- Name: active_record_views; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.active_record_views (
+    name text NOT NULL,
+    class_name text NOT NULL,
+    checksum text NOT NULL,
+    options json DEFAULT '{}'::json NOT NULL,
+    refreshed_at timestamp without time zone
+);
+
+
+ALTER TABLE public.active_record_views OWNER TO "feuerwehrsport-statistik";
+
+--
 -- Name: admin_users; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 

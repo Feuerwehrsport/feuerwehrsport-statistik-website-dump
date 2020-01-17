@@ -1,6 +1,22 @@
 
 
 --
+-- Name: active_record_views active_record_views_class_name_key; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.active_record_views
+    ADD CONSTRAINT active_record_views_class_name_key UNIQUE (class_name);
+
+
+--
+-- Name: active_record_views active_record_views_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.active_record_views
+    ADD CONSTRAINT active_record_views_pkey PRIMARY KEY (name);
+
+
+--
 -- Name: admin_users admin_users_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
