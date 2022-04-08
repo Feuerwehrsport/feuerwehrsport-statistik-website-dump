@@ -1108,3 +1108,5 @@ ALTER TABLE ONLY public.series_participations
 
 --
 -- PostgreSQL database dump complete
+--
+
