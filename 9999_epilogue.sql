@@ -161,14 +161,6 @@ ALTER TABLE ONLY public.import_requests
 
 
 --
--- Name: ipo_registrations ipo_registrations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.ipo_registrations
-    ADD CONSTRAINT ipo_registrations_pkey PRIMARY KEY (id);
-
-
---
 -- Name: links links_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -185,27 +177,11 @@ ALTER TABLE ONLY public.m3_assets
 
 
 --
--- Name: m3_delivery_settings m3_delivery_settings_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_delivery_settings
-    ADD CONSTRAINT m3_delivery_settings_pkey PRIMARY KEY (id);
-
-
---
 -- Name: m3_logins m3_logins_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.m3_logins
     ADD CONSTRAINT m3_logins_pkey PRIMARY KEY (id);
-
-
---
--- Name: m3_websites m3_websites_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_websites
-    ADD CONSTRAINT m3_websites_pkey PRIMARY KEY (id);
 
 
 --
@@ -222,14 +198,6 @@ ALTER TABLE ONLY public.nations
 
 ALTER TABLE ONLY public.news_articles
     ADD CONSTRAINT news_articles_pkey PRIMARY KEY (id);
-
-
---
--- Name: pdf2_table_entries pdf2_table_entries_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.pdf2_table_entries
-    ADD CONSTRAINT pdf2_table_entries_pkey PRIMARY KEY (id);
 
 
 --
@@ -552,20 +520,6 @@ CREATE INDEX index_import_requests_on_place_id ON public.import_requests USING b
 
 
 --
--- Name: index_m3_assets_on_website_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_m3_assets_on_website_id ON public.m3_assets USING btree (website_id);
-
-
---
--- Name: index_m3_delivery_settings_on_website_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_m3_delivery_settings_on_website_id ON public.m3_delivery_settings USING btree (website_id);
-
-
---
 -- Name: index_m3_logins_on_changed_email_address_token; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -587,38 +541,10 @@ CREATE UNIQUE INDEX index_m3_logins_on_verify_token ON public.m3_logins USING bt
 
 
 --
--- Name: index_m3_logins_on_website_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_m3_logins_on_website_id ON public.m3_logins USING btree (website_id);
-
-
---
--- Name: index_m3_websites_on_key; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE UNIQUE INDEX index_m3_websites_on_key ON public.m3_websites USING btree (key);
-
-
---
 -- Name: index_news_articles_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 CREATE INDEX index_news_articles_on_admin_user_id ON public.news_articles USING btree (admin_user_id);
-
-
---
--- Name: index_pdf2_table_entries_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_pdf2_table_entries_on_admin_user_id ON public.pdf2_table_entries USING btree (admin_user_id);
-
-
---
--- Name: index_pdf2_table_entries_on_api_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_pdf2_table_entries_on_api_user_id ON public.pdf2_table_entries USING btree (api_user_id);
 
 
 --
@@ -779,14 +705,6 @@ ALTER TABLE ONLY public.bla_badges
 
 
 --
--- Name: pdf2_table_entries fk_rails_224da25c7c; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.pdf2_table_entries
-    ADD CONSTRAINT fk_rails_224da25c7c FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
-
-
---
 -- Name: scores fk_rails_23d89423d6; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -851,14 +769,6 @@ ALTER TABLE ONLY public.appointments
 
 
 --
--- Name: m3_delivery_settings fk_rails_42b0945ea5; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_delivery_settings
-    ADD CONSTRAINT fk_rails_42b0945ea5 FOREIGN KEY (website_id) REFERENCES public.m3_websites(id);
-
-
---
 -- Name: registrations_people fk_rails_45da1b2122; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -880,14 +790,6 @@ ALTER TABLE ONLY public.change_requests
 
 ALTER TABLE ONLY public.series_cups
     ADD CONSTRAINT fk_rails_63932e2707 FOREIGN KEY (competition_id) REFERENCES public.competitions(id);
-
-
---
--- Name: m3_logins fk_rails_6b0abf39ba; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_logins
-    ADD CONSTRAINT fk_rails_6b0abf39ba FOREIGN KEY (website_id) REFERENCES public.m3_websites(id);
 
 
 --
@@ -960,14 +862,6 @@ ALTER TABLE ONLY public.registrations_people
 
 ALTER TABLE ONLY public.scores
     ADD CONSTRAINT fk_rails_88b53fe618 FOREIGN KEY (person_id) REFERENCES public.people(id);
-
-
---
--- Name: pdf2_table_entries fk_rails_98638c8056; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.pdf2_table_entries
-    ADD CONSTRAINT fk_rails_98638c8056 FOREIGN KEY (api_user_id) REFERENCES public.api_users(id);
 
 
 --
@@ -1088,14 +982,6 @@ ALTER TABLE ONLY public.bla_badges
 
 ALTER TABLE ONLY public.import_request_files
     ADD CONSTRAINT fk_rails_f3bbce993e FOREIGN KEY (import_request_id) REFERENCES public.import_requests(id);
-
-
---
--- Name: m3_assets fk_rails_f92f48e703; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_assets
-    ADD CONSTRAINT fk_rails_f92f48e703 FOREIGN KEY (website_id) REFERENCES public.m3_websites(id);
 
 
 --

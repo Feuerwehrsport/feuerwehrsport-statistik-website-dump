@@ -463,8 +463,11 @@ CREATE TABLE public.competitions (
     la_male integer DEFAULT 0 NOT NULL,
     teams_count integer DEFAULT 0 NOT NULL,
     people_count integer DEFAULT 0 NOT NULL,
-    scores_for_bla_badge boolean DEFAULT false NOT NULL,
-    long_name character varying(200)
+    long_name character varying(200),
+    hb_male_for_bla_badge boolean DEFAULT false NOT NULL,
+    hl_male_for_bla_badge boolean DEFAULT false NOT NULL,
+    hb_female_for_bla_badge boolean DEFAULT false NOT NULL,
+    hl_female_for_bla_badge boolean DEFAULT false NOT NULL
 );
 
 
@@ -842,49 +845,6 @@ ALTER SEQUENCE public.import_requests_id_seq OWNED BY public.import_requests.id;
 
 
 --
--- Name: ipo_registrations; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.ipo_registrations (
-    id integer NOT NULL,
-    team_name character varying(200) NOT NULL,
-    name character varying(200) NOT NULL,
-    locality character varying(200) NOT NULL,
-    phone_number character varying(200) NOT NULL,
-    email_address character varying(200) NOT NULL,
-    youth_team boolean DEFAULT false NOT NULL,
-    female_team boolean DEFAULT false NOT NULL,
-    male_team boolean DEFAULT false NOT NULL,
-    terms_of_service boolean DEFAULT false NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
-);
-
-
-ALTER TABLE public.ipo_registrations OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: ipo_registrations_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.ipo_registrations_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.ipo_registrations_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: ipo_registrations_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.ipo_registrations_id_seq OWNED BY public.ipo_registrations.id;
-
-
---
 -- Name: links; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -928,7 +888,6 @@ ALTER SEQUENCE public.links_id_seq OWNED BY public.links.id;
 
 CREATE TABLE public.m3_assets (
     id integer NOT NULL,
-    website_id integer NOT NULL,
     file character varying,
     name character varying(200),
     image boolean DEFAULT false NOT NULL,
@@ -961,57 +920,6 @@ ALTER SEQUENCE public.m3_assets_id_seq OWNED BY public.m3_assets.id;
 
 
 --
--- Name: m3_delivery_settings; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.m3_delivery_settings (
-    id integer NOT NULL,
-    website_id integer NOT NULL,
-    delivery_method character varying DEFAULT 'file'::character varying NOT NULL,
-    address character varying,
-    port integer,
-    domain character varying,
-    user_name character varying,
-    password character varying,
-    authentication character varying,
-    enable_starttls_auto boolean,
-    tls boolean,
-    openssl_verify_mode character varying,
-    location character varying,
-    arguments character varying,
-    from_address character varying,
-    from_name character varying,
-    reply_to_address character varying,
-    reply_to_name character varying,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
-);
-
-
-ALTER TABLE public.m3_delivery_settings OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: m3_delivery_settings_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.m3_delivery_settings_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.m3_delivery_settings_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: m3_delivery_settings_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.m3_delivery_settings_id_seq OWNED BY public.m3_delivery_settings.id;
-
-
---
 -- Name: m3_logins; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1022,7 +930,6 @@ CREATE TABLE public.m3_logins (
     password_digest character varying,
     verified_at timestamp without time zone,
     verify_token character varying,
-    website_id integer NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
     password_reset_requested_at timestamp without time zone,
@@ -1055,50 +962,6 @@ ALTER TABLE public.m3_logins_id_seq OWNER TO "feuerwehrsport-statistik";
 --
 
 ALTER SEQUENCE public.m3_logins_id_seq OWNED BY public.m3_logins.id;
-
-
---
--- Name: m3_websites; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.m3_websites (
-    id integer NOT NULL,
-    name character varying NOT NULL,
-    domain character varying NOT NULL,
-    title character varying NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL,
-    port integer DEFAULT 80 NOT NULL,
-    protocol character varying DEFAULT 'http'::character varying NOT NULL,
-    default_site boolean DEFAULT false NOT NULL,
-    google_tag_manager_key character varying(200),
-    facebook_pixel_id character varying(200),
-    google_analytics_key character varying(200),
-    key character varying(200) NOT NULL
-);
-
-
-ALTER TABLE public.m3_websites OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: m3_websites_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.m3_websites_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.m3_websites_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: m3_websites_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.m3_websites_id_seq OWNED BY public.m3_websites.id;
 
 
 --
@@ -1173,50 +1036,6 @@ ALTER TABLE public.news_articles_id_seq OWNER TO "feuerwehrsport-statistik";
 --
 
 ALTER SEQUENCE public.news_articles_id_seq OWNED BY public.news_articles.id;
-
-
---
--- Name: pdf2_table_entries; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.pdf2_table_entries (
-    id integer NOT NULL,
-    pdf character varying NOT NULL,
-    ods character varying,
-    csv character varying,
-    csv_to_copy text,
-    log text,
-    api_user_id integer,
-    admin_user_id integer,
-    locked_at timestamp without time zone,
-    finished_at timestamp without time zone,
-    success boolean,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
-);
-
-
-ALTER TABLE public.pdf2_table_entries OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: pdf2_table_entries_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.pdf2_table_entries_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.pdf2_table_entries_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: pdf2_table_entries_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.pdf2_table_entries_id_seq OWNED BY public.pdf2_table_entries.id;
 
 
 --
@@ -2121,13 +1940,6 @@ ALTER TABLE ONLY public.import_requests ALTER COLUMN id SET DEFAULT nextval('pub
 
 
 --
--- Name: ipo_registrations id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.ipo_registrations ALTER COLUMN id SET DEFAULT nextval('public.ipo_registrations_id_seq'::regclass);
-
-
---
 -- Name: links id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -2142,24 +1954,10 @@ ALTER TABLE ONLY public.m3_assets ALTER COLUMN id SET DEFAULT nextval('public.m3
 
 
 --
--- Name: m3_delivery_settings id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_delivery_settings ALTER COLUMN id SET DEFAULT nextval('public.m3_delivery_settings_id_seq'::regclass);
-
-
---
 -- Name: m3_logins id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.m3_logins ALTER COLUMN id SET DEFAULT nextval('public.m3_logins_id_seq'::regclass);
-
-
---
--- Name: m3_websites id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.m3_websites ALTER COLUMN id SET DEFAULT nextval('public.m3_websites_id_seq'::regclass);
 
 
 --
@@ -2174,13 +1972,6 @@ ALTER TABLE ONLY public.nations ALTER COLUMN id SET DEFAULT nextval('public.nati
 --
 
 ALTER TABLE ONLY public.news_articles ALTER COLUMN id SET DEFAULT nextval('public.news_articles_id_seq'::regclass);
-
-
---
--- Name: pdf2_table_entries id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.pdf2_table_entries ALTER COLUMN id SET DEFAULT nextval('public.pdf2_table_entries_id_seq'::regclass);
 
 
 --
