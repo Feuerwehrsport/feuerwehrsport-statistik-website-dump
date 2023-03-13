@@ -193,14 +193,6 @@ ALTER TABLE ONLY public.nations
 
 
 --
--- Name: news_articles news_articles_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.news_articles
-    ADD CONSTRAINT news_articles_pkey PRIMARY KEY (id);
-
-
---
 -- Name: people people_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -302,6 +294,14 @@ ALTER TABLE ONLY public.series_assessments
 
 ALTER TABLE ONLY public.series_cups
     ADD CONSTRAINT series_cups_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_kinds series_kinds_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_kinds
+    ADD CONSTRAINT series_kinds_pkey PRIMARY KEY (id);
 
 
 --
@@ -541,13 +541,6 @@ CREATE UNIQUE INDEX index_m3_logins_on_verify_token ON public.m3_logins USING bt
 
 
 --
--- Name: index_news_articles_on_admin_user_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_news_articles_on_admin_user_id ON public.news_articles USING btree (admin_user_id);
-
-
---
 -- Name: index_people_on_gender; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -608,6 +601,20 @@ CREATE INDEX index_scores_on_person_id ON public.scores USING btree (person_id);
 --
 
 CREATE INDEX index_scores_on_team_id ON public.scores USING btree (team_id);
+
+
+--
+-- Name: index_series_kinds_on_slug; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX index_series_kinds_on_slug ON public.series_kinds USING btree (slug);
+
+
+--
+-- Name: index_series_rounds_on_kind_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_rounds_on_kind_id ON public.series_rounds USING btree (kind_id);
 
 
 --
@@ -793,14 +800,6 @@ ALTER TABLE ONLY public.series_cups
 
 
 --
--- Name: news_articles fk_rails_6c5935622b; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.news_articles
-    ADD CONSTRAINT fk_rails_6c5935622b FOREIGN KEY (admin_user_id) REFERENCES public.admin_users(id);
-
-
---
 -- Name: registrations_people fk_rails_6ca390b69a; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -862,6 +861,14 @@ ALTER TABLE ONLY public.registrations_people
 
 ALTER TABLE ONLY public.scores
     ADD CONSTRAINT fk_rails_88b53fe618 FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: series_rounds fk_rails_8a49b1fe86; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_rounds
+    ADD CONSTRAINT fk_rails_8a49b1fe86 FOREIGN KEY (kind_id) REFERENCES public.series_kinds(id);
 
 
 --

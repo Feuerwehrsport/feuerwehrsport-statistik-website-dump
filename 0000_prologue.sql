@@ -1001,44 +1001,6 @@ ALTER SEQUENCE public.nations_id_seq OWNED BY public.nations.id;
 
 
 --
--- Name: news_articles; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.news_articles (
-    id integer NOT NULL,
-    title character varying(200) NOT NULL,
-    admin_user_id integer NOT NULL,
-    content text NOT NULL,
-    published_at date NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
-);
-
-
-ALTER TABLE public.news_articles OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: news_articles_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.news_articles_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.news_articles_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: news_articles_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.news_articles_id_seq OWNED BY public.news_articles.id;
-
-
---
 -- Name: people_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1571,6 +1533,42 @@ ALTER SEQUENCE public.series_cups_id_seq OWNED BY public.series_cups.id;
 
 
 --
+-- Name: series_kinds; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.series_kinds (
+    id bigint NOT NULL,
+    name character varying NOT NULL,
+    slug character varying NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.series_kinds OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_kinds_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.series_kinds_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.series_kinds_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_kinds_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.series_kinds_id_seq OWNED BY public.series_kinds.id;
+
+
+--
 -- Name: series_participations; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1619,14 +1617,13 @@ ALTER SEQUENCE public.series_participations_id_seq OWNED BY public.series_partic
 
 CREATE TABLE public.series_rounds (
     id integer NOT NULL,
-    name character varying NOT NULL,
     year integer NOT NULL,
     aggregate_type character varying NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
     official boolean DEFAULT false NOT NULL,
     full_cup_count integer DEFAULT 4 NOT NULL,
-    slug character varying NOT NULL
+    kind_id bigint
 );
 
 
@@ -1968,13 +1965,6 @@ ALTER TABLE ONLY public.nations ALTER COLUMN id SET DEFAULT nextval('public.nati
 
 
 --
--- Name: news_articles id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.news_articles ALTER COLUMN id SET DEFAULT nextval('public.news_articles_id_seq'::regclass);
-
-
---
 -- Name: people id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -2063,6 +2053,13 @@ ALTER TABLE ONLY public.series_assessments ALTER COLUMN id SET DEFAULT nextval('
 --
 
 ALTER TABLE ONLY public.series_cups ALTER COLUMN id SET DEFAULT nextval('public.series_cups_id_seq'::regclass);
+
+
+--
+-- Name: series_kinds id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_kinds ALTER COLUMN id SET DEFAULT nextval('public.series_kinds_id_seq'::regclass);
 
 
 --
