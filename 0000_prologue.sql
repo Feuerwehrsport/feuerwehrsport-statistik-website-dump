@@ -388,7 +388,8 @@ CREATE TABLE public.people (
     la_count integer DEFAULT 0 NOT NULL,
     fs_count integer DEFAULT 0 NOT NULL,
     gs_count integer DEFAULT 0 NOT NULL,
-    best_scores jsonb DEFAULT '{}'::jsonb
+    best_scores jsonb DEFAULT '{}'::jsonb,
+    ignore_bla_untill_year integer
 );
 
 
