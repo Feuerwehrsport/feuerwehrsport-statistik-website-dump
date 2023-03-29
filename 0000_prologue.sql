@@ -1167,13 +1167,12 @@ ALTER SEQUENCE public.registrations_assessment_participations_id_seq OWNED BY pu
 
 CREATE TABLE public.registrations_assessments (
     id integer NOT NULL,
-    competition_id integer NOT NULL,
     discipline character varying NOT NULL,
     name character varying DEFAULT ''::character varying NOT NULL,
-    gender integer NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
-    show_only_name boolean DEFAULT false NOT NULL
+    show_only_name boolean DEFAULT false NOT NULL,
+    band_id bigint
 );
 
 
@@ -1201,6 +1200,46 @@ ALTER SEQUENCE public.registrations_assessments_id_seq OWNED BY public.registrat
 
 
 --
+-- Name: registrations_bands; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.registrations_bands (
+    id bigint NOT NULL,
+    name character varying(200) NOT NULL,
+    gender integer NOT NULL,
+    competition_id bigint NOT NULL,
+    "position" integer,
+    person_tags character varying DEFAULT ''::character varying NOT NULL,
+    team_tags character varying DEFAULT ''::character varying NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.registrations_bands OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: registrations_bands_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.registrations_bands_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.registrations_bands_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: registrations_bands_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.registrations_bands_id_seq OWNED BY public.registrations_bands.id;
+
+
+--
 -- Name: registrations_competitions; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1213,8 +1252,6 @@ CREATE TABLE public.registrations_competitions (
     open_at timestamp without time zone,
     close_at timestamp without time zone,
     admin_user_id integer NOT NULL,
-    person_tags character varying DEFAULT ''::character varying NOT NULL,
-    team_tags character varying DEFAULT ''::character varying NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
     slug character varying,
@@ -1253,17 +1290,16 @@ ALTER SEQUENCE public.registrations_competitions_id_seq OWNED BY public.registra
 
 CREATE TABLE public.registrations_people (
     id integer NOT NULL,
-    competition_id integer NOT NULL,
     team_id integer,
     person_id integer,
     admin_user_id integer NOT NULL,
     first_name character varying NOT NULL,
     last_name character varying NOT NULL,
-    gender integer NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
     registration_order integer DEFAULT 0 NOT NULL,
-    team_name character varying
+    team_name character varying,
+    band_id bigint
 );
 
 
@@ -1296,23 +1332,18 @@ ALTER SEQUENCE public.registrations_people_id_seq OWNED BY public.registrations_
 
 CREATE TABLE public.registrations_teams (
     id integer NOT NULL,
-    competition_id integer NOT NULL,
     team_id integer,
     name character varying NOT NULL,
     shortcut character varying NOT NULL,
-    gender integer NOT NULL,
     team_number integer DEFAULT 1 NOT NULL,
     team_leader character varying DEFAULT ''::character varying NOT NULL,
-    street_with_house_number character varying DEFAULT ''::character varying NOT NULL,
-    postal_code character varying DEFAULT ''::character varying NOT NULL,
-    locality character varying DEFAULT ''::character varying NOT NULL,
     phone_number character varying DEFAULT ''::character varying NOT NULL,
     email_address character varying DEFAULT ''::character varying NOT NULL,
     admin_user_id integer NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
-    federal_state_id integer,
-    hint text
+    hint text,
+    band_id bigint
 );
 
 
@@ -2005,6 +2036,13 @@ ALTER TABLE ONLY public.registrations_assessment_participations ALTER COLUMN id 
 --
 
 ALTER TABLE ONLY public.registrations_assessments ALTER COLUMN id SET DEFAULT nextval('public.registrations_assessments_id_seq'::regclass);
+
+
+--
+-- Name: registrations_bands id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_bands ALTER COLUMN id SET DEFAULT nextval('public.registrations_bands_id_seq'::regclass);
 
 
 --

@@ -241,6 +241,14 @@ ALTER TABLE ONLY public.registrations_assessments
 
 
 --
+-- Name: registrations_bands registrations_bands_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_bands
+    ADD CONSTRAINT registrations_bands_pkey PRIMARY KEY (id);
+
+
+--
 -- Name: registrations_competitions registrations_competitions_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -576,6 +584,13 @@ CREATE INDEX index_person_spellings_on_person_id ON public.person_spellings USIN
 
 
 --
+-- Name: index_registrations_bands_on_competition_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_registrations_bands_on_competition_id ON public.registrations_bands USING btree (competition_id);
+
+
+--
 -- Name: index_registrations_competitions_on_slug; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -629,6 +644,14 @@ CREATE INDEX index_team_spellings_on_team_id ON public.team_spellings USING btre
 --
 
 CREATE UNIQUE INDEX unique_schema_migrations ON public.schema_migrations USING btree (version);
+
+
+--
+-- Name: registrations_bands fk_rails_00b9405246; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_bands
+    ADD CONSTRAINT fk_rails_00b9405246 FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
 
 
 --
@@ -752,6 +775,14 @@ ALTER TABLE ONLY public.change_logs
 
 
 --
+-- Name: registrations_assessments fk_rails_32c2bea6b8; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_assessments
+    ADD CONSTRAINT fk_rails_32c2bea6b8 FOREIGN KEY (band_id) REFERENCES public.registrations_bands(id);
+
+
+--
 -- Name: competitions fk_rails_339a5440d1; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -760,19 +791,19 @@ ALTER TABLE ONLY public.competitions
 
 
 --
--- Name: registrations_teams fk_rails_3d5190e1c4; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.registrations_teams
-    ADD CONSTRAINT fk_rails_3d5190e1c4 FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
-
-
---
 -- Name: appointments fk_rails_3f47875492; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.appointments
     ADD CONSTRAINT fk_rails_3f47875492 FOREIGN KEY (event_id) REFERENCES public.events(id);
+
+
+--
+-- Name: registrations_people fk_rails_44ebd6f20c; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_people
+    ADD CONSTRAINT fk_rails_44ebd6f20c FOREIGN KEY (band_id) REFERENCES public.registrations_bands(id);
 
 
 --
@@ -792,19 +823,19 @@ ALTER TABLE ONLY public.change_requests
 
 
 --
+-- Name: registrations_teams fk_rails_5dfa85d2d8; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.registrations_teams
+    ADD CONSTRAINT fk_rails_5dfa85d2d8 FOREIGN KEY (band_id) REFERENCES public.registrations_bands(id);
+
+
+--
 -- Name: series_cups fk_rails_63932e2707; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.series_cups
     ADD CONSTRAINT fk_rails_63932e2707 FOREIGN KEY (competition_id) REFERENCES public.competitions(id);
-
-
---
--- Name: registrations_people fk_rails_6ca390b69a; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.registrations_people
-    ADD CONSTRAINT fk_rails_6ca390b69a FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
 
 
 --
@@ -909,14 +940,6 @@ ALTER TABLE ONLY public.competition_files
 
 ALTER TABLE ONLY public.people
     ADD CONSTRAINT fk_rails_c201f283e7 FOREIGN KEY (nation_id) REFERENCES public.nations(id);
-
-
---
--- Name: registrations_assessments fk_rails_ce616f5f59; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.registrations_assessments
-    ADD CONSTRAINT fk_rails_ce616f5f59 FOREIGN KEY (competition_id) REFERENCES public.registrations_competitions(id);
 
 
 --
