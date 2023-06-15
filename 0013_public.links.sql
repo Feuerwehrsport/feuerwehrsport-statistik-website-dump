@@ -2692,4 +2692,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2752	TGL-Cup	253	Appointment	http://tglcup.de.tl	2023-05-22 08:52:35.950765	2023-05-22 08:52:35.950765
 2753	TGL-Cup	255	Appointment	http://tglcup.de.tl	2023-05-22 08:53:00.095158	2023-05-22 08:53:00.095158
 2754	Online Anmeldung 	225	Appointment	https://feuerwehrsport-statistik.de/registrations/competitions/86	2023-06-07 17:56:49.14699	2023-06-07 17:56:49.14699
+2755	Martin Noack	237	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/6317416101.php	2023-06-14 12:01:03.685354	2023-06-14 12:01:03.685354
+2756	Kfv LDS	237	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/6317416101.php	2023-06-14 12:01:51.574977	2023-06-14 12:01:51.574977
 \.
