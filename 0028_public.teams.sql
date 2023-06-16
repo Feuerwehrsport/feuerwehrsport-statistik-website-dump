@@ -3314,7 +3314,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 187, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 20597, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 20600, true);
 
 
 --
@@ -3342,7 +3342,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2119, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 20902, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 20912, true);
 
 
 --
@@ -3461,35 +3461,35 @@ SELECT pg_catalog.setval('public.places_id_seq', 622, true);
 -- Name: registrations_assessment_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 11243, true);
+SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 11249, true);
 
 
 --
 -- Name: registrations_assessments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessments_id_seq', 697, true);
+SELECT pg_catalog.setval('public.registrations_assessments_id_seq', 718, true);
 
 
 --
 -- Name: registrations_bands_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_bands_id_seq', 64, true);
+SELECT pg_catalog.setval('public.registrations_bands_id_seq', 71, true);
 
 
 --
 -- Name: registrations_competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_competitions_id_seq', 88, true);
+SELECT pg_catalog.setval('public.registrations_competitions_id_seq', 89, true);
 
 
 --
 -- Name: registrations_people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_people_id_seq', 3604, true);
+SELECT pg_catalog.setval('public.registrations_people_id_seq', 3608, true);
 
 
 --
