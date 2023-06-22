@@ -2113,4 +2113,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2117	2. Deutschland-Cup	1	1	2	2023-05-13	\N	2023-05-15 09:01:47.094842	2023-05-15 09:08:31.525063		80	75	73	78	7	0	0	12	12	19	86	13.05.2023 - Charlottenthal, D-Cup (2. Deutschland-Cup)	f	f	f	f
 2118	DBR-Land	487	15	\N	2023-06-03	\N	2023-06-04 09:10:41.427402	2023-06-04 09:10:41.427402		0	0	0	0	0	0	0	6	11	9	0	03.06.2023 - Börgerende-Rethwisch, Amtsausscheid (DBR-Land)	f	f	f	f
 2119	2. MV-Cup	592	13	\N	2023-06-03	\N	2023-06-04 18:21:35.396192	2023-06-04 18:21:35.396192		0	0	0	0	0	0	0	4	48	18	0	03.06.2023 - Neustadt-Glewe, MV-Cup (2. MV-Cup)	f	f	f	f
+2120	MV-Steiger- und Hinderniscup	25	13	\N	2023-06-10	\N	2023-06-21 20:54:32.122333	2023-06-21 20:54:32.122333		18	22	18	16	0	0	0	0	0	15	21	10.06.2023 - Ostseebad Nienhagen, MV-Cup (MV-Steiger- und Hinderniscup)	f	f	f	f
 \.
