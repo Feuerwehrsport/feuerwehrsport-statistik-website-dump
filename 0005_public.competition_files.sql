@@ -1904,4 +1904,9 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 1905	2120	ergebnis-100m-hindernisbahn-manner.pdf	hl_male	2023-06-21 20:56:28.94823	2023-06-21 20:56:28.94823
 1906	2120	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2023-06-21 20:56:35.071725	2023-06-21 20:56:35.071725
 1907	2120	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2023-06-21 20:56:41.649151	2023-06-21 20:56:41.649151
+1908	2121	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2023-06-22 09:45:38.700457	2023-06-22 09:45:38.700457
+1909	2121	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2023-06-22 09:45:46.315534	2023-06-22 09:45:46.315534
+1910	2121	ergebnis-hakenleitersteigen-jugend.pdf	hl_female,hl_male	2023-06-22 09:45:54.129238	2023-06-22 09:45:54.129238
+1911	2121	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2023-06-22 09:46:00.395846	2023-06-22 09:46:00.395846
+1912	2121	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2023-06-22 09:46:06.24232	2023-06-22 09:46:06.24232
 \.
