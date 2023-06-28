@@ -1909,4 +1909,8 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 1910	2121	ergebnis-hakenleitersteigen-jugend.pdf	hl_female,hl_male	2023-06-22 09:45:54.129238	2023-06-22 09:45:54.129238
 1911	2121	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2023-06-22 09:46:00.395846	2023-06-22 09:46:00.395846
 1912	2121	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2023-06-22 09:46:06.24232	2023-06-22 09:46:06.24232
+1913	2122	ergebnis-loschangriff-nass-frauen-tgl.pdf	la_male	2023-06-27 11:52:21.432445	2023-06-27 11:52:21.432445
+1914	2122	ergebnis-loschangriff-nass-manner-tgl.pdf	la_male	2023-06-27 11:52:27.433232	2023-06-27 11:52:27.433232
+1915	2122	ergebnis-loschangriff-nass-manner.pdf	la_male	2023-06-27 11:52:35.701417	2023-06-27 11:52:35.701417
+1916	2122	ergebnis-loschangriff-nass-frauen.pdf	la_female	2023-06-27 11:52:48.226543	2023-06-27 11:52:48.226543
 \.
