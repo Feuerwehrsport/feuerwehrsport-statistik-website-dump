@@ -283,4 +283,5 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 276	2498	FF Niebendorf/Heinsdorf	Niebendorf/Heinsdorf	2023-05-11 20:09:48.332729	2023-05-11 20:09:48.332729
 277	1514	Team Potsdam Bornstedt 	Potsdam-Bornstedt	2023-05-11 20:11:52.819444	2023-05-11 20:11:52.819444
 278	2737	FF Klepzig Lehnsdorf	Klepzig Lehnsdorf	2023-05-11 20:11:58.974513	2023-05-11 20:11:58.974513
+279	43	FF Admannshagen-Bargeshagen	Admannshagen-Bargeshagen	2023-07-01 19:05:41.402484	2023-07-01 19:05:41.402484
 \.

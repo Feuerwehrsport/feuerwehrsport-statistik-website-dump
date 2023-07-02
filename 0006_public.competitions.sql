@@ -2116,4 +2116,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2120	MV-Steiger- und Hinderniscup	25	13	\N	2023-06-10	\N	2023-06-21 20:54:32.122333	2023-06-21 20:54:32.122333		18	22	18	16	0	0	0	0	0	15	21	10.06.2023 - Ostseebad Nienhagen, MV-Cup (MV-Steiger- und Hinderniscup)	f	f	f	f
 2121	Sächsischen Steigercup	2	20	4	2023-06-17	\N	2023-06-22 09:44:56.869257	2023-06-22 11:10:46.946518		18	22	0	0	0	0	0	0	0	6	20	17.06.2023 - Narsdorf, Sächsischer Steigercup (Sächsischen Steigercup)	f	f	f	f
 2122	3. MV-Cup	125	13	\N	2023-06-24	\N	2023-06-27 06:53:12.016339	2023-06-27 06:53:12.016339		0	0	0	0	0	0	0	8	50	21	0	24.06.2023 - Schwerin, MV-Cup (3. MV-Cup)	f	f	f	f
+2123	LK LRO	623	6	\N	2023-07-01	\N	2023-07-01 17:02:50.272693	2023-07-01 17:03:22.67196	<p>Das Hakenleitersteigen fand am Freitag in Beselin statt.</p>\r\n	16	24	21	22	5	7	5	10	30	32	25	01.07.2023 - Gnoien, Kreisausscheid (LK LRO)	f	f	f	f
 \.
