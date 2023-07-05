@@ -564,7 +564,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 612	FF Passin	Passin	1	53.9026560000	12.0013203000	16406756_1905578583004472_1512582274553228054_n.jpg	MV	2016-01-20 21:32:14.717317	2017-09-11 10:21:37.432501	2017-09-11 10:21:37.432501	0	17
 613	FF Bützow	Bützow	1	53.8500047000	11.9832952000	\N	MV	2016-01-20 21:32:14.727998	2016-01-20 21:32:14.727998	2016-01-20 21:32:14.727998	0	22
 614	FF Lalendorf	Lalendorf	1	53.7562744000	12.3892487000	\N	MV	2016-01-20 21:32:14.737931	2016-01-20 21:32:14.737931	2016-01-20 21:32:14.737931	0	1
-615	FF Tarnow	Tarnow	1	53.7784289000	12.0174114000	\N	MV	2016-01-20 21:32:14.742681	2016-01-20 21:32:14.742681	2016-01-20 21:32:14.742681	0	12
+615	FF Tarnow	Tarnow	1	53.7784289000	12.0174114000	90d0351b-6a1f-4a9f-b683-662cc886ac0b.jpeg	MV	2016-01-20 21:32:14.742681	2023-07-04 05:49:30.185075	2016-01-20 21:32:14.742681	0	12
 616	FF Wardow/Kobrow	Wardow/Kobrow	1	53.9549414500	12.3884479979	\N	MV	2016-01-20 21:32:14.745852	2016-01-20 21:32:14.745852	2016-01-20 21:32:14.745852	0	2
 617	FF Zernin	Zernin	1	53.7976092378	11.9270324707	\N	MV	2016-01-20 21:32:14.751739	2018-05-16 16:36:27.998684	2016-01-20 21:32:14.751739	0	5
 618	FF Mistorf/Goldewin	Mistorf/Goldewin	1	53.8661960000	12.1348734000	\N	MV	2016-01-20 21:32:14.754263	2016-01-20 21:32:14.754263	2016-01-20 21:32:14.754263	0	1
@@ -3317,7 +3317,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 187, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 20689, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 20691, true);
 
 
 --
@@ -3345,7 +3345,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2123, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21210, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21212, true);
 
 
 --
