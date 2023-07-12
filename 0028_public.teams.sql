@@ -1744,7 +1744,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2053	FF Bufleben/Warza	Bufleben/Warza	1	50.9984164088	10.7384490967	\N	TH	2016-01-20 21:32:24.408089	2018-10-17 09:42:55.681995	2016-01-20 21:32:24.408089	0	3
 2054	FF Molschleben	Molschleben	1	51.0046819399	10.7803344727	\N	TH	2016-01-20 21:32:24.411104	2016-01-20 21:32:24.411104	2016-01-20 21:32:24.411104	0	20
 2055	FF Remstädt	Remstädt	1	50.9775612213	10.6869506836	\N	TH	2016-01-20 21:32:24.413736	2016-01-20 21:32:24.413736	2016-01-20 21:32:24.413736	0	1
-2056	Feuerwehrsport Polkau	Polkau	1	52.7325497169	11.7550277710	Ärmelabzeichen.jpg	ST	2016-01-20 21:32:24.416188	2019-02-02 18:00:18.307957	2016-01-20 21:32:24.416188	4	19
+2056	Feuerwehrsport Polkau	Polkau	1	52.7325497169	11.7550277710	Ärmelabzeichen.jpg	ST	2016-01-20 21:32:24.416188	2019-02-02 18:00:18.307957	2016-01-20 21:32:24.416188	4	20
 2057	FF Golzow (Oderbruch)	Golzow	1	52.5752024107	14.4964599609	\N	BB	2016-01-20 21:32:24.418689	2016-01-20 21:32:24.418689	2016-01-20 21:32:24.418689	1	10
 2058	FF Goldbach	Goldbach	1	51.1210881766	14.1441249847	\N	SN	2016-01-20 21:32:24.421234	2016-01-20 21:32:24.421234	2016-01-20 21:32:24.421234	0	31
 2059	FF Schwarzbach (Sachsen)	Schwarzbach (Sachsen)	1	50.5566337097	12.8629302979	\N	SN	2016-01-20 21:32:24.423911	2016-01-20 21:32:24.423911	2016-01-20 21:32:24.423911	0	1
@@ -3319,7 +3319,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 187, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 20703, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 20704, true);
 
 
 --
@@ -3347,7 +3347,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2124, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21265, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21267, true);
 
 
 --
@@ -3389,7 +3389,7 @@ SELECT pg_catalog.setval('public.group_score_types_id_seq', 19, true);
 -- Name: group_scores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_scores_id_seq', 78252, true);
+SELECT pg_catalog.setval('public.group_scores_id_seq', 78254, true);
 
 
 --
