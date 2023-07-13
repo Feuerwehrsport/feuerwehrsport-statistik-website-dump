@@ -347,4 +347,6 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 1260	89	hl	Nachwuchs	Series::PersonAssessment	1	2023-06-22 11:12:41.016392	2023-06-22 11:12:41.016392
 1261	89	hl		Series::TeamAssessment	0	2023-06-22 11:12:41.033488	2023-06-22 11:12:41.033488
 1262	89	hl		Series::TeamAssessment	1	2023-06-22 11:12:41.058663	2023-06-22 11:12:41.058663
+1271	87	fs		Series::TeamAssessment	0	2023-07-12 12:06:10.230231	2023-07-12 12:06:10.230231
+1272	87	fs		Series::TeamAssessment	1	2023-07-12 12:06:10.267848	2023-07-12 12:06:10.267848
 \.

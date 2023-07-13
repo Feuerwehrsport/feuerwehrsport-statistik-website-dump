@@ -2118,4 +2118,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2122	3. MV-Cup	125	13	\N	2023-06-24	\N	2023-06-27 06:53:12.016339	2023-06-27 06:53:12.016339		0	0	0	0	0	0	0	8	50	21	0	24.06.2023 - Schwerin, MV-Cup (3. MV-Cup)	f	f	f	f
 2123	LK LRO	623	6	\N	2023-07-01	\N	2023-07-01 17:02:50.272693	2023-07-01 17:03:22.67196	<p>Das Hakenleitersteigen fand am Freitag in Beselin statt.</p>\r\n	16	24	21	22	5	7	5	10	30	32	25	01.07.2023 - Gnoien, Kreisausscheid (LK LRO)	f	f	f	f
 2124	2. Stendaler Hansepokal	325	10	\N	2023-07-01	\N	2023-07-06 08:25:56.830188	2023-07-06 08:25:56.830188		0	0	0	0	0	0	0	4	44	21	0	01.07.2023 - Stendal, Pokallauf (2. Stendaler Hansepokal)	f	f	f	f
+2125	4. MV-Cup	44	13	\N	2023-07-08	\N	2023-07-12 11:51:13.848757	2023-07-12 11:51:13.848757		0	0	0	0	0	0	0	4	32	18	0	08.07.2023 - Kummer, MV-Cup (4. MV-Cup)	f	f	f	f
+2126	3. Deutschland-Cup	624	1	2	2023-07-08	\N	2023-07-12 11:54:27.733725	2023-07-12 12:01:36.04271		56	52	53	68	5	8	7	9	13	20	71	08.07.2023 - Letschin, D-Cup (3. Deutschland-Cup)	f	f	f	f
 \.

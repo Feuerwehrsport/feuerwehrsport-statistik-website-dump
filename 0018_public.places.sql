@@ -612,4 +612,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 621	Kloster Neuendorf	\N	\N	2023-03-25 18:40:40.337591	2023-03-25 18:40:40.337591
 622	Skerbersdorf	\N	\N	2023-05-10 12:47:01.40681	2023-05-10 12:47:01.40681
 623	Gnoien	\N	\N	2023-07-01 17:02:38.283086	2023-07-01 17:02:38.283086
+624	Letschin	\N	\N	2023-07-12 11:54:15.315948	2023-07-12 11:54:15.315948
 \.
