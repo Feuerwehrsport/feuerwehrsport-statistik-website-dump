@@ -2120,4 +2120,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2124	2. Stendaler Hansepokal	325	10	\N	2023-07-01	\N	2023-07-06 08:25:56.830188	2023-07-06 08:25:56.830188		0	0	0	0	0	0	0	4	44	21	0	01.07.2023 - Stendal, Pokallauf (2. Stendaler Hansepokal)	f	f	f	f
 2125	4. MV-Cup	44	13	\N	2023-07-08	\N	2023-07-12 11:51:13.848757	2023-07-12 11:51:13.848757		0	0	0	0	0	0	0	4	32	18	0	08.07.2023 - Kummer, MV-Cup (4. MV-Cup)	f	f	f	f
 2126	3. Deutschland-Cup	624	1	2	2023-07-08	\N	2023-07-12 11:54:27.733725	2023-07-12 12:01:36.04271		56	52	53	68	5	8	7	9	13	20	71	08.07.2023 - Letschin, D-Cup (3. Deutschland-Cup)	f	f	f	f
+2127	4. Lauf Sachsen-Anhalt Pokal	613	18	\N	2023-07-08	\N	2023-07-13 13:18:38.467477	2023-07-13 13:18:38.467477		0	0	0	0	0	0	0	4	35	16	0	08.07.2023 - Böddensell, SA-Cup (4. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 \.
