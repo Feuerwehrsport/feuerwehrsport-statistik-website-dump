@@ -2912,7 +2912,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3450	FF Krevese	Krevese	1	52.8126022000	11.6929775000	\N	ST	2018-10-08 10:08:42.673546	2018-10-08 10:10:18.519889	2018-10-08 10:10:17	1	2
 3451	FF Levenhagen	Levenhagen	1	54.0881426000	13.2718240000	\N	MV	2018-10-08 10:16:41.593482	2018-10-08 10:17:10.884266	2018-10-08 10:17:08	0	1
 3452	FF Hohengöhren	Hohengöhren	1	52.6157102000	12.0363743000	\N	ST	2018-10-08 10:21:15.863552	2018-10-08 10:22:59.118372	2018-10-08 10:22:57	0	4
-3453	FF Klietz	Klietz	1	52.6670642000	12.0671314000	20220625_122039.jpg	ST	2018-10-08 10:21:19.148885	2022-06-27 05:32:07.47585	2018-10-08 10:22:41	1	20
+3453	FF Klietz	Klietz	1	52.6670642000	12.0671314000	IMG_0778.jpg	ST	2018-10-08 10:21:19.148885	2023-07-17 06:26:22.265643	2018-10-08 10:22:41	1	20
 3454	Team Wipfra/Hemleben	Wipfra/Hemleben	0	51.2561138588	11.2228775024	\N	TH	2018-10-08 10:26:05.660158	2018-10-08 10:27:01.560911	2018-10-08 10:26:30	0	1
 3455	FF Mardorf	Mardorf	1	50.7549122500	8.9245593570	\N	HE	2018-10-08 17:32:18.893386	2018-10-08 17:33:45.707912	2018-10-08 17:33:44	0	1
 3456	FF Zierzow	Zierzow	1	53.2833755000	11.6844276000	\N	MV	2018-10-08 17:40:08.520408	2018-10-08 17:41:03.435076	2018-10-08 17:41:02	0	2
@@ -3319,14 +3319,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 187, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 20788, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 20791, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 508, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 509, true);
 
 
 --
@@ -3347,7 +3347,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2127, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21531, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21534, true);
 
 
 --
