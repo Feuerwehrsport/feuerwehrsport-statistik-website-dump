@@ -3298,7 +3298,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 647, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 701, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 704, true);
 
 
 --
@@ -3319,7 +3319,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 187, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 20826, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 20833, true);
 
 
 --
@@ -3347,7 +3347,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2128, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21623, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 21641, true);
 
 
 --
@@ -3445,7 +3445,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 3916, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 19380, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 19427, true);
 
 
 --
@@ -3529,7 +3529,7 @@ SELECT pg_catalog.setval('public.series_assessments_id_seq', 1272, true);
 -- Name: series_cups_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_cups_id_seq', 1117, true);
+SELECT pg_catalog.setval('public.series_cups_id_seq', 1121, true);
 
 
 --
@@ -3543,7 +3543,7 @@ SELECT pg_catalog.setval('public.series_kinds_id_seq', 13, true);
 -- Name: series_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_participations_id_seq', 54557, true);
+SELECT pg_catalog.setval('public.series_participations_id_seq', 54641, true);
 
 
 --
