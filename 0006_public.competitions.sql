@@ -2107,10 +2107,10 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2111	28. Pokallauf	621	10	\N	2022-08-20	\N	2023-03-25 18:41:23.338679	2023-03-25 18:41:23.338679		0	0	6	16	0	0	0	0	0	0	11	20.08.2022 - Kloster Neuendorf, Pokallauf (28. Pokallauf)	f	f	f	f
 2112	Hallenpokal	9	4	\N	2023-04-15	\N	2023-04-17 06:58:25.053698	2023-04-17 06:58:25.053698		0	0	75	54	0	0	0	0	0	15	61	15.04.2023 - Halle, Hallenpokal (Hallenpokal)	f	f	f	f
 2113	Neujahrssteigen	14	29	\N	2023-01-07	\N	2023-04-17 12:24:50.960377	2023-04-17 12:24:50.960377		88	58	0	0	0	0	0	0	0	25	69	07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)	f	f	f	f
-2114		18	1	2	2023-04-29	\N	2023-05-02 07:46:45.021364	2023-05-02 08:05:29.006483		77	66	0	0	14	0	0	12	10	18	72	29.04.2023 - Nudersdorf, D-Cup	f	f	f	f
+2114		18	1	2	2023-04-29	\N	2023-05-02 07:46:45.021364	2023-08-03 08:41:13.714895		77	66	0	0	14	0	0	12	10	18	72	29.04.2023 - Nudersdorf, D-Cup	t	t	t	t
 2115	1. MV-Cup 2023	51	13	\N	2023-05-06	\N	2023-05-07 20:48:25.53734	2023-05-07 20:48:25.53734		0	0	0	0	0	0	0	6	28	17	0	06.05.2023 - Hohen Viecheln, MV-Cup (1. MV-Cup 2023)	f	f	f	f
 2116	3. Lauf Ostsachsenpokal	622	10	\N	2022-09-03	\N	2023-05-10 12:47:34.244356	2023-05-10 12:47:34.244356		0	0	0	4	0	0	0	1	11	12	4	03.09.2022 - Skerbersdorf, Pokallauf (3. Lauf Ostsachsenpokal)	f	f	f	f
-2117	2. Deutschland-Cup	1	1	2	2023-05-13	\N	2023-05-15 09:01:47.094842	2023-05-15 09:08:31.525063		80	75	73	78	7	0	0	12	12	19	86	13.05.2023 - Charlottenthal, D-Cup (2. Deutschland-Cup)	f	f	f	f
+2117	2. Deutschland-Cup	1	1	2	2023-05-13	\N	2023-05-15 09:01:47.094842	2023-08-03 08:41:01.662563		80	75	73	78	7	0	0	12	12	19	86	13.05.2023 - Charlottenthal, D-Cup (2. Deutschland-Cup)	t	t	t	t
 2118	DBR-Land	487	15	\N	2023-06-03	\N	2023-06-04 09:10:41.427402	2023-06-04 09:10:41.427402		0	0	0	0	0	0	0	6	11	9	0	03.06.2023 - Börgerende-Rethwisch, Amtsausscheid (DBR-Land)	f	f	f	f
 2119	2. MV-Cup	592	13	\N	2023-06-03	\N	2023-06-04 18:21:35.396192	2023-06-04 18:21:35.396192		0	0	0	0	0	0	0	4	48	18	0	03.06.2023 - Neustadt-Glewe, MV-Cup (2. MV-Cup)	f	f	f	f
 2120	MV-Steiger- und Hinderniscup	25	13	\N	2023-06-10	\N	2023-06-21 20:54:32.122333	2023-06-21 20:54:32.122333		18	22	18	16	0	0	0	0	0	15	21	10.06.2023 - Ostseebad Nienhagen, MV-Cup (MV-Steiger- und Hinderniscup)	f	f	f	f
@@ -2119,7 +2119,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2123	LK LRO	623	6	\N	2023-07-01	\N	2023-07-01 17:02:50.272693	2023-07-01 17:03:22.67196	<p>Das Hakenleitersteigen fand am Freitag in Beselin statt.</p>\r\n	16	24	21	22	5	7	5	10	30	32	25	01.07.2023 - Gnoien, Kreisausscheid (LK LRO)	f	f	f	f
 2124	2. Stendaler Hansepokal	325	10	\N	2023-07-01	\N	2023-07-06 08:25:56.830188	2023-07-06 08:25:56.830188		0	0	0	0	0	0	0	4	44	21	0	01.07.2023 - Stendal, Pokallauf (2. Stendaler Hansepokal)	f	f	f	f
 2125	4. MV-Cup	44	13	\N	2023-07-08	\N	2023-07-12 11:51:13.848757	2023-07-12 11:51:13.848757		0	0	0	0	0	0	0	4	32	18	0	08.07.2023 - Kummer, MV-Cup (4. MV-Cup)	f	f	f	f
-2126	3. Deutschland-Cup	624	1	2	2023-07-08	\N	2023-07-12 11:54:27.733725	2023-07-12 12:01:36.04271		56	52	53	68	5	8	7	9	13	20	71	08.07.2023 - Letschin, D-Cup (3. Deutschland-Cup)	f	f	f	f
+2126	3. Deutschland-Cup	624	1	2	2023-07-08	\N	2023-07-12 11:54:27.733725	2023-08-03 08:40:50.501753		56	52	53	68	5	8	7	9	13	20	71	08.07.2023 - Letschin, D-Cup (3. Deutschland-Cup)	t	t	t	t
 2127	4. Lauf Sachsen-Anhalt Pokal	613	18	\N	2023-07-08	\N	2023-07-13 13:18:38.467477	2023-07-13 13:18:38.467477		0	0	0	0	0	0	0	4	35	16	0	08.07.2023 - Böddensell, SA-Cup (4. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 2128	32. Feuerwehrtag	25	10	\N	2023-07-15	\N	2023-07-19 20:34:21.664728	2023-07-19 20:34:21.664728		0	0	0	0	0	0	0	6	24	12	0	15.07.2023 - Ostseebad Nienhagen, Pokallauf (32. Feuerwehrtag)	f	f	f	f
 2129	Sachsen-Cup	101	10	4	2023-07-01	\N	2023-07-27 17:17:25.660696	2023-07-27 17:31:07.101307		24	18	11	24	3	0	0	6	18	21	27	01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)	f	f	f	f
