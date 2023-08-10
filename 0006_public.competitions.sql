@@ -2124,4 +2124,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2128	32. Feuerwehrtag	25	10	\N	2023-07-15	\N	2023-07-19 20:34:21.664728	2023-07-19 20:34:21.664728		0	0	0	0	0	0	0	6	24	12	0	15.07.2023 - Ostseebad Nienhagen, Pokallauf (32. Feuerwehrtag)	f	f	f	f
 2129	Sachsen-Cup	101	10	4	2023-07-01	\N	2023-07-27 17:17:25.660696	2023-07-27 17:31:07.101307		24	18	11	24	3	0	0	6	18	21	27	01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)	f	f	f	f
 2130	3. Sächsischer Steigercup	16	20	4	2023-07-29	\N	2023-08-04 08:29:22.022909	2023-08-04 08:32:27.596972		16	20	0	0	0	0	0	0	0	7	18	29.07.2023 - Brandis, Sächsischer Steigercup (3. Sächsischer Steigercup)	f	f	f	f
+2131	5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup	478	18	\N	2023-08-05	\N	2023-08-09 10:50:45.37338	2023-08-09 10:50:45.37338		0	0	0	0	0	0	0	10	92	29	0	05.08.2023 - Möckern, SA-Cup (5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup)	f	f	f	f
 \.
