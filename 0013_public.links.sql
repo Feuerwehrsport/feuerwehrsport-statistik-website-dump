@@ -2696,4 +2696,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2757	Instagram	201	Team	https://www.instagram.com/wkddbue/	2023-06-20 12:56:43.189959	2023-06-20 12:56:43.189959
 2758	Twitter	201	Team	https://twitter.com/wkddbue	2023-06-20 13:06:20.66726	2023-06-20 13:06:20.66726
 2759	Facebook	201	Team	https://de-de.facebook.com/wkddbue/	2023-06-20 13:06:55.643972	2023-06-20 13:06:55.643972
+2760	Löschangriff Helmsdorf 	258	Appointment	https://instagram.com/angriff_helmsdorf?igshid=MzRlODBiNWFlZA==	2023-08-12 14:37:22.613085	2023-08-12 14:37:22.613085
 \.
