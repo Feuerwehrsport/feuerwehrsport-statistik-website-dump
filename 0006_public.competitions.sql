@@ -2127,4 +2127,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2131	5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup	478	18	\N	2023-08-05	\N	2023-08-09 10:50:45.37338	2023-08-09 10:50:45.37338		0	0	0	0	0	0	0	10	92	29	0	05.08.2023 - Möckern, SA-Cup (5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup)	f	f	f	f
 2132	4. Deutschland-Cup	17	1	5	2023-08-12	\N	2023-08-17 11:51:35.659578	2023-08-17 11:55:24.531981		72	76	66	66	18	0	0	16	22	27	75	12.08.2023 - Taura, D-Cup (4. Deutschland-Cup)	f	f	f	f
 2133	3. offene Hakenleitersteigen des KFV LDS e.V.	200	10	\N	2023-07-22	\N	2023-08-17 12:19:44.291023	2023-08-17 12:19:44.291023		20	26	0	0	0	0	0	0	0	0	23	22.07.2023 - Langengrassau, Pokallauf (3. offene Hakenleitersteigen des KFV LDS e.V.)	f	f	f	f
+2134	12. Flutlichtpokal	295	10	\N	2023-08-25	\N	2023-09-04 08:26:23.85222	2023-09-04 08:26:23.85222		0	0	0	0	0	0	0	8	45	53	0	25.08.2023 - Spornitz, Pokallauf (12. Flutlichtpokal)	f	f	f	f
+2135	4. Lauf BB-Cup 2022 & 25. Pokallauf	67	16	\N	2023-09-02	\N	2023-09-04 08:54:52.105172	2023-09-04 08:54:52.105172		0	0	0	0	0	0	0	0	16	8	0	02.09.2023 - Schwanebeck, BB-Cup (4. Lauf BB-Cup 2022 & 25. Pokallauf)	f	f	f	f
 \.
