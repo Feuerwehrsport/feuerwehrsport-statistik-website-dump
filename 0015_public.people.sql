@@ -2155,14 +2155,14 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 2938	Seekel	Deborah	0	1	2016-01-20 21:36:12.159365	2016-01-20 21:36:12.159365	6	3	3	0	1	{"pb": {"hb": [3078, "28.07.2016 - Rostock, DM"], "hl": [1416, "28.07.2016 - Rostock, DM"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2939	Winter	Manuela	0	1	2016-01-20 21:36:12.163748	2016-01-20 21:36:12.163748	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2940	Opitz	Silvére	1	1	2016-01-20 21:36:12.166623	2016-01-20 21:36:12.166623	0	0	9	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2941	Schwarzenberger	Marcel	1	1	2016-01-20 21:36:12.170137	2016-01-20 21:36:12.170137	0	0	48	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2941	Schwarzenberger	Marcel	1	1	2016-01-20 21:36:12.170137	2016-01-20 21:36:12.170137	0	0	52	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2942	Seiler	Marcel	1	1	2016-01-20 21:36:12.173923	2016-01-20 21:36:12.173923	0	0	29	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2943	Pöhler	Maximilian	1	1	2016-01-20 21:36:12.177832	2016-01-20 21:36:12.177832	0	0	59	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2944	Baraniak	Martin	1	1	2016-01-20 21:36:12.183686	2016-01-20 21:36:12.183686	0	0	44	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2943	Pöhler	Maximilian	1	1	2016-01-20 21:36:12.177832	2016-01-20 21:36:12.177832	0	0	63	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2944	Baraniak	Martin	1	1	2016-01-20 21:36:12.183686	2016-01-20 21:36:12.183686	0	0	46	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2945	Teller	André	1	1	2016-01-20 21:36:12.190943	2016-01-20 21:36:12.190943	0	0	24	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2946	Strauß	Andy	1	1	2016-01-20 21:36:12.194744	2016-01-20 21:36:12.194744	0	0	22	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2948	Jahn	Sören	1	1	2016-01-20 21:36:12.210214	2016-01-20 21:36:12.210214	0	0	53	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2950	Opitz	Maurice	1	1	2016-01-20 21:36:12.214057	2016-01-20 21:36:12.214057	0	0	32	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2946	Strauß	Andy	1	1	2016-01-20 21:36:12.194744	2016-01-20 21:36:12.194744	0	0	24	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2948	Jahn	Sören	1	1	2016-01-20 21:36:12.210214	2016-01-20 21:36:12.210214	0	0	57	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2950	Opitz	Maurice	1	1	2016-01-20 21:36:12.214057	2016-01-20 21:36:12.214057	0	0	34	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2951	Pöhler	Robert	1	1	2016-01-20 21:36:12.218261	2016-01-20 21:36:12.218261	0	0	5	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2952	Hofmann	R.	1	1	2016-01-20 21:36:12.224175	2016-01-20 21:36:12.224175	1	0	0	0	0	{"pb": {"hb": [2432, "03.10.2002 - Oelsnitz, Pokallauf (2. Pokallauf um den Pokal der Oberbürgermeisterin)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2954	Ness	Melanie	0	1	2016-03-11 09:39:08.88079	2016-03-11 09:39:08.88079	2	0	0	0	0	{"pb": {"hb": [2798, "25.08.2012 - Domsdorf, Stadtausscheid (Stadtausscheid Uebigau-Wahrenbrück)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2572,9 +2572,9 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3447	Ihme	Sarah	0	1	2018-06-22 17:37:02.021913	2018-06-22 17:37:02.021913	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3448	Lang	Julia	0	1	2018-06-22 17:38:07.207925	2018-06-22 17:38:07.207925	2	0	1	0	0	{"pb": {"hb": [2219, "22.09.2018 - Vetschau, Kreisausscheid"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3449	Heyden	Ayleen	0	1	2018-06-24 19:00:54.190813	2018-06-24 19:00:54.190813	8	2	0	1	7	{"pb": {"hb": [2443, "24.08.2019 - Ludwigslust, Landesausscheid (Landesmeisterschaften Mecklenburg-Vorpommern)"], "hl": [1362, "24.08.2019 - Ludwigslust, Landesausscheid (Landesmeisterschaften Mecklenburg-Vorpommern)"], "zk": [3805, "24.08.2019 - Ludwigslust, Landesausscheid (Landesmeisterschaften Mecklenburg-Vorpommern)"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3451	Spranger	Christoph	1	1	2018-06-25 09:15:36.549765	2018-06-25 09:15:36.549765	0	0	30	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3451	Spranger	Christoph	1	1	2018-06-25 09:15:36.549765	2018-06-25 09:15:36.549765	0	0	34	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3452	Deckert	Collin	1	1	2018-06-25 09:18:47.204093	2018-06-25 09:18:47.204093	0	0	6	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3453	Stürzer	Lukas	1	1	2018-06-25 09:22:35.259249	2018-06-25 09:22:35.259249	0	0	45	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3453	Stürzer	Lukas	1	1	2018-06-25 09:22:35.259249	2018-06-25 09:22:35.259249	0	0	49	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3454	Kucher	Annette	0	1	2018-07-05 14:26:10.15156	2018-07-05 14:26:10.15156	6	0	0	0	0	{"pb": {"hb": [2496, "14.07.2018 - Trebendorf (Sa.), Oberlausitzpokal (Oldies-Cup und Oberlausitzpokal)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3455	Mäkelburg	Franzi	0	1	2018-07-05 14:26:10.171438	2018-07-05 14:26:10.171438	4	0	0	0	0	{"pb": {"hb": [2562, "14.07.2018 - Trebendorf (Sa.), Oberlausitzpokal (Oldies-Cup und Oberlausitzpokal)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3456	Gängler	Melanie	0	1	2018-07-21 16:59:38.067137	2018-07-21 16:59:38.067137	6	6	6	0	0	{"pb": {"hb": [2223, "08.09.2018 - Charlottenthal, D-Cup"], "hl": [1113, "04.08.2018 - Zeulenroda, Pokallauf (2. EuregioCup)"], "zk": [3353, "04.08.2018 - Zeulenroda, Pokallauf (2. EuregioCup)"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2990,4 +2990,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3915	Mehlhorn	Luca	1	1	2023-07-19 19:59:43.531972	2023-07-19 19:59:43.531972	0	0	5	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3916	Philipp	Malte	1	1	2023-07-19 20:00:20.043454	2023-07-19 20:00:20.043454	0	0	7	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3917	Dietze	Maik	1	1	2023-07-27 17:21:47.140148	2023-07-27 17:21:47.140148	2	0	0	0	0	{"pb": {"hb": [2400, "01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)"], "hl": null, "zk": null}, "sb": {"hb": [2400, "01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)"], "hl": null, "zk": null}}	\N
+3918	Spranger	Felix	1	1	2023-09-06 12:33:58.588281	2023-09-06 12:33:58.588281	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.

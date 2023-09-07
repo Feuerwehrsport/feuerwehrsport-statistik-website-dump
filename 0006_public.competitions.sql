@@ -2129,4 +2129,10 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2133	3. offene Hakenleitersteigen des KFV LDS e.V.	200	10	\N	2023-07-22	\N	2023-08-17 12:19:44.291023	2023-08-17 12:19:44.291023		20	26	0	0	0	0	0	0	0	0	23	22.07.2023 - Langengrassau, Pokallauf (3. offene Hakenleitersteigen des KFV LDS e.V.)	f	f	f	f
 2134	12. Flutlichtpokal	295	10	\N	2023-08-25	\N	2023-09-04 08:26:23.85222	2023-09-04 08:26:23.85222		0	0	0	0	0	0	0	8	45	53	0	25.08.2023 - Spornitz, Pokallauf (12. Flutlichtpokal)	f	f	f	f
 2135	4. Lauf BB-Cup 2022 & 25. Pokallauf	67	16	\N	2023-09-02	\N	2023-09-04 08:54:52.105172	2023-09-04 08:54:52.105172		0	0	0	0	0	0	0	0	16	8	0	02.09.2023 - Schwanebeck, BB-Cup (4. Lauf BB-Cup 2022 & 25. Pokallauf)	f	f	f	f
+2136	1. Lauf BB-Cup	208	16	\N	2023-05-13	\N	2023-09-06 08:26:15.787332	2023-09-06 08:26:15.787332		0	0	0	0	0	0	0	12	14	13	0	13.05.2023 - Zerkwitz, BB-Cup (1. Lauf BB-Cup)	f	f	f	f
+2137	Amtsausscheid Dahme/Mark	139	15	\N	2023-05-20	\N	2023-09-06 08:32:19.235207	2023-09-06 08:32:19.235207		0	0	0	0	0	0	0	2	16	18	0	20.05.2023 - Schlenzer, Amtsausscheid (Amtsausscheid Dahme/Mark)	f	f	f	f
+2138	2. Lauf BB-Cup	65	16	\N	2023-06-03	\N	2023-09-06 08:36:29.726553	2023-09-06 08:36:29.726553		0	0	0	0	0	0	0	12	26	19	0	03.06.2023 - Gehren, BB-Cup (2. Lauf BB-Cup)	f	f	f	f
+2139	3. Lauf BB-Cup - 37. Planepokal	66	16	\N	2023-06-17	\N	2023-09-06 08:42:19.765229	2023-09-06 08:42:19.765229		0	0	0	0	0	0	0	12	30	21	0	17.06.2023 - Neschholz, BB-Cup (3. Lauf BB-Cup - 37. Planepokal)	f	f	f	f
+2140	Teltow-Fläming	120	6	\N	2023-06-24	\N	2023-09-06 08:45:25.082128	2023-09-06 08:45:25.082128		0	0	0	0	0	0	0	2	22	12	0	24.06.2023 - Werbig, Kreisausscheid (Teltow-Fläming)	f	f	f	f
+2141	7. Radinkendorfer Pokallauf	183	10	\N	2023-07-09	\N	2023-09-06 08:51:19.734488	2023-09-06 08:51:19.734488		0	0	0	0	0	0	0	2	24	8	0	09.07.2023 - Radinkendorf, Pokallauf (7. Radinkendorfer Pokallauf)	f	f	f	f
 \.

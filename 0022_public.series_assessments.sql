@@ -349,4 +349,6 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 1262	89	hl		Series::TeamAssessment	1	2023-06-22 11:12:41.058663	2023-06-22 11:12:41.058663
 1271	87	fs		Series::TeamAssessment	0	2023-07-12 12:06:10.230231	2023-07-12 12:06:10.230231
 1272	87	fs		Series::TeamAssessment	1	2023-07-12 12:06:10.267848	2023-07-12 12:06:10.267848
+1275	92	la		Series::TeamAssessment	0	2023-09-06 08:59:59.071597	2023-09-06 08:59:59.071597
+1276	92	la		Series::TeamAssessment	1	2023-09-06 08:59:59.097784	2023-09-06 08:59:59.097784
 \.
