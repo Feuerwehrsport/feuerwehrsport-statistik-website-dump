@@ -1343,18 +1343,18 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 1972	Schöbel	Pascal	1	1	2016-01-20 21:36:08.487188	2016-01-20 21:36:08.487188	0	0	50	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1973	Derbsch	Florian	1	1	2016-01-20 21:36:08.490543	2016-01-20 21:36:08.490543	0	0	26	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1974	Freund	Toni	1	1	2016-01-20 21:36:08.493383	2016-01-20 21:36:08.493383	0	0	23	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1975	Ziegelmann	Paul	1	1	2016-01-20 21:36:08.496285	2016-01-20 21:36:08.496285	0	0	95	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1975	Ziegelmann	Paul	1	1	2016-01-20 21:36:08.496285	2016-01-20 21:36:08.496285	0	0	98	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1976	Seefeldt	Jessica	0	1	2016-01-20 21:36:08.49908	2016-01-20 21:36:08.49908	0	0	71	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1977	Seefeldt	Janine	0	1	2016-01-20 21:36:08.50219	2016-01-20 21:36:08.50219	0	0	38	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1977	Seefeldt	Janine	0	1	2016-01-20 21:36:08.50219	2016-01-20 21:36:08.50219	0	0	41	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1978	Landwehr	Aline	0	1	2016-01-20 21:36:08.505681	2016-01-20 21:36:08.505681	0	0	44	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1979	Jetter	Karl	1	1	2016-01-20 21:36:08.512132	2016-01-20 21:36:08.512132	0	0	101	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1980	Förster	Steffen	1	1	2016-01-20 21:36:08.51956	2016-01-20 21:36:08.51956	0	0	65	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1981	Sonntag	Ronny	1	1	2016-01-20 21:36:08.522516	2016-01-20 21:36:08.522516	0	0	87	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1982	Heinrich	Marcel	1	1	2016-01-20 21:36:08.525552	2016-01-20 21:36:08.525552	0	0	75	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1979	Jetter	Karl	1	1	2016-01-20 21:36:08.512132	2016-01-20 21:36:08.512132	0	0	114	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1980	Förster	Steffen	1	1	2016-01-20 21:36:08.51956	2016-01-20 21:36:08.51956	0	0	66	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1981	Sonntag	Ronny	1	1	2016-01-20 21:36:08.522516	2016-01-20 21:36:08.522516	0	0	94	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1982	Heinrich	Marcel	1	1	2016-01-20 21:36:08.525552	2016-01-20 21:36:08.525552	0	0	77	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1983	Warnke	Steffen	1	1	2016-01-20 21:36:08.528332	2016-01-20 21:36:08.528332	0	0	14	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1984	Winter	Jörn	1	1	2016-01-20 21:36:08.531163	2016-01-20 21:36:08.531163	2	0	87	0	0	{"pb": {"hb": [2083, "20.04.2013 - Luckenwalde, Amtsausscheid (Niederer Fläming)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1985	Möhle	Toni	1	1	2016-01-20 21:36:08.534195	2016-01-20 21:36:08.534195	0	0	101	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1986	Schirrmeister	Philipp	1	1	2016-01-20 21:36:08.537633	2016-01-20 21:36:08.537633	0	0	32	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1984	Winter	Jörn	1	1	2016-01-20 21:36:08.531163	2016-01-20 21:36:08.531163	2	0	97	0	0	{"pb": {"hb": [2083, "20.04.2013 - Luckenwalde, Amtsausscheid (Niederer Fläming)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1985	Möhle	Toni	1	1	2016-01-20 21:36:08.534195	2016-01-20 21:36:08.534195	0	0	110	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1986	Schirrmeister	Philipp	1	1	2016-01-20 21:36:08.537633	2016-01-20 21:36:08.537633	0	0	35	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1987	Seidel	Siegfried	1	1	2016-01-20 21:36:08.541454	2016-01-20 21:36:08.541454	0	0	17	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1988	Braband	Max	1	1	2016-01-20 21:36:08.544992	2016-01-20 21:36:08.544992	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1989	Lehmann	Matthias	1	1	2016-01-20 21:36:08.550243	2016-01-20 21:36:08.550243	0	0	17	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2095,7 +2095,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 2858	Pester	Tommy	1	1	2016-01-20 21:36:11.777475	2016-01-20 21:36:11.777475	12	19	0	0	0	{"pb": {"hb": [2606, "02.07.2016 - Halle, D-Cup"], "hl": [3218, "10.09.2016 - Ostseebad Nienhagen, D-Cup"], "zk": [5897, "16.06.2018 - Doberlug-Kirchhain, D-Cup"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2859	Richter	Tom	1	1	2016-01-20 21:36:11.786043	2016-01-20 21:36:11.786043	25	37	4	2	0	{"pb": {"hb": [2032, "04.08.2018 - Zeulenroda, Pokallauf (2. EuregioCup)"], "hl": [2379, "03.06.2022 - Mühlhausen, DM"], "zk": [4420, "04.08.2018 - Zeulenroda, Pokallauf (2. EuregioCup)"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2860	Habermann	Martin	1	1	2016-01-20 21:36:11.789539	2016-01-20 21:36:11.789539	0	4	9	2	0	{"pb": {"hb": null, "hl": [3754, "20.08.2016 - Taura, Landesausscheid (12. Landesmeisterschaften (Sachsen))"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2861	Teichelmann	Karsten	1	1	2016-01-20 21:36:11.796708	2016-01-20 21:36:11.796708	0	0	23	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2861	Teichelmann	Karsten	1	1	2016-01-20 21:36:11.796708	2016-01-20 21:36:11.796708	0	0	25	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2862	Schulze	Arne	1	1	2016-01-20 21:36:11.799893	2016-01-20 21:36:11.799893	0	0	11	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2863	Schulze	Nico	1	1	2016-01-20 21:36:11.802931	2016-01-20 21:36:11.802931	0	0	27	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2864	Schimmel	Michael	1	1	2016-01-20 21:36:11.805815	2016-01-20 21:36:11.805815	0	0	26	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2172,7 +2172,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 2961	Wilmke	Marco	1	1	2016-03-19 17:01:39.017257	2016-03-19 17:01:39.017257	1	0	0	0	0	{"pb": {"hb": [99999999, "19.03.2016 - Halle, Hallenpokal (19. Pokal des Oberbürgermeisters)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2962	Schindler	Tina	0	1	2016-04-23 19:28:19.64368	2016-04-23 19:28:19.64368	1	0	0	0	0	{"pb": {"hb": [2303, "12.09.2009 - Salzwedel, Landesausscheid (Landesmeisterschaft Sachsen-Anhalt)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2963	Sonntag	Kathleen	0	1	2016-04-23 19:28:19.659011	2016-04-23 19:28:19.659011	1	0	0	0	0	{"pb": {"hb": [2473, "12.09.2009 - Salzwedel, Landesausscheid (Landesmeisterschaft Sachsen-Anhalt)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2964	Bosdorf	Nico	1	1	2016-05-16 09:55:20.808846	2016-05-16 09:55:20.808846	0	0	36	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2964	Bosdorf	Nico	1	1	2016-05-16 09:55:20.808846	2016-05-16 09:55:20.808846	0	0	49	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2965	Landwehr	Paula	0	1	2016-05-16 09:55:38.769794	2016-05-16 09:55:38.769794	0	0	10	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2966	Schwanbeck	Pauline	0	1	2016-05-23 20:34:01.815914	2016-05-23 20:34:01.815914	3	4	0	0	0	{"pb": {"hb": [2461, "21.05.2016 - Zeulenroda, Landesausscheid"], "hl": [1326, "10.09.2016 - Ostseebad Nienhagen, D-Cup"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2967	Barth	Matthias	1	1	2016-05-25 18:47:38.303691	2016-05-25 18:47:38.303691	0	0	18	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2555,7 +2555,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3428	Gebauer	Vivien	0	1	2018-06-07 07:54:38.042325	2018-06-07 07:54:38.042325	2	2	1	0	0	{"pb": {"hb": [3213, "18.08.2018 - Taura, Pokallauf (Heedebockpokal)"], "hl": [1537, "02.06.2018 - Taura, Sächsischer Steigercup"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3429	Hundertmark 	Jens	1	1	2018-06-07 20:31:09.499576	2018-06-07 20:31:09.499576	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3430	Heinrich	Marco	1	1	2018-06-09 11:00:34.512924	2018-06-09 11:00:34.512924	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3432	Schulze	Fabian	1	1	2018-06-09 11:07:05.660298	2018-06-09 11:07:05.660298	0	0	10	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3432	Schulze	Fabian	1	1	2018-06-09 11:07:05.660298	2018-06-09 11:07:05.660298	0	0	17	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3433	Porst	Jonathan	1	1	2018-06-10 14:16:30.592813	2018-06-10 14:16:30.592813	0	6	0	0	0	{"pb": {"hb": null, "hl": [2553, "09.06.2018 - Techentin, MV-Cup (26. Techentiner Feuerwehrtreffen)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3434	Teufert	Sven	1	1	2018-06-10 14:16:30.604747	2018-06-10 14:16:30.604747	2	6	0	0	0	{"pb": {"hb": [2360, "15.06.2019 - Techentin, MV-Cup (27. Techentiner Feuerwehrtreffen)"], "hl": [2806, "06.09.2018 - Techentin, Kreisausscheid"], "zk": [5506, "15.06.2019 - Techentin, MV-Cup (27. Techentiner Feuerwehrtreffen)"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3435	Porst	Nele	0	1	2018-06-10 19:27:30.692479	2018-06-10 19:27:30.692479	0	1	0	0	0	{"pb": {"hb": null, "hl": [1245, "09.06.2018 - Techentin, MV-Cup (26. Techentiner Feuerwehrtreffen)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2726,7 +2726,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3626	Glogert	Erik	1	1	2019-09-07 18:19:15.425411	2019-09-07 18:19:15.425411	3	0	0	0	0	{"pb": {"hb": [2061, "07.09.2019 - Wittenberge, Landesausscheid (Brandenburg)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3627	Ludwig	Richard	1	1	2019-09-07 18:19:15.632842	2019-09-07 18:19:15.632842	2	0	0	0	0	{"pb": {"hb": [2368, "07.09.2019 - Wittenberge, Landesausscheid (Brandenburg)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3628	Leiter	Daniel	1	1	2019-09-07 18:19:15.641752	2019-09-07 18:19:15.641752	2	0	0	0	0	{"pb": {"hb": [2381, "07.09.2019 - Wittenberge, Landesausscheid (Brandenburg)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3629	Linde	Roland 	1	1	2019-09-08 06:49:55.80381	2019-09-08 06:49:55.80381	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3629	Linde	Roland 	1	1	2019-09-08 06:49:55.80381	2019-09-08 06:49:55.80381	0	0	5	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3630	Bartel	Matthias 	1	1	2019-09-08 06:50:57.147707	2019-09-08 06:50:57.147707	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3631	Reschke	Benjamin 	1	1	2019-09-08 06:51:39.2769	2019-09-08 06:51:39.2769	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3632	Garmeister	Christian 	1	1	2019-09-08 06:52:49.306408	2019-09-08 06:52:49.306408	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2763,7 +2763,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3666	Piechota	Manfred	1	1	2021-04-15 14:16:16.020327	2021-04-15 14:16:16.020327	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3667	Fürst	Nico	1	1	2021-04-15 14:16:59.780521	2021-04-15 14:16:59.780521	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3668	Dresser	Philipp	1	1	2021-04-15 14:17:21.341732	2021-04-15 14:17:21.341732	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3670	Schulze	Marcel	1	1	2021-07-16 13:09:40.564572	2021-07-16 13:09:40.564572	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3670	Schulze	Marcel	1	1	2021-07-16 13:09:40.564572	2021-07-16 13:09:40.564572	0	0	13	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3671	Oldenburg 	Marcel 	1	1	2021-07-19 13:49:52.4995	2021-07-19 13:49:52.4995	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3672	Lauck	Tobias	1	1	2021-08-07 16:15:35.619325	2021-08-07 16:15:35.619325	10	25	11	1	0	{"pb": {"hb": [2218, "03.06.2022 - Mühlhausen, DM"], "hl": [2003, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"], "zk": [4341, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"]}, "sb": {"hb": [2308, "12.08.2023 - Taura, D-Cup (4. Deutschland-Cup)"], "hl": [2003, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"], "zk": [4341, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"]}}	\N
 3673	Müller	Annie	0	1	2021-08-07 16:18:51.519516	2021-08-07 16:18:51.519516	6	10	0	0	0	{"pb": {"hb": [2411, "07.05.2022 - Techentin, D-Cup (Deutschland-Cup)"], "hl": [1229, "07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)"], "zk": [3710, "07.05.2022 - Techentin, D-Cup (Deutschland-Cup)"]}, "sb": {"hb": null, "hl": [1229, "07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)"], "zk": null}}	\N
@@ -2820,7 +2820,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3736	Hempel	Paul	1	1	2022-06-16 20:24:01.280929	2022-06-16 20:24:01.280929	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3737	Attula	Frank	1	1	2022-06-16 20:24:27.457159	2022-06-16 20:24:27.457159	0	0	12	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3738	Lohse	Philippe	1	1	2022-06-16 20:24:46.916492	2022-06-16 20:24:46.916492	0	0	9	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3739	Kuhl	Simon	1	1	2022-06-22 11:42:03.176842	2022-06-22 11:42:03.176842	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3739	Kuhl	Simon	1	1	2022-06-22 11:42:03.176842	2022-06-22 11:42:03.176842	0	0	10	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3740	Näthe	Mark	1	1	2022-06-22 12:11:22.851031	2022-06-22 12:11:22.851031	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3741	Schneider	Jonas	1	1	2022-06-27 08:13:25.405639	2022-06-27 08:13:25.405639	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3742	Wawra	Felix	1	1	2022-06-27 08:14:54.607711	2022-06-27 08:14:54.607711	2	0	0	0	0	{"pb": {"hb": [2585, "25.06.2022 - Gröningen, SA-Cup (3. Lauf Sachsen-Anhalt Pokal)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2991,4 +2991,6 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3916	Philipp	Malte	1	1	2023-07-19 20:00:20.043454	2023-07-19 20:00:20.043454	0	0	7	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3917	Dietze	Maik	1	1	2023-07-27 17:21:47.140148	2023-07-27 17:21:47.140148	2	0	0	0	0	{"pb": {"hb": [2400, "01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)"], "hl": null, "zk": null}, "sb": {"hb": [2400, "01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)"], "hl": null, "zk": null}}	\N
 3918	Spranger	Felix	1	1	2023-09-06 12:33:58.588281	2023-09-06 12:33:58.588281	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3919	Uecker	Domenic	1	1	2023-09-07 07:47:23.327972	2023-09-07 07:47:23.327972	0	0	11	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3920	Schirrmeistter	Leon	1	1	2023-09-07 07:48:48.380654	2023-09-07 07:48:48.380654	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
