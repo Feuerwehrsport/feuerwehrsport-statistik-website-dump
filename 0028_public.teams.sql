@@ -3309,7 +3309,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 659, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 721, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 722, true);
 
 
 --
@@ -3330,14 +3330,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21084, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21085, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 513, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 514, true);
 
 
 --
@@ -3358,7 +3358,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2141, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 22500, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 22509, true);
 
 
 --
@@ -3477,7 +3477,7 @@ SELECT pg_catalog.setval('public.places_id_seq', 624, true);
 -- Name: registrations_assessment_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 12371, true);
+SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 12381, true);
 
 
 --
@@ -3512,7 +3512,7 @@ SELECT pg_catalog.setval('public.registrations_people_id_seq', 3988, true);
 -- Name: registrations_teams_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_teams_id_seq', 1169, true);
+SELECT pg_catalog.setval('public.registrations_teams_id_seq', 1173, true);
 
 
 --
