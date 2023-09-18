@@ -2011,4 +2011,28 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2012	2141	2023-07-09radinkendorf-din.pdf	la_male	2023-09-06 08:55:56.952373	2023-09-06 08:55:56.952373
 2013	2141	2023-07-09radinkendorf-tgl.pdf	la_male	2023-09-06 08:55:56.954113	2023-09-06 08:55:56.954113
 2014	2141	01_Endergebnisse_2023.pdf	la_female,la_male	2023-09-06 08:56:50.922853	2023-09-06 08:56:50.922853
+2015	2142	ergebnis-hakenleitersteigen-ak-2-jungen.pdf		2023-09-17 19:20:19.749586	2023-09-17 19:20:19.749586
+2016	2142	ergebnis-hakenleitersteigen-ak-2-madchen.pdf		2023-09-17 19:20:24.101708	2023-09-17 19:20:24.101708
+2017	2142	ergebnis-hakenleitersteigen-ak-1-madchen.pdf		2023-09-17 19:20:28.25737	2023-09-17 19:20:28.25737
+2018	2142	ergebnis-hakenleitersteigen-ak-1-jungen.pdf		2023-09-17 19:20:32.170944	2023-09-17 19:20:32.170944
+2019	2142	ergebnis-hakenleitersteigen-manner-nachwuchs.pdf		2023-09-17 19:20:35.753949	2023-09-17 19:20:35.753949
+2020	2142	ergebnis-hakenleitersteigen-frauen-nachwuchs.pdf		2023-09-17 19:20:40.205074	2023-09-17 19:20:40.205074
+2021	2142	ergebnis-hakenleitersteigen-manner.pdf		2023-09-17 19:20:45.918974	2023-09-17 19:20:45.918974
+2022	2142	ergebnis-hakenleitersteigen-frauen.pdf		2023-09-17 19:20:49.848038	2023-09-17 19:20:49.848038
+2023	2143	ergebnis-loschangriff-nass-landerlauf-frauen.pdf	la_female	2023-09-17 19:35:25.867573	2023-09-17 19:35:25.867573
+2024	2143	ergebnis-loschangriff-nass-landerlauf-manner.pdf	la_male	2023-09-17 19:35:33.973327	2023-09-17 19:35:33.973327
+2025	2143	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2023-09-17 19:35:39.592085	2023-09-17 19:35:39.592085
+2026	2143	ergebnis-loschangriff-nass-manner.pdf	la_male	2023-09-17 19:35:44.173613	2023-09-17 19:35:44.173613
+2027	2143	ergebnis-loschangriff-nass-frauen.pdf	la_female	2023-09-17 19:35:49.00377	2023-09-17 19:35:49.00377
+2028	2142	ergebnis-gruppenstafette-frauen.pdf		2023-09-17 19:59:11.684885	2023-09-17 19:59:11.684885
+2029	2142	ergebnis-4x100m-feuerwehrstafette-manner.pdf		2023-09-17 19:59:15.888579	2023-09-17 19:59:15.888579
+2030	2142	ergebnis-loschangriff-nass-manner.pdf		2023-09-17 19:59:19.533409	2023-09-17 19:59:19.533409
+2031	2142	ergebnis-hakenleitersteigen-manner.pdf		2023-09-17 19:59:23.048744	2023-09-17 19:59:23.048744
+2032	2142	ergebnis-100m-hindernisbahn-manner.pdf		2023-09-17 19:59:28.248131	2023-09-17 19:59:28.248131
+2033	2142	ergebnis-zweikampf-manner.pdf		2023-09-17 19:59:32.212244	2023-09-17 19:59:32.212244
+2034	2142	ergebnis-4x100m-feuerwehrstafette-frauen.pdf		2023-09-17 19:59:36.055608	2023-09-17 19:59:36.055608
+2035	2142	ergebnis-loschangriff-nass-frauen.pdf		2023-09-17 19:59:40.52495	2023-09-17 19:59:40.52495
+2036	2142	ergebnis-hakenleitersteigen-frauen.pdf		2023-09-17 19:59:45.790123	2023-09-17 19:59:45.790123
+2037	2142	ergebnis-100m-hindernisbahn-frauen.pdf		2023-09-17 19:59:50.864723	2023-09-17 19:59:50.864723
+2038	2142	ergebnis-zweikampf-frauen.pdf		2023-09-17 19:59:56.779084	2023-09-17 19:59:56.779084
 \.

@@ -224,7 +224,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 223	2023-04-29	1. D-Cup	Weitere Infos folgen.	1	la,gs,hl	2022-11-10 20:29:21.734541	2022-11-10 20:29:21.734541	1	AdminUser	Nudersdorf
 224	2023-05-13	2. D-Cup	Weitere Infos folgen.	1	la,gs,hl,hb,hw	2022-11-10 20:30:39.973059	2022-11-10 20:30:39.973059	1	AdminUser	Charlottenthal
 225	2023-07-01	Sachsenpokal	Weitere Infos folgen.	10	la,gs,hl,hb,hw	2022-11-10 20:31:27.537356	2023-03-21 15:51:35.09517	1	AdminUser	Trebendorf (Sa.)
-226	2023-09-16	Landesmeisterschaft Sachsen-Anhalt	Weitere Infos folgen.	2	la,fs,hb,hw	2022-11-10 20:33:07.337017	2023-08-15 19:44:57.745907	1	AdminUser	
+226	2023-09-16	Landesmeisterschaft Sachsen-Anhalt	Weitere Infos folgen.	2	la,gs,hb,hw	2022-11-10 20:33:07.337017	2023-09-17 18:40:43.618766	1	AdminUser	
 227	2023-09-16	Landesmeistschaft Thüringen	Weitere Infos folgen.	2	la	2022-11-10 20:33:41.855081	2022-11-10 20:33:41.855081	1	AdminUser	
 228	2024-06-01	Landesmeisterschaft Sachsen	Weitere Infos folgen.	2	la,fs,gs,hl,hb,hw	2022-11-10 20:34:40.288307	2023-09-12 08:38:20.87127	1	AdminUser	Leipzig
 229	2023-09-02	10. Lewitz-Cup	Der Lewitz-Cup findet auch im Jahr 2023 statt. \nAuf dem Sportplatz in Tramm können die Feuerwehren dann erneut um die Bestzeit in der TGL-Wertung kämpfen.\n\nWeitere Infos zum Wettkampfablauf folgen.	10	la	2022-11-13 14:48:54.50893	2022-12-18 12:30:21.040776	611	AdminUser	Tramm
