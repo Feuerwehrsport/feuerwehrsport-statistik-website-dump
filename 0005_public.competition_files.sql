@@ -2035,4 +2035,16 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2036	2142	ergebnis-hakenleitersteigen-frauen.pdf		2023-09-17 19:59:45.790123	2023-09-17 19:59:45.790123
 2037	2142	ergebnis-100m-hindernisbahn-frauen.pdf		2023-09-17 19:59:50.864723	2023-09-17 19:59:50.864723
 2038	2142	ergebnis-zweikampf-frauen.pdf		2023-09-17 19:59:56.779084	2023-09-17 19:59:56.779084
+2039	2147	gesamtwertungen.pdf		2023-09-24 11:37:28.64481	2023-09-24 11:37:28.64481
+2040	2147	ergebnis-loschangriff-nass-frauen.pdf	la_female	2023-09-24 11:37:37.587816	2023-09-24 11:37:37.587816
+2041	2147	ergebnis-loschangriff-nass-manner.pdf		2023-09-24 11:37:44.252042	2023-09-24 11:37:44.252042
+2042	2147	ergebnis-100m-hindernisbahn-trebelpokal.pdf		2023-09-24 11:37:49.853343	2023-09-24 11:37:49.853343
+2043	2147	ergebnis-gruppenstafette-frauen.pdf		2023-09-24 11:37:55.073193	2023-09-24 11:37:55.073193
+2044	2147	ergebnis-4x100m-feuerwehrstafette-manner.pdf		2023-09-24 11:38:01.776337	2023-09-24 11:38:01.776337
+2045	2147	ergebnis-hakenleitersteigen-manner.pdf		2023-09-24 11:38:09.157613	2023-09-24 11:38:09.157613
+2046	2147	ergebnis-100m-hindernisbahn-manner.pdf		2023-09-24 11:38:15.954412	2023-09-24 11:38:15.954412
+2047	2147	ergebnis-4x100m-feuerwehrstafette-frauen.pdf		2023-09-24 11:38:26.305073	2023-09-24 11:38:26.305073
+2048	2147	ergebnis-hakenleitersteigen-frauen.pdf		2023-09-24 11:38:36.012033	2023-09-24 11:38:36.012033
+2049	2147	ergebnis-100m-hindernisbahn-frauen.pdf		2023-09-24 11:38:41.667033	2023-09-24 11:38:41.667033
+2050	2147	ergebnis-hakenleitersteigen-trebelpokal.pdf		2023-09-24 11:38:51.881497	2023-09-24 11:38:51.881497
 \.

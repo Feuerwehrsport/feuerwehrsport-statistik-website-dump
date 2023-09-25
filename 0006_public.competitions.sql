@@ -2140,4 +2140,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2144	Brandenburg	625	2	4	2023-09-09	\N	2023-09-17 19:40:19.329158	2023-09-17 19:56:33.246368		48	44	48	48	8	8	9	14	36	62	53	09.09.2023 - Königswusterhausen, Landesausscheid (Brandenburg)	t	t	t	t
 2145		626	10	\N	2023-09-03	\N	2023-09-17 19:48:12.555496	2023-09-17 19:48:12.555496		0	0	0	0	0	0	0	1	6	7	0	03.09.2023 - Rothenburg, Pokallauf	f	f	f	f
 2146	Thüringen	164	2	\N	2023-09-16	\N	2023-09-18 20:11:34.307304	2023-09-18 20:15:15.922266		4	18	0	12	0	0	0	10	20	17	13	16.09.2023 - Gamstädt, Landesausscheid (Thüringen)	t	t	t	t
+2147	Mecklenburg-Vorpommern	3	2	3	2023-09-23	\N	2023-09-24 11:33:45.57798	2023-09-24 11:39:31.512433		22	28	22	24	4	4	5	20	50	36	28	23.09.2023 - Tribsees, Landesausscheid (Mecklenburg-Vorpommern)	f	f	f	f
 \.
