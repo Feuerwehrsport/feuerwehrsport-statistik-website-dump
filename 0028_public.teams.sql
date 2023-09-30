@@ -3303,6 +3303,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3920	FF Gosda	Gosda	1	\N	\N	\N		2023-09-17 19:53:50.127859	2023-09-17 19:53:50.127859	\N	0	0
 3921	Team Föritztal	Föritztal	0	\N	\N	\N		2023-09-18 20:11:57.503581	2023-09-18 20:11:57.503581	\N	0	1
 3922	FF Grabow	Grabow	1	\N	\N	\N		2023-09-24 11:36:32.794242	2023-09-24 11:36:32.794242	\N	0	1
+3923	Feuerwehr Löberitz 	FF Löberitz 	1	\N	\N	\N		2023-09-29 20:29:11.903054	2023-09-29 20:29:11.903054	\N	0	0
 \.
 
 
@@ -3317,7 +3318,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 661, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 735, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 736, true);
 
 
 --
@@ -3338,7 +3339,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21263, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21264, true);
 
 
 --
@@ -3366,7 +3367,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2147, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 22935, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 22937, true);
 
 
 --
@@ -3590,4 +3591,4 @@ SELECT pg_catalog.setval('public.team_spellings_id_seq', 279, true);
 -- Name: teams_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.teams_id_seq', 3922, true);
+SELECT pg_catalog.setval('public.teams_id_seq', 3923, true);
