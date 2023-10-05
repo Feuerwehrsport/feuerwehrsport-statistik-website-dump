@@ -2047,4 +2047,5 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2048	2147	ergebnis-hakenleitersteigen-frauen.pdf		2023-09-24 11:38:36.012033	2023-09-24 11:38:36.012033
 2049	2147	ergebnis-100m-hindernisbahn-frauen.pdf		2023-09-24 11:38:41.667033	2023-09-24 11:38:41.667033
 2050	2147	ergebnis-hakenleitersteigen-trebelpokal.pdf		2023-09-24 11:38:51.881497	2023-09-24 11:38:51.881497
+2051	2148	Klasirane-2-1.pdf		2023-10-04 08:47:56.264184	2023-10-04 08:47:56.264184
 \.

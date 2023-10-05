@@ -2141,4 +2141,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2145		626	10	\N	2023-09-03	\N	2023-09-17 19:48:12.555496	2023-09-17 19:48:12.555496		0	0	0	0	0	0	0	1	6	7	0	03.09.2023 - Rothenburg, Pokallauf	f	f	f	f
 2146	Thüringen	164	2	\N	2023-09-16	\N	2023-09-18 20:11:34.307304	2023-09-18 20:15:15.922266		4	18	0	12	0	0	0	10	20	17	13	16.09.2023 - Gamstädt, Landesausscheid (Thüringen)	t	t	t	t
 2147	Mecklenburg-Vorpommern	3	2	3	2023-09-23	\N	2023-09-24 11:33:45.57798	2023-09-25 11:08:52.601793		22	28	22	24	4	4	5	20	50	36	28	23.09.2023 - Tribsees, Landesausscheid (Mecklenburg-Vorpommern)	t	t	t	t
+2148	Odessos Cup	627	10	1	2023-09-25	\N	2023-10-04 08:26:15.189657	2023-10-04 08:47:23.38144		0	14	0	16	0	0	1	0	1	1	7	25.09.2023 - Varna, Pokallauf (Odessos Cup)	t	t	t	t
 \.

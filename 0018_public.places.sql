@@ -615,4 +615,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 624	Letschin	\N	\N	2023-07-12 11:54:15.315948	2023-07-12 11:54:15.315948
 625	Königswusterhausen	\N	\N	2023-09-17 19:40:13.458509	2023-09-17 19:40:13.458509
 626	Rothenburg	\N	\N	2023-09-17 19:48:02.628209	2023-09-17 19:48:02.628209
+627	Varna	\N	\N	2023-10-04 08:25:41.369331	2023-10-04 08:25:41.369331
 \.
