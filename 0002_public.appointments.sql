@@ -261,5 +261,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 260	2023-09-15	Finale Sachsen-Anhalt-Cup - 19. Pokallauf	Die Feuerwehr Gröningen und die Eintracht Gröningen laden zum Finallauf des Sachsen-Anhalt-Pokals im Löschangriff ein. Zum ersten Mal am Abend erwarten wir euch am Freitag zu 18.00 Uhr am Sportplatz Gröningen.	18	la,hb	2023-08-18 19:04:10.299728	2023-08-18 19:04:10.299728	18	AdminUser	Gröningen
 261	2024-08-17	Deutschland-Cup	Weitere Informationen folgen.	1	la,gs,hl,hb,hw	2023-08-19 20:30:05.783883	2023-08-19 20:30:05.783883	1	AdminUser	Ostseebad Nienhagen
 262	2024-08-10	Deutschland-Cup	Weitere Informationen folgen.	1	la,gs,hl,hb,hw	2023-08-19 20:30:49.253125	2023-08-19 20:30:49.253125	1	AdminUser	Nudersdorf
-263	2024-06-15	Deutschland-Cup	Weitere Informationen folgen.	1	la,fs,gs,hl,hb,hw	2023-08-19 20:31:38.37571	2023-08-19 20:31:38.37571	1	AdminUser	Letschin
+263	2024-06-22	Deutschland-Cup	Weitere Informationen folgen.	1	la,fs,gs,hl,hb,hw	2023-08-19 20:31:38.37571	2023-10-08 18:47:10.515872	1	AdminUser	Letschin
 \.
