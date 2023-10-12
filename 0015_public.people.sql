@@ -3021,4 +3021,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3946	Helbing	Michael	1	1	2023-10-04 19:00:49.980222	2023-10-04 19:00:49.980222	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3947	Spens	Pierre	1	1	2023-10-04 19:01:56.758103	2023-10-04 19:01:56.758103	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3948	Hennig	Michael 	1	1	2023-10-04 19:02:52.723774	2023-10-04 19:02:52.723774	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3949	Schulze	Marcel 	1	1	2023-10-10 10:39:48.946626	2023-10-10 10:39:48.946626	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3950	Lemke	Aimee	0	1	2023-10-10 12:56:53.914219	2023-10-10 12:56:53.914219	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3951	Kutschera	Tina	0	1	2023-10-10 12:57:18.709251	2023-10-10 12:57:18.709251	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.

@@ -262,4 +262,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 261	2024-08-17	Deutschland-Cup	Weitere Informationen folgen.	1	la,gs,hl,hb,hw	2023-08-19 20:30:05.783883	2023-08-19 20:30:05.783883	1	AdminUser	Ostseebad Nienhagen
 262	2024-08-10	Deutschland-Cup	Weitere Informationen folgen.	1	la,gs,hl,hb,hw	2023-08-19 20:30:49.253125	2023-08-19 20:30:49.253125	1	AdminUser	Nudersdorf
 263	2024-06-22	Deutschland-Cup	Weitere Informationen folgen.	1	la,fs,gs,hl,hb,hw	2023-08-19 20:31:38.37571	2023-10-08 18:47:10.515872	1	AdminUser	Letschin
+264	2024-09-14	18. Nachtpokal Gräfendorf - Die große Löschnacht	- LA für Frauen und Männer mit freier Pumpenwahl -\n\nInfos:\nUnter Flutlicht wird die Ausrüstung gepackt. Danach erlischt es und eine Hand voll Fackeln erhellen die Wettkampfbahn. Die Läufe finden nahezu im Finstern statt. Nur die Zieleinrichtung wird angestrahlt.	10	la	2023-10-10 13:05:30.663151	2023-10-10 13:06:22.686296	744	ApiUser	Gräfendorf
 \.
