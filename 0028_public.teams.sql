@@ -713,7 +713,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 801	FF Kiesdorf	Kiesdorf	1	51.0327584057	14.8751449585	\N	SN	2016-01-20 21:32:16.387127	2016-01-20 21:32:16.387127	2016-01-20 21:32:16.387127	0	51
 803	FF Mülsen St. Jacob	Mülsen St. Jacob	1	50.7373761000	12.5782530000	\N	SN	2016-01-20 21:32:16.390367	2016-01-20 21:32:16.390367	2016-01-20 21:32:16.390367	0	12
 804	FF Kühren	Kühren	1	51.3405587773	12.8442621231	\N	SN	2016-01-20 21:32:16.393868	2016-01-20 21:32:16.393868	2016-01-20 21:32:16.393868	5	13
-805	FF Elend	Elend	1	51.7428949093	10.6877660751	\N	ST	2016-01-20 21:32:16.396721	2016-01-20 21:32:16.396721	2016-01-20 21:32:16.396721	1	40
+805	FF Elend	Elend	1	51.7428949093	10.6877660751	\N	ST	2016-01-20 21:32:16.396721	2016-01-20 21:32:16.396721	2016-01-20 21:32:16.396721	10	40
 806	FF Rackwitz	Rackwitz	1	51.4390092000	12.3714685000	\N	SN	2016-01-20 21:32:16.400513	2016-01-20 21:32:16.400513	2016-01-20 21:32:16.400513	0	5
 807	FF Meisdorf-Westdorf	Meisdorf-Westdorf	1	51.7101883000	11.2959187000	\N	ST	2016-01-20 21:32:16.404256	2016-01-20 21:32:16.404256	2016-01-20 21:32:16.404256	0	6
 808	FF Ortwig	Ortwig	0	52.7031775000	14.3571838000	\N	BB	2016-01-20 21:32:16.407636	2019-12-16 11:11:57.38207	2016-01-20 21:32:16.407636	0	21
@@ -1140,7 +1140,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1318	FF Weimar-Ehringsdorf	Weimar-Ehringsdorf	1	50.9577610631	11.3450789452	\N	TH	2016-01-20 21:32:19.505478	2016-01-20 21:32:19.505478	2016-01-20 21:32:19.505478	0	10
 1319	FF Remda-Teichel	Remda-Teichel	1	50.7742474651	11.2584114075	\N	TH	2016-01-20 21:32:19.508284	2016-01-20 21:32:19.508284	2016-01-20 21:32:19.508284	0	1
 1320	FF Mannstedt	Mannstedt	1	51.1360626966	11.3917922974	\N	TH	2016-01-20 21:32:19.511362	2016-01-20 21:32:19.511362	2016-01-20 21:32:19.511362	0	2
-1321	FF Lindenberg	Lindenberg	1	50.2978932385	11.2364387512	emblem_3.jpg	TH	2016-01-20 21:32:19.514077	2019-04-11 09:26:08.29957	2016-01-20 21:32:19.514077	22	37
+1321	FF Lindenberg	Lindenberg	1	50.2978932385	11.2364387512	emblem_3.jpg	TH	2016-01-20 21:32:19.514077	2019-04-11 09:26:08.29957	2016-01-20 21:32:19.514077	25	37
 1322	FF Fambach	Fambach	1	50.7358032775	10.3680038452	\N	TH	2016-01-20 21:32:19.516659	2016-01-20 21:32:19.516659	2016-01-20 21:32:19.516659	0	9
 1323	FF Rothenberga	Rothenberga	1	51.2008603355	11.4226913452	\N	TH	2016-01-20 21:32:19.51919	2016-01-20 21:32:19.51919	2016-01-20 21:32:19.51919	0	1
 1324	FF Remda	Remda	1	50.7616534130	11.2290573120	\N	TH	2016-01-20 21:32:19.521697	2016-01-20 21:32:19.521697	2016-01-20 21:32:19.521697	0	5
@@ -1973,7 +1973,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2339	FF Nächst Neuendorf	Nächst Neuendorf	1	52.2252758277	13.4179115295	\N	BB	2016-01-20 21:32:26.118205	2016-01-20 21:32:26.118205	2016-01-20 21:32:26.118205	0	3
 2340	FF Seidewinkel	Seidewinkel	1	51.4557183904	14.2454910278	\N	SN	2016-01-20 21:32:26.120728	2016-01-20 21:32:26.120728	2016-01-20 21:32:26.120728	0	2
 2342	Team NeuSchmorBach	NeuSchmorBach	0	51.2962224255	13.9183902740	\N	SN	2016-01-20 21:32:26.123162	2016-01-20 21:32:26.123162	2016-01-20 21:32:26.123162	4	9
-2344	FF Trautenstein	Trautenstein	1	51.6853281436	10.7837677002	\N	ST	2016-01-20 21:32:26.125828	2016-01-20 21:32:26.125828	2016-01-20 21:32:26.125828	0	12
+2344	FF Trautenstein	Trautenstein	1	51.6853281436	10.7837677002	\N	ST	2016-01-20 21:32:26.125828	2016-01-20 21:32:26.125828	2016-01-20 21:32:26.125828	2	12
 2346	FF Swierzawa-Dürrhennersdorf	Swierzawa-Dürrhennersdorf	1	\N	\N	\N		2016-01-20 21:32:26.137246	2018-09-20 13:00:58.752399	2018-09-20 13:00:56	0	1
 2347	FF Swierzawa	Swierzawa	1	51.0150506148	15.8886337280	\N	PL	2016-01-20 21:32:26.139798	2016-01-20 21:32:26.139798	2016-01-20 21:32:26.139798	0	2
 2349	Team Landkreis Rostock	Landkreis Rostock	0	53.9209865000	12.2936835240	11135px-Wappen_Landkreis_Rostock.png	MV	2016-01-20 21:32:26.223268	2018-01-22 19:52:57.08674	2018-01-22 19:52:55	64	5
@@ -3311,14 +3311,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 662, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 663, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 744, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 746, true);
 
 
 --
@@ -3339,7 +3339,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21308, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21340, true);
 
 
 --
@@ -3367,7 +3367,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2148, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 23023, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 23088, true);
 
 
 --
@@ -3444,7 +3444,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 656, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 657, true);
 
 
 --
@@ -3458,14 +3458,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 3951, true);
+SELECT pg_catalog.setval('public.people_id_seq', 3966, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 19958, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 20017, true);
 
 
 --
