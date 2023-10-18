@@ -263,4 +263,8 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 262	2024-08-10	Deutschland-Cup	Weitere Informationen folgen.	1	la,gs,hl,hb,hw	2023-08-19 20:30:49.253125	2023-08-19 20:30:49.253125	1	AdminUser	Nudersdorf
 263	2024-06-22	Deutschland-Cup	Weitere Informationen folgen.	1	la,fs,gs,hl,hb,hw	2023-08-19 20:31:38.37571	2023-10-08 18:47:10.515872	1	AdminUser	Letschin
 264	2024-09-14	18. Nachtpokal Gräfendorf - Die große Löschnacht	- LA für Frauen und Männer mit freier Pumpenwahl -\n\nInfos:\nUnter Flutlicht wird die Ausrüstung gepackt. Danach erlischt es und eine Hand voll Fackeln erhellen die Wettkampfbahn. Die Läufe finden nahezu im Finstern statt. Nur die Zieleinrichtung wird angestrahlt.	10	la	2023-10-10 13:05:30.663151	2023-10-10 13:06:22.686296	744	ApiUser	Gräfendorf
+265	2024-06-29	Brandenburger 4-Bahnenpokal	Löschangriff TGL-Wertung und DIN-Wertung	32	la	2023-10-17 13:31:06.411851	2023-10-17 13:31:06.411851	750	ApiUser	Stücken
+266	2024-07-13	2.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN- Wertung	32	la	2023-10-17 14:50:49.921874	2023-10-17 14:50:49.921874	751	ApiUser	Groß Muckrow
+267	2024-09-14	3. Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	32	la	2023-10-17 14:52:37.442433	2023-10-17 14:52:37.442433	751	ApiUser	Libbenichen
+268	2024-10-05	Supercup und Oderpokal - 4.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	\N	la	2023-10-17 14:57:15.525143	2023-10-17 14:57:37.386253	751	ApiUser	Genschmar
 \.
