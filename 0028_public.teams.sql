@@ -3367,7 +3367,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2148, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 23114, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 23140, true);
 
 
 --
@@ -3486,35 +3486,35 @@ SELECT pg_catalog.setval('public.places_id_seq', 627, true);
 -- Name: registrations_assessment_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 12399, true);
+SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 12412, true);
 
 
 --
 -- Name: registrations_assessments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessments_id_seq', 738, true);
+SELECT pg_catalog.setval('public.registrations_assessments_id_seq', 743, true);
 
 
 --
 -- Name: registrations_bands_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_bands_id_seq', 80, true);
+SELECT pg_catalog.setval('public.registrations_bands_id_seq', 85, true);
 
 
 --
 -- Name: registrations_competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_competitions_id_seq', 92, true);
+SELECT pg_catalog.setval('public.registrations_competitions_id_seq', 93, true);
 
 
 --
 -- Name: registrations_people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_people_id_seq', 3988, true);
+SELECT pg_catalog.setval('public.registrations_people_id_seq', 4001, true);
 
 
 --
@@ -3577,7 +3577,7 @@ SELECT pg_catalog.setval('public.series_rounds_id_seq', 92, true);
 -- Name: tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.tags_id_seq', 1134, true);
+SELECT pg_catalog.setval('public.tags_id_seq', 1142, true);
 
 
 --
