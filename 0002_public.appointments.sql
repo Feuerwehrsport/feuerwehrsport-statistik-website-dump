@@ -267,4 +267,6 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 266	2024-07-13	2.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN- Wertung	32	la	2023-10-17 14:50:49.921874	2023-10-17 14:50:49.921874	751	ApiUser	Groß Muckrow
 267	2024-09-14	3. Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	32	la	2023-10-17 14:52:37.442433	2023-10-17 14:52:37.442433	751	ApiUser	Libbenichen
 268	2024-10-05	Supercup und Oderpokal - 4.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	\N	la	2023-10-17 14:57:15.525143	2023-10-17 14:57:37.386253	751	ApiUser	Genschmar
+269	2024-01-06	Neujahrssteigen	Neujahrsstiegen	\N	hl	2023-10-23 05:59:48.05652	2023-10-23 06:00:06.331464	752	ApiUser	Langengrassau
+270	2024-09-21	Deutschland-Cup	4. Lauf Deutschland-Cup	1	la,fs,gs,hl,hb,hw	2023-10-23 06:02:08.823825	2023-10-23 06:02:08.823825	752	ApiUser	Marolterode
 \.
