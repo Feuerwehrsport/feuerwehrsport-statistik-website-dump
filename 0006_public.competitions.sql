@@ -2142,4 +2142,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2146	Thüringen	164	2	\N	2023-09-16	\N	2023-09-18 20:11:34.307304	2023-09-18 20:15:15.922266		4	18	0	12	0	0	0	10	20	17	13	16.09.2023 - Gamstädt, Landesausscheid (Thüringen)	t	t	t	t
 2147	Mecklenburg-Vorpommern	3	2	3	2023-09-23	\N	2023-09-24 11:33:45.57798	2023-09-25 11:08:52.601793		22	28	22	24	4	4	5	20	50	36	28	23.09.2023 - Tribsees, Landesausscheid (Mecklenburg-Vorpommern)	t	t	t	t
 2148	Odessos Cup	627	10	1	2023-09-25	\N	2023-10-04 08:26:15.189657	2023-10-04 08:47:23.38144		0	14	0	16	0	0	1	0	1	1	7	25.09.2023 - Varna, Pokallauf (Odessos Cup)	t	t	t	t
+2149	Amt Neukloster-Warin	628	15	\N	2010-07-24	\N	2023-10-24 20:45:17.721706	2023-10-24 20:45:17.721706		0	0	0	0	0	0	0	4	22	13	0	24.07.2010 - Züsow, Amtsausscheid (Amt Neukloster-Warin)	f	f	f	f
 \.
