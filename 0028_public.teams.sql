@@ -3279,34 +3279,31 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3895	FF Rothenburg	Rothenburg	1	51.3259255459	14.9667155743	\N	SN	2023-05-10 12:49:23.94816	2023-05-11 19:58:17.305183	2023-05-11 19:57:50	0	2
 3896	SDH Slatiny	Slatiny	1	\N	\N	\N		2023-05-15 09:05:50.054042	2023-05-15 09:05:50.054042	\N	0	1
 3897	SDH Slatiny, Czech Republic	SDH Slatiny, Czech Republic	0	\N	\N	\N		2023-05-15 09:06:28.705287	2023-05-15 09:06:28.705287	\N	12	2
-3899	Amt Bad Doberan-Land mit Rerik	DBR-Land mit Rerik	0	\N	\N	\N		2023-07-01 17:05:32.506274	2023-07-01 17:05:32.506274	\N	7	1
-3900	FF Gnoien	Gnoien	1	\N	\N	\N		2023-07-01 17:09:23.137165	2023-07-01 17:09:23.137165	\N	0	1
+3899	Amt Bad Doberan-Land mit Rerik	DBR-Land mit Rerik	0	\N	\N	\N	MV	2023-07-01 17:05:32.506274	2023-10-25 13:08:09.044706	2023-10-25 13:08:07	7	1
+3900	FF Gnoien	Gnoien	1	53.9703915000	12.7054032000	\N	MV	2023-07-01 17:09:23.137165	2023-10-25 13:07:53.223573	2023-10-25 13:07:51	0	1
 3901	FF Behren-Lübchin	Behren-Lübchin	1	54.0277384452	12.6644897461	\N		2023-07-01 17:09:32.479555	2023-07-19 20:56:09.903756	\N	0	2
 3902	FF Giesenlage	Giesenlage	1	\N	\N	\N		2023-07-06 08:27:44.90068	2023-07-06 08:27:44.90068	\N	0	1
-3903	FF Dahlen	Dahlen	1	\N	\N	\N		2023-07-06 08:27:48.997117	2023-07-06 08:27:48.997117	\N	0	1
-3904	FF Parchau	Parchau	1	\N	\N	\N		2023-08-09 10:51:37.819046	2023-08-09 10:51:37.819046	\N	0	1
-3905	FF Hagenow	Hagenow	1	\N	\N	\N		2023-09-04 08:29:06.638722	2023-09-04 08:29:06.638722	\N	0	1
-3906	FF Team M&M	Team M&M	0	\N	\N	\N		2023-09-04 08:29:14.966111	2023-09-04 08:29:14.966111	\N	0	0
-3907	Team M&M	Team M&M	0	\N	\N	\N		2023-09-04 08:29:30.442855	2023-09-04 08:29:30.442855	\N	0	0
-3908	Team M&M	M&M	0	\N	\N	\N		2023-09-04 08:29:59.098989	2023-09-04 08:29:59.098989	\N	0	0
-3909	FF Demen	Demen	1	\N	\N	\N		2023-09-04 08:32:20.835565	2023-09-04 08:32:20.835565	\N	0	1
-3910	FF Obere Warnow	Obere Warnow	1	\N	\N	\N		2023-09-04 08:32:24.146939	2023-09-04 08:32:24.146939	\N	0	1
+3903	FF Dahlen	Dahlen	1	52.5622416000	11.8284130000	\N	ST	2023-07-06 08:27:48.997117	2023-10-25 13:07:38.976316	2023-10-25 13:07:37	0	1
+3904	FF Parchau	Parchau	1	52.3215530000	11.8830626000	\N	ST	2023-08-09 10:51:37.819046	2023-10-25 13:08:40.686137	2023-10-25 13:08:39	0	1
+3905	FF Hagenow	Hagenow	1	53.4305796000	11.1904828000	\N	MV	2023-09-04 08:29:06.638722	2023-10-25 13:07:07.217211	2023-10-25 13:07:05	0	1
+3909	FF Demen	Demen	1	53.6290231000	11.7634251000	\N	MV	2023-09-04 08:32:20.835565	2023-10-25 13:06:17.074336	2023-10-25 13:06:02	0	1
+3910	FF Obere Warnow	Obere Warnow	1	53.5301731000	11.8884665000	\N	MV	2023-09-04 08:32:24.146939	2023-10-25 13:05:01.868264	2023-10-25 13:05:00	0	1
 3911	FF Ländeken	Ländeken	1	\N	\N	\N		2023-09-06 08:33:43.655082	2023-09-06 08:33:43.655082	\N	0	1
 3912	Team Gräfendorf/Werbig	Gräfendorf/Werbig	0	\N	\N	\N		2023-09-06 08:33:52.100592	2023-09-06 08:33:52.100592	\N	14	2
-3913	FF Cottbus-Saspow	Cottbus-Saspow	1	\N	\N	\N		2023-09-06 08:38:07.529413	2023-09-06 08:38:07.529413	\N	0	1
-3914	FF Wiesenau	Wiesenau	1	\N	\N	\N		2023-09-06 08:53:17.09204	2023-09-06 08:53:17.09204	\N	0	1
-3915	FF Karow Berlin	Karow Berlin	1	\N	\N	\N		2023-09-17 19:33:49.776816	2023-09-17 19:33:49.776816	\N	0	1
+3913	FF Cottbus-Saspow	Cottbus-Saspow	1	51.7875894500	14.3575198209	\N	BB	2023-09-06 08:38:07.529413	2023-10-25 13:06:35.986063	2023-10-25 13:06:35	0	1
+3914	FF Wiesenau	Wiesenau	1	52.2309612000	14.5910238000	\N	BB	2023-09-06 08:53:17.09204	2023-10-25 13:05:36.107395	2023-10-25 13:05:34	0	1
+3915	FF Karow Berlin	Karow Berlin	1	52.6150868000	13.4862758000	\N	BE	2023-09-17 19:33:49.776816	2023-10-25 13:04:46.406258	2023-10-25 13:04:45	0	1
 3916	FF Bräunsdorf-Freiberg	Bräunsdorf-Freiberg	1	\N	\N	\N		2023-09-17 19:33:55.014126	2023-09-17 19:33:55.014126	\N	0	1
 3917	FF Bräunsdorf-Limbach-Oberfrona	Bräunsdorf-Limbach-Oberfrona	1	\N	\N	\N		2023-09-17 19:33:58.992132	2023-09-17 19:33:58.992132	\N	0	1
-3918	FF Biehain	Biehain	1	\N	\N	\N		2023-09-17 19:49:34.395026	2023-09-17 19:49:34.395026	\N	0	1
+3918	FF Biehain	Biehain	1	51.2939266000	14.9334349000	\N	SN	2023-09-17 19:49:34.395026	2023-10-25 13:04:24.770547	2023-10-25 13:04:23	0	1
 3919	FF Saspow	Saspow	1	\N	\N	\N		2023-09-17 19:53:47.229291	2023-09-17 19:53:47.229291	\N	0	1
 3920	FF Gosda	Gosda	1	\N	\N	\N		2023-09-17 19:53:50.127859	2023-09-17 19:53:50.127859	\N	0	0
 3921	Team Föritztal	Föritztal	0	\N	\N	\N		2023-09-18 20:11:57.503581	2023-09-18 20:11:57.503581	\N	0	1
-3922	FF Grabow	Grabow	1	\N	\N	\N		2023-09-24 11:36:32.794242	2023-09-24 11:36:32.794242	\N	0	1
-3923	Feuerwehr Löberitz 	FF Löberitz 	1	\N	\N	\N		2023-09-29 20:29:11.903054	2023-09-29 20:29:11.903054	\N	0	0
-3924	FF Lübberstorf	Lübberstorf	1	\N	\N	\N		2023-10-24 20:45:34.670253	2023-10-24 20:45:34.670253	\N	0	1
-3925	FF Glasin	Glasin	1	\N	\N	\N		2023-10-24 20:45:56.244817	2023-10-24 20:45:56.244817	\N	0	1
-3926	FF Passee	Passee	1	\N	\N	\N		2023-10-24 20:45:59.338354	2023-10-24 20:45:59.338354	\N	0	1
+3922	FF Grabow	Grabow	1	53.2789153000	11.5625238000	\N	MV	2023-09-24 11:36:32.794242	2023-10-25 13:04:05.953626	2023-10-25 13:04:04	0	1
+3923	Feuerwehr Löberitz 	FF Löberitz 	1	51.6559579000	12.1539765000	\N	ST	2023-09-29 20:29:11.903054	2023-10-25 13:02:57.186644	2023-10-25 13:02:55	0	0
+3924	FF Lübberstorf	Lübberstorf	1	53.8581858000	11.7308622000	\N	MV	2023-10-24 20:45:34.670253	2023-10-25 13:02:40.078504	2023-10-25 13:02:38	0	1
+3925	FF Glasin	Glasin	1	53.9122914000	11.7386982000	\N	MV	2023-10-24 20:45:56.244817	2023-10-25 13:02:26.962484	2023-10-25 13:02:25	0	1
+3926	FF Passee	Passee	1	53.9538996000	11.7714654000	\N	MV	2023-10-24 20:45:59.338354	2023-10-25 13:02:15.031296	2023-10-25 13:02:11	0	1
 \.
 
 
@@ -3314,7 +3311,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 696, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 792, true);
 
 
 --
@@ -3342,7 +3339,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21366, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21400, true);
 
 
 --
@@ -3370,7 +3367,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2149, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 23204, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 23380, true);
 
 
 --
@@ -3447,7 +3444,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 690, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 786, true);
 
 
 --
