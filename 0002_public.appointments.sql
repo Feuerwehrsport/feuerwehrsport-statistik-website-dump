@@ -269,4 +269,6 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 268	2024-10-05	Supercup und Oderpokal - 4.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	\N	la	2023-10-17 14:57:15.525143	2023-10-17 14:57:37.386253	751	ApiUser	Genschmar
 269	2024-01-06	Neujahrssteigen	Neujahrsstiegen	\N	hl	2023-10-23 05:59:48.05652	2023-10-23 06:00:06.331464	752	ApiUser	Langengrassau
 270	2024-09-21	Deutschland-Cup	4. Lauf Deutschland-Cup	1	la,fs,gs,hl,hb,hw	2023-10-23 06:02:08.823825	2023-10-23 06:02:08.823825	752	ApiUser	Marolterode
+271	2024-04-13	Hallenpokal	100m Hindernisbahn in Halle	4	hb,hw	2023-11-09 06:44:51.850492	2023-11-09 06:45:05.282927	754	ApiUser	Halle
+272	2024-08-10	Heedebockpokal	Heedebockpokal in Taura	\N	la,gs,hl,hb,hw	2023-11-09 06:46:54.307149	2023-11-09 06:46:54.307149	754	ApiUser	Taura
 \.
