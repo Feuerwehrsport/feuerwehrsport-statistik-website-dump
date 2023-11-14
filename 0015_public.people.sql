@@ -3041,4 +3041,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3966	Heinicke	Philip	1	1	2023-10-13 09:46:28.422093	2023-10-13 09:46:28.422093	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3967	Untrieser	Timo	1	1	2023-10-24 20:49:07.048112	2023-10-24 20:49:07.048112	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3968	Buchs	Stephan	1	1	2023-10-24 20:52:59.03376	2023-10-24 20:52:59.03376	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3969	Felskowski	Felix	1	1	2023-11-13 19:54:34.922542	2023-11-13 19:54:34.922542	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
