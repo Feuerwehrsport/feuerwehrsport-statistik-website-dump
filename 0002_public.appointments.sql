@@ -270,4 +270,6 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 270	2024-09-21	Deutschland-Cup	4. Lauf Deutschland-Cup	1	la,fs,gs,hl,hb,hw	2023-10-23 06:02:08.823825	2023-10-23 06:02:08.823825	752	ApiUser	Marolterode
 271	2024-04-13	Hallenpokal	100m Hindernisbahn in Halle	4	hb,hw	2023-11-09 06:44:51.850492	2023-11-09 06:45:05.282927	754	ApiUser	Halle
 272	2024-08-10	Heedebockpokal	Heedebockpokal in Taura	\N	la,gs,hl,hb,hw	2023-11-09 06:46:54.307149	2023-11-09 06:46:54.307149	754	ApiUser	Taura
+273	2024-04-27	1. Lauf 2024 sächsischer Steigercup	1. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:45:45.616812	2023-11-27 07:46:10.119603	755	ApiUser	Brandis
+274	2024-08-10	2. Lauf 2024 sächsischer Steigercup 	2. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:47:57.432269	2023-11-27 07:47:57.432269	755	ApiUser	Taura
 \.
