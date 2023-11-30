@@ -2059,7 +2059,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2063	1. Lauf TGL-Cup 2022	219	10	\N	2022-05-07	\N	2022-05-10 11:37:08.585464	2022-05-10 11:37:08.585464		0	0	0	0	0	0	0	4	50	14	0	07.05.2022 - Garitz-Bornum, Pokallauf (1. Lauf TGL-Cup 2022)	f	f	f	f
 2064		610	5	1	2022-06-03	\N	2022-06-08 06:24:02.813187	2023-02-21 07:20:42.829476		131	146	128	147	9	11	13	34	52	55	127	03.06.2022 - Mühlhausen, DM	f	t	t	t
 2065		51	13	\N	2022-05-21	\N	2022-06-09 19:27:55.964696	2022-06-09 19:29:49.610579		0	0	0	0	0	0	0	4	16	10	0	21.05.2022 - Hohen Viecheln, MV-Cup	f	f	f	f
-2066	1. Lauf Ostsachsenpokal	611	10	\N	2022-06-04	\N	2022-06-14 11:28:31.28622	2022-06-14 11:28:31.28622		0	0	0	0	0	0	0	0	14	7	0	04.06.2022 - Steinitz (Sachsen), Pokallauf (1. Lauf Ostsachsenpokal)	f	f	f	f
+2066	1. Lauf Ostsachsenpokal	611	10	\N	2022-06-04	\N	2022-06-14 11:28:31.28622	2022-06-14 11:28:31.28622		0	0	0	1	0	0	0	0	14	7	1	04.06.2022 - Steinitz (Sachsen), Pokallauf (1. Lauf Ostsachsenpokal)	f	f	f	f
 2067	1. Lauf BB-Cup 2022	65	16	\N	2022-05-28	\N	2022-06-15 09:23:55.806678	2022-06-15 09:23:55.806678		0	0	0	0	0	0	0	8	20	14	0	28.05.2022 - Gehren, BB-Cup (1. Lauf BB-Cup 2022)	f	f	f	f
 2068	1. Lauf Sachsen-Anhalt Pokal	33	18	\N	2022-05-14	\N	2022-06-15 09:29:23.464548	2022-06-15 09:29:23.464548		0	0	0	0	0	0	0	3	30	11	0	14.05.2022 - Schmilkendorf, SA-Cup (1. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 2069	2. Lauf Sachsen-Anhalt Pokal	612	18	\N	2022-06-11	\N	2022-06-15 09:41:37.611256	2022-06-27 08:21:09.78289		0	0	0	0	0	0	0	4	28	9	0	11.06.2022 - Straguth, SA-Cup (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
@@ -2109,7 +2109,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2113	Neujahrssteigen	14	29	\N	2023-01-07	\N	2023-04-17 12:24:50.960377	2023-04-17 12:24:50.960377		88	58	0	0	0	0	0	0	0	25	69	07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)	f	f	f	f
 2114		18	1	2	2023-04-29	\N	2023-05-02 07:46:45.021364	2023-08-03 08:41:13.714895		77	66	0	0	14	0	0	12	10	18	72	29.04.2023 - Nudersdorf, D-Cup	t	t	t	t
 2115	1. MV-Cup 2023	51	13	\N	2023-05-06	\N	2023-05-07 20:48:25.53734	2023-05-07 20:48:25.53734		0	0	0	0	0	0	0	6	28	17	0	06.05.2023 - Hohen Viecheln, MV-Cup (1. MV-Cup 2023)	f	f	f	f
-2116	3. Lauf Ostsachsenpokal	622	10	\N	2022-09-03	\N	2023-05-10 12:47:34.244356	2023-05-10 12:47:34.244356		0	0	0	4	0	0	0	1	11	12	4	03.09.2022 - Skerbersdorf, Pokallauf (3. Lauf Ostsachsenpokal)	f	f	f	f
+2116	3. Lauf Ostsachsenpokal	622	10	\N	2022-09-03	\N	2023-05-10 12:47:34.244356	2023-05-10 12:47:34.244356		0	0	1	4	0	0	0	1	11	12	5	03.09.2022 - Skerbersdorf, Pokallauf (3. Lauf Ostsachsenpokal)	f	f	f	f
 2117	2. Deutschland-Cup	1	1	2	2023-05-13	\N	2023-05-15 09:01:47.094842	2023-08-03 08:41:01.662563		80	75	73	78	7	0	0	12	12	19	86	13.05.2023 - Charlottenthal, D-Cup (2. Deutschland-Cup)	t	t	t	t
 2118	DBR-Land	487	15	\N	2023-06-03	\N	2023-06-04 09:10:41.427402	2023-06-04 09:10:41.427402		0	0	0	0	0	0	0	6	11	9	0	03.06.2023 - Börgerende-Rethwisch, Amtsausscheid (DBR-Land)	f	f	f	f
 2119	2. MV-Cup	592	13	\N	2023-06-03	\N	2023-06-04 18:21:35.396192	2023-06-04 18:21:35.396192		0	0	0	0	0	0	0	4	48	18	0	03.06.2023 - Neustadt-Glewe, MV-Cup (2. MV-Cup)	f	f	f	f
@@ -2128,7 +2128,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2132	4. Deutschland-Cup	17	1	5	2023-08-12	\N	2023-08-17 11:51:35.659578	2023-09-17 19:30:18.775944		72	76	66	66	18	0	0	16	22	27	75	12.08.2023 - Taura, D-Cup (4. Deutschland-Cup)	t	t	t	t
 2133	3. offene Hakenleitersteigen des KFV LDS e.V.	200	10	\N	2023-07-22	\N	2023-08-17 12:19:44.291023	2023-08-17 12:19:44.291023		20	26	0	0	0	0	0	0	0	0	23	22.07.2023 - Langengrassau, Pokallauf (3. offene Hakenleitersteigen des KFV LDS e.V.)	f	f	f	f
 2134	12. Flutlichtpokal	295	10	\N	2023-08-25	\N	2023-09-04 08:26:23.85222	2023-09-04 08:26:23.85222		0	0	0	0	0	0	0	8	45	53	0	25.08.2023 - Spornitz, Pokallauf (12. Flutlichtpokal)	f	f	f	f
-2135	4. Lauf BB-Cup 2022 & 25. Pokallauf	67	16	\N	2023-09-02	\N	2023-09-04 08:54:52.105172	2023-09-04 08:54:52.105172		0	0	0	0	0	0	0	0	16	8	0	02.09.2023 - Schwanebeck, BB-Cup (4. Lauf BB-Cup 2022 & 25. Pokallauf)	f	f	f	f
+2135	4. Lauf BB-Cup 2022 & 25. Pokallauf	67	16	\N	2023-09-02	\N	2023-09-04 08:54:52.105172	2023-09-04 08:54:52.105172		0	0	0	0	0	0	0	4	16	12	0	02.09.2023 - Schwanebeck, BB-Cup (4. Lauf BB-Cup 2022 & 25. Pokallauf)	f	f	f	f
 2136	1. Lauf BB-Cup	208	16	\N	2023-05-13	\N	2023-09-06 08:26:15.787332	2023-09-06 08:26:15.787332		0	0	0	0	0	0	0	12	14	13	0	13.05.2023 - Zerkwitz, BB-Cup (1. Lauf BB-Cup)	f	f	f	f
 2137	Amtsausscheid Dahme/Mark	139	15	\N	2023-05-20	\N	2023-09-06 08:32:19.235207	2023-09-06 08:32:19.235207		0	0	0	0	0	0	0	2	16	18	0	20.05.2023 - Schlenzer, Amtsausscheid (Amtsausscheid Dahme/Mark)	f	f	f	f
 2138	2. Lauf BB-Cup	65	16	\N	2023-06-03	\N	2023-09-06 08:36:29.726553	2023-09-06 08:36:29.726553		0	0	0	0	0	0	0	12	26	19	0	03.06.2023 - Gehren, BB-Cup (2. Lauf BB-Cup)	f	f	f	f
@@ -2143,4 +2143,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2147	Mecklenburg-Vorpommern	3	2	3	2023-09-23	\N	2023-09-24 11:33:45.57798	2023-09-25 11:08:52.601793		22	28	22	24	4	4	5	20	50	36	28	23.09.2023 - Tribsees, Landesausscheid (Mecklenburg-Vorpommern)	t	t	t	t
 2148	Odessos Cup	627	10	1	2023-09-25	\N	2023-10-04 08:26:15.189657	2023-10-04 08:47:23.38144		0	14	0	16	0	0	1	0	1	1	7	25.09.2023 - Varna, Pokallauf (Odessos Cup)	t	t	t	t
 2149	Amt Neukloster-Warin	628	15	\N	2010-07-24	\N	2023-10-24 20:45:17.721706	2023-10-24 20:45:17.721706		0	0	0	0	0	0	0	4	22	13	0	24.07.2010 - Züsow, Amtsausscheid (Amt Neukloster-Warin)	f	f	f	f
+2150	8. Mühlenpokal	121	10	\N	2023-09-02	\N	2023-11-29 15:51:57.50214	2023-11-29 15:51:57.50214		0	0	0	0	0	0	0	2	10	6	0	02.09.2023 - Gölsdorf, Pokallauf (8. Mühlenpokal)	f	f	f	f
+2151	Nachtpokal	141	10	\N	2023-09-16	\N	2023-11-29 15:57:10.589227	2023-11-29 15:57:10.589227		0	0	0	0	0	0	0	2	23	24	0	16.09.2023 - Gräfendorf, Pokallauf (Nachtpokal)	f	f	f	f
+2152		629	10	\N	2022-09-17	\N	2023-11-29 16:37:47.902165	2023-11-29 16:37:47.902165		0	0	1	4	0	0	0	1	10	11	5	17.09.2022 - Hoyerswerda, Pokallauf	f	f	f	f
 \.

@@ -2048,4 +2048,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2049	2147	ergebnis-100m-hindernisbahn-frauen.pdf		2023-09-24 11:38:41.667033	2023-09-24 11:38:41.667033
 2050	2147	ergebnis-hakenleitersteigen-trebelpokal.pdf		2023-09-24 11:38:51.881497	2023-09-24 11:38:51.881497
 2051	2148	Klasirane-2-1.pdf		2023-10-04 08:47:56.264184	2023-10-04 08:47:56.264184
+2052	2150	2023-09-02goelsdorf.pdf	la_female,la_male	2023-11-29 15:55:17.306285	2023-11-29 15:55:17.306285
+2053	2151	2023-09-16nachtpokal-graefendorf.pdf	la_female,la_male	2023-11-29 16:00:09.524184	2023-11-29 16:00:09.524184
 \.
