@@ -751,7 +751,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 849	FF Jüterbog	Jüterbog	1	51.9969761000	13.0820695000	\N	BB	2016-01-20 21:32:16.624981	2016-01-20 21:32:16.624981	2016-01-20 21:32:16.624981	0	3
 850	FF Trebbin	Trebbin	1	52.2150361000	13.2140282000	\N	BB	2016-01-20 21:32:16.627486	2016-01-20 21:32:16.627486	2016-01-20 21:32:16.627486	0	18
 851	FF Schönefelde	Schönefelde	1	\N	\N	\N	BB	2016-01-20 21:32:16.630592	2016-01-20 21:32:16.630592	2018-09-20 13:04:08.041644	0	1
-852	FF Werbig	Werbig	1	51.9316820000	13.1934124000	\N	BB	2016-01-20 21:32:16.633294	2016-01-20 21:32:16.633294	2016-01-20 21:32:16.633294	7	38
+852	FF Werbig	Werbig	1	51.9316820000	13.1934124000	\N	BB	2016-01-20 21:32:16.633294	2016-01-20 21:32:16.633294	2016-01-20 21:32:16.633294	10	38
 853	FF Ludwigsfelde	Ludwigsfelde	1	52.3016096000	13.2610163000	\N	BB	2016-01-20 21:32:16.635901	2016-01-20 21:32:16.635901	2016-01-20 21:32:16.635901	0	13
 854	FF Kloster Zinna	Kloster Zinna	1	52.0253168000	13.1020091599	\N	BB	2016-01-20 21:32:16.638598	2016-01-20 21:32:16.638598	2016-01-20 21:32:16.638598	0	1
 855	FF Dobbrikow	Dobbrikow	1	52.1666417000	13.0632758000	\N	BB	2016-01-20 21:32:16.641552	2016-01-20 21:32:16.641552	2016-01-20 21:32:16.641552	0	11
@@ -3312,14 +3312,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 2593, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 2630, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 755, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 757, true);
 
 
 --
@@ -3340,7 +3340,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21439, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21446, true);
 
 
 --
@@ -3368,7 +3368,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2152, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 25505, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 25562, true);
 
 
 --
@@ -3445,7 +3445,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 2587, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 2624, true);
 
 
 --
@@ -3459,14 +3459,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 3969, true);
+SELECT pg_catalog.setval('public.people_id_seq', 3971, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 20051, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 20072, true);
 
 
 --
