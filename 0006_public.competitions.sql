@@ -2146,4 +2146,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2150	8. Mühlenpokal	121	10	\N	2023-09-02	\N	2023-11-29 15:51:57.50214	2023-11-29 15:51:57.50214		0	0	0	0	0	0	0	2	10	6	0	02.09.2023 - Gölsdorf, Pokallauf (8. Mühlenpokal)	f	f	f	f
 2151	Nachtpokal	141	10	\N	2023-09-16	\N	2023-11-29 15:57:10.589227	2023-11-29 15:57:10.589227		0	0	0	0	0	0	0	2	23	24	0	16.09.2023 - Gräfendorf, Pokallauf (Nachtpokal)	f	f	f	f
 2152		629	10	\N	2022-09-17	\N	2023-11-29 16:37:47.902165	2023-11-29 16:37:47.902165		0	0	1	4	0	0	0	1	10	11	5	17.09.2022 - Hoyerswerda, Pokallauf	f	f	f	f
+2153	2. Adventssteigen	617	10	\N	2023-12-10	\N	2023-12-11 13:01:18.366947	2023-12-11 13:01:18.366947		15	24	0	0	0	0	0	0	0	11	13	10.12.2023 - Beselin, Pokallauf (2. Adventssteigen)	f	f	f	f
 \.
