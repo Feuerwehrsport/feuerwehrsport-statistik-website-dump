@@ -3045,4 +3045,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3970	Glinger	Jörn	1	1	2023-11-30 12:47:36.877305	2023-11-30 12:47:36.877305	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3971	Sernow	Fabian	1	1	2023-11-30 12:47:58.848395	2023-11-30 12:47:58.848395	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3972	Erdmann	Erik	1	1	2023-12-11 13:02:29.322689	2023-12-11 13:02:29.322689	0	3	0	0	0	{"pb": {"hb": null, "hl": [2493, "10.12.2023 - Beselin, Pokallauf (2. Adventssteigen)"], "zk": null}, "sb": {"hb": null, "hl": [2493, "10.12.2023 - Beselin, Pokallauf (2. Adventssteigen)"], "zk": null}}	\N
+3973	Petzold	Tom 	1	1	2023-12-30 08:42:20.814489	2023-12-30 08:42:20.814489	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
