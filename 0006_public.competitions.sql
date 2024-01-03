@@ -2147,4 +2147,19 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2151	Nachtpokal	141	10	\N	2023-09-16	\N	2023-11-29 15:57:10.589227	2023-11-29 15:57:10.589227		0	0	0	0	0	0	0	2	23	24	0	16.09.2023 - Gräfendorf, Pokallauf (Nachtpokal)	f	f	f	f
 2152		629	10	\N	2022-09-17	\N	2023-11-29 16:37:47.902165	2023-11-29 16:37:47.902165		0	0	1	4	0	0	0	1	10	11	5	17.09.2022 - Hoyerswerda, Pokallauf	f	f	f	f
 2153	2. Adventssteigen	617	10	\N	2023-12-10	\N	2023-12-11 13:01:18.366947	2023-12-11 13:01:18.366947		15	24	0	0	0	0	0	0	0	11	13	10.12.2023 - Beselin, Pokallauf (2. Adventssteigen)	f	f	f	f
+2154	6. Herbstcup	619	10	\N	2023-10-07	\N	2024-01-02 15:06:47.900355	2024-01-02 15:06:47.900355		0	0	0	0	0	0	0	6	44	25	0	07.10.2023 - Hohewisch, Pokallauf (6. Herbstcup)	f	f	f	f
+2155	2. Lauf TGL-CUP 2023	405	33	\N	2023-05-20	\N	2024-01-02 15:27:13.685432	2024-01-02 15:27:13.685432		0	0	0	0	0	0	0	10	64	21	0	20.05.2023 - Beckwitz, TGL-Cup (2. Lauf TGL-CUP 2023)	f	f	f	f
+2156	2 Lauf Ostsachsenpokal 2023	76	34	\N	2023-06-10	\N	2024-01-02 15:35:23.648295	2024-01-02 15:35:23.648295		0	0	0	0	0	0	0	4	12	8	0	10.06.2023 - Bluno, Ostsachsenpokal (2 Lauf Ostsachsenpokal 2023)	f	f	f	f
+2157	3. Lauf Thüringer-Feuerwehrcup	355	26	\N	2023-07-15	\N	2024-01-02 15:41:31.68357	2024-01-02 15:41:31.68357		0	0	0	0	0	0	0	2	28	11	0	15.07.2023 - Brünn, Thüringer Feuerwehr-Cup (3. Lauf Thüringer-Feuerwehrcup)	f	f	f	f
+2158	6. Ohrepokal	631	10	\N	2023-09-02	\N	2024-01-02 15:53:21.351489	2024-01-02 15:58:51.175415		0	0	0	0	0	0	0	0	14	7	0	02.09.2023 - Buchhorst, Pokallauf (6. Ohrepokal)	f	f	f	f
+2159	Feuerwehrfest Dannefeld	632	10	\N	2023-09-23	\N	2024-01-02 16:08:15.92319	2024-01-02 16:08:15.92319		0	0	0	0	0	0	0	8	22	15	0	23.09.2023 - Dannefeld, Pokallauf (Feuerwehrfest Dannefeld)	f	f	f	f
+2160	Löschangriff unter Flutlicht	633	10	\N	2023-10-02	\N	2024-01-02 16:19:40.189383	2024-01-02 16:19:40.189383		0	0	0	0	0	0	0	0	36	10	0	02.10.2023 - Eisfeld, Pokallauf (Löschangriff unter Flutlicht)	f	f	f	f
+2161	Feuerwehrfest	236	10	\N	2023-08-05	\N	2024-01-02 16:25:38.585223	2024-01-02 16:25:38.585223		0	0	0	0	0	0	0	0	15	6	0	05.08.2023 - Ershausen, Pokallauf (Feuerwehrfest)	f	f	f	f
+2162	2. Lauf BB-CUP 2023	65	16	\N	2023-06-03	\N	2024-01-02 16:28:38.721832	2024-01-02 16:28:38.721832		0	0	0	0	0	0	0	12	26	19	0	03.06.2023 - Gehren, BB-Cup (2. Lauf BB-CUP 2023)	f	f	f	f
+2163	6. Lauf Brandenburger 4-Bahnenpokal	142	32	\N	2023-10-07	\N	2024-01-02 16:35:33.092252	2024-01-02 16:35:33.092252		0	0	0	0	0	0	0	12	60	18	0	07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)	f	f	f	f
+2164	6. Lauf Sachsen-Anhalt Pokal	285	18	\N	2023-09-15	\N	2024-01-02 16:43:29.057425	2024-01-02 16:43:29.057425		0	0	0	0	0	0	0	1	16	10	0	15.09.2023 - Gröningen, SA-Cup (6. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
+2165	1. Lauf Brandenburger 4. Bahnenpokal	635	32	\N	2023-05-27	\N	2024-01-02 16:47:51.029319	2024-01-02 16:47:51.029319		0	0	0	0	0	0	0	4	18	12	0	27.05.2023 - Groß Neuendorf, 4BP (1. Lauf Brandenburger 4. Bahnenpokal)	f	f	f	f
+2166	5. Lauf Brandenburger 4. Bahnenpokal	636	32	\N	2023-09-16	\N	2024-01-02 16:52:56.456398	2024-01-02 16:52:56.456398		0	0	0	0	0	0	0	2	17	10	0	16.09.2023 - Groß Muckrow, 4BP (5. Lauf Brandenburger 4. Bahnenpokal)	f	f	f	f
+2167	2. Lauf Sachsen-Anhalt Pokal	637	18	\N	2023-05-13	\N	2024-01-02 16:57:12.858903	2024-01-02 16:57:12.858903		0	0	0	0	0	0	0	4	32	18	0	13.05.2023 - Harzgerode, SA-Cup (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
+2168	3. Lauf Sachsen-Anhalt Pokal	612	18	\N	2023-06-10	\N	2024-01-02 17:00:04.713341	2024-01-02 17:00:04.713341		0	0	0	0	0	0	0	3	17	13	0	10.06.2023 - Straguth, SA-Cup (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 \.
