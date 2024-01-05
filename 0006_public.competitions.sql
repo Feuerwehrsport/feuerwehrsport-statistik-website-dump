@@ -2162,4 +2162,18 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2166	5. Lauf Brandenburger 4. Bahnenpokal	636	32	\N	2023-09-16	\N	2024-01-02 16:52:56.456398	2024-01-02 16:52:56.456398		0	0	0	0	0	0	0	2	17	10	0	16.09.2023 - Groß Muckrow, 4BP (5. Lauf Brandenburger 4. Bahnenpokal)	f	f	f	f
 2167	2. Lauf Sachsen-Anhalt Pokal	637	18	\N	2023-05-13	\N	2024-01-02 16:57:12.858903	2024-01-02 16:57:12.858903		0	0	0	0	0	0	0	4	32	18	0	13.05.2023 - Harzgerode, SA-Cup (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 2168	3. Lauf Sachsen-Anhalt Pokal	612	18	\N	2023-06-10	\N	2024-01-02 17:00:04.713341	2024-01-02 17:00:04.713341		0	0	0	0	0	0	0	3	17	13	0	10.06.2023 - Straguth, SA-Cup (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
+2169	3. Lauf Brandenburger 4-Bahnenpokal	510	32	\N	2023-06-15	\N	2024-01-04 16:19:11.293816	2024-01-04 16:19:11.293816		0	0	0	0	0	0	0	6	23	15	0	15.06.2023 - Günthersdorf, 4BP (3. Lauf Brandenburger 4-Bahnenpokal)	f	f	f	f
+2170	5. Lauf Thüringer Feuerwehr-Cup	615	26	\N	2023-08-05	\N	2024-01-04 16:23:37.140575	2024-01-04 16:23:37.140575		0	0	0	0	0	0	0	0	28	8	0	05.08.2023 - Heideland, Thüringer Feuerwehr-Cup (5. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
+2171	3. Wesenitztalpokal	385	10	\N	2023-10-08	\N	2024-01-04 16:27:28.444822	2024-01-04 16:27:28.444822		0	0	0	0	0	0	0	0	19	19	0	08.10.2023 - Helmsdorf, Pokallauf (3. Wesenitztalpokal)	f	f	f	f
+2172	KS-Masters Fire Attack	638	10	\N	2023-08-26	\N	2024-01-04 16:30:43.894446	2024-01-04 16:30:43.894446		0	0	0	0	0	0	0	0	20	10	0	26.08.2023 - Kirchscheidungen, Pokallauf (KS-Masters Fire Attack)	f	f	f	f
+2173	3. Lauf Sachsen-Anhalt Pokal	77	34	\N	2023-07-08	\N	2024-01-04 16:34:12.664311	2024-01-04 16:34:12.664311		0	0	0	0	0	0	0	4	38	17	0	08.07.2023 - Lauba, Ostsachsenpokal (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
+2174	4. Lauf Brandenburger 4-Bahnepokal	275	32	\N	2023-08-19	\N	2024-01-04 16:36:47.267412	2024-01-04 16:36:47.267412		0	0	0	0	0	0	0	8	34	11	0	19.08.2023 - Libbenichen, 4BP (4. Lauf Brandenburger 4-Bahnepokal)	f	f	f	f
+2175	6. Lauf TGL-CUP	498	33	\N	2023-08-26	\N	2024-01-04 16:41:27.335808	2024-01-04 16:41:27.335808		0	0	0	0	0	0	0	6	50	17	0	26.08.2023 - Mupperg, TGL-Cup (6. Lauf TGL-CUP)	f	f	f	f
+2176	1. Lauf Thüringer Feuerwehr-Cup	315	26	\N	2023-05-27	\N	2024-01-04 16:46:27.724954	2024-01-04 16:46:27.724954		0	0	0	0	0	0	0	0	18	6	0	27.05.2023 - Niederalbertsdorf, Thüringer Feuerwehr-Cup (1. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
+2177	8. Elbepokal	37	10	\N	2023-10-03	\N	2024-01-04 16:51:36.823798	2024-01-04 16:51:36.823798		0	0	0	0	0	0	0	4	40	16	0	03.10.2023 - Pretzsch, Pokallauf (8. Elbepokal)	f	f	f	f
+2178	1. Lauf Ostsachsenpokal	611	34	\N	2023-05-27	\N	2024-01-04 16:58:47.2509	2024-01-04 16:58:47.2509		0	0	0	0	0	0	0	2	6	8	0	27.05.2023 - Steinitz (Sachsen), Ostsachsenpokal (1. Lauf Ostsachsenpokal)	f	f	f	f
+2179	2. Lauf Brandenburger 4-Bahnenpokal	222	32	\N	2023-06-24	\N	2024-01-04 17:01:39.717662	2024-01-04 17:01:39.717662		0	0	0	0	0	0	0	6	44	13	0	24.06.2023 - Stücken, 4BP (2. Lauf Brandenburger 4-Bahnenpokal)	f	f	f	f
+2180	2. Lauf Thüringer Feuerwehr-Cup	227	26	\N	2023-06-17	\N	2024-01-04 17:08:14.653964	2024-01-04 17:08:14.653964		0	0	0	0	0	0	0	2	32	11	0	17.06.2023 - Wipfra, Thüringer Feuerwehr-Cup (2. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
+2181	3. Lauf TGL-Cup	167	33	\N	2023-07-01	\N	2024-01-04 17:12:03.170545	2024-01-04 17:12:03.170545		0	0	0	0	0	0	0	4	54	16	0	01.07.2023 - Zella, TGL-Cup (3. Lauf TGL-Cup)	f	f	f	f
+2182	6. Lauf Thüringer Feuerwehr-Cup	209	26	\N	2023-09-02	\N	2024-01-04 17:15:25.946167	2024-01-04 17:15:25.946167		0	0	0	0	0	0	0	2	38	13	0	02.09.2023 - Zottelstedt, Thüringer Feuerwehr-Cup (6. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
 \.
