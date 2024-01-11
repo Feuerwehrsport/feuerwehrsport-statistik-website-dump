@@ -2054,4 +2054,10 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2055	2153	hakenleitersteigen-jugend.pdf		2023-12-11 13:07:13.870217	2023-12-11 13:07:13.870217
 2056	2153	hakenleitersteigen-manner.pdf		2023-12-11 13:07:13.872037	2023-12-11 13:07:13.872037
 2057	2153	spasslauf.pdf		2023-12-11 13:07:13.873256	2023-12-11 13:07:13.873256
+2058	2183	ergebnis-hakenleitersteigen-ak-1-jungen.pdf	hl_male	2024-01-10 12:21:41.190239	2024-01-10 12:21:41.190239
+2059	2183	ergebnis-hakenleitersteigen-ak-2-madchen.pdf	hl_female	2024-01-10 12:21:49.220331	2024-01-10 12:21:49.220331
+2060	2183	ergebnis-hakenleitersteigen-ak-1-madchen.pdf	hl_female	2024-01-10 12:21:55.219722	2024-01-10 12:21:55.219722
+2061	2183	ergebnis-hakenleitersteigen-ak-2-jungen.pdf	hl_male	2024-01-10 12:22:00.852965	2024-01-10 12:22:00.852965
+2062	2183	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-01-10 12:22:07.994167	2024-01-10 12:22:07.994167
+2063	2183	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-01-10 12:22:13.701407	2024-01-10 12:22:13.701407
 \.

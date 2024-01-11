@@ -2155,7 +2155,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2159	Feuerwehrfest Dannefeld	632	10	\N	2023-09-23	\N	2024-01-02 16:08:15.92319	2024-01-02 16:08:15.92319		0	0	0	0	0	0	0	8	22	15	0	23.09.2023 - Dannefeld, Pokallauf (Feuerwehrfest Dannefeld)	f	f	f	f
 2160	Löschangriff unter Flutlicht	633	10	\N	2023-10-02	\N	2024-01-02 16:19:40.189383	2024-01-02 16:19:40.189383		0	0	0	0	0	0	0	0	36	10	0	02.10.2023 - Eisfeld, Pokallauf (Löschangriff unter Flutlicht)	f	f	f	f
 2161	Feuerwehrfest	236	10	\N	2023-08-05	\N	2024-01-02 16:25:38.585223	2024-01-02 16:25:38.585223		0	0	0	0	0	0	0	0	15	6	0	05.08.2023 - Ershausen, Pokallauf (Feuerwehrfest)	f	f	f	f
-2162	2. Lauf BB-CUP 2023	65	16	\N	2023-06-03	\N	2024-01-02 16:28:38.721832	2024-01-02 16:28:38.721832		0	0	0	0	0	0	0	12	26	19	0	03.06.2023 - Gehren, BB-Cup (2. Lauf BB-CUP 2023)	f	f	f	f
 2163	6. Lauf Brandenburger 4-Bahnenpokal	142	32	\N	2023-10-07	\N	2024-01-02 16:35:33.092252	2024-01-02 16:35:33.092252		0	0	0	0	0	0	0	12	60	18	0	07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)	f	f	f	f
 2164	6. Lauf Sachsen-Anhalt Pokal	285	18	\N	2023-09-15	\N	2024-01-02 16:43:29.057425	2024-01-02 16:43:29.057425		0	0	0	0	0	0	0	1	16	10	0	15.09.2023 - Gröningen, SA-Cup (6. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 2165	1. Lauf Brandenburger 4. Bahnenpokal	635	32	\N	2023-05-27	\N	2024-01-02 16:47:51.029319	2024-01-02 16:47:51.029319		0	0	0	0	0	0	0	4	18	12	0	27.05.2023 - Groß Neuendorf, 4BP (1. Lauf Brandenburger 4. Bahnenpokal)	f	f	f	f
@@ -2176,4 +2175,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2180	2. Lauf Thüringer Feuerwehr-Cup	227	26	\N	2023-06-17	\N	2024-01-04 17:08:14.653964	2024-01-04 17:08:14.653964		0	0	0	0	0	0	0	2	32	11	0	17.06.2023 - Wipfra, Thüringer Feuerwehr-Cup (2. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
 2181	3. Lauf TGL-Cup	167	33	\N	2023-07-01	\N	2024-01-04 17:12:03.170545	2024-01-04 17:12:03.170545		0	0	0	0	0	0	0	4	54	16	0	01.07.2023 - Zella, TGL-Cup (3. Lauf TGL-Cup)	f	f	f	f
 2182	6. Lauf Thüringer Feuerwehr-Cup	209	26	\N	2023-09-02	\N	2024-01-04 17:15:25.946167	2024-01-04 17:15:25.946167		0	0	0	0	0	0	0	2	38	13	0	02.09.2023 - Zottelstedt, Thüringer Feuerwehr-Cup (6. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
+2183	Neujahrssteigen	200	10	\N	2024-01-06	\N	2024-01-10 12:20:48.99523	2024-01-10 12:20:48.99523		41	40	0	0	0	0	0	0	0	19	41	06.01.2024 - Langengrassau, Pokallauf (Neujahrssteigen)	f	f	f	f
 \.
