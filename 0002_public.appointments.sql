@@ -273,4 +273,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 273	2024-04-27	1. Lauf 2024 sächsischer Steigercup	1. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:45:45.616812	2023-11-27 07:46:10.119603	755	ApiUser	Brandis
 274	2024-08-10	2. Lauf 2024 sächsischer Steigercup 	2. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:47:57.432269	2023-11-27 07:47:57.432269	755	ApiUser	Taura
 275	2024-06-08	2. Lauf 2024 sächsischer Steigercup	2. Lauf sächsischer Steigercup in Narsdorf	20	hl	2024-01-08 07:04:22.253763	2024-01-08 07:04:22.253763	761	ApiUser	Narsdorf
+276	2024-05-26	Landesmeisterschaften Sachsen	Landesmeiterschaften Sachsen - Hakenleitersteigen	2	hl	2024-01-30 07:38:38.760193	2024-01-30 07:39:18.326617	766	ApiUser	Taura
 \.
