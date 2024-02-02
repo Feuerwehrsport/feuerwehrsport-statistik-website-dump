@@ -300,7 +300,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 320	FF Altbensdorf	Altbensdorf	1	52.4201151361	12.3434829712	\N	BB	2016-01-20 21:32:11.725905	2016-01-20 21:32:11.725905	2016-01-20 21:32:11.725905	0	2
 321	FF Petkus	Petkus	1	51.9891599000	13.3587088000	\N	BB	2016-01-20 21:32:11.72845	2016-01-20 21:32:11.72845	2016-01-20 21:32:11.72845	0	8
 322	FF Taubendorf	Taubendorf	1	51.9583098641	14.6365356445	\N	BB	2016-01-20 21:32:11.731925	2016-01-20 21:32:11.731925	2016-01-20 21:32:11.731925	0	16
-324	FF Altgolßen	Altgolßen	1	51.9706623000	13.5603066000	\N	BB	2016-01-20 21:32:11.734552	2016-01-20 21:32:11.734552	2016-01-20 21:32:11.734552	10	37
+324	FF Altgolßen	Altgolßen	1	51.9706623000	13.5603066000	IMG_3155.jpeg	BB	2016-01-20 21:32:11.734552	2024-02-01 08:48:23.009703	2016-01-20 21:32:11.734552	10	37
 325	FF Paplitz	Paplitz	1	52.0509477000	13.4703661000	\N	BB	2016-01-20 21:32:11.737304	2016-01-20 21:32:11.737304	2016-01-20 21:32:11.737304	0	17
 326	FF Radinkendorf	Radinkendorf	1	52.2113388000	14.2697457000	\N	BB	2016-01-20 21:32:11.748575	2016-01-20 21:32:11.748575	2016-01-20 21:32:11.748575	0	39
 327	WF Kraftwerk Jänschwalde	Jänschwalde	1	51.8333908242	14.4622135162	WF_Vattenfall_Kraftwerk_J__nschwalde.png	BB	2016-01-20 21:32:11.853005	2018-03-06 14:20:52.310206	2018-03-06 14:20:51	1	13
@@ -3300,7 +3300,6 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3920	FF Gosda	Gosda	1	\N	\N	\N		2023-09-17 19:53:50.127859	2023-09-17 19:53:50.127859	\N	0	0
 3921	Team Föritztal	Föritztal	0	\N	\N	\N		2023-09-18 20:11:57.503581	2023-09-18 20:11:57.503581	\N	0	1
 3922	FF Grabow	Grabow	1	53.2789153000	11.5625238000	\N	MV	2023-09-24 11:36:32.794242	2023-10-25 13:04:05.953626	2023-10-25 13:04:04	0	1
-3923	Feuerwehr Löberitz 	FF Löberitz 	1	51.6559579000	12.1539765000	\N	ST	2023-09-29 20:29:11.903054	2023-10-25 13:02:57.186644	2023-10-25 13:02:55	0	0
 3924	FF Lübberstorf	Lübberstorf	1	53.8581858000	11.7308622000	\N	MV	2023-10-24 20:45:34.670253	2023-10-25 13:02:40.078504	2023-10-25 13:02:38	0	1
 3925	FF Glasin	Glasin	1	53.9122914000	11.7386982000	\N	MV	2023-10-24 20:45:56.244817	2023-10-25 13:02:26.962484	2023-10-25 13:02:25	0	1
 3926	FF Passee	Passee	1	53.9538996000	11.7714654000	\N	MV	2023-10-24 20:45:59.338354	2023-10-25 13:02:15.031296	2023-10-25 13:02:11	0	1
@@ -3321,7 +3320,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 5226, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 5236, true);
 
 
 --
@@ -3349,7 +3348,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21698, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21712, true);
 
 
 --
@@ -3377,14 +3376,14 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2183, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 29044, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 29068, true);
 
 
 --
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 329, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 330, true);
 
 
 --
@@ -3454,7 +3453,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 5220, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 5230, true);
 
 
 --

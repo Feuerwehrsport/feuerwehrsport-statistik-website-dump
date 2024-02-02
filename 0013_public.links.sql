@@ -1845,7 +1845,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 1898	Ergebnisse	1105	Competition	http://loeschangriff.info/gera-liebschwitz.html	2016-09-13 07:03:57.953157	2016-09-13 07:03:57.953157
 1899	Ergebnisse	1106	Competition	http://www.kfv-osl.de/fileadmin/user_upload/download/2016_Ergebnisliste_KFT.pdf	2016-09-13 07:26:28.022218	2016-09-13 07:26:28.022218
 1900	Ergebnisse	1107	Competition	http://www.kreisfeuerwehrverband-potsdam-mittelmark.de/KFV/Inhalt/Download_11/ergebnisse_kft/Platzierung_FF_KFT_2016.pdf	2016-09-13 07:50:35.172972	2016-09-13 07:50:35.172972
-1901	FF Hohewisch	515	Team	http://www.ff-Hohewisch.simplesite.com	2016-09-14 16:36:35.674544	2016-09-14 16:36:35.674544
 1902	Feuerwehr Grimmen	53	Team	http://www.feuerwehr-grimmen.de/	2016-09-15 07:28:16.298487	2016-09-15 07:28:16.298487
 1903	Ergebnisse	1109	Competition	http://loeschangriff.de/E_OL_GESAMTWERTUNG_016.html	2016-10-02 13:02:55.294183	2016-10-02 13:02:55.294183
 1904	Ergebnisse	1111	Competition	https://www.klein-gaglow.de/feuerwehrsport/319-ergebnisse-der-gemeindemeisterschaft-2016.html	2016-10-02 16:51:04.892214	2016-10-02 16:51:04.892214

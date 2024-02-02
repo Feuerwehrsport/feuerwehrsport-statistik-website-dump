@@ -226,7 +226,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 225	2023-07-01	Sachsenpokal	Weitere Infos folgen.	10	la,gs,hl,hb,hw	2022-11-10 20:31:27.537356	2023-03-21 15:51:35.09517	1	AdminUser	Trebendorf (Sa.)
 226	2023-09-16	Landesmeisterschaft Sachsen-Anhalt	Weitere Infos folgen.	2	la,gs,hb,hw	2022-11-10 20:33:07.337017	2023-09-17 18:40:43.618766	1	AdminUser	
 227	2023-09-16	Landesmeistschaft Thüringen	Weitere Infos folgen.	2	la	2022-11-10 20:33:41.855081	2022-11-10 20:33:41.855081	1	AdminUser	
-228	2024-06-01	Landesmeisterschaft Sachsen	Weitere Infos folgen.	2	la,fs,gs,hl,hb,hw	2022-11-10 20:34:40.288307	2023-09-12 08:38:20.87127	1	AdminUser	Leipzig
+228	2024-06-01	Landesmeisterschaft Sachsen	Weitere Infos folgen.	2	la,fs,gs,hb,hw	2022-11-10 20:34:40.288307	2024-02-01 08:48:14.111986	1	AdminUser	Leipzig
 229	2023-09-02	10. Lewitz-Cup	Der Lewitz-Cup findet auch im Jahr 2023 statt. \nAuf dem Sportplatz in Tramm können die Feuerwehren dann erneut um die Bestzeit in der TGL-Wertung kämpfen.\n\nWeitere Infos zum Wettkampfablauf folgen.	10	la	2022-11-13 14:48:54.50893	2022-12-18 12:30:21.040776	611	AdminUser	Tramm
 230	2023-04-15	Hallenwettkampf	Ort: Sporthalle Brandberge \nKreuzvorwerk\n06120 Halle\n\n100m Wettkampf Männer, Frauen, Jugend\nDetaillierte Infos und Ausschreibung folgen.	4	hb,hw	2022-11-18 12:31:39.329981	2022-11-18 12:31:39.329981	620	APIUser	Halle/Saale
 231	2023-05-13	1. BB-Cup	Veranstaltungsort: 03222 Kittlitz/Lübbenau/Spreewald	16	la	2022-12-19 11:33:31.75513	2022-12-19 11:33:31.75513	622	APIUser	Zerkwitz
@@ -262,7 +262,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 261	2024-08-17	Deutschland-Cup	Weitere Informationen folgen.	1	la,gs,hl,hb,hw	2023-08-19 20:30:05.783883	2023-08-19 20:30:05.783883	1	AdminUser	Ostseebad Nienhagen
 263	2024-06-22	Deutschland-Cup	Weitere Informationen folgen.	1	la,fs,gs,hl,hb,hw	2023-08-19 20:31:38.37571	2023-10-08 18:47:10.515872	1	AdminUser	Letschin
 264	2024-09-14	18. Nachtpokal Gräfendorf - Die große Löschnacht	- LA für Frauen und Männer mit freier Pumpenwahl -\n\nInfos:\nUnter Flutlicht wird die Ausrüstung gepackt. Danach erlischt es und eine Hand voll Fackeln erhellen die Wettkampfbahn. Die Läufe finden nahezu im Finstern statt. Nur die Zieleinrichtung wird angestrahlt.	10	la	2023-10-10 13:05:30.663151	2023-10-10 13:06:22.686296	744	ApiUser	Gräfendorf
-265	2024-06-29	Brandenburger 4-Bahnenpokal	Löschangriff TGL-Wertung und DIN-Wertung	32	la	2023-10-17 13:31:06.411851	2023-10-17 13:31:06.411851	750	ApiUser	Stücken
+265	2024-06-29	16. Stückener Galgenbergpokal &  1.Lauf 4-Bahnenpokal	Löschangriff TGL-Wertung und DIN-Wertung	32	la	2023-10-17 13:31:06.411851	2024-02-01 08:48:31.958274	750	ApiUser	Stücken
 266	2024-07-13	2.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN- Wertung	32	la	2023-10-17 14:50:49.921874	2023-10-17 14:50:49.921874	751	ApiUser	Groß Muckrow
 267	2024-09-14	3. Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	32	la	2023-10-17 14:52:37.442433	2023-10-17 14:52:37.442433	751	ApiUser	Libbenichen
 268	2024-10-05	Supercup und Oderpokal - 4.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	\N	la	2023-10-17 14:57:15.525143	2023-10-17 14:57:37.386253	751	ApiUser	Genschmar
@@ -271,7 +271,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 271	2024-04-13	Hallenpokal	100m Hindernisbahn in Halle	4	hb,hw	2023-11-09 06:44:51.850492	2023-11-09 06:45:05.282927	754	ApiUser	Halle
 272	2024-08-10	Heedebockpokal	Heedebockpokal in Taura	\N	la,gs,hl,hb,hw	2023-11-09 06:46:54.307149	2023-11-09 06:46:54.307149	754	ApiUser	Taura
 273	2024-04-27	1. Lauf 2024 sächsischer Steigercup	1. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:45:45.616812	2023-11-27 07:46:10.119603	755	ApiUser	Brandis
-274	2024-08-10	2. Lauf 2024 sächsischer Steigercup 	2. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:47:57.432269	2023-11-27 07:47:57.432269	755	ApiUser	Taura
+274	2024-08-10	3. Lauf 2024 sächsischer Steigercup	3. Lauf 2024 sächsischer Steigercup	20	hl	2023-11-27 07:47:57.432269	2024-02-01 08:48:06.389336	755	ApiUser	Taura
 275	2024-06-08	2. Lauf 2024 sächsischer Steigercup	2. Lauf sächsischer Steigercup in Narsdorf	20	hl	2024-01-08 07:04:22.253763	2024-01-08 07:04:22.253763	761	ApiUser	Narsdorf
 276	2024-05-26	Landesmeisterschaften Sachsen	Landesmeiterschaften Sachsen - Hakenleitersteigen	2	hl	2024-01-30 07:38:38.760193	2024-01-30 07:39:18.326617	766	ApiUser	Taura
 \.
