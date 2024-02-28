@@ -3055,4 +3055,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3980	Scholz	Annabell	0	1	2024-01-15 12:40:21.873255	2024-01-15 12:40:21.873255	0	0	2	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3981	Moritz	Jette	0	1	2024-01-15 12:41:05.11078	2024-01-15 12:41:05.11078	0	0	0	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3982	Driemecker	Lea	0	1	2024-01-15 12:41:28.823115	2024-01-15 12:41:28.823115	0	0	0	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3983	Milker	Fritz	1	1	2024-02-27 12:45:59.557783	2024-02-27 12:45:59.557783	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
