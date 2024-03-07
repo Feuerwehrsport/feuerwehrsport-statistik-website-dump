@@ -2699,4 +2699,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2761	Roger	200	Appointment	http://	2023-09-24 07:04:57.041261	2023-09-24 07:04:57.041261
 2762	nachtpokallauf.de	264	Appointment	http://www.nachtpokallauf.de	2023-10-10 13:06:08.015342	2023-10-10 13:06:08.015342
 2763	FF Hohewisch 	515	Team	https://fv-hohewisch.de/	2023-10-15 14:26:14.28912	2023-10-15 14:26:14.28912
+2765	Feuerwehrsport Murchin	277	Appointment	https://wkg-murchin.de	2024-03-06 05:06:42.005027	2024-03-06 05:06:42.005027
 \.
