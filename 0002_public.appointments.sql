@@ -263,9 +263,9 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 263	2024-06-22	Deutschland-Cup	Weitere Informationen folgen.	1	la,fs,gs,hl,hb,hw	2023-08-19 20:31:38.37571	2023-10-08 18:47:10.515872	1	AdminUser	Letschin
 264	2024-09-14	18. Nachtpokal Gräfendorf - Die große Löschnacht	- LA für Frauen und Männer mit freier Pumpenwahl -\n\nInfos:\nUnter Flutlicht wird die Ausrüstung gepackt. Danach erlischt es und eine Hand voll Fackeln erhellen die Wettkampfbahn. Die Läufe finden nahezu im Finstern statt. Nur die Zieleinrichtung wird angestrahlt.	10	la	2023-10-10 13:05:30.663151	2023-10-10 13:06:22.686296	744	ApiUser	Gräfendorf
 265	2024-06-29	3.Lauf 4-Bahnenpokal und 4.Lauf BB-Cup	4.Lauf des BB-Cups\r\n3.Lauf des 4-Bahnenpokals\r\n16.Galgenberpokal\r\n\r\nhttps://www.bb-cup.de/\r\nhttps://www.4-bahnenpokal.de/	32	la	2023-10-17 13:31:06.411851	2024-04-11 20:40:44.766749	750	ApiUser	Stücken
-266	2024-07-13	2.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN- Wertung	32	la	2023-10-17 14:50:49.921874	2023-10-17 14:50:49.921874	751	ApiUser	Groß Muckrow
-267	2024-09-14	3. Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	32	la	2023-10-17 14:52:37.442433	2023-10-17 14:52:37.442433	751	ApiUser	Libbenichen
-268	2024-10-05	Supercup und Oderpokal - 4.Lauf 4-Bahnenpokal	Löschangriff in TGL- und DIN-Wertung	\N	la	2023-10-17 14:57:15.525143	2023-10-17 14:57:37.386253	751	ApiUser	Genschmar
+266	2024-07-13	4.Lauf 4-Bahnenpokal und 5.Lauf BB-Cup	5.Lauf des BB-Cups\r\n4.Lauf des 4-Bahnenpokals\r\n2. Schlaube-Pokal\r\n\r\nhttps://www.bb-cup.de/\r\nhttps://www.4-bahnenpokal.de/	32	la	2023-10-17 14:50:49.921874	2024-04-13 03:29:33.288189	751	ApiUser	Groß Muckrow
+267	2024-09-14	5. Lauf 4-Bahnenpokal	https://www.4-bahnenpokal.de/	32	la	2023-10-17 14:52:37.442433	2024-04-13 03:29:27.283397	751	ApiUser	Libbenichen
+268	2024-10-05	Supercup und Oderpokal - 6.Lauf 4-Bahnenpokal	https://www.4-bahnenpokal.de/	\N	la	2023-10-17 14:57:15.525143	2024-04-13 03:29:13.045778	751	ApiUser	Genschmar
 269	2024-01-06	Neujahrssteigen	Neujahrsstiegen	\N	hl	2023-10-23 05:59:48.05652	2023-10-23 06:00:06.331464	752	ApiUser	Langengrassau
 270	2024-09-21	Deutschland-Cup	4. Lauf Deutschland-Cup	1	la,fs,gs,hl,hb,hw	2023-10-23 06:02:08.823825	2023-10-23 06:02:08.823825	752	ApiUser	Marolterode
 271	2024-04-13	Hallenpokal	100m Hindernisbahn in Halle	4	hb,hw	2023-11-09 06:44:51.850492	2023-11-09 06:45:05.282927	754	ApiUser	Halle
@@ -285,4 +285,6 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 285	2024-09-14	7.Lauf TGL-Cup	Die Anmeldung erfolgt bei der Wettkampfleitung. \nDie Anmeldefrist endet am 27.04.2024. \nAngemeldete Teams sind automatisch bei allen Wertungsläufen der Serie gesetzt. \n\nWettkampfleitung TGL-Cup:\nSven Krüger (svenkrueger84@web.de), \nDavid Fehsecke (david.fehsecke@gmx.de), \nChristoph Hoffmann (mt-hoffmann@gmx.de)	33	la	2024-03-26 07:07:18.916568	2024-03-26 07:07:18.916568	614	AdminUser	Mupperg
 286	2024-05-04	1.Lauf BB-Cup und 4-Bahnenpokal	https://www.bb-cup.de/\n\n1.Lauf des BB-Cups\n1.Lauf des 4-Bahnenpokals\n2. Lausitzer Pokallauf\n\n	16	la	2024-04-09 06:09:31.398257	2024-04-09 06:09:31.398257	614	AdminUser	Kittlitz
 287	2024-06-01	2.Lauf BB-Cup	https://www.bb-cup.de/\n\n1.Lauf des BB-Cups\n16. Waldstadionpokal	16	la	2024-04-09 06:10:22.777723	2024-04-09 06:10:22.777723	614	AdminUser	Gehren
+288	2024-06-15	3.Lauf BB-Cup und 2.Lauf 4-Bahnenpokal	3.Lauf des BB-Cups\n2.Lauf des 4-Bahnenpokals\n38. Planepokal\n\nhttps://www.bb-cup.de/\nhttps://www.4-bahnenpokal.de/	16	la	2024-04-12 05:07:11.700731	2024-04-12 05:07:11.700731	614	AdminUser	Neschholz
+289	2024-08-31	6.Lauf BB-Cup	6.Lauf des BB-Cups\n26. Pokallauf der Feuerwehr\n\nhttps://www.bb-cup.de/\n	16	la	2024-04-12 05:09:37.679464	2024-04-12 05:09:37.679464	614	AdminUser	Schwanebeck
 \.
