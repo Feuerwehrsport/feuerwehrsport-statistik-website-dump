@@ -3058,4 +3058,14 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3983	Milker	Fritz	1	1	2024-02-27 12:45:59.557783	2024-02-27 12:45:59.557783	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3984	Steingräber	Lena	0	1	2024-03-12 09:38:11.436618	2024-03-12 09:38:11.436618	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3985	Jakobs	Felix	1	1	2024-04-09 10:37:57.324098	2024-04-09 10:37:57.324098	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3986	Baunack	Carsten	1	1	2024-04-22 13:58:50.653305	2024-04-22 13:58:50.653305	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3987	Krüger	Steve	1	1	2024-04-22 14:02:37.401529	2024-04-22 14:02:37.401529	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3988	Fischer	Andre	1	1	2024-04-22 14:03:35.20995	2024-04-22 14:03:35.20995	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3989	Fischer	Lynn	0	1	2024-04-22 14:04:24.889931	2024-04-22 14:04:24.889931	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3990	Landsmann	Leon	1	1	2024-04-22 14:04:52.477382	2024-04-22 14:04:52.477382	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3991	Peters	Paul	1	1	2024-04-22 14:05:43.858154	2024-04-22 14:05:43.858154	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3992	Krüger	Wiebke	0	1	2024-04-22 14:06:26.727238	2024-04-22 14:06:26.727238	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3993	Baunack	Wiebke	0	1	2024-04-22 14:06:46.024038	2024-04-22 14:06:46.024038	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3994	Doberenz	Patrick	1	1	2024-04-22 14:07:14.239039	2024-04-22 14:07:14.239039	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3995	Milker	Hanna	0	1	2024-04-22 14:08:57.060057	2024-04-22 14:08:57.060057	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
