@@ -287,4 +287,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 287	2024-06-01	2.Lauf BB-Cup	https://www.bb-cup.de/\n\n1.Lauf des BB-Cups\n16. Waldstadionpokal	16	la	2024-04-09 06:10:22.777723	2024-04-09 06:10:22.777723	614	AdminUser	Gehren
 288	2024-06-15	3.Lauf BB-Cup und 2.Lauf 4-Bahnenpokal	3.Lauf des BB-Cups\n2.Lauf des 4-Bahnenpokals\n38. Planepokal\n\nhttps://www.bb-cup.de/\nhttps://www.4-bahnenpokal.de/	16	la	2024-04-12 05:07:11.700731	2024-04-12 05:07:11.700731	614	AdminUser	Neschholz
 289	2024-08-31	6.Lauf BB-Cup	6.Lauf des BB-Cups\n26. Pokallauf der Feuerwehr\n\nhttps://www.bb-cup.de/\n	16	la	2024-04-12 05:09:37.679464	2024-04-12 05:09:37.679464	614	AdminUser	Schwanebeck
+290	2024-06-02	Erzgebirgspokal/Krušnohorská liga	Erzgebirgspokal: Jugend, Frauen und Männer\nKrušnohorská liga: Tschechische Erzgebirgsliga, 3.Lauf in der Saison 2024	10	la	2024-04-25 18:20:18.12225	2024-04-25 18:20:18.12225	7658	AdminUser	Großolbersdorf
 \.
