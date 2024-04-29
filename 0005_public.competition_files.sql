@@ -2060,4 +2060,14 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2061	2183	ergebnis-hakenleitersteigen-ak-2-jungen.pdf	hl_male	2024-01-10 12:22:00.852965	2024-01-10 12:22:00.852965
 2062	2183	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-01-10 12:22:07.994167	2024-01-10 12:22:07.994167
 2063	2183	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-01-10 12:22:13.701407	2024-01-10 12:22:13.701407
+2064	2184	ergebnis-ak1-madchen.pdf	hb_female	2024-04-28 18:32:31.083016	2024-04-28 18:32:31.083016
+2065	2184	ergebnis-ak1-jungen.pdf	hb_male	2024-04-28 18:32:39.161464	2024-04-28 18:32:39.161464
+2066	2184	ergebnis-ak2-madchen.pdf	hb_female	2024-04-28 18:32:45.694606	2024-04-28 18:32:45.694606
+2067	2184	ergebnis-ak2-jungen.pdf	hb_male	2024-04-28 18:32:55.440465	2024-04-28 18:32:55.440465
+2068	2184	ergebnis-manner-u20.pdf	hb_male	2024-04-28 18:33:02.298054	2024-04-28 18:33:02.298054
+2069	2184	ergebnis-frauen-u20.pdf	hb_female	2024-04-28 18:33:08.689395	2024-04-28 18:33:08.689395
+2070	2184	ergebnis-manner.pdf	hb_male	2024-04-28 18:33:15.747617	2024-04-28 18:33:15.747617
+2071	2184	ergebnis-frauen.pdf	hb_female	2024-04-28 18:33:22.12738	2024-04-28 18:33:22.12738
+2072	2184	ergebnis-frauen-finale.pdf	hb_female	2024-04-28 18:33:28.497695	2024-04-28 18:33:28.497695
+2073	2184	ergebnis-manner-finale.pdf	hb_male	2024-04-28 18:33:34.331117	2024-04-28 18:33:34.331117
 \.
