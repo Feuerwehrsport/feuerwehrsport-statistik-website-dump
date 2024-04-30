@@ -2177,4 +2177,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2182	6. Lauf Thüringer Feuerwehr-Cup	209	26	\N	2023-09-02	\N	2024-01-04 17:15:25.946167	2024-01-04 17:15:25.946167		0	0	0	0	0	0	0	2	38	13	0	02.09.2023 - Zottelstedt, Thüringer Feuerwehr-Cup (6. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
 2183	Neujahrssteigen	200	10	\N	2024-01-06	\N	2024-01-10 12:20:48.99523	2024-01-10 12:20:48.99523		41	40	0	0	0	0	0	0	0	19	41	06.01.2024 - Langengrassau, Pokallauf (Neujahrssteigen)	f	f	f	f
 2184	HALLENpokal	9	4	\N	2024-04-13	\N	2024-04-28 18:28:04.142228	2024-04-28 18:28:04.142228		0	0	64	54	0	0	0	0	0	17	55	13.04.2024 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f
+2185	1. Lauf Sachsen-Anhalt Pokal	33	18	\N	2024-04-20	\N	2024-04-29 11:54:12.849263	2024-04-29 11:54:12.849263		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 \.

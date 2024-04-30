@@ -2070,4 +2070,5 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2071	2184	ergebnis-frauen.pdf	hb_female	2024-04-28 18:33:22.12738	2024-04-28 18:33:22.12738
 2072	2184	ergebnis-frauen-finale.pdf	hb_female	2024-04-28 18:33:28.497695	2024-04-28 18:33:28.497695
 2073	2184	ergebnis-manner-finale.pdf	hb_male	2024-04-28 18:33:34.331117	2024-04-28 18:33:34.331117
+2074	2185	Schmilkendorf_2024.pdf	la_female,la_male	2024-04-29 11:59:08.51678	2024-04-29 11:59:08.51678
 \.
