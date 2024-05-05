@@ -295,7 +295,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 315	FF Schwanebeck	Schwanebeck	1	52.1756653928	12.6277005672	Schwanebeck.jpg	BB	2016-01-20 21:32:11.712226	2016-06-02 18:16:52.984294	2016-06-02 18:16:52.984294	21	139
 316	FF Wolsier	Wolsier	1	52.7150110000	12.2674767000	\N	BB	2016-01-20 21:32:11.715516	2016-01-20 21:32:11.715516	2016-01-20 21:32:11.715516	0	24
 317	FF Kienbaum	Kienbaum	1	52.4541529000	13.9564236000	\N	BB	2016-01-20 21:32:11.718075	2016-01-20 21:32:11.718075	2016-01-20 21:32:11.718075	0	5
-318	FF Cahnsdorf	Cahnsdorf	1	51.8500000000	13.7500000000	\N	BB	2016-01-20 21:32:11.720727	2016-01-20 21:32:11.720727	2016-01-20 21:32:11.720727	0	7
+318	FF Cahnsdorf	Cahnsdorf	1	51.8500000000	13.7500000000	\N	BB	2016-01-20 21:32:11.720727	2016-01-20 21:32:11.720727	2016-01-20 21:32:11.720727	1	7
 319	FF Teupitz-Neuendorf	Teupitz-Neuendorf	1	52.1204620000	13.5877621000	\N	BB	2016-01-20 21:32:11.723174	2016-01-20 21:32:11.723174	2016-01-20 21:32:11.723174	0	13
 320	FF Altbensdorf	Altbensdorf	1	52.4201151361	12.3434829712	\N	BB	2016-01-20 21:32:11.725905	2016-01-20 21:32:11.725905	2016-01-20 21:32:11.725905	0	2
 321	FF Petkus	Petkus	1	51.9891599000	13.3587088000	\N	BB	2016-01-20 21:32:11.72845	2016-01-20 21:32:11.72845	2016-01-20 21:32:11.72845	0	8
@@ -305,7 +305,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 326	FF Radinkendorf	Radinkendorf	1	52.2113388000	14.2697457000	\N	BB	2016-01-20 21:32:11.748575	2016-01-20 21:32:11.748575	2016-01-20 21:32:11.748575	0	39
 327	WF Kraftwerk Jänschwalde	Jänschwalde	1	51.8333908242	14.4622135162	WF_Vattenfall_Kraftwerk_J__nschwalde.png	BB	2016-01-20 21:32:11.853005	2018-03-06 14:20:52.310206	2018-03-06 14:20:51	1	13
 328	FF Perleberg	Perleberg	1	53.0762716000	11.8627933000	\N	BB	2016-01-20 21:32:11.861273	2016-01-20 21:32:11.861273	2016-01-20 21:32:11.861273	0	3
-329	FF Willmersdorf-Stöbritz	Willmersdorf-Stöbritz	1	51.8512614540	13.7222671509	willmersdorf-st__britz.png	BB	2016-01-20 21:32:11.948091	2016-01-20 21:32:11.948091	2016-01-20 21:32:11.948091	1	153
+329	FF Willmersdorf-Stöbritz	Willmersdorf-Stöbritz	1	51.8512614540	13.7222671509	willmersdorf-st__britz.png	BB	2016-01-20 21:32:11.948091	2016-01-20 21:32:11.948091	2016-01-20 21:32:11.948091	2	153
 330	FF Golzow (Mittelmark)	Golzow	1	52.2771908429	12.6092147827	1110298365_629293833822760_8242150138818290776_o.png	BB	2016-01-20 21:32:12.049385	2016-01-20 21:32:12.049385	2016-01-20 21:32:12.049385	4	23
 331	FF Heinersdorf/Schwedt Oder	Heinersdorf/Schwedt Oder	1	53.0813446000	14.1729135000	\N	BB	2016-01-20 21:32:12.077171	2016-01-20 21:32:12.077171	2016-01-20 21:32:12.077171	0	2
 333	FF Gröditsch	Gröditsch	1	52.0524800000	14.0007119000	\N	BB	2016-01-20 21:32:12.181978	2016-01-20 21:32:12.181978	2016-01-20 21:32:12.181978	0	9
@@ -3323,14 +3323,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 8062, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 8114, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 781, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 782, true);
 
 
 --
@@ -3351,7 +3351,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21849, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21898, true);
 
 
 --
@@ -3379,7 +3379,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2185, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 32544, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 32720, true);
 
 
 --
@@ -3456,7 +3456,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 8056, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 8108, true);
 
 
 --
@@ -3470,14 +3470,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4003, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4004, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 20363, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 20411, true);
 
 
 --

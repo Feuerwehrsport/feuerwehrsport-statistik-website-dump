@@ -3076,4 +3076,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4001	Leidenfrost	Max	1	1	2024-04-28 18:31:21.473834	2024-04-28 18:31:21.473834	2	0	0	0	0	{"pb": {"hb": [2246, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2246, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 4002	Arnoldt	Julien	1	1	2024-04-28 18:31:21.498479	2024-04-28 18:31:21.498479	2	0	0	0	0	{"pb": {"hb": [2422, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2422, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 4003	Roch	Oliver	1	1	2024-04-28 18:31:21.5119	2024-04-28 18:31:21.5119	2	0	0	0	0	{"pb": {"hb": [2511, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2511, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
+4004	Laurisch	Jörg	1	1	2024-05-04 22:31:05.070473	2024-05-04 22:31:05.070473	0	0	48	0	0	{}	\N
 \.
