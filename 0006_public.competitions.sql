@@ -2178,4 +2178,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2183	Neujahrssteigen	200	10	\N	2024-01-06	\N	2024-01-10 12:20:48.99523	2024-01-10 12:20:48.99523		41	40	0	0	0	0	0	0	0	19	41	06.01.2024 - Langengrassau, Pokallauf (Neujahrssteigen)	f	f	f	f
 2184	HALLENpokal	9	4	\N	2024-04-13	\N	2024-04-28 18:28:04.142228	2024-04-28 18:28:04.142228		0	0	64	54	0	0	0	0	0	17	55	13.04.2024 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f
 2185	1. Lauf Sachsen-Anhalt Pokal	33	18	\N	2024-04-20	\N	2024-04-29 11:54:12.849263	2024-04-29 11:54:12.849263		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
+2186		208	16	\N	2024-05-04	\N	2024-05-06 14:01:54.298239	2024-05-06 14:01:54.298239		0	0	0	0	0	0	0	18	32	25	0	04.05.2024 - Zerkwitz, BB-Cup	f	f	f	f
+2187		208	32	\N	2024-05-04	\N	2024-05-06 14:05:15.76319	2024-05-06 14:05:15.76319		0	0	0	0	0	0	0	12	22	17	0	04.05.2024 - Zerkwitz, 4BP	f	f	f	f
+2188	1. TGL-Cup 2024	219	33	\N	2024-05-04	\N	2024-05-06 14:08:01.893205	2024-05-06 14:08:01.893205		0	0	0	0	0	0	0	4	48	13	0	04.05.2024 - Garitz-Bornum, TGL-Cup (1. TGL-Cup 2024)	f	f	f	f
 \.
