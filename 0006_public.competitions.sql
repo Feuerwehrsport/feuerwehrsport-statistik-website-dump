@@ -2181,4 +2181,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2186		208	16	\N	2024-05-04	\N	2024-05-06 14:01:54.298239	2024-05-06 14:01:54.298239		0	0	0	0	0	0	0	18	32	25	0	04.05.2024 - Zerkwitz, BB-Cup	f	f	f	f
 2187		208	32	\N	2024-05-04	\N	2024-05-06 14:05:15.76319	2024-05-06 14:05:15.76319		0	0	0	0	0	0	0	12	22	17	0	04.05.2024 - Zerkwitz, 4BP	f	f	f	f
 2188	1. TGL-Cup 2024	219	33	\N	2024-05-04	\N	2024-05-06 14:08:01.893205	2024-05-06 14:08:01.893205		0	0	0	0	0	0	0	4	48	13	0	04.05.2024 - Garitz-Bornum, TGL-Cup (1. TGL-Cup 2024)	f	f	f	f
+2189	1. Lauf Ostsachsenpokal	101	34	\N	2024-05-04	\N	2024-05-09 20:17:00.836199	2024-05-09 20:17:33.663611		0	0	0	0	0	0	0	6	20	13	0	04.05.2024 - Trebendorf (Sa.), Ostsachsenpokal (1. Lauf Ostsachsenpokal)	f	f	f	f
 \.

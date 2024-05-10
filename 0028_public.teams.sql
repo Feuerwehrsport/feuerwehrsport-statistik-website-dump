@@ -7,7 +7,7 @@
 COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state, created_at, updated_at, checked_at, members_count, competitions_count) FROM stdin;
 1	FF Buckow	Buckow	1	52.5611297253	14.0714263916	Buckow.png	BB	2016-01-20 21:32:01.897862	2016-01-20 21:32:01.897862	2016-01-20 21:32:01.897862	42	36
 2	Team Mecklenburg-Vorpommern	Team MV	0	53.6851567563	12.2669005394	team-mv.png	MV	2016-01-20 21:32:02.001251	2016-01-20 21:32:02.001251	2016-01-20 21:32:02.001251	169	105
-3	Team Lausitz	Team Lausitz	0	51.3717803759	14.3261718750	lausitz.jpg	BB	2016-01-20 21:32:02.142778	2018-01-25 09:50:36.272773	2018-01-25 09:50:34	149	150
+3	Team Lausitz	Team Lausitz	0	51.3717803759	14.3261718750	lausitz.jpg	BB	2016-01-20 21:32:02.142778	2018-01-25 09:50:36.272773	2018-01-25 09:50:34	149	151
 4	Team Stelzendorf	Stelzendorf	1	50.6576774988	11.9240605831	stelzendorf.jpg	TH	2016-01-20 21:32:02.364791	2016-01-20 21:32:02.364791	2016-01-20 21:32:02.364791	42	65
 5	Team Rostock	Rostock	0	54.0782249901	12.1172332764	rostock.png	MV	2016-01-20 21:32:02.45032	2016-01-20 21:32:02.45032	2016-01-20 21:32:02.45032	11	68
 6	Team Westsachsen	Westsachsen	0	50.7163738000	12.4860700000	\N	SN	2016-01-20 21:32:02.476486	2018-01-25 09:52:19.893385	2018-01-25 09:52:17	23	16
@@ -48,7 +48,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 42	FF Hohenfelde	Hohenfelde	1	54.0790893000	11.9097721000	\N	MV	2016-01-20 21:32:05.585674	2016-01-20 21:32:05.585674	2016-01-20 21:32:05.585674	1	22
 43	FF Admannshagen-Bargeshagen	Bargeshagen	1	54.1246790000	11.9805863541	logo.png	MV	2016-01-20 21:32:05.590871	2023-06-08 19:55:30.557311	2016-01-20 21:32:05.590871	29	40
 44	FF Rövershagen	Rövershagen	1	54.1749967000	12.2395150000	573px-Wappen_R__vershagen.svg.png	MV	2016-01-20 21:32:05.696153	2016-01-20 21:32:05.696153	2016-01-20 21:32:05.696153	3	40
-45	FF Merzdorf	Merzdorf	1	51.7782494757	14.3862533569	ifjdifff.jpg	BB	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	27	89
+45	FF Merzdorf	Merzdorf	1	51.7782494757	14.3862533569	ifjdifff.jpg	BB	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	27	90
 46	FF Charlottenthal	Charlottenthal	1	53.6851789948	12.2668844461	charlottenthal.jpg	MV	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	72	90
 47	FF Genschmar	Genschmar	1	52.6128839000	14.5121628000	genschmar.jpg	BB	2016-01-20 21:32:05.953736	2016-01-20 21:32:05.953736	2016-01-20 21:32:05.953736	35	130
 48	FF Tribsees	Tribsees	1	54.0946272000	12.7584066000	tribsees.png	MV	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	13	33
@@ -150,7 +150,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 153	FF Güsten	Güsten	1	51.7947764000	11.6078635000	\N	ST	2016-01-20 21:32:08.81447	2016-01-20 21:32:08.81447	2016-01-20 21:32:08.81447	0	12
 154	FF Baalberge	Baalberge	1	51.7663237500	11.8026022755	\N	ST	2016-01-20 21:32:08.817221	2016-01-20 21:32:08.817221	2016-01-20 21:32:08.817221	0	1
 155	FF Klein Radden	Klein Radden	1	51.8705778000	13.8784310000	Logo_Klein_Radden.jpeg	BB	2016-01-20 21:32:08.892741	2016-01-20 21:32:08.892741	2016-01-20 21:32:08.892741	17	148
-156	FF Lauba	Lauba	1	51.0813155000	14.5747536000	\N	SN	2016-01-20 21:32:08.897222	2016-01-20 21:32:08.897222	2016-01-20 21:32:08.897222	13	148
+156	FF Lauba	Lauba	1	51.0813155000	14.5747536000	\N	SN	2016-01-20 21:32:08.897222	2016-01-20 21:32:08.897222	2016-01-20 21:32:08.897222	13	149
 157	Team Boizetal	Boizetal	0	53.3793350140	10.7116699219	Team_Boizetal_Logo_internet.jpg	MV	2016-01-20 21:32:08.981612	2016-01-20 21:32:08.981612	2016-01-20 21:32:08.981612	0	81
 159	FF Gresse	Gresse	1	53.4333016000	10.7500013000	gresse.png	MV	2016-01-20 21:32:09.137962	2016-01-20 21:32:09.137962	2016-01-20 21:32:09.137962	1	100
 160	FF Stove	Stove	1	54.0057234000	11.5478841000	\N	MV	2016-01-20 21:32:09.147839	2016-01-20 21:32:09.147839	2016-01-20 21:32:09.147839	1	109
@@ -185,7 +185,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 193	FF Friedersdorf / Oberlausitz	Friedersdorf	1	51.0258488531	14.5558547974	friedersdorf_OL.png	SN	2016-01-20 21:32:09.738208	2016-01-20 21:32:09.738208	2016-01-20 21:32:09.738208	18	98
 194	OSP Zimna Woda	Zimna Woda	1	52.0790204000	19.7804208000	\N	CZ	2016-01-20 21:32:09.743106	2018-02-14 16:12:18.017247	2018-02-14 16:12:16	1	2
 195	FF Hayna	Hayna	1	51.4305745724	12.3122406006	hayna.jpg	SN	2016-01-20 21:32:09.824078	2016-01-20 21:32:09.824078	2016-01-20 21:32:09.824078	14	98
-196	FF Crosta	Crosta	1	51.2722936000	14.4528353000	\N	SN	2016-01-20 21:32:09.854226	2016-01-20 21:32:09.854226	2016-01-20 21:32:09.854226	7	109
+196	FF Crosta	Crosta	1	51.2722936000	14.4528353000	\N	SN	2016-01-20 21:32:09.854226	2016-01-20 21:32:09.854226	2016-01-20 21:32:09.854226	7	110
 197	FF Oelsnitz	Oelsnitz	1	50.4101636500	12.1834961335	oelsnitz.jpg	SN	2016-01-20 21:32:09.912131	2016-01-20 21:32:09.912131	2016-01-20 21:32:09.912131	13	19
 199	FF Reichenbach (Vogtland)	Reichenbach (Vogtland)	1	50.6200076000	12.2989360000	\N	SN	2016-01-20 21:32:09.917713	2018-07-16 12:33:02.894697	2016-01-20 21:32:09.917713	1	28
 200	FF Spree	Spree	1	51.3507717876	14.8790931702	\N	SN	2016-01-20 21:32:09.941183	2016-01-20 21:32:09.941183	2016-01-20 21:32:09.941183	9	35
@@ -839,7 +839,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 950	FF Kranepuhl	Kranepuhl	1	52.0937090000	12.6042732126	\N	BB	2016-01-20 21:32:17.310751	2016-01-20 21:32:17.310751	2016-01-20 21:32:17.310751	0	2
 951	FF Klein Marzehns	Klein Marzehns	1	52.0168254000	12.6136156000	\N	BB	2016-01-20 21:32:17.313505	2016-01-20 21:32:17.313505	2016-01-20 21:32:17.313505	0	3
 952	FF Hohenwerbig	Hohenwerbig	1	52.0478197000	12.7049851000	\N	BB	2016-01-20 21:32:17.322021	2016-01-20 21:32:17.322021	2016-01-20 21:32:17.322021	0	6
-953	FF Trebendorf (Sa.)	Trebendorf (Sa.)	1	51.5269018459	14.5598030090	trebendorf.jpg	SN	2016-01-20 21:32:17.393689	2016-01-20 21:32:17.393689	2016-01-20 21:32:17.393689	10	73
+953	FF Trebendorf (Sa.)	Trebendorf (Sa.)	1	51.5269018459	14.5598030090	trebendorf.jpg	SN	2016-01-20 21:32:17.393689	2016-01-20 21:32:17.393689	2016-01-20 21:32:17.393689	10	74
 959	FF Grünewald-Sella	Grünewald-Sella	1	51.3825823000	13.9783920324	\N	BB	2016-01-20 21:32:17.402624	2016-01-20 21:32:17.402624	2016-01-20 21:32:17.402624	0	9
 960	FF Spreewitz	Spreewitz	1	51.5082613000	14.4000336000	\N	SN	2016-01-20 21:32:17.412813	2016-01-20 21:32:17.412813	2016-01-20 21:32:17.412813	4	11
 961	WF Boxberg	Boxberg	1	51.3876461000	14.5874415287	\N	SN	2016-01-20 21:32:17.418577	2016-01-20 21:32:17.418577	2016-01-20 21:32:17.418577	0	8
@@ -851,7 +851,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 975	FF Burgkemnitz	Burgkemnitz	1	51.6866910000	12.3982713285	\N	ST	2016-01-20 21:32:17.455843	2016-01-20 21:32:17.455843	2016-01-20 21:32:17.455843	0	1
 976	FF Roitzsch	Roitzsch	1	51.5757360062	12.2603988647	\N	ST	2016-01-20 21:32:17.459131	2016-01-20 21:32:17.459131	2016-01-20 21:32:17.459131	0	3
 977	FF Großwig	Großwig	1	51.5629883000	12.8835979000	\N	SN	2016-01-20 21:32:17.463525	2016-01-20 21:32:17.463525	2016-01-20 21:32:17.463525	0	3
-979	FF Trebendorf/BB	Trebendorf/BB	1	51.6758964000	14.5348617000	\N	BB	2016-01-20 21:32:17.467133	2016-01-20 21:32:17.467133	2016-01-20 21:32:17.467133	16	75
+979	FF Trebendorf/BB	Trebendorf/BB	1	51.6758964000	14.5348617000	\N	BB	2016-01-20 21:32:17.467133	2016-01-20 21:32:17.467133	2016-01-20 21:32:17.467133	16	76
 981	FF Friedersdorf/GR	Friedersdorf/GR	1	51.1031985749	14.8808956146	\N	SN	2016-01-20 21:32:17.470316	2016-01-20 21:32:17.470316	2016-01-20 21:32:17.470316	0	27
 982	FF Schleife	Schleife	1	51.5446031000	14.5355952000	\N	SN	2016-01-20 21:32:17.474169	2016-01-20 21:32:17.474169	2016-01-20 21:32:17.474169	0	3
 983	FF Girbigsdorf	Girbigsdorf	1	51.1658175000	14.9338687000	\N	SN	2016-01-20 21:32:17.477809	2016-01-20 21:32:17.477809	2016-01-20 21:32:17.477809	0	19
@@ -882,7 +882,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1014	FF Weißwasser	Weißwasser	1	51.4914843343	14.6429836750	\N	SN	2016-01-20 21:32:17.607997	2016-01-20 21:32:17.607997	2016-01-20 21:32:17.607997	2	11
 1015	FF Schönau-Berzdorf	Schönau-Berzdorf	1	51.0612957000	14.8708887000	\N	SN	2016-01-20 21:32:17.611285	2016-01-20 21:32:17.611285	2016-01-20 21:32:17.611285	0	17
 1016	FF Caputh	Caputh	1	52.3432052558	13.0060100555	\N	BB	2016-01-20 21:32:17.615393	2016-01-20 21:32:17.615393	2016-01-20 21:32:17.615393	0	21
-1017	FF Krauschwitz	Krauschwitz	1	51.5192116952	14.7197270393	\N	SN	2016-01-20 21:32:17.624733	2016-01-20 21:32:17.624733	2016-01-20 21:32:17.624733	0	5
+1017	FF Krauschwitz	Krauschwitz	1	51.5192116952	14.7197270393	\N	SN	2016-01-20 21:32:17.624733	2016-01-20 21:32:17.624733	2016-01-20 21:32:17.624733	0	6
 1018	FF Kreba Neudorf	Kreba Neudorf	1	51.3471016000	14.6837612000	\N	SN	2016-01-20 21:32:17.634299	2016-01-20 21:32:17.634299	2016-01-20 21:32:17.634299	0	1
 1019	FF Zary / PL	Zary / PL	1	51.6327095455	15.1028752327	\N	PL	2016-01-20 21:32:17.639146	2016-01-20 21:32:17.639146	2016-01-20 21:32:17.639146	5	1
 1020	FF Weißkollm	Weißkollm	1	51.4133403905	14.3893432617	\N	SN	2016-01-20 21:32:17.64226	2016-01-20 21:32:17.64226	2016-01-20 21:32:17.64226	0	5
@@ -2396,7 +2396,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2830	FF Dobra	Dobra	1	51.5147251743	13.4445190430	\N	BB	2017-01-16 14:46:51.307579	2017-01-16 14:48:05.416277	2017-01-16 14:48:05.416277	1	1
 2831	FF Bischheim-Häslich	Bischheim-Häslich	1	51.2391363744	14.0398406982	\N	SN	2017-01-27 21:14:27.913958	2017-01-27 21:16:36.150806	2017-01-27 21:16:36.150806	0	4
 2832	FF Bad Gottleuba	Bad Gottleuba	1	50.8550508867	13.9457702637	\N	SN	2017-02-18 08:54:50.737836	2017-02-18 08:59:46.304316	2017-02-18 08:59:46.304316	0	8
-2833	FF Helmsdorf	Helmsdorf	1	51.0365366317	14.0381240845	17DDF386-7990-4DDD-9554-0177FC9764A9.jpeg	SN	2017-02-18 08:54:55.494844	2022-08-07 06:21:36.641226	2017-02-18 08:58:12.366505	2	22
+2833	FF Helmsdorf	Helmsdorf	1	51.0365366317	14.0381240845	17DDF386-7990-4DDD-9554-0177FC9764A9.jpeg	SN	2017-02-18 08:54:55.494844	2022-08-07 06:21:36.641226	2017-02-18 08:58:12.366505	2	23
 2834	FF Langenwolmsdorf	Langenwolmsdorf	1	51.0410700962	14.1184616089	\N	SN	2017-02-18 08:54:58.468859	2017-02-18 08:58:31.448358	2017-02-18 08:58:31.448358	0	3
 2835	FF Mühlsdorf	Mühlsdorf	1	50.9953373464	13.9854240417	\N	SN	2017-02-18 09:01:31.418111	2017-02-18 09:03:37.866291	2017-02-18 09:03:37.866291	0	6
 2836	FF Dobra	Dobra	1	51.0178044044	14.0276312828	\N	SN	2017-02-18 09:03:58.232949	2017-02-18 09:06:28.183802	2017-02-18 09:06:28.183802	0	15
@@ -2429,7 +2429,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2865	LK Dahme-Spreewald	LDS	0	\N	\N	image.jpeg	BB	2017-08-22 08:18:25.377389	2018-09-20 12:58:10.919182	2018-09-20 12:57:58	24	8
 2870	FF Wittmannsdorf	Wittmannsdorf	1	52.0780290145	14.0576934814	\N	BB	2017-08-25 07:49:38.331696	2018-03-05 17:15:43.492921	2017-09-04 09:20:35.60052	0	5
 2872	Team Gemeinde Tauche	Gemeinde Tauche	0	52.1522399270	14.1613769531	\N	BB	2017-08-25 07:55:23.43211	2017-09-04 09:20:17.169384	2017-09-04 09:20:17.169384	0	1
-2873	FF Wurschen	Wurschen	1	51.1905332584	14.5796298981	\N	SN	2017-08-28 11:41:22.883882	2017-09-04 09:14:32.443114	2017-09-04 09:14:32.443114	3	17
+2873	FF Wurschen	Wurschen	1	51.1905332584	14.5796298981	\N	SN	2017-08-28 11:41:22.883882	2017-09-04 09:14:32.443114	2017-09-04 09:14:32.443114	3	18
 2874	FF Erkner	Erkner	1	52.4258727434	13.7521362305	\N	BB	2017-08-29 07:09:01.321428	2017-09-04 09:14:00.068973	2017-09-04 09:14:00.068973	0	8
 2878	FF Rossow	Rossow	1	53.0469923997	12.5638961792	\N	BB	2017-09-17 10:09:20.939098	2017-09-21 16:03:40.827734	2017-09-21 16:03:40.827734	0	1
 2879	FF Uenze	Uenze	1	53.0346071103	11.9273757935	\N	BB	2017-09-17 10:09:24.080586	2017-09-21 16:01:30.024168	2017-09-21 16:01:30.024168	0	9
@@ -3323,7 +3323,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 8290, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 8343, true);
 
 
 --
@@ -3351,14 +3351,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 21955, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 21977, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 538, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 539, true);
 
 
 --
@@ -3372,21 +3372,21 @@ SELECT pg_catalog.setval('public.competition_files_id_seq', 2088, true);
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 2188, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 2189, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 33094, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 33190, true);
 
 
 --
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 330, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 331, true);
 
 
 --
@@ -3407,7 +3407,7 @@ SELECT pg_catalog.setval('public.federal_states_id_seq', 16, true);
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3513, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3514, true);
 
 
 --
@@ -3421,7 +3421,7 @@ SELECT pg_catalog.setval('public.group_score_types_id_seq', 19, true);
 -- Name: group_scores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_scores_id_seq', 80519, true);
+SELECT pg_catalog.setval('public.group_scores_id_seq', 80547, true);
 
 
 --
@@ -3456,7 +3456,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 8284, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 8337, true);
 
 
 --
@@ -3470,7 +3470,7 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4005, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4006, true);
 
 
 --
@@ -3596,11 +3596,11 @@ SELECT pg_catalog.setval('public.tags_id_seq', 1172, true);
 -- Name: team_spellings_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.team_spellings_id_seq', 279, true);
+SELECT pg_catalog.setval('public.team_spellings_id_seq', 280, true);
 
 
 --
 -- Name: teams_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.teams_id_seq', 3939, true);
+SELECT pg_catalog.setval('public.teams_id_seq', 3940, true);

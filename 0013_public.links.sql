@@ -117,7 +117,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 117	www.ff-breitenau.de	21	Team	http://www.ff-breitenau.de	2016-01-20 21:39:43.726783	2016-01-20 21:39:43.726783
 118	http://www.freiwilligefeuerwehr-losenrade-online.de/	24	Team	http://www.freiwilligefeuerwehr-losenrade-online.de/	2016-01-20 21:39:43.729733	2016-01-20 21:39:43.729733
 119	http://www.ffwostseebadnienhagen.de/	36	Team	http://www.ffwostseebadnienhagen.de/	2016-01-20 21:39:43.732584	2016-01-20 21:39:43.732584
-120	http://www.feuerwehr-merzdorf.de.tl/	45	Team	http://www.feuerwehr-merzdorf.de.tl/	2016-01-20 21:39:43.735488	2016-01-20 21:39:43.735488
 121	http://www.feuerwehr-charlottenthal.de	46	Team	http://www.feuerwehr-charlottenthal.de	2016-01-20 21:39:43.738418	2016-01-20 21:39:43.738418
 122	http://ffw-genschmar.de.tl/Home.htm	47	Team	http://ffw-genschmar.de.tl/Home.htm	2016-01-20 21:39:43.741182	2016-01-20 21:39:43.741182
 123	http://www.ffw-lindholz.de	52	Team	http://www.ffw-lindholz.de	2016-01-20 21:39:43.743882	2016-01-20 21:39:43.743882

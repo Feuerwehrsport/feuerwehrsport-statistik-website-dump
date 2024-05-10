@@ -3078,4 +3078,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4003	Roch	Oliver	1	1	2024-04-28 18:31:21.5119	2024-04-28 18:31:21.5119	2	0	0	0	0	{"pb": {"hb": [2511, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2511, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 4004	Laurisch	Jörg	1	1	2024-05-04 22:31:05.070473	2024-05-04 22:31:05.070473	0	0	48	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4005	Puhlmann	Maximilian	1	1	2024-05-08 11:15:52.142797	2024-05-08 11:15:52.142797	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4006	Baunack	Lyv	0	1	2024-05-09 07:18:04.385447	2024-05-09 07:18:04.385447	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
