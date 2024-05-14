@@ -2085,4 +2085,12 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2086	2188	ergebnis-tgl-cup-manner.pdf	la_male	2024-05-06 14:09:26.579104	2024-05-06 14:09:26.579104
 2087	2188	ergebnis-tageswertung-frauen-tgl.pdf	la_female	2024-05-06 14:09:38.372282	2024-05-06 14:09:38.372282
 2088	2188	ergebnis-tageswertung-manner-tgl.pdf	la_male	2024-05-06 14:09:43.724578	2024-05-06 14:09:43.724578
+2089	2190	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-05-13 11:48:58.813458	2024-05-13 11:48:58.813458
+2090	2190	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-05-13 11:49:05.563641	2024-05-13 11:49:05.563641
+2091	2190	ergebnis-loschangriff-nass-ak-2.pdf	la_female,la_male	2024-05-13 11:49:12.963684	2024-05-13 11:49:12.963684
+2092	2190	ergebnis-loschangriff-nass-ak-1.pdf	la_female,la_male	2024-05-13 11:49:18.769033	2024-05-13 11:49:18.769033
+2093	2190	ergebnis-loschangriff-nass-tgl-cup-frauen.pdf	la_female	2024-05-13 11:49:29.442573	2024-05-13 11:49:29.442573
+2094	2190	ergebnis-loschangriff-nass-tgl-cup-manner.pdf	la_male	2024-05-13 11:49:36.126671	2024-05-13 11:49:36.126671
+2095	2190	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-05-13 11:49:42.593985	2024-05-13 11:49:42.593985
+2096	2190	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-05-13 11:49:48.918706	2024-05-13 11:49:48.918706
 \.
