@@ -2093,4 +2093,8 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2094	2190	ergebnis-loschangriff-nass-tgl-cup-manner.pdf	la_male	2024-05-13 11:49:36.126671	2024-05-13 11:49:36.126671
 2095	2190	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-05-13 11:49:42.593985	2024-05-13 11:49:42.593985
 2096	2190	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-05-13 11:49:48.918706	2024-05-13 11:49:48.918706
+2097	2191	ergebnis-manner.pdf	la_male	2024-05-16 08:39:28.945051	2024-05-16 08:39:28.945051
+2098	2191	ergebnis-frauen.pdf	la_female	2024-05-16 08:39:35.632834	2024-05-16 08:39:35.632834
+2099	2191	ergebnis-loschangriff-nass-frauen-sap-cup.pdf	la_female	2024-05-16 08:39:42.973804	2024-05-16 08:39:42.973804
+2100	2191	ergebnis-loschangriff-nass-manner-sap-cup.pdf	la_male	2024-05-16 08:39:47.952642	2024-05-16 08:39:47.952642
 \.
