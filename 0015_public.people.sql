@@ -929,9 +929,9 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 1481	Manigk	Steffen	1	1	2016-01-20 21:36:06.613392	2016-01-20 21:36:06.613392	11	0	0	0	0	{"pb": {"hb": [2304, "25.08.2012 - Domsdorf, Stadtausscheid (Stadtausscheid Uebigau-Wahrenbrück)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1483	Jurk	Marco	1	1	2016-01-20 21:36:06.616125	2016-01-20 21:36:06.616125	0	0	25	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1484	Reichmuth	Kevin	1	1	2016-01-20 21:36:06.61893	2016-01-20 21:36:06.61893	0	0	44	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1485	König	Franz	1	1	2016-01-20 21:36:06.621716	2016-01-20 21:36:06.621716	7	0	62	0	0	{"pb": {"hb": [2028, "05.09.2015 - Rhinow, Landesausscheid (Brandenburg)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1485	König	Franz	1	1	2016-01-20 21:36:06.621716	2016-01-20 21:36:06.621716	7	0	64	0	0	{"pb": {"hb": [2028, "05.09.2015 - Rhinow, Landesausscheid (Brandenburg)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1486	Müschner	Adrian	1	1	2016-01-20 21:36:06.624475	2016-01-20 21:36:06.624475	1	0	35	0	0	{"pb": {"hb": [3176, "01.09.2007 - Brandenburg, Landesausscheid"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1487	Himmelberg	Eric	1	1	2016-01-20 21:36:06.627441	2016-01-20 21:36:06.627441	0	0	64	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1487	Himmelberg	Eric	1	1	2016-01-20 21:36:06.627441	2016-01-20 21:36:06.627441	0	0	66	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1488	Götze	Oliver	1	1	2016-01-20 21:36:06.630592	2016-01-20 21:36:06.630592	0	0	5	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1489	Hoppe	Frank	1	1	2016-01-20 21:36:06.633521	2016-01-20 21:36:06.633521	0	0	20	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1491	Kresse	Mathias	1	1	2016-01-20 21:36:06.639912	2016-01-20 21:36:06.639912	4	0	21	0	0	{"pb": {"hb": [2074, "19.06.2010 - Langenreichenbach, Kreisausscheid"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -1804,7 +1804,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 2536	Szabó	Tibor	1	3	2016-01-20 21:36:10.52599	2016-01-20 21:36:10.52599	1	0	0	0	0	{"pb": {"hb": [2188, "01.08.2014 - Zeulenroda, Pokallauf (EuregioCup)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2537	Hochrainer	Michael	1	2	2016-01-20 21:36:10.529796	2016-01-20 21:36:10.529796	1	0	0	0	0	{"pb": {"hb": [2240, "01.08.2014 - Zeulenroda, Pokallauf (EuregioCup)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2538	Huszár	Béla	1	3	2016-01-20 21:36:10.533882	2016-01-20 21:36:10.533882	1	0	0	0	0	{"pb": {"hb": [99999999, "01.08.2014 - Zeulenroda, Pokallauf (EuregioCup)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-2540	Müller	Otto	1	1	2016-01-20 21:36:10.536966	2016-01-20 21:36:10.536966	0	0	36	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+2540	Müller	Otto	1	1	2016-01-20 21:36:10.536966	2016-01-20 21:36:10.536966	0	0	38	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2541	Pschierer	Dirk	1	1	2016-01-20 21:36:10.539944	2016-01-20 21:36:10.539944	0	0	0	1	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2542	Stingl	?	1	1	2016-01-20 21:36:10.543878	2016-01-20 21:36:10.543878	0	0	0	1	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2543	Zaumseil	Manfred	1	1	2016-01-20 21:36:10.547466	2016-01-20 21:36:10.547466	0	2	0	0	0	{"pb": {"hb": null, "hl": [1890, "15.08.1964 - Teichwolframsdorf, Landesausscheid (Bezirksmeisterschaft)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -2817,8 +2817,8 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3733	Röckl	Tobias	1	1	2022-06-08 06:30:38.888026	2022-08-22 07:31:47.98508	7	6	0	0	0	{"pb": {"hb": [2181, "16.09.2023 - Gamstädt, Landesausscheid (Thüringen)"], "hl": [2634, "16.09.2023 - Gamstädt, Landesausscheid (Thüringen)"], "zk": [4815, "16.09.2023 - Gamstädt, Landesausscheid (Thüringen)"]}, "sb": {"hb": [2525, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 3734	Schmidt	Antony	1	1	2022-06-10 14:46:45.232619	2022-06-10 14:46:45.232619	0	0	28	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3735	Gloger	Maximilian	1	1	2022-06-16 20:23:35.771045	2022-06-16 20:23:35.771045	0	0	15	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3736	Hempel	Paul	1	1	2022-06-16 20:24:01.280929	2022-06-16 20:24:01.280929	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3737	Attula	Frank	1	1	2022-06-16 20:24:27.457159	2022-06-16 20:24:27.457159	0	0	18	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3736	Hempel	Paul	1	1	2022-06-16 20:24:01.280929	2022-06-16 20:24:01.280929	0	0	10	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3737	Attula	Frank	1	1	2022-06-16 20:24:27.457159	2022-06-16 20:24:27.457159	0	0	20	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3738	Lohse	Philippe	1	1	2022-06-16 20:24:46.916492	2022-06-16 20:24:46.916492	0	0	14	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3739	Kuhl	Simon	1	1	2022-06-22 11:42:03.176842	2022-06-22 11:42:03.176842	0	0	10	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3740	Näthe	Mark	1	1	2022-06-22 12:11:22.851031	2022-06-22 12:11:22.851031	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -3077,9 +3077,10 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4002	Arnoldt	Julien	1	1	2024-04-28 18:31:21.498479	2024-04-28 18:31:21.498479	2	0	0	0	0	{"pb": {"hb": [2422, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2422, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 4003	Roch	Oliver	1	1	2024-04-28 18:31:21.5119	2024-04-28 18:31:21.5119	2	0	0	0	0	{"pb": {"hb": [2511, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2511, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 4004	Laurisch	Jörg	1	1	2024-05-04 22:31:05.070473	2024-05-04 22:31:05.070473	0	0	48	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-4005	Puhlmann	Maximilian	1	1	2024-05-08 11:15:52.142797	2024-05-08 11:15:52.142797	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4005	Puhlmann	Maximilian	1	1	2024-05-08 11:15:52.142797	2024-05-08 11:15:52.142797	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4006	Baunack	Lyv	0	1	2024-05-09 07:18:04.385447	2024-05-09 07:18:04.385447	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4007	Otto	Carolin	0	1	2024-05-15 09:52:25.494091	2024-05-15 09:52:25.494091	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4008	Fischer 	Chiara	0	1	2024-05-15 09:52:56.871109	2024-05-15 09:52:56.871109	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4009	Alpert	Seline	0	1	2024-05-15 09:59:25.358124	2024-05-15 09:59:25.358124	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4010	Arlt	Franz	1	1	2024-05-17 18:42:02.594183	2024-05-17 18:42:02.594183	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
