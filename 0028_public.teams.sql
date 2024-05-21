@@ -3324,7 +3324,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 8675, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 8692, true);
 
 
 --
@@ -3380,7 +3380,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2191, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 33843, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 33864, true);
 
 
 --
@@ -3457,7 +3457,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 8669, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 8686, true);
 
 
 --
@@ -3499,7 +3499,7 @@ SELECT pg_catalog.setval('public.places_id_seq', 638, true);
 -- Name: registrations_assessment_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 12908, true);
+SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 12910, true);
 
 
 --
@@ -3527,7 +3527,7 @@ SELECT pg_catalog.setval('public.registrations_competitions_id_seq', 98, true);
 -- Name: registrations_people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_people_id_seq', 4340, true);
+SELECT pg_catalog.setval('public.registrations_people_id_seq', 4341, true);
 
 
 --
@@ -3590,7 +3590,7 @@ SELECT pg_catalog.setval('public.series_rounds_id_seq', 96, true);
 -- Name: tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.tags_id_seq', 1194, true);
+SELECT pg_catalog.setval('public.tags_id_seq', 1195, true);
 
 
 --
