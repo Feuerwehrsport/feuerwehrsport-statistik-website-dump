@@ -359,4 +359,6 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 1300	95	la		Series::TeamAssessment	1	2024-05-13 12:11:45.037371	2024-05-13 12:11:45.037371
 1305	96	la		Series::TeamAssessment	0	2024-05-16 09:05:58.482166	2024-05-16 09:05:58.482166
 1306	96	la		Series::TeamAssessment	1	2024-05-16 09:05:58.511445	2024-05-16 09:05:58.511445
+1311	97	la		Series::TeamAssessment	0	2024-05-21 09:00:59.147627	2024-05-21 09:00:59.147627
+1312	97	la		Series::TeamAssessment	1	2024-05-21 09:00:59.193799	2024-05-21 09:00:59.193799
 \.

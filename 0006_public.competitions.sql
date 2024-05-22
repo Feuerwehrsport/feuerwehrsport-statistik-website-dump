@@ -2184,4 +2184,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2189	1. Lauf Ostsachsenpokal	101	34	\N	2024-05-04	\N	2024-05-09 20:17:00.836199	2024-05-09 20:17:33.663611		0	0	0	0	0	0	0	6	20	13	0	04.05.2024 - Trebendorf (Sa.), Ostsachsenpokal (1. Lauf Ostsachsenpokal)	f	f	f	f
 2190	2. TGL-Cup 2024	405	33	\N	2024-05-11	\N	2024-05-13 11:47:51.543485	2024-05-13 11:47:51.543485		0	0	0	0	0	0	0	10	56	19	0	11.05.2024 - Beckwitz, TGL-Cup (2. TGL-Cup 2024)	f	f	f	f
 2191	1. SAP 2024	33	18	\N	2024-04-20	\N	2024-05-16 08:38:33.30759	2024-05-16 08:38:33.30759		0	0	0	0	0	0	0	8	24	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. SAP 2024)	f	f	f	f
+2192	1. MV-Cup 2024	44	13	\N	2024-05-18	\N	2024-05-21 08:57:41.423592	2024-05-21 08:57:41.423592		0	0	0	0	0	0	0	8	60	25	0	18.05.2024 - Kummer, MV-Cup (1. MV-Cup 2024)	f	f	f	f
 \.
