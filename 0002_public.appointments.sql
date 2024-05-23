@@ -290,4 +290,7 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 290	2024-06-02	Erzgebirgspokal/Krušnohorská liga	Erzgebirgspokal: Jugend, Frauen und Männer\nKrušnohorská liga: Tschechische Erzgebirgsliga, 3.Lauf in der Saison 2024	10	la	2024-04-25 18:20:18.12225	2024-04-25 18:20:18.12225	7658	AdminUser	Großolbersdorf
 291	2024-10-11	22.Flutlichtlöschangriff	Flutlichtlöschangriff auf Dose in der offenen Wertung (DIN oder TGL)	10	la	2024-05-07 07:01:45.380875	2024-05-07 07:01:45.380875	787	ApiUser	Wiepke
 292	2024-07-20	5.SAP-Lauf	5.Lauf des Sachsen-Anhalt Pokal in Böddensell ab 11 Uhr	\N	la	2024-05-07 07:03:09.93352	2024-05-07 07:03:09.93352	787	ApiUser	Böddensell
+293	2024-07-20	33. Feuerwehrtag	+ Wertung Amtsausscheid Amt Bad Doberan Land\n+ Wertung Kreisausscheid Landkreis Rostock	10	la	2024-05-22 12:59:50.739518	2024-05-22 12:59:50.739518	800	ApiUser	Ostseebad Nienhagen
+294	2024-07-20	4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V.	10Uhr bis 16Uhr \n\nab AK1 (10Jahre) 100mHB + HL\n\nhttps://www.kfv-lds.de/cms/01_kfv/Termine/termine/3320544346.php?splitId=0&from=2024-07-20%2010:00:00&to=2024-07-20%2014:00:00	10	hl,hb,hw	2024-05-22 18:50:55.660224	2024-05-22 18:50:55.660224	801	ApiUser	Langengrassau
+295	2024-05-26	Stadtmeisterschaft	Stadtmeisterschaft der Stadt Sonnewalde	14	la,gs	2024-05-22 19:20:54.088485	2024-05-22 19:21:18.956951	802	ApiUser	Sonnewalde
 \.
