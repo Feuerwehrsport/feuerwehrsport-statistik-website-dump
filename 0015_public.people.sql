@@ -3083,4 +3083,12 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4008	Fischer 	Chiara	0	1	2024-05-15 09:52:56.871109	2024-05-15 09:52:56.871109	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4009	Alpert	Seline	0	1	2024-05-15 09:59:25.358124	2024-05-15 09:59:25.358124	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4010	Arlt	Franz	1	1	2024-05-17 18:42:02.594183	2024-05-17 18:42:02.594183	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4011	Benter	Annett	0	1	2024-05-23 05:25:28.539077	2024-05-23 05:25:28.539077	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4012	Wöller	Franziska	0	1	2024-05-23 05:29:25.906475	2024-05-23 05:29:25.906475	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4013	Dinse	Janet	0	1	2024-05-23 05:29:43.997686	2024-05-23 05:29:43.997686	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4014	Rünger	Nicole	0	1	2024-05-23 05:30:02.012515	2024-05-23 05:30:02.012515	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4015	Speik	Anja	0	1	2024-05-23 05:30:22.845978	2024-05-23 05:30:22.845978	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4016	Stüdemann	Vivian	0	1	2024-05-23 05:30:38.616092	2024-05-23 05:30:38.616092	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4017	Mielke	Charlotte	0	1	2024-05-23 05:30:57.671956	2024-05-23 05:30:57.671956	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4018	Zitzow	Judith	0	1	2024-05-23 05:31:24.505485	2024-05-23 05:31:24.505485	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
