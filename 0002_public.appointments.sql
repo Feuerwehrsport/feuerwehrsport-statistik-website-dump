@@ -293,4 +293,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 293	2024-07-20	33. Feuerwehrtag	+ Wertung Amtsausscheid Amt Bad Doberan Land\n+ Wertung Kreisausscheid Landkreis Rostock	10	la	2024-05-22 12:59:50.739518	2024-05-22 12:59:50.739518	800	ApiUser	Ostseebad Nienhagen
 294	2024-07-20	4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V.	10Uhr bis 16Uhr \n\nab AK1 (10Jahre) 100mHB + HL\n\nhttps://www.kfv-lds.de/cms/01_kfv/Termine/termine/3320544346.php?splitId=0&from=2024-07-20%2010:00:00&to=2024-07-20%2014:00:00	10	hl,hb,hw	2024-05-22 18:50:55.660224	2024-05-22 18:50:55.660224	801	ApiUser	Langengrassau
 295	2024-05-26	Stadtmeisterschaft	Stadtmeisterschaft der Stadt Sonnewalde	14	la,gs	2024-05-22 19:20:54.088485	2024-05-22 19:21:18.956951	802	ApiUser	Sonnewalde
+296	2024-05-25	Amtsausscheid des Amtes Züssow	Wertungsläufe mit Pumpe nach DIN, TGL original, TGL offen	15	la	2024-05-24 05:55:20.758086	2024-05-24 05:55:20.758086	805	ApiUser	Murchin
 \.

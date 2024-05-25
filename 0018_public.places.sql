@@ -627,4 +627,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 636	Groß Muckrow	\N	\N	2024-01-02 16:52:34.373607	2024-01-02 16:52:34.373607
 637	Harzgerode	\N	\N	2024-01-02 16:56:49.872024	2024-01-02 16:56:49.872024
 638	Kirchscheidungen	\N	\N	2024-01-04 16:29:49.754105	2024-01-04 16:29:49.754105
+639	Ostrowiec Świętokrzyski	\N	\N	2024-05-24 20:55:23.948649	2024-05-24 20:55:23.948649
 \.
