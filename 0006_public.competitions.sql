@@ -2187,4 +2187,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2192	1. MV-Cup 2024	44	13	\N	2024-05-18	\N	2024-05-21 08:57:41.423592	2024-05-21 08:57:41.423592		0	0	0	0	0	0	0	8	60	25	0	18.05.2024 - Kummer, MV-Cup (1. MV-Cup 2024)	f	f	f	f
 2193		611	34	\N	2024-05-18	\N	2024-05-22 07:04:10.162025	2024-05-22 07:04:10.162025		0	0	0	0	0	0	0	4	20	12	0	18.05.2024 - Steinitz (Sachsen), Ostsachsenpokal	f	f	f	f
 2194		639	10	\N	2024-05-23	\N	2024-05-24 20:55:43.717461	2024-05-24 20:55:43.717461		0	10	0	10	0	0	0	0	0	1	5	23.05.2024 - Ostrowiec Świętokrzyski, Pokallauf	f	f	f	f
+2195	1. Lauf 2024	16	20	4	2024-04-27	\N	2024-06-05 08:39:47.503794	2024-06-05 08:42:49.254118		36	16	0	0	0	0	0	0	0	9	26	27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)	f	f	f	f
+2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-06-05 08:47:08.629144		44	22	44	35	12	4	3	10	32	26	52	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	f	f	f	f
 \.
