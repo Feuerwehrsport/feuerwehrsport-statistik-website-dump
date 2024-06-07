@@ -2070,7 +2070,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2071	2184	ergebnis-frauen.pdf	hb_female	2024-04-28 18:33:22.12738	2024-04-28 18:33:22.12738
 2072	2184	ergebnis-frauen-finale.pdf	hb_female	2024-04-28 18:33:28.497695	2024-04-28 18:33:28.497695
 2073	2184	ergebnis-manner-finale.pdf	hb_male	2024-04-28 18:33:34.331117	2024-04-28 18:33:34.331117
-2074	2185	Schmilkendorf_2024.pdf	la_female,la_male	2024-04-29 11:59:08.51678	2024-04-29 11:59:08.51678
 2075	2186	ergebnis-din-frauen-bb-cup.pdf	la_female	2024-05-06 14:03:56.78241	2024-05-06 14:03:56.78241
 2076	2186	ergebnis-din-manner-bb-cup.pdf	la_male	2024-05-06 14:04:05.985114	2024-05-06 14:04:05.985114
 2077	2186	ergebnis-jugend-ak1.pdf		2024-05-06 14:04:30.645136	2024-05-06 14:04:30.645136
@@ -2131,4 +2130,12 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2132	2196	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2024-06-05 08:56:23.827229	2024-06-05 08:56:23.827229
 2133	2196	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2024-06-05 08:56:29.417225	2024-06-05 08:56:29.417225
 2134	2196	ergebnis-zweikampf-frauen.pdf	zk_female	2024-06-05 08:56:38.030512	2024-06-05 08:56:38.030512
+2135	2196	gesamtwertungen.pdf		2024-06-06 08:39:47.969342	2024-06-06 08:39:47.969342
+2136	2197	ergebnis-loschangriff-nass-ak-2.pdf		2024-06-06 12:27:20.508782	2024-06-06 12:27:20.508782
+2137	2197	ergebnis-loschangriff-nass-ak-1.pdf		2024-06-06 12:27:28.379977	2024-06-06 12:27:28.379977
+2138	2197	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-06-06 12:27:47.248723	2024-06-06 12:27:47.248723
+2139	2197	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-06-06 12:27:53.688779	2024-06-06 12:27:53.688779
+2140	2197	ergebnis-loschangriff-nass-manner-bb-cup.pdf	la_male	2024-06-06 12:28:00.232204	2024-06-06 12:28:00.232204
+2141	2197	ergebnis-loschangriff-nass-frauen-bb-cup.pdf	la_female	2024-06-06 12:28:06.529439	2024-06-06 12:28:06.529439
+2142	2191	Schmilkendorf_2024.pdf	la_female,la_male	2024-06-06 12:49:16.791538	2024-06-06 12:49:16.791538
 \.

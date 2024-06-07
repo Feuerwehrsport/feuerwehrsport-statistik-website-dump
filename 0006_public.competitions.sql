@@ -2177,16 +2177,16 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2182	6. Lauf Thüringer Feuerwehr-Cup	209	26	\N	2023-09-02	\N	2024-01-04 17:15:25.946167	2024-01-04 17:15:25.946167		0	0	0	0	0	0	0	2	38	13	0	02.09.2023 - Zottelstedt, Thüringer Feuerwehr-Cup (6. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f
 2183	Neujahrssteigen	200	10	\N	2024-01-06	\N	2024-01-10 12:20:48.99523	2024-01-10 12:20:48.99523		41	40	0	0	0	0	0	0	0	19	41	06.01.2024 - Langengrassau, Pokallauf (Neujahrssteigen)	f	f	f	f
 2184	HALLENpokal	9	4	\N	2024-04-13	\N	2024-04-28 18:28:04.142228	2024-04-28 18:28:04.142228		0	0	64	54	0	0	0	0	0	17	55	13.04.2024 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f
-2185	1. Lauf Sachsen-Anhalt Pokal	33	18	\N	2024-04-20	\N	2024-04-29 11:54:12.849263	2024-04-29 11:54:12.849263		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. Lauf Sachsen-Anhalt Pokal)	f	f	f	f
 2186		208	16	\N	2024-05-04	\N	2024-05-06 14:01:54.298239	2024-05-06 14:01:54.298239		0	0	0	0	0	0	0	18	32	25	0	04.05.2024 - Zerkwitz, BB-Cup	f	f	f	f
 2187		208	32	\N	2024-05-04	\N	2024-05-06 14:05:15.76319	2024-05-06 14:05:15.76319		0	0	0	0	0	0	0	12	22	17	0	04.05.2024 - Zerkwitz, 4BP	f	f	f	f
 2188	1. TGL-Cup 2024	219	33	\N	2024-05-04	\N	2024-05-06 14:08:01.893205	2024-05-06 14:08:01.893205		0	0	0	0	0	0	0	4	48	13	0	04.05.2024 - Garitz-Bornum, TGL-Cup (1. TGL-Cup 2024)	f	f	f	f
 2189	1. Lauf Ostsachsenpokal	101	34	\N	2024-05-04	\N	2024-05-09 20:17:00.836199	2024-05-09 20:17:33.663611		0	0	0	0	0	0	0	6	20	13	0	04.05.2024 - Trebendorf (Sa.), Ostsachsenpokal (1. Lauf Ostsachsenpokal)	f	f	f	f
 2190	2. TGL-Cup 2024	405	33	\N	2024-05-11	\N	2024-05-13 11:47:51.543485	2024-05-13 11:47:51.543485		0	0	0	0	0	0	0	10	56	19	0	11.05.2024 - Beckwitz, TGL-Cup (2. TGL-Cup 2024)	f	f	f	f
-2191	1. SAP 2024	33	18	\N	2024-04-20	\N	2024-05-16 08:38:33.30759	2024-05-16 08:38:33.30759		0	0	0	0	0	0	0	8	24	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. SAP 2024)	f	f	f	f
+2191	1. SAP 2024	33	18	\N	2024-04-20	\N	2024-05-16 08:38:33.30759	2024-05-16 08:38:33.30759		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. SAP 2024)	f	f	f	f
 2192	1. MV-Cup 2024	44	13	\N	2024-05-18	\N	2024-05-21 08:57:41.423592	2024-05-21 08:57:41.423592		0	0	0	0	0	0	0	8	60	25	0	18.05.2024 - Kummer, MV-Cup (1. MV-Cup 2024)	f	f	f	f
 2193		611	34	\N	2024-05-18	\N	2024-05-22 07:04:10.162025	2024-05-22 07:04:10.162025		0	0	0	0	0	0	0	4	20	12	0	18.05.2024 - Steinitz (Sachsen), Ostsachsenpokal	f	f	f	f
 2194		639	10	\N	2024-05-23	\N	2024-05-24 20:55:43.717461	2024-05-24 20:55:43.717461		0	10	0	10	0	0	0	0	0	1	5	23.05.2024 - Ostrowiec Świętokrzyski, Pokallauf	f	f	f	f
 2195	1. Lauf 2024	16	20	4	2024-04-27	\N	2024-06-05 08:39:47.503794	2024-06-05 08:42:49.254118		36	16	0	0	0	0	0	0	0	9	26	27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)	f	f	f	f
 2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-06-05 08:47:08.629144		44	22	44	35	12	4	3	10	32	26	52	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	f	f	f	f
+2197	2. BB-Cup 2024	65	16	\N	2024-06-01	\N	2024-06-06 12:03:33.482532	2024-06-06 12:03:33.482532		0	0	0	0	0	0	0	16	28	22	0	01.06.2024 - Gehren, BB-Cup (2. BB-Cup 2024)	f	f	f	f
 \.
