@@ -3109,4 +3109,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4034	Andreas	Anni	0	1	2024-06-05 08:52:56.860851	2024-06-05 08:52:56.860851	0	2	0	0	0	{"pb": {"hb": null, "hl": [1428, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "zk": null}, "sb": {"hb": null, "hl": [1428, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "zk": null}}	\N
 4035	Andreas	Nele	0	1	2024-06-05 08:52:56.871538	2024-06-05 08:52:56.871538	0	2	0	0	0	{"pb": {"hb": null, "hl": [1566, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "zk": null}, "sb": {"hb": null, "hl": [1566, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "zk": null}}	\N
 4036	Landsmann	Lisa	0	1	2024-06-06 13:21:27.686939	2024-06-06 13:21:27.686939	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4037	Lange	Willi	1	1	2024-06-07 10:42:06.638138	2024-06-07 10:42:06.638138	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
