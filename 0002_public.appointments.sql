@@ -295,4 +295,5 @@ COPY public.appointments (id, dated_at, name, description, event_id, disciplines
 295	2024-05-26	Stadtmeisterschaft	Stadtmeisterschaft der Stadt Sonnewalde	14	la,gs	2024-05-22 19:20:54.088485	2024-05-22 19:21:18.956951	802	ApiUser	Sonnewalde
 296	2024-05-25	Amtsausscheid des Amtes Züssow	Wertungsläufe mit Pumpe nach DIN, TGL original, TGL offen	15	la	2024-05-24 05:55:20.758086	2024-05-24 05:55:20.758086	805	ApiUser	Murchin
 297	2024-08-10	11. „Löschangriff nass“	11. Löschangriff nass\r\n5.Wertungslauf im TFC\r\nWertung DIN und TGL\r\nAuf dem Sportplatz in Wipfra\r\nStart 13:00 Uhr	26	la	2024-05-29 14:46:30.365928	2024-05-29 20:06:48.221737	8833	AdminUser	Wipfra
+298	2024-10-12	4. Flutlichtpokal	Pokallauf mit DIN- und TGL-Pumpen für Frauen-, Männer- und Jugendfeuerwehrmannschaften	10	la	2024-06-08 15:35:37.089938	2024-06-08 18:49:05.713478	9059	AdminUser	Nachterstedt
 \.
