@@ -2138,4 +2138,20 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2140	2197	ergebnis-loschangriff-nass-manner-bb-cup.pdf	la_male	2024-06-06 12:28:00.232204	2024-06-06 12:28:00.232204
 2141	2197	ergebnis-loschangriff-nass-frauen-bb-cup.pdf	la_female	2024-06-06 12:28:06.529439	2024-06-06 12:28:06.529439
 2142	2191	Schmilkendorf_2024.pdf	la_female,la_male	2024-06-06 12:49:16.791538	2024-06-06 12:49:16.791538
+2143	2198	ergebnis-loschangriff-manner-kreiswertung.pdf	la_male	2024-06-11 18:58:03.580736	2024-06-11 18:58:03.580736
+2144	2198	ergebnis-loschangriff-nass-tgl-cup-manner.pdf	la_male	2024-06-11 18:58:09.383911	2024-06-11 18:58:09.383911
+2145	2198	ergebnis-loschangriff-nass-tgl-cup-frauen.pdf	la_female	2024-06-11 18:58:13.995358	2024-06-11 18:58:13.995358
+2146	2198	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-06-11 18:58:27.691503	2024-06-11 18:58:27.691503
+2147	2198	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-06-11 18:58:33.11848	2024-06-11 18:58:33.11848
+2148	2198	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-06-11 18:58:38.57881	2024-06-11 18:58:38.57881
+2149	2198	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-06-11 18:58:43.456307	2024-06-11 18:58:43.456307
+2150	2199	ergebnis-saugleitungscup-manner.pdf	la_male	2024-06-11 19:13:41.711379	2024-06-11 19:13:41.711379
+2151	2199	ergebnis-saugleitungscup-frauen.pdf	la_female	2024-06-11 19:13:47.122097	2024-06-11 19:13:47.122097
+2152	2199	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-06-11 19:13:53.019027	2024-06-11 19:13:53.019027
+2153	2199	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-06-11 19:13:57.93278	2024-06-11 19:13:57.93278
+2154	2199	ergebnis-gruppenstafette-frauen.pdf	gs_female	2024-06-11 19:14:03.620695	2024-06-11 19:14:03.620695
+2155	2199	ergebnis-loschangriff-nass-manner-sap-cup.pdf	la_male	2024-06-11 19:14:08.485359	2024-06-11 19:14:08.485359
+2156	2199	ergebnis-loschangriff-nass-frauen-sap-cup.pdf	la_female	2024-06-11 19:14:13.256702	2024-06-11 19:14:13.256702
+2157	2199	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-06-11 19:14:18.454219	2024-06-11 19:14:18.454219
+2158	2199	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-06-11 19:14:24.123721	2024-06-11 19:14:24.123721
 \.

@@ -628,4 +628,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 637	Harzgerode	\N	\N	2024-01-02 16:56:49.872024	2024-01-02 16:56:49.872024
 638	Kirchscheidungen	\N	\N	2024-01-04 16:29:49.754105	2024-01-04 16:29:49.754105
 639	Ostrowiec Świętokrzyski	\N	\N	2024-05-24 20:55:23.948649	2024-05-24 20:55:23.948649
+640	Bornum	\N	\N	2024-06-11 19:11:55.613623	2024-06-11 19:11:55.613623
 \.

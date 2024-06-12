@@ -2189,4 +2189,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2195	1. Lauf 2024	16	20	4	2024-04-27	\N	2024-06-05 08:39:47.503794	2024-06-05 08:42:49.254118		36	16	0	0	0	0	0	0	0	9	26	27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)	f	f	f	f
 2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-06-05 08:47:08.629144		44	22	44	35	12	4	3	10	32	26	52	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	f	f	f	f
 2197	2. BB-Cup 2024	65	16	\N	2024-06-01	\N	2024-06-06 12:03:33.482532	2024-06-06 12:03:33.482532		0	0	0	0	0	0	0	16	28	22	0	01.06.2024 - Gehren, BB-Cup (2. BB-Cup 2024)	f	f	f	f
+2198	3. TGL-Cup 2024	199	33	\N	2024-06-08	\N	2024-06-11 18:53:54.063971	2024-06-11 18:53:54.063971		0	0	0	0	0	0	0	4	50	14	0	08.06.2024 - Rübeland, TGL-Cup (3. TGL-Cup 2024)	f	f	f	f
+2199	2. SAP 2024	640	18	\N	2024-05-25	\N	2024-06-11 19:12:02.93111	2024-06-11 19:12:02.93111		0	0	0	0	1	0	0	9	34	15	0	25.05.2024 - Bornum, SA-Cup (2. SAP 2024)	f	f	f	f
 \.
