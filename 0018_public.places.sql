@@ -629,4 +629,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 638	Kirchscheidungen	\N	\N	2024-01-04 16:29:49.754105	2024-01-04 16:29:49.754105
 639	Ostrowiec Świętokrzyski	\N	\N	2024-05-24 20:55:23.948649	2024-05-24 20:55:23.948649
 640	Bornum	\N	\N	2024-06-11 19:11:55.613623	2024-06-11 19:11:55.613623
+641	Werder	\N	\N	2024-06-12 12:34:21.284493	2024-06-12 12:34:21.284493
 \.
