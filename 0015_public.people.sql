@@ -2651,11 +2651,11 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3541	Schneider	Jessica	0	1	2019-02-05 19:37:40.856624	2019-02-05 19:37:40.856624	0	1	0	0	0	{"pb": {"hb": null, "hl": [1508, "07.07.2018 - Narsdorf, Sächsischer Steigercup (2. Lauf Sächsischer Steigercup)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3542	Klinghammer	Friedrich	1	1	2019-03-24 08:55:44.70971	2019-03-24 08:55:44.70971	0	0	9	1	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3543	Schneider	Christian	1	1	2019-03-24 08:56:03.114544	2019-03-24 08:56:03.114544	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3544	Wicklein	Henry	1	1	2019-04-29 08:37:54.568489	2019-04-29 08:37:54.568489	0	0	73	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3545	Wicklen	Holger	1	1	2019-04-29 08:39:41.325613	2019-04-29 08:39:41.325613	0	0	75	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3544	Wicklein	Henry	1	1	2019-04-29 08:37:54.568489	2019-04-29 08:37:54.568489	0	0	77	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3545	Wicklen	Holger	1	1	2019-04-29 08:39:41.325613	2019-04-29 08:39:41.325613	0	0	79	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3546	Praß	Stefan	1	1	2019-04-29 11:44:54.667561	2019-04-29 11:44:54.667561	0	0	12	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3547	Stade	Klaus	1	1	2019-04-29 11:45:07.541649	2019-04-29 11:45:07.541649	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3548	Holzhauer	Sebastian	1	1	2019-04-29 11:45:23.179348	2019-04-29 11:45:23.179348	0	0	66	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3548	Holzhauer	Sebastian	1	1	2019-04-29 11:45:23.179348	2019-04-29 11:45:23.179348	0	0	70	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3549	Wicklein	Christian	1	1	2019-04-29 11:45:41.202565	2019-04-29 11:45:41.202565	0	0	43	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3550	Thieg	Marko	1	1	2019-04-29 11:45:53.567631	2019-04-29 11:45:53.567631	0	0	49	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3551	Satde	Enrico	1	1	2019-04-29 11:49:46.039224	2019-04-29 11:49:46.039224	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -3037,8 +3037,8 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3962	Holland	Tobias 	1	1	2023-10-13 09:07:09.699321	2023-10-13 09:07:09.699321	0	0	1	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3963	Kirchner	Filip	1	1	2023-10-13 09:07:44.001875	2023-10-13 09:07:44.001875	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3964	Seliger	Frederik	1	1	2023-10-13 09:45:09.315282	2023-10-13 09:45:09.315282	0	0	16	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3965	Schmidt	David	1	1	2023-10-13 09:45:41.022873	2023-10-13 09:45:41.022873	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3966	Heinicke	Philip	1	1	2023-10-13 09:46:28.422093	2023-10-13 09:46:28.422093	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3965	Schmidt	David	1	1	2023-10-13 09:45:41.022873	2023-10-13 09:45:41.022873	0	0	12	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3966	Heinicke	Philip	1	1	2023-10-13 09:46:28.422093	2023-10-13 09:46:28.422093	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3967	Untrieser	Timo	1	1	2023-10-24 20:49:07.048112	2023-10-24 20:49:07.048112	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3968	Buchs	Stephan	1	1	2023-10-24 20:52:59.03376	2023-10-24 20:52:59.03376	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3969	Felskowski	Felix	1	1	2023-11-13 19:54:34.922542	2023-11-13 19:54:34.922542	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -3071,7 +3071,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3996	Wagner	Paul	1	1	2024-04-25 16:26:32.397225	2024-04-25 16:26:32.397225	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3997	Beckert	Robin	1	1	2024-04-25 16:27:11.157448	2024-04-25 16:27:11.157448	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3998	Wagner	Benny	1	1	2024-04-25 16:30:40.166085	2024-04-25 16:30:40.166085	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3999	Täubert	Frank	1	1	2024-04-25 16:32:50.688459	2024-04-25 16:32:50.688459	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3999	Täubert	Frank	1	1	2024-04-25 16:32:50.688459	2024-04-25 16:32:50.688459	0	0	6	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4000	Beckert	Denny	1	1	2024-04-25 16:33:47.374724	2024-04-25 16:33:47.374724	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4001	Leidenfrost	Max	1	1	2024-04-28 18:31:21.473834	2024-04-28 18:31:21.473834	2	0	0	0	0	{"pb": {"hb": [2246, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2246, "13.04.2024 - Halle, Hallenpokal (HALLENpokal)"], "hl": null, "zk": null}}	\N
 4002	Arnoldt	Julien	1	1	2024-04-28 18:31:21.498479	2024-04-28 18:31:21.498479	4	2	0	1	0	{"pb": {"hb": [2287, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "hl": [4049, "27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)"], "zk": null}, "sb": {"hb": [2287, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "hl": [4049, "27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)"], "zk": null}}	\N
