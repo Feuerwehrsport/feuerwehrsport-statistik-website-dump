@@ -2159,4 +2159,5 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2161	2201	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2024-06-17 18:11:31.75782	2024-06-17 18:11:31.75782
 2162	2201	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-06-17 18:11:38.112414	2024-06-17 18:11:38.112414
 2163	2201	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-06-17 18:11:43.408895	2024-06-17 18:11:43.408895
+2164	2202	gesamtwertungen.pdf		2024-06-23 09:49:33.200471	2024-06-23 09:49:33.200471
 \.
