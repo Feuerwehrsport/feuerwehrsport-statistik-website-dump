@@ -2160,4 +2160,24 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2162	2201	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-06-17 18:11:38.112414	2024-06-17 18:11:38.112414
 2163	2201	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-06-17 18:11:43.408895	2024-06-17 18:11:43.408895
 2164	2202	gesamtwertungen.pdf		2024-06-23 09:49:33.200471	2024-06-23 09:49:33.200471
+2165	2203	ergebnis-saugleitungscup-frauen.pdf	la_female	2024-06-24 08:19:56.28339	2024-06-24 08:27:52.359483
+2166	2203	ergebnis-saugleitungscup-manner.pdf	la_male	2024-06-24 08:20:02.308201	2024-06-24 08:28:16.293584
+2167	2203	ergebnis-tgl-cup-wertung-manner.pdf	la_male	2024-06-24 08:21:11.137692	2024-06-24 08:28:12.83889
+2168	2203	ergebnis-tgl-cup-wertung-frauen.pdf	la_female	2024-06-24 08:21:16.457332	2024-06-24 08:28:08.858348
+2169	2203	ergebnis-sap-wertung-manner.pdf	la_male	2024-06-24 08:21:21.154648	2024-06-24 08:28:05.109799
+2170	2203	ergebnis-sap-wertung-frauen.pdf	la_female	2024-06-24 08:21:25.753913	2024-06-24 08:28:01.498515
+2171	2203	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-06-24 08:21:30.607926	2024-06-24 08:27:57.963982
+2172	2203	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-06-24 08:21:36.279163	2024-06-24 08:28:24.440431
+2173	2203	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-06-24 08:21:42.341841	2024-06-24 08:28:21.38243
+2174	2203	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-06-24 08:21:48.460235	2024-06-24 08:26:58.007967
+2175	2205	ergebnis-loschangriff-stadtwertung-manner.pdf	la_male	2024-06-24 09:07:30.323568	2024-06-24 09:07:30.323568
+2176	2205	ergebnis-loschangriff-stadtwertung-frauen.pdf	la_female	2024-06-24 09:07:35.582118	2024-06-24 09:07:35.582118
+2177	2205	ergebnis-din-manner-bb-cup.pdf	la_male	2024-06-24 09:07:40.466425	2024-06-24 09:07:40.466425
+2178	2205	ergebnis-din-frauen-bb-cup.pdf	la_female	2024-06-24 09:07:46.661334	2024-06-24 09:07:46.661334
+2179	2205	ergebnis-loschangriff-nass-ak2.pdf		2024-06-24 09:07:51.509564	2024-06-24 09:07:51.509564
+2180	2205	ergebnis-loschangriff-nass-ak1.pdf		2024-06-24 09:07:55.074556	2024-06-24 09:07:55.074556
+2181	2205	ergebnis-4-bahnenpokal-manner.pdf	la_male	2024-06-24 09:07:59.482747	2024-06-24 09:07:59.482747
+2182	2205	ergebnis-4-bahnenpokal-frauen.pdf	la_female	2024-06-24 09:08:04.271567	2024-06-24 09:08:04.271567
+2183	2205	ergebnis-din-manner.pdf	la_male	2024-06-24 09:08:09.165579	2024-06-24 09:08:09.165579
+2184	2205	ergebnis-din-frauen.pdf	la_female	2024-06-24 09:08:15.21644	2024-06-24 09:08:15.21644
 \.
