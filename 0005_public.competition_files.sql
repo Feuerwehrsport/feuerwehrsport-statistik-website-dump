@@ -2180,4 +2180,23 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2182	2205	ergebnis-4-bahnenpokal-frauen.pdf	la_female	2024-06-24 09:08:04.271567	2024-06-24 09:08:04.271567
 2183	2205	ergebnis-din-manner.pdf	la_male	2024-06-24 09:08:09.165579	2024-06-24 09:08:09.165579
 2184	2205	ergebnis-din-frauen.pdf	la_female	2024-06-24 09:08:15.21644	2024-06-24 09:08:15.21644
+2185	2202	ergebnis-hakenleitersteigen-jungen-u15.pdf	hl_male	2024-06-26 09:15:44.888741	2024-06-26 09:21:16.349675
+2186	2202	ergebnis-100m-hindernisbahn-jungen-u15.pdf	hb_male	2024-06-26 09:15:55.170538	2024-06-26 09:21:13.429946
+2187	2202	ergebnis-gruppenstafette-frauen.pdf	gs_female	2024-06-26 09:16:07.240963	2024-06-26 09:21:10.233327
+2188	2202	ergebnis-4x100m-feuerwehrstafette-manner.pdf	fs_male	2024-06-26 09:16:19.872988	2024-06-26 09:21:07.019203
+2189	2202	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-06-26 09:16:25.653907	2024-06-26 09:21:03.774023
+2190	2202	ergebnis-hakenleitersteigen-manner-u20.pdf	hb_male	2024-06-26 09:16:32.691595	2024-06-26 09:21:00.201709
+2191	2202	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-06-26 09:16:44.537569	2024-06-26 09:20:57.132769
+2192	2202	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2024-06-26 09:16:52.488931	2024-06-26 09:20:53.934287
+2193	2202	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2024-06-26 09:16:58.985283	2024-06-26 09:20:50.888524
+2194	2202	ergebnis-zweikampf-manner.pdf	zk_male	2024-06-26 09:17:04.635018	2024-06-26 09:20:47.24767
+2195	2202	ergebnis-4x100m-feuerwehrstafette-frauen.pdf	fs_female	2024-06-26 09:17:10.582066	2024-06-26 09:20:08.748506
+2196	2202	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-06-26 09:17:15.532817	2024-06-26 09:20:05.186968
+2197	2202	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2024-06-26 09:17:21.59445	2024-06-26 09:20:01.416532
+2198	2202	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-06-26 09:17:29.130597	2024-06-26 09:19:56.88112
+2199	2202	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2024-06-26 09:17:38.826075	2024-06-26 09:19:52.671746
+2200	2202	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2024-06-26 09:17:47.347221	2024-06-26 09:19:48.81139
+2201	2202	ergebnis-zweikampf-frauen.pdf	zk_female	2024-06-26 09:17:55.391823	2024-06-26 09:19:45.017385
+2202	2202	ergebnis-hakenleitersteigen-madchen-u15.pdf	hl_female	2024-06-26 09:18:17.555155	2024-06-26 09:19:41.044389
+2203	2202	ergebnis-100m-hindernisbahn-madchen-u15.pdf	hb_female	2024-06-26 09:18:27.336498	2024-06-26 09:19:31.864766
 \.

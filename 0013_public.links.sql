@@ -159,7 +159,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 193	FF Magwitz	203	Team	http://www.ff-oelsnitz.de/page_06_03_03.htm	2016-01-20 21:39:43.854424	2016-01-20 21:39:43.854424
 194	http://www.fw-trebendorf.de/main_cs3.swf	953	Team	http://www.fw-trebendorf.de/main_cs3.swf	2016-01-20 21:39:43.857341	2016-01-20 21:39:43.857341
 195	http://www.feuerwehr-baerenstein.de/	211	Team	http://www.feuerwehr-baerenstein.de/	2016-01-20 21:39:43.860512	2016-01-20 21:39:43.860512
-196	http://www.ff-ottendorf.de/	207	Team	http://www.ff-ottendorf.de/	2016-01-20 21:39:43.863718	2016-01-20 21:39:43.863718
 197	http://www.feuerwehr-abtshagen.de.tl/	170	Team	http://www.feuerwehr-abtshagen.de.tl/	2016-01-20 21:39:43.866479	2016-01-20 21:39:43.866479
 199	http://www.ff-altchemnitz.de/	241	Team	http://www.ff-altchemnitz.de/	2016-01-20 21:39:43.878967	2016-01-20 21:39:43.878967
 200	http://www.feuerwehr-arnstadt.de/	257	Team	http://www.feuerwehr-arnstadt.de/	2016-01-20 21:39:43.882608	2016-01-20 21:39:43.882608
@@ -2701,4 +2700,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2765	Feuerwehrsport Murchin	277	Appointment	https://wkg-murchin.de	2024-03-06 05:06:42.005027	2024-03-06 05:06:42.005027
 2766	Kfv-LDS 	294	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/3320544346.php?splitId=0&from=2024-07-20%2010:00:00&to=2024-07-20%2014:00:00	2024-05-23 04:45:47.793276	2024-05-23 04:45:47.793276
 2767	TFC	297	Appointment	https://www.xn--thringer-feuerwehrcup-9hc.de/	2024-05-29 16:59:39.909745	2024-05-29 16:59:39.909745
+2768	https://www.fw-ottendorf.de	207	Team	https://www.fw-ottendorf.de	2024-06-26 09:13:04.077586	2024-06-26 09:13:04.077586
 \.
