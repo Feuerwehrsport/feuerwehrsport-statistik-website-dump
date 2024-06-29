@@ -292,7 +292,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 311	FF Boblitz	Boblitz	1	51.8383231904	13.9818191528	\N	BB	2016-01-20 21:32:11.703537	2018-09-28 20:16:03.208574	2016-02-16 18:00:34.804057	0	30
 312	FF Dannhof	Dannhof	1	53.1301674000	12.0114641000	\N	BB	2016-01-20 21:32:11.707079	2016-01-20 21:32:11.707079	2016-01-20 21:32:11.707079	0	1
 313	FF Gießmannsdorf	Gießmannsdorf	1	51.8786673000	13.6948892000	\N	BB	2016-01-20 21:32:11.709763	2016-01-20 21:32:11.709763	2016-01-20 21:32:11.709763	0	16
-315	FF Schwanebeck	Schwanebeck	1	52.1756653928	12.6277005672	Schwanebeck.jpg	BB	2016-01-20 21:32:11.712226	2016-06-02 18:16:52.984294	2016-06-02 18:16:52.984294	21	143
+315	FF Schwanebeck	Schwanebeck	1	52.1756653928	12.6277005672	Schwanebeck.jpg	BB	2016-01-20 21:32:11.712226	2016-06-02 18:16:52.984294	2016-06-02 18:16:52.984294	22	143
 316	FF Wolsier	Wolsier	1	52.7150110000	12.2674767000	\N	BB	2016-01-20 21:32:11.715516	2016-01-20 21:32:11.715516	2016-01-20 21:32:11.715516	0	24
 317	FF Kienbaum	Kienbaum	1	52.4541529000	13.9564236000	\N	BB	2016-01-20 21:32:11.718075	2016-01-20 21:32:11.718075	2016-01-20 21:32:11.718075	0	5
 318	FF Cahnsdorf	Cahnsdorf	1	51.8500000000	13.7500000000	\N	BB	2016-01-20 21:32:11.720727	2016-01-20 21:32:11.720727	2016-01-20 21:32:11.720727	1	7
@@ -3331,14 +3331,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 9513, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 9572, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 832, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 833, true);
 
 
 --
@@ -3359,7 +3359,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 22397, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 22399, true);
 
 
 --
@@ -3387,7 +3387,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2205, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 36004, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 36074, true);
 
 
 --
@@ -3464,7 +3464,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 9507, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 9566, true);
 
 
 --
@@ -3485,7 +3485,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4043, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 20771, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 20785, true);
 
 
 --
