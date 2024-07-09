@@ -2199,4 +2199,18 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2201	2202	ergebnis-zweikampf-frauen.pdf	zk_female	2024-06-26 09:17:55.391823	2024-06-26 09:19:45.017385
 2202	2202	ergebnis-hakenleitersteigen-madchen-u15.pdf	hl_female	2024-06-26 09:18:17.555155	2024-06-26 09:19:41.044389
 2203	2202	ergebnis-100m-hindernisbahn-madchen-u15.pdf	hb_female	2024-06-26 09:18:27.336498	2024-06-26 09:19:31.864766
+2204	2206	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2024-07-08 10:29:15.55423	2024-07-08 10:29:15.55423
+2205	2206	ergebnis-loschangriff-bb-cup-manner.pdf	la_male	2024-07-08 10:29:20.453983	2024-07-08 10:29:20.453983
+2206	2206	ergebnis-loschangriff-bb-cup-frauen.pdf	la_female	2024-07-08 10:29:25.993096	2024-07-08 10:29:25.993096
+2207	2206	ergebnis-loschangriff-4bp-manner.pdf	la_male	2024-07-08 10:29:30.918345	2024-07-08 10:29:30.918345
+2208	2206	ergebnis-loschangriff-4bp-frauen.pdf	la_female	2024-07-08 10:29:36.661139	2024-07-08 10:29:36.661139
+2209	2206	ergebnis-loschangriff-tgl-manner.pdf	la_male	2024-07-08 10:29:41.463791	2024-07-08 10:29:41.463791
+2210	2206	ergebnis-loschangriff-tgl-frauen.pdf	la_female	2024-07-08 10:29:46.05464	2024-07-08 10:29:46.05464
+2211	2206	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-07-08 10:29:50.404455	2024-07-08 10:29:50.404455
+2212	2206	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-07-08 10:29:54.99452	2024-07-08 10:29:54.99452
+2213	2207	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-07-08 10:38:39.283873	2024-07-08 10:38:39.283873
+2214	2207	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-07-08 10:38:44.502368	2024-07-08 10:38:44.502368
+2215	2208	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-07-08 10:40:04.906111	2024-07-08 10:40:04.906111
+2216	2208	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-07-08 10:40:11.029136	2024-07-08 10:40:11.029136
+2217	2208	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-07-08 10:40:16.843354	2024-07-08 10:40:16.843354
 \.
