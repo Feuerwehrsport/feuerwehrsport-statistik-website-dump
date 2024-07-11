@@ -1818,7 +1818,8 @@ CREATE TABLE public.teams (
     updated_at timestamp without time zone NOT NULL,
     checked_at timestamp without time zone,
     members_count integer DEFAULT 0 NOT NULL,
-    competitions_count integer DEFAULT 0 NOT NULL
+    competitions_count integer DEFAULT 0 NOT NULL,
+    best_scores jsonb DEFAULT '{}'::jsonb
 );
 
 

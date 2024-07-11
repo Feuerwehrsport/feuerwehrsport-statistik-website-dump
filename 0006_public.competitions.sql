@@ -2198,6 +2198,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2204		285	18	\N	2024-06-22	\N	2024-06-24 08:52:24.627656	2024-06-24 08:52:24.627656		0	0	0	0	0	0	0	3	9	12	0	22.06.2024 - Gröningen, SA-Cup	f	f	f	f
 2205	BB-Cup + 4-BP	66	16	\N	2024-06-15	\N	2024-06-24 09:04:20.868607	2024-06-24 09:04:20.868607		0	0	0	0	0	0	0	20	56	23	0	15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)	f	f	f	f
 2206	4-Bahnenpokal und BB-Cup	222	32	\N	2024-06-29	\N	2024-07-08 10:27:35.217627	2024-07-08 10:27:35.217627		0	0	0	0	0	0	0	20	66	23	0	29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)	f	f	f	f
-2207	Kreisausscheid Prignitz	246	6	\N	2024-07-06	\N	2024-07-08 10:37:47.678386	2024-07-08 10:37:47.678386		0	0	0	0	0	0	0	2	22	12	0	06.07.2024 - Seddin, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f
+2207	Kreisausscheid Prignitz	642	6	\N	2024-07-06	\N	2024-07-08 10:37:47.678386	2024-07-10 06:45:26.59235		0	0	0	0	0	0	0	2	22	12	0	06.07.2024 - Breese, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f
 2208	3. MV-Cup 2024	592	13	\N	2024-07-06	\N	2024-07-08 10:39:21.153597	2024-07-08 10:39:21.153597		0	0	0	0	0	0	0	14	58	26	0	06.07.2024 - Neustadt-Glewe, MV-Cup (3. MV-Cup 2024)	f	f	f	f
 \.
