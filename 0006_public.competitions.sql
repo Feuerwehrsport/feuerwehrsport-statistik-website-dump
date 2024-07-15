@@ -2200,4 +2200,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2206	4-Bahnenpokal und BB-Cup	222	32	\N	2024-06-29	\N	2024-07-08 10:27:35.217627	2024-07-08 10:27:35.217627		0	0	0	0	0	0	0	20	66	23	0	29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)	f	f	f	f
 2207	Kreisausscheid Prignitz	642	6	\N	2024-07-06	\N	2024-07-08 10:37:47.678386	2024-07-10 06:45:26.59235		0	0	0	0	0	0	0	2	22	12	0	06.07.2024 - Breese, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f
 2208	3. MV-Cup 2024	592	13	\N	2024-07-06	\N	2024-07-08 10:39:21.153597	2024-07-08 10:39:21.153597		0	0	0	0	0	0	0	14	58	26	0	06.07.2024 - Neustadt-Glewe, MV-Cup (3. MV-Cup 2024)	f	f	f	f
+2209	TGL-Cup	167	33	\N	2024-07-06	\N	2024-07-14 19:26:55.368126	2024-07-14 19:26:55.368126		0	0	0	0	0	0	0	6	77	22	0	06.07.2024 - Zella, TGL-Cup (TGL-Cup)	f	f	f	f
 \.
