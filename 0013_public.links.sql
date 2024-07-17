@@ -2701,4 +2701,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2766	Kfv-LDS 	294	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/3320544346.php?splitId=0&from=2024-07-20%2010:00:00&to=2024-07-20%2014:00:00	2024-05-23 04:45:47.793276	2024-05-23 04:45:47.793276
 2767	TFC	297	Appointment	https://www.xn--thringer-feuerwehrcup-9hc.de/	2024-05-29 16:59:39.909745	2024-05-29 16:59:39.909745
 2768	https://www.fw-ottendorf.de	207	Team	https://www.fw-ottendorf.de	2024-06-26 09:13:04.077586	2024-06-26 09:13:04.077586
+2769	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	302	Appointment	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	2024-07-16 12:03:13.531	2024-07-16 12:03:13.531
 \.
