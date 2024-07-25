@@ -3119,4 +3119,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4044	Schuld	Becky	0	1	2024-07-08 10:41:54.49296	2024-07-08 10:41:54.49296	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4045	Strickert	David	1	1	2024-07-14 08:20:31.545216	2024-07-14 08:20:31.545216	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4046	Penk	Marcel	1	1	2024-07-14 08:22:30.216039	2024-07-14 08:22:30.216039	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4047	Quade	Paul	1	1	2024-07-24 20:29:58.643971	2024-07-24 20:29:58.643971	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
