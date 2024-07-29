@@ -366,4 +366,5 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 1332	98	hl	Nachwuchs	Series::PersonAssessment	0	2024-06-05 08:45:54.784214	2024-06-05 08:45:54.784214
 1333	98	hl		Series::TeamAssessment	0	2024-06-05 08:45:54.812287	2024-06-05 08:45:54.812287
 1334	98	hl		Series::TeamAssessment	1	2024-06-05 08:45:54.829759	2024-06-05 08:45:54.829759
+1339	98	hl	Nachwuchs	Series::PersonAssessment	1	2024-07-28 09:46:21.60014	2024-07-28 09:46:21.60014
 \.
