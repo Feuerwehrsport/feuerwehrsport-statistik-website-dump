@@ -2208,4 +2208,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2214	4. Seeholzpokal	494	10	\N	2024-07-27	\N	2024-07-28 08:47:09.17418	2024-07-28 08:47:09.17418		0	0	0	0	0	0	0	8	56	20	0	27.07.2024 - Murchin, Pokallauf (4. Seeholzpokal)	f	f	f	f
 2215	33. Feuerwehrtag	25	6	\N	2024-07-20	\N	2024-07-28 08:53:07.3859	2024-07-28 08:53:07.3859		0	0	0	0	0	0	0	8	34	18	0	20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)	f	f	f	f
 2216	2. Sächsischer Steigercup	2	20	4	2024-06-08	\N	2024-07-28 09:33:41.796176	2024-07-28 09:42:11.534738		30	12	0	0	0	0	0	0	0	8	21	08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)	f	f	f	f
+2217	Dahme/Mark	643	15	\N	2024-06-01	\N	2024-07-29 19:14:21.838295	2024-07-29 19:14:21.838295		0	0	0	0	0	0	0	6	28	20	0	01.06.2024 - Görsdorf, Amtsausscheid (Dahme/Mark)	f	f	f	f
 \.

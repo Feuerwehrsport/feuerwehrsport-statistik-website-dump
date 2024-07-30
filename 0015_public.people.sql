@@ -3122,4 +3122,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4047	Quade	Paul	1	1	2024-07-24 20:29:58.643971	2024-07-24 20:29:58.643971	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4048	Henning	Lars	1	1	2024-07-28 08:56:47.722312	2024-07-28 08:56:47.722312	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4049	Ecobichon	Lea	0	1	2024-07-28 09:33:57.069169	2024-07-28 09:33:57.069169	0	2	0	0	0	{"pb": {"hb": null, "hl": [1071, "08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)"], "zk": null}, "sb": {"hb": null, "hl": [1071, "08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)"], "zk": null}}	\N
+4050	Srocka	Melanie	0	1	2024-07-29 07:07:19.378861	2024-07-29 07:07:19.378861	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
