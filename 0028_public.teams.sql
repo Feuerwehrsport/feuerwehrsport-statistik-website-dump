@@ -3344,7 +3344,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 10722, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 10734, true);
 
 
 --
@@ -3400,7 +3400,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2217, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 38123, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 38147, true);
 
 
 --
@@ -3477,7 +3477,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 10716, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 10728, true);
 
 
 --
@@ -3519,7 +3519,7 @@ SELECT pg_catalog.setval('public.places_id_seq', 643, true);
 -- Name: registrations_assessment_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 13957, true);
+SELECT pg_catalog.setval('public.registrations_assessment_participations_id_seq', 13972, true);
 
 
 --
@@ -3547,14 +3547,14 @@ SELECT pg_catalog.setval('public.registrations_competitions_id_seq', 109, true);
 -- Name: registrations_people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_people_id_seq', 4666, true);
+SELECT pg_catalog.setval('public.registrations_people_id_seq', 4673, true);
 
 
 --
 -- Name: registrations_teams_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.registrations_teams_id_seq', 1378, true);
+SELECT pg_catalog.setval('public.registrations_teams_id_seq', 1379, true);
 
 
 --
