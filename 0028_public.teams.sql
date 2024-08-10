@@ -300,7 +300,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 320	FF Altbensdorf	Altbensdorf	1	52.4201151361	12.3434829712	\N	BB	2016-01-20 21:32:11.725905	2016-01-20 21:32:11.725905	2016-01-20 21:32:11.725905	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4071, "01.09.2007 - Brandenburg, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 321	FF Petkus	Petkus	1	51.9891599000	13.3587088000	\N	BB	2016-01-20 21:32:11.72845	2016-01-20 21:32:11.72845	2016-01-20 21:32:11.72845	0	8	{"male": {"din": {"pb": [3349, "12.07.2008 - Schönefeld, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4102, "12.07.2008 - Schönefeld, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 322	FF Taubendorf	Taubendorf	1	51.9583098641	14.6365356445	\N	BB	2016-01-20 21:32:11.731925	2016-01-20 21:32:11.731925	2016-01-20 21:32:11.731925	0	16	{"male": {"din": {"pb": [2717, "02.10.2020 - Merzdorf, Pokallauf (20. Flutlichtpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3721, "30.09.2011 - Merzdorf, Pokallauf (11. Flutlichtpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-324	FF Altgolßen	Altgolßen	1	51.9706623000	13.5603066000	IMG_3155.jpeg	BB	2016-01-20 21:32:11.734552	2024-02-01 08:48:23.009703	2016-01-20 21:32:11.734552	12	42	{"male": {"din": {"pb": [2489, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"], "sb": [2489, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"]}, "tgl": {"pb": [3507, "24.05.2008 - Neuendorf, Pokallauf (4-Bahnen-Pokal)"], "sb": null}}, "female": {"din": {"pb": [4137, "10.09.2011 - Neuendorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+324	FF Altgolßen	Altgolßen	1	51.9706623000	13.5603066000	IMG_3155.jpeg	BB	2016-01-20 21:32:11.734552	2024-02-01 08:48:23.009703	2016-01-20 21:32:11.734552	13	42	{"male": {"din": {"pb": [2489, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"], "sb": [2489, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"]}, "tgl": {"pb": [3507, "24.05.2008 - Neuendorf, Pokallauf (4-Bahnen-Pokal)"], "sb": null}}, "female": {"din": {"pb": [4137, "10.09.2011 - Neuendorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 325	FF Paplitz	Paplitz	1	52.0509477000	13.4703661000	\N	BB	2016-01-20 21:32:11.737304	2016-01-20 21:32:11.737304	2016-01-20 21:32:11.737304	0	17	{"male": {"din": {"pb": [3026, "11.07.2009 - Schönefeld, Pokallauf (9. Pokallauf der Feuerwehr Schönefeld)"], "sb": null}, "tgl": {"pb": [3666, "24.05.2008 - Neuendorf, Pokallauf (4-Bahnen-Pokal)"], "sb": null}}, "female": {"din": {"pb": [3423, "08.05.2010 - Neuendorf, BB-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 326	FF Radinkendorf	Radinkendorf	1	52.2113388000	14.2697457000	\N	BB	2016-01-20 21:32:11.748575	2016-01-20 21:32:11.748575	2016-01-20 21:32:11.748575	0	39	{"male": {"din": {"pb": [2344, "13.09.2008 - Beeskow, Pokallauf (2. Lauf um den Pokal des Bürgermeisters)"], "sb": null}, "tgl": {"pb": [2682, "16.07.2022 - Günthersdorf, 4BP (4. Einbahnpokal & 2. Lauf 4BP)"], "sb": null}}, "female": {"din": {"pb": [3046, "12.07.2008 - Ragow, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 327	WF Kraftwerk Jänschwalde	Jänschwalde	1	51.8333908242	14.4622135162	WF_Vattenfall_Kraftwerk_J__nschwalde.png	BB	2016-01-20 21:32:11.853005	2018-03-06 14:20:52.310206	2018-03-06 14:20:51	1	13	{"male": {"din": {"pb": [2798, "10.06.2011 - Schwarze Pumpe, Pokallauf (16. Vattenfall-Pokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3344,14 +3344,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 10754, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 10758, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 856, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 858, true);
 
 
 --
@@ -3372,7 +3372,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 22637, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 22639, true);
 
 
 --
@@ -3400,7 +3400,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2217, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 38242, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 38250, true);
 
 
 --
@@ -3477,7 +3477,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 10748, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 10752, true);
 
 
 --
@@ -3498,7 +3498,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4050, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 21238, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 21252, true);
 
 
 --
