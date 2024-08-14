@@ -2703,4 +2703,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2768	https://www.fw-ottendorf.de	207	Team	https://www.fw-ottendorf.de	2024-06-26 09:13:04.077586	2024-06-26 09:13:04.077586
 2769	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	302	Appointment	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	2024-07-16 12:03:13.531	2024-07-16 12:03:13.531
 2770	https://www.facebook.com/events/1226326785052418	303	Appointment	https://www.facebook.com/events/1226326785052418	2024-08-03 08:44:35.502158	2024-08-03 08:44:35.502158
+2771	Nachtaktivenpokal 	304	Appointment	https://www.instagram.com/p/C-YbKOnNvJg/?igsh=cjBzeGFzaXJqNTM2	2024-08-13 09:15:46.860666	2024-08-13 09:15:46.860666
 \.
