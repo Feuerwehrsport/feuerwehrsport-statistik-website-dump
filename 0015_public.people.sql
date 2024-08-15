@@ -3123,4 +3123,10 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4048	Henning	Lars	1	1	2024-07-28 08:56:47.722312	2024-07-28 08:56:47.722312	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4049	Ecobichon	Lea	0	1	2024-07-28 09:33:57.069169	2024-07-28 09:33:57.069169	0	2	0	0	0	{"pb": {"hb": null, "hl": [1071, "08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)"], "zk": null}, "sb": {"hb": null, "hl": [1071, "08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)"], "zk": null}}	\N
 4050	Srocka	Melanie	0	1	2024-07-29 07:07:19.378861	2024-07-29 07:07:19.378861	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4051	Lindner	Eric	1	1	2024-08-14 20:37:39.90212	2024-08-14 20:37:39.90212	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4052	Reibestein	Theo	1	1	2024-08-14 20:37:39.914411	2024-08-14 20:37:39.914411	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4053	Kleine	Lenny	1	1	2024-08-14 20:37:39.925623	2024-08-14 20:37:39.925623	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4054	Auerbach	Paul	1	1	2024-08-14 20:37:39.936691	2024-08-14 20:37:39.936691	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4055	Preuß	Johannes	1	1	2024-08-14 20:37:39.950947	2024-08-14 20:37:39.950947	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4056	Benndorf	Luca	1	1	2024-08-14 20:37:40.003426	2024-08-14 20:37:40.003426	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
