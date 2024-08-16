@@ -3129,4 +3129,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4054	Auerbach	Paul	1	1	2024-08-14 20:37:39.936691	2024-08-14 20:37:39.936691	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4055	Preuß	Johannes	1	1	2024-08-14 20:37:39.950947	2024-08-14 20:37:39.950947	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4056	Benndorf	Luca	1	1	2024-08-14 20:37:40.003426	2024-08-14 20:37:40.003426	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4057	Ziesmer	Marvin	1	1	2024-08-15 20:28:19.471271	2024-08-15 20:28:19.471271	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4058	Döring	Samantha	0	1	2024-08-15 20:28:19.521779	2024-08-15 20:28:19.521779	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4059	Noack	Martha	0	1	2024-08-15 20:28:19.613537	2024-08-15 20:28:19.613537	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
