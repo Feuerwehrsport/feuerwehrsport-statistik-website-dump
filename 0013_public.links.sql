@@ -2704,4 +2704,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2769	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	302	Appointment	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	2024-07-16 12:03:13.531	2024-07-16 12:03:13.531
 2770	https://www.facebook.com/events/1226326785052418	303	Appointment	https://www.facebook.com/events/1226326785052418	2024-08-03 08:44:35.502158	2024-08-03 08:44:35.502158
 2771	Nachtaktivenpokal 	304	Appointment	https://www.instagram.com/p/C-YbKOnNvJg/?igsh=cjBzeGFzaXJqNTM2	2024-08-13 09:15:46.860666	2024-08-13 09:15:46.860666
+2772	Feuerwehr Pretzsch / Merschwitz	305	Appointment	http://ffw-pretzsch.de/	2024-08-19 08:00:11.047353	2024-08-19 08:00:11.047353
+2773	Feuerwehr Pretzsch	362	Team	http://ffw-pretzsch.de/	2024-08-19 08:04:46.201581	2024-08-19 08:04:46.201581
 \.
