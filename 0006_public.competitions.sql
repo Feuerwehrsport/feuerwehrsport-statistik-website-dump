@@ -2209,4 +2209,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2215	33. Feuerwehrtag	25	6	\N	2024-07-20	\N	2024-07-28 08:53:07.3859	2024-07-28 08:53:07.3859		0	0	0	0	0	0	0	8	34	18	0	20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)	f	f	f	f
 2216	2. Sächsischer Steigercup	2	20	4	2024-06-08	\N	2024-07-28 09:33:41.796176	2024-07-28 09:42:11.534738		30	12	0	0	0	0	0	0	0	8	21	08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)	f	f	f	f
 2217	Dahme/Mark	643	15	\N	2024-06-01	\N	2024-07-29 19:14:21.838295	2024-07-29 19:14:21.838295		0	0	0	0	0	0	0	6	28	20	0	01.06.2024 - Görsdorf, Amtsausscheid (Dahme/Mark)	f	f	f	f
+2218	11.Lindenpokal /TGL-Cup und SAP	234	33	\N	2024-08-10	\N	2024-08-23 15:38:24.931636	2024-08-23 15:38:24.931636		0	0	0	0	0	0	0	14	91	29	0	10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)	f	f	f	f
+2219	MV-Hindernis- und -Steigercup	25	13	\N	2024-08-03	\N	2024-08-23 15:52:26.866943	2024-08-23 15:52:26.866943		6	16	6	12	0	0	0	0	0	9	11	03.08.2024 - Ostseebad Nienhagen, MV-Cup (MV-Hindernis- und -Steigercup)	f	f	f	f
+2220	Feuerwehrfest	594	10	\N	2024-07-27	\N	2024-08-23 15:58:54.941269	2024-08-23 15:58:54.941269		0	0	6	10	0	0	0	0	0	8	8	27.07.2024 - Schwarz, Pokallauf (Feuerwehrfest)	f	f	f	f
+2221	2. Lauf D-Cup	25	1	2	2024-08-17	\N	2024-08-23 16:07:14.332186	2024-08-23 16:07:27.71053		74	62	72	64	11	0	0	12	10	12	74	17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)	f	f	f	f
 \.
