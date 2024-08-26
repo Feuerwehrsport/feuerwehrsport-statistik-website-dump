@@ -2706,5 +2706,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2771	Nachtaktivenpokal 	304	Appointment	https://www.instagram.com/p/C-YbKOnNvJg/?igsh=cjBzeGFzaXJqNTM2	2024-08-13 09:15:46.860666	2024-08-13 09:15:46.860666
 2772	Feuerwehr Pretzsch / Merschwitz	305	Appointment	http://ffw-pretzsch.de/	2024-08-19 08:00:11.047353	2024-08-19 08:00:11.047353
 2773	Feuerwehr Pretzsch	362	Team	http://ffw-pretzsch.de/	2024-08-19 08:04:46.201581	2024-08-19 08:04:46.201581
-2774	Simon Kuhl	3912	Team	http://feuerwehrsport-statistik.de/people/3739	2024-08-23 20:59:03.886547	2024-08-23 20:59:03.886547
+2775	Facebook	306	Appointment	https://m.facebook.com/events/349415184830932/?acontext=%7B%22action_history%22:%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment	2024-08-25 19:47:15.668145	2024-08-25 19:47:15.668145
 \.
