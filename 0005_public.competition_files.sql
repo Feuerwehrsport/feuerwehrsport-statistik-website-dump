@@ -2227,8 +2227,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2229	2210	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-07-28 07:55:32.591175	2024-07-28 07:55:32.591175
 2230	2210	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-07-28 07:55:38.759737	2024-07-28 07:55:38.759737
 2231	2210	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-07-28 07:55:46.915206	2024-07-28 07:55:46.915206
-2232	2211	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-07-28 08:22:19.455395	2024-07-28 08:22:19.455395
-2233	2211	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-07-28 08:22:25.703269	2024-07-28 08:22:25.703269
 2234	2212	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2024-07-28 08:23:40.846801	2024-07-28 08:23:40.846801
 2235	2212	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-07-28 08:23:45.598407	2024-07-28 08:23:45.598407
 2236	2212	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-07-28 08:23:50.522426	2024-07-28 08:23:50.522426

@@ -2202,7 +2202,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2208	3. MV-Cup 2024	592	13	\N	2024-07-06	\N	2024-07-08 10:39:21.153597	2024-07-08 10:39:21.153597		0	0	0	0	0	0	0	14	58	26	0	06.07.2024 - Neustadt-Glewe, MV-Cup (3. MV-Cup 2024)	f	f	f	f
 2209	TGL-Cup	167	33	\N	2024-07-06	\N	2024-07-14 19:26:55.368126	2024-07-14 19:26:55.368126		0	0	0	0	0	0	0	6	77	22	0	06.07.2024 - Zella, TGL-Cup (TGL-Cup)	f	f	f	f
 2210	4-Bahnenpokal und BB-Cup	636	16	\N	2024-07-13	\N	2024-07-28 07:50:28.632238	2024-07-28 07:50:28.632238		0	0	0	0	0	0	0	21	68	24	0	13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)	f	f	f	f
-2211	Kreisausscheid Prignitz	642	6	\N	2024-07-06	\N	2024-07-28 08:21:51.663092	2024-07-28 08:21:51.663092		0	0	0	0	0	0	0	2	22	12	0	06.07.2024 - Breese, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f
 2212	Kreisausscheid NWM	51	6	\N	2024-06-15	\N	2024-07-28 08:23:13.850433	2024-07-28 08:23:13.850433		0	0	0	0	0	0	0	4	16	10	0	15.06.2024 - Hohen Viecheln, Kreisausscheid (Kreisausscheid NWM)	f	f	f	f
 2213	5.SAP-Lauf	613	18	\N	2024-07-20	\N	2024-07-28 08:43:19.714641	2024-07-28 08:43:19.714641		0	0	0	0	0	0	0	7	31	15	0	20.07.2024 - Böddensell, SA-Cup (5.SAP-Lauf)	f	f	f	f
 2214	4. Seeholzpokal	494	10	\N	2024-07-27	\N	2024-07-28 08:47:09.17418	2024-07-28 08:47:09.17418		0	0	0	0	0	0	0	8	56	20	0	27.07.2024 - Murchin, Pokallauf (4. Seeholzpokal)	f	f	f	f
