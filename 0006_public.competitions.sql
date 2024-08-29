@@ -2212,4 +2212,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2219	MV-Hindernis- und -Steigercup	25	13	\N	2024-08-03	\N	2024-08-23 15:52:26.866943	2024-08-23 15:52:26.866943		6	16	6	12	0	0	0	0	0	9	11	03.08.2024 - Ostseebad Nienhagen, MV-Cup (MV-Hindernis- und -Steigercup)	f	f	f	f
 2220	Feuerwehrfest	594	10	\N	2024-07-27	\N	2024-08-23 15:58:54.941269	2024-08-23 15:58:54.941269		0	0	6	10	0	0	0	0	0	8	8	27.07.2024 - Schwarz, Pokallauf (Feuerwehrfest)	f	f	f	f
 2221	2. Lauf D-Cup	25	1	2	2024-08-17	\N	2024-08-23 16:07:14.332186	2024-08-23 16:07:27.71053		74	62	72	64	11	0	0	12	10	12	74	17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)	f	f	f	f
+2222	4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. 	200	10	\N	2024-07-20	\N	2024-08-28 20:39:16.353019	2024-08-28 20:39:16.353019		22	18	19	19	0	0	0	0	0	12	21	20.07.2024 - Langengrassau, Pokallauf (4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. )	f	f	f	f
 \.
