@@ -7,7 +7,7 @@
 COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state, created_at, updated_at, checked_at, members_count, competitions_count, best_scores) FROM stdin;
 1	FF Buckow	Buckow	1	52.5611297253	14.0714263916	Buckow.png	BB	2016-01-20 21:32:01.897862	2016-01-20 21:32:01.897862	2016-01-20 21:32:01.897862	42	36	{"male": {"din": {"pb": [3167, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3272, "30.08.2003 - Cottbus, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2	Team Mecklenburg-Vorpommern	Team MV	0	53.6851567563	12.2669005394	team-mv.png	MV	2016-01-20 21:32:02.001251	2016-01-20 21:32:02.001251	2016-01-20 21:32:02.001251	171	107	{"male": {"din": {"pb": [2263, "16.06.2018 - Doberlug-Kirchhain, D-Cup"], "sb": [2404, "17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2498, "25.07.2012 - Cottbus, DM"], "sb": [3125, "17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)"]}, "tgl": {"pb": null, "sb": null}}}
-3	Team Lausitz	Team Lausitz	0	51.3717803759	14.3261718750	lausitz.jpg	BB	2016-01-20 21:32:02.142778	2018-01-25 09:50:36.272773	2018-01-25 09:50:34	151	154	{"male": {"din": {"pb": [2212, "23.07.2016 - Willmersdorf-Stöbritz, Pokallauf (12. Wanderpokallauf)"], "sb": [2417, "17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)"]}, "tgl": {"pb": [3492, "23.07.2016 - Willmersdorf-Stöbritz, Pokallauf (12. Wanderpokallauf)"], "sb": null}}, "female": {"din": {"pb": [2476, "29.06.2019 - Narsdorf, D-Cup"], "sb": [2954, "22.06.2024 - Seelow, D-Cup (D-Cup Seelow/Gieshof )"]}, "tgl": {"pb": null, "sb": null}}}
+3	Team Lausitz	Team Lausitz	0	51.3717803759	14.3261718750	lausitz.jpg	BB	2016-01-20 21:32:02.142778	2018-01-25 09:50:36.272773	2018-01-25 09:50:34	152	154	{"male": {"din": {"pb": [2212, "23.07.2016 - Willmersdorf-Stöbritz, Pokallauf (12. Wanderpokallauf)"], "sb": [2417, "17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)"]}, "tgl": {"pb": [3492, "23.07.2016 - Willmersdorf-Stöbritz, Pokallauf (12. Wanderpokallauf)"], "sb": null}}, "female": {"din": {"pb": [2476, "29.06.2019 - Narsdorf, D-Cup"], "sb": [2954, "22.06.2024 - Seelow, D-Cup (D-Cup Seelow/Gieshof )"]}, "tgl": {"pb": null, "sb": null}}}
 4	Team Stelzendorf	Stelzendorf	1	50.6576774988	11.9240605831	stelzendorf.jpg	TH	2016-01-20 21:32:02.364791	2016-01-20 21:32:02.364791	2016-01-20 21:32:02.364791	42	65	{"male": {"din": {"pb": [2487, "18.08.2007 - Frienstedt, Thüringer Feuerwehr-Cup"], "sb": null}, "tgl": {"pb": [3541, "10.07.2010 - Stelzendorf, Thüringer Feuerwehr-Cup"], "sb": null}}, "female": {"din": {"pb": [2892, "14.07.2007 - Gamstädt, Thüringer Feuerwehr-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 5	Team Rostock	Rostock	0	54.0782249901	12.1172332764	rostock.png	MV	2016-01-20 21:32:02.45032	2016-01-20 21:32:02.45032	2016-01-20 21:32:02.45032	11	68	{"male": {"din": {"pb": [2507, "27.06.2015 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2875, "28.07.2016 - Rostock, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 6	Team Westsachsen	Westsachsen	0	50.7163738000	12.4860700000	\N	SN	2016-01-20 21:32:02.476486	2018-01-25 09:52:19.893385	2018-01-25 09:52:17	24	18	{"male": {"din": {"pb": [2527, "22.09.2007 - Narsdorf, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3957, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "sb": [3957, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"]}, "tgl": {"pb": null, "sb": null}}}
@@ -3344,14 +3344,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 10987, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 10988, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 866, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 869, true);
 
 
 --
@@ -3372,14 +3372,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 22755, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 22779, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 555, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 559, true);
 
 
 --
@@ -3400,7 +3400,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2222, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 38867, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 38912, true);
 
 
 --
@@ -3477,7 +3477,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 10981, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 10982, true);
 
 
 --
@@ -3498,7 +3498,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4060, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 21377, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 21469, true);
 
 
 --
