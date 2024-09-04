@@ -3344,14 +3344,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 11002, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 11007, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 871, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 873, true);
 
 
 --
@@ -3372,14 +3372,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 22823, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 22828, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 559, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 560, true);
 
 
 --
@@ -3400,7 +3400,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2222, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 39010, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 39024, true);
 
 
 --
@@ -3477,7 +3477,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 10996, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 11001, true);
 
 
 --
@@ -3498,7 +3498,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4067, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 21609, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 21620, true);
 
 
 --
