@@ -2185,9 +2185,9 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2191	1. SAP 2024	33	18	\N	2024-04-20	\N	2024-05-16 08:38:33.30759	2024-05-16 08:38:33.30759		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. SAP 2024)	f	f	f	f
 2192	1. MV-Cup 2024	44	13	\N	2024-05-18	\N	2024-05-21 08:57:41.423592	2024-05-21 08:57:41.423592		0	0	0	0	0	0	0	8	60	25	0	18.05.2024 - Kummer, MV-Cup (1. MV-Cup 2024)	f	f	f	f
 2193		611	34	\N	2024-05-18	\N	2024-05-22 07:04:10.162025	2024-05-22 07:04:10.162025		0	0	0	0	0	0	0	4	20	12	0	18.05.2024 - Steinitz (Sachsen), Ostsachsenpokal	f	f	f	f
-2194		639	10	\N	2024-05-23	\N	2024-05-24 20:55:43.717461	2024-05-24 20:55:43.717461		0	10	0	10	0	0	0	0	0	1	5	23.05.2024 - Ostrowiec Świętokrzyski, Pokallauf	f	f	f	f
+2194		639	10	\N	2024-05-23	\N	2024-05-24 20:55:43.717461	2024-09-04 19:39:19.265146		0	10	0	10	0	0	0	0	0	1	5	23.05.2024 - Ostrowiec Świętokrzyski, Pokallauf	t	t	t	t
 2195	1. Lauf 2024	16	20	4	2024-04-27	\N	2024-06-05 08:39:47.503794	2024-06-05 08:42:49.254118		36	16	0	0	0	0	0	0	0	9	26	27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)	f	f	f	f
-2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-06-05 08:47:08.629144		44	22	44	35	12	4	3	10	32	26	52	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	f	f	f	f
+2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-09-04 19:38:55.355083		44	22	44	35	12	4	3	10	32	26	52	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	t	t	t	t
 2197	2. BB-Cup 2024	65	16	\N	2024-06-01	\N	2024-06-06 12:03:33.482532	2024-06-06 12:03:33.482532		0	0	0	0	0	0	0	16	28	22	0	01.06.2024 - Gehren, BB-Cup (2. BB-Cup 2024)	f	f	f	f
 2198	3. TGL-Cup 2024	199	33	\N	2024-06-08	\N	2024-06-11 18:53:54.063971	2024-06-11 18:53:54.063971		0	0	0	0	0	0	0	4	50	14	0	08.06.2024 - Rübeland, TGL-Cup (3. TGL-Cup 2024)	f	f	f	f
 2199	2. SAP 2024	640	18	\N	2024-05-25	\N	2024-06-11 19:12:02.93111	2024-06-11 19:12:02.93111		0	0	0	0	1	0	0	9	34	15	0	25.05.2024 - Bornum, SA-Cup (2. SAP 2024)	f	f	f	f
@@ -2211,6 +2211,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2218	11.Lindenpokal /TGL-Cup und SAP	234	33	\N	2024-08-10	\N	2024-08-23 15:38:24.931636	2024-08-23 15:38:24.931636		0	0	0	0	0	0	0	14	91	29	0	10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)	f	f	f	f
 2219	MV-Hindernis- und -Steigercup	25	13	\N	2024-08-03	\N	2024-08-23 15:52:26.866943	2024-08-23 15:52:26.866943		6	16	6	12	0	0	0	0	0	9	11	03.08.2024 - Ostseebad Nienhagen, MV-Cup (MV-Hindernis- und -Steigercup)	f	f	f	f
 2220	Feuerwehrfest	594	10	\N	2024-07-27	\N	2024-08-23 15:58:54.941269	2024-08-23 15:58:54.941269		0	0	6	10	0	0	0	0	0	8	8	27.07.2024 - Schwarz, Pokallauf (Feuerwehrfest)	f	f	f	f
-2221	2. Lauf D-Cup	25	1	2	2024-08-17	\N	2024-08-23 16:07:14.332186	2024-08-23 16:07:27.71053		74	62	72	64	11	0	0	12	10	12	74	17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)	f	f	f	f
+2221	2. Lauf D-Cup	25	1	2	2024-08-17	\N	2024-08-23 16:07:14.332186	2024-09-04 19:38:16.956265		74	62	72	64	11	0	0	12	10	12	74	17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)	t	t	t	t
 2222	4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. 	200	10	\N	2024-07-20	\N	2024-08-28 20:39:16.353019	2024-08-28 20:39:16.353019		22	18	19	19	0	0	0	0	0	12	21	20.07.2024 - Langengrassau, Pokallauf (4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. )	f	f	f	f
+2223	6. WM im Feuerwehrsport	644	11	1	2010-08-27	\N	2024-09-04 07:33:11.123171	2024-09-04 19:37:44.727507		0	16	0	16	0	0	2	0	2	1	9	27.08.2010 - Donezk (UKR), WM (6. WM im Feuerwehrsport)	t	t	f	f
+2224	Tschechische Meisterschaft 2024	645	10	1	2024-08-23	\N	2024-09-04 19:03:16.525818	2024-09-04 19:05:56.958249		16	13	16	14	0	2	2	2	2	2	16	23.08.2024 - Olomouc (CZ), Pokallauf (Tschechische Meisterschaft 2024)	t	t	t	t
 \.
