@@ -2296,4 +2296,5 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2300	2224	Gesamtwertung_Männer.pdf	hb_male,hl_male,fs_male,la_male	2024-09-04 19:30:41.627209	2024-09-04 19:30:41.627209
 2301	2224	Gesamtwertung_Frauen.pdf	hb_female,hl_female,fs_female,la_female	2024-09-04 19:30:41.628221	2024-09-04 19:30:41.628221
 2302	2224	Hakenleiter_Männer_Finale.pdf	hl_male	2024-09-04 19:50:26.884367	2024-09-04 19:50:26.884367
+2303	2225	Ergebnisse_Löschangriff.pdf	la_female,la_male	2024-09-05 08:49:35.5245	2024-09-05 08:49:35.5245
 \.

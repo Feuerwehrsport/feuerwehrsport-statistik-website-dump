@@ -2215,4 +2215,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2222	4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. 	200	10	\N	2024-07-20	\N	2024-08-28 20:39:16.353019	2024-08-28 20:39:16.353019		22	18	19	19	0	0	0	0	0	12	21	20.07.2024 - Langengrassau, Pokallauf (4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. )	f	f	f	f
 2223	6. WM im Feuerwehrsport	644	11	1	2010-08-27	\N	2024-09-04 07:33:11.123171	2024-09-04 19:37:44.727507		0	16	0	16	0	0	2	0	2	1	9	27.08.2010 - Donezk (UKR), WM (6. WM im Feuerwehrsport)	t	t	f	f
 2224	Tschechische Meisterschaft 2024	645	10	1	2024-08-23	\N	2024-09-04 19:03:16.525818	2024-09-04 19:05:56.958249		16	13	16	14	0	2	2	2	2	2	16	23.08.2024 - Olomouc (CZ), Pokallauf (Tschechische Meisterschaft 2024)	t	t	t	t
+2225	Feuerwehrfest	170	10	\N	2024-05-25	\N	2024-09-05 08:44:56.84948	2024-09-05 08:44:56.84948		0	0	0	0	0	0	0	4	18	11	0	25.05.2024 - Vehra, Pokallauf (Feuerwehrfest)	f	f	f	f
+2226	1. Lauf TGL-Cup 2023	219	33	\N	2023-05-06	\N	2024-09-05 09:37:06.628753	2024-09-05 09:37:06.628753		0	0	0	0	0	0	0	4	44	13	0	06.05.2023 - Garitz-Bornum, TGL-Cup (1. Lauf TGL-Cup 2023)	f	f	f	f
 \.
