@@ -3139,4 +3139,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4065	Lehmann	Steffen	1	1	2024-09-02 11:55:05.525108	2024-09-02 11:55:05.525108	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4066	Großpietsch	Steven	1	1	2024-09-02 12:18:26.912595	2024-09-02 12:18:26.912595	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4067	Madel	Chris	1	1	2024-09-02 12:30:50.688012	2024-09-02 12:30:50.688012	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4068	Opitz	Marcel	1	1	2024-09-08 16:50:49.622246	2024-09-08 16:50:49.622246	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
