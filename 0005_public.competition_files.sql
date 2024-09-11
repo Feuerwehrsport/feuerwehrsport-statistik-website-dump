@@ -2297,4 +2297,18 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2301	2224	Gesamtwertung_Frauen.pdf	hb_female,hl_female,fs_female,la_female	2024-09-04 19:30:41.628221	2024-09-04 19:30:41.628221
 2302	2224	Hakenleiter_Männer_Finale.pdf	hl_male	2024-09-04 19:50:26.884367	2024-09-04 19:50:26.884367
 2303	2225	Ergebnisse_Löschangriff.pdf	la_female,la_male	2024-09-05 08:49:35.5245	2024-09-05 08:49:35.5245
+2304	2228	100m_Frauen_und_Männer.pdf	hb_female,hb_male	2024-09-10 08:13:40.592577	2024-09-10 08:13:40.592577
+2305	2228	Hakenleiter_Frauen_und_Männer.pdf	hl_female,hl_male	2024-09-10 08:13:40.598274	2024-09-10 08:13:40.598274
+2306	2228	4x100m_Frauen_und_Männer.pdf	fs_female,fs_male	2024-09-10 08:13:40.599767	2024-09-10 08:13:40.599767
+2307	2228	Gruppenstafette_Frauen_und_Männer.pdf	gs_female	2024-09-10 08:13:40.60123	2024-09-10 08:13:40.60123
+2308	2228	Löschangriff_Frauen_und_Männer.pdf	la_female,la_male	2024-09-10 08:13:40.602817	2024-09-10 08:13:40.602817
+2309	2228	Hakenleiter_AK_I_Mädchen_und_Jungen.pdf	hl_female,hl_male	2024-09-10 08:13:40.604287	2024-09-10 08:13:40.604287
+2310	2229	Löschangriff_Frauen.pdf	la_female	2024-09-10 11:20:34.889726	2024-09-10 11:20:34.889726
+2311	2229	Löschangriff_Männer_Vorlauf.pdf	la_male	2024-09-10 11:20:34.892075	2024-09-10 11:20:34.892075
+2312	2229	Löschangriff_Männer_Finallauf.pdf	la_male	2024-09-10 11:20:34.893718	2024-09-10 11:20:34.893718
+2313	2229	Löschangriff_Männer_Stadtmeisterschaft_CB.pdf	la_male	2024-09-10 11:20:34.895263	2024-09-10 11:20:34.895263
+2314	2163	Löschangriff_Frauen_DIN.pdf	la_female	2024-09-10 11:42:30.324899	2024-09-10 11:42:30.324899
+2315	2163	Löschangriff_Frauen_TGL.pdf	la_female	2024-09-10 11:42:30.327238	2024-09-10 11:42:30.327238
+2316	2163	Löschangriff_Männer_DIN.pdf	la_male	2024-09-10 11:42:30.328682	2024-09-10 11:42:30.328682
+2317	2163	Löschangriff_Männer_TGL.pdf	la_male	2024-09-10 11:42:30.330142	2024-09-10 11:42:30.330142
 \.

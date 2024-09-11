@@ -2217,4 +2217,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2224	Tschechische Meisterschaft 2024	645	10	1	2024-08-23	\N	2024-09-04 19:03:16.525818	2024-09-04 19:05:56.958249		16	13	16	14	0	2	2	2	2	2	16	23.08.2024 - Olomouc (CZ), Pokallauf (Tschechische Meisterschaft 2024)	t	t	t	t
 2225	Feuerwehrfest	170	10	\N	2024-05-25	\N	2024-09-05 08:44:56.84948	2024-09-05 08:44:56.84948		0	0	0	0	0	0	0	4	18	11	0	25.05.2024 - Vehra, Pokallauf (Feuerwehrfest)	f	f	f	f
 2226	1. Lauf TGL-Cup 2023	219	33	\N	2023-05-06	\N	2024-09-05 09:37:06.628753	2024-09-05 09:37:06.628753		0	0	0	0	0	0	0	4	44	13	0	06.05.2023 - Garitz-Bornum, TGL-Cup (1. Lauf TGL-Cup 2023)	f	f	f	f
+2227		626	10	\N	2024-09-08	\N	2024-09-10 06:08:07.869309	2024-09-10 06:08:07.869309		0	0	0	0	0	0	0	0	6	3	0	08.09.2024 - Rothenburg, Pokallauf	f	f	f	f
+2228	Kreisausscheid SPN	14	6	\N	2023-07-08	\N	2024-09-10 06:53:18.377915	2024-09-10 06:53:18.377915		12	8	10	6	2	3	2	4	14	15	10	08.07.2023 - Cottbus, Kreisausscheid (Kreisausscheid SPN)	f	f	f	f
+2229	23. Flutlichtpokal	143	10	\N	2023-10-02	\N	2024-09-10 10:04:25.626396	2024-09-10 10:04:25.626396		0	0	0	0	0	0	0	10	47	36	0	02.10.2023 - Merzdorf, Pokallauf (23. Flutlichtpokal)	f	f	f	f
 \.
