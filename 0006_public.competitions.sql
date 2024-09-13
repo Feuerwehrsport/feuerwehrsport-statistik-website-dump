@@ -2220,4 +2220,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2227		626	10	\N	2024-09-08	\N	2024-09-10 06:08:07.869309	2024-09-10 06:08:07.869309		0	0	0	0	0	0	0	0	6	3	0	08.09.2024 - Rothenburg, Pokallauf	f	f	f	f
 2228	Kreisausscheid SPN	14	6	\N	2023-07-08	\N	2024-09-10 06:53:18.377915	2024-09-10 06:53:18.377915		12	8	10	6	2	3	2	4	14	15	10	08.07.2023 - Cottbus, Kreisausscheid (Kreisausscheid SPN)	f	f	f	f
 2229	23. Flutlichtpokal	143	10	\N	2023-10-02	\N	2024-09-10 10:04:25.626396	2024-09-10 10:04:25.626396		0	0	0	0	0	0	0	10	47	36	0	02.10.2023 - Merzdorf, Pokallauf (23. Flutlichtpokal)	f	f	f	f
+2230	2. Wesenitztalpokal	385	10	\N	2022-10-09	\N	2024-09-12 08:02:40.2565	2024-09-12 08:15:01.024845		0	0	0	0	0	0	0	0	16	16	0	09.10.2022 - Helmsdorf, Pokallauf (2. Wesenitztalpokal)	f	f	f	f
 \.

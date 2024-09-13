@@ -2311,4 +2311,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2315	2163	Löschangriff_Frauen_TGL.pdf	la_female	2024-09-10 11:42:30.327238	2024-09-10 11:42:30.327238
 2316	2163	Löschangriff_Männer_DIN.pdf	la_male	2024-09-10 11:42:30.328682	2024-09-10 11:42:30.328682
 2317	2163	Löschangriff_Männer_TGL.pdf	la_male	2024-09-10 11:42:30.330142	2024-09-10 11:42:30.330142
+2318	2171	Ergebnisse_Löschangriff_Männer.pdf	la_male	2024-09-12 07:52:58.472805	2024-09-12 07:52:58.472805
+2319	2230	Ergebnisse_Löschangriff_Männer.pdf	la_male	2024-09-12 08:21:00.845963	2024-09-12 08:21:00.845963
 \.
