@@ -1044,7 +1044,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 1095	Bericht bei Thüringer Allgemeine	61	Competition	http://www.thueringer-allgemeine.de/web/zgt/leben/blaulicht/detail/-/specific/4-Siege-beim-Deutschland-Cup-der-Feuerwehrleute-in-Marolterode-1186743639	2016-01-20 21:39:48.027608	2016-01-20 21:39:48.027608
 1096	http://www.feuerwehr-scharfenstein.de	1628	Team	http://www.feuerwehr-scharfenstein.de	2016-01-20 21:39:48.030642	2016-01-20 21:39:48.030642
 1097	http://www.feuerwehr-leutersbach.de/	1611	Team	http://www.feuerwehr-leutersbach.de/	2016-01-20 21:39:48.03699	2016-01-20 21:39:48.03699
-1098	Amtblatt mit Ergebnissen und Bericht	438	Competition	http://emazynxftp.de/~schlieben/Docs/Amtsblatt/2982_Schlieben_052014na.pdf	2016-01-20 21:39:48.039789	2016-01-20 21:39:48.039789
 1099	Ergebnisse	439	Competition	http://www.bitterfeld-wolfen-112.de/aktuelles/wettkampfergebnisse_kreispokallauf	2016-01-20 21:39:48.042605	2016-01-20 21:39:48.042605
 1100	Bericht	440	Competition	http://www.ff-breitenau.de/seite/34820/news.html	2016-01-20 21:39:48.045601	2016-01-20 21:39:48.045601
 1101	Bilder	440	Competition	http://www.ff-breitenau.de/fotos/2/70552/schnappschuesse/km__in_doberlug-kirchhain/	2016-01-20 21:39:48.048508	2016-01-20 21:39:48.048508

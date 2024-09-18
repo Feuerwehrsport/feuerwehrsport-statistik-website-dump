@@ -2313,4 +2313,11 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2317	2163	Löschangriff_Männer_TGL.pdf	la_male	2024-09-10 11:42:30.330142	2024-09-10 11:42:30.330142
 2318	2171	Ergebnisse_Löschangriff_Männer.pdf	la_male	2024-09-12 07:52:58.472805	2024-09-12 07:52:58.472805
 2319	2230	Ergebnisse_Löschangriff_Männer.pdf	la_male	2024-09-12 08:21:00.845963	2024-09-12 08:21:00.845963
+2320	2231	Ergebnisse_Löschangriff_22._Amtsausscheid_Körba.pdf	la_female,la_male	2024-09-17 10:12:08.254326	2024-09-17 10:12:08.254326
+2321	2232	Ergebnisse_Löschangriff_24._Amtsausscheid_Polzen.pdf	la_female,la_male	2024-09-17 10:40:49.148057	2024-09-17 10:40:49.148057
+2322	2233	Ergebnisse_Löschangriff_25._Amtsausscheid_Freileben.pdf	la_female,la_male	2024-09-17 10:52:10.913434	2024-09-17 10:52:10.913434
+2323	2234	Ergebnisse_Löschangriff_26._Amtsausscheid_Malitschkendorf.pdf	la_female,la_male	2024-09-17 11:02:34.347034	2024-09-17 11:02:34.347034
+2324	2235	Ergebnisse_Löschangriff_27._Amtsausscheid_Lebusa.pdf	la_female,la_male	2024-09-17 11:27:46.805162	2024-09-17 11:27:46.805162
+2325	2236	Ergebnisse_Löschangriff_29._Amtsausscheid_Proßmarke.pdf	la_female,la_male	2024-09-17 11:37:07.247324	2024-09-17 11:37:07.247324
+2326	438	Ergebnisse_Löschangriff_21._Amtsausscheid_Frankenhain.pdf	la_female,la_male	2024-09-17 14:26:41.64492	2024-09-17 14:26:41.64492
 \.

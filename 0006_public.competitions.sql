@@ -439,7 +439,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 435		22	26	\N	2014-05-31	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	20	0	0	0	0	0	2	28	17	10	31.05.2014 - Marolterode, Thüringer Feuerwehr-Cup	f	f	f	f
 436		201	10	\N	2014-05-31	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	0	34	17	0	31.05.2014 - Sitzenroda, Pokallauf	f	f	f	f
 437	2. Erzgebirgspokal	202	10	\N	2014-05-31	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	4	12	11	0	31.05.2014 - Großolbersdorf, Pokallauf (2. Erzgebirgspokal)	f	f	f	f
-438		203	15	\N	2014-05-10	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	4	18	22	0	10.05.2014 - Frankenhain, Amtsausscheid	f	f	f	f
+438	21. Amtsausscheid Amt Schlieben	203	15	\N	2014-05-10	\N	2013-12-31 23:00:00	2024-09-17 10:14:51.400748		0	0	0	0	0	0	0	4	18	22	0	10.05.2014 - Frankenhain, Amtsausscheid (21. Amtsausscheid Amt Schlieben)	f	f	f	f
 439		204	6	\N	2010-08-14	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	10	30	20	0	14.08.2010 - Thalheim, Kreisausscheid	f	f	f	f
 440		60	6	4	2014-05-24	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	11	19	30	7	6	9	8	10	19	51	24.05.2014 - Doberlug-Kirchhain, Kreisausscheid	f	f	f	f
 441	Pokallauf zum 18. Ziegelheimer Maibaumsetzen	205	10	\N	2012-05-01	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	0	12	12	0	01.05.2012 - Ziegelheim, Pokallauf (Pokallauf zum 18. Ziegelheimer Maibaumsetzen)	f	f	f	f
@@ -2221,4 +2221,10 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2228	Kreisausscheid SPN	14	6	\N	2023-07-08	\N	2024-09-10 06:53:18.377915	2024-09-10 06:53:18.377915		12	8	10	6	2	3	2	4	14	15	10	08.07.2023 - Cottbus, Kreisausscheid (Kreisausscheid SPN)	f	f	f	f
 2229	23. Flutlichtpokal	143	10	\N	2023-10-02	\N	2024-09-10 10:04:25.626396	2024-09-10 10:04:25.626396		0	0	0	0	0	0	0	10	47	36	0	02.10.2023 - Merzdorf, Pokallauf (23. Flutlichtpokal)	f	f	f	f
 2230	2. Wesenitztalpokal	385	10	\N	2022-10-09	\N	2024-09-12 08:02:40.2565	2024-09-12 08:15:01.024845		0	0	0	0	0	0	0	0	16	16	0	09.10.2022 - Helmsdorf, Pokallauf (2. Wesenitztalpokal)	f	f	f	f
+2231	22. Amtsausscheid Amt Schlieben	646	15	\N	2015-06-06	\N	2024-09-17 10:07:07.455438	2024-09-17 10:07:07.455438		0	0	0	0	0	0	0	8	19	27	0	06.06.2015 - Körba, Amtsausscheid (22. Amtsausscheid Amt Schlieben)	f	f	f	f
+2232	24. Amtsausscheid Amt Schlieben	647	15	\N	2017-05-20	\N	2024-09-17 10:38:36.671622	2024-09-17 10:38:36.671622		0	0	0	0	0	0	0	8	21	29	0	20.05.2017 - Polzen, Amtsausscheid (24. Amtsausscheid Amt Schlieben)	f	f	f	f
+2233	25. Amtsausscheid Amt Schlieben	648	15	\N	2018-06-02	\N	2024-09-17 10:49:56.820488	2024-09-17 10:49:56.820488		0	0	0	0	0	0	0	8	21	29	0	02.06.2018 - Freileben, Amtsausscheid (25. Amtsausscheid Amt Schlieben)	f	f	f	f
+2234	26. Amtsausscheid Amt Schlieben	649	15	\N	2019-05-18	\N	2024-09-17 11:01:02.037859	2024-09-17 11:01:02.037859		0	0	0	0	0	0	0	8	21	29	0	18.05.2019 - Malitschkendorf, Amtsausscheid (26. Amtsausscheid Amt Schlieben)	f	f	f	f
+2235	27. Amtsausscheid Amt Schlieben	650	15	\N	2022-05-21	\N	2024-09-17 11:25:41.206656	2024-09-17 11:25:41.206656		0	0	0	0	0	0	0	7	20	27	0	21.05.2022 - Lebusa, Amtsausscheid (27. Amtsausscheid Amt Schlieben)	f	f	f	f
+2236	29. Amtsausscheid Amt Schlieben	651	15	\N	2024-05-04	\N	2024-09-17 11:35:18.214196	2024-09-17 11:35:18.214196		0	0	0	0	0	0	0	7	20	27	0	04.05.2024 - Proßmarke, Amtsausscheid (29. Amtsausscheid Amt Schlieben)	f	f	f	f
 \.
