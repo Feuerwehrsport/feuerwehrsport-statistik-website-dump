@@ -2227,4 +2227,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2234	26. Amtsausscheid Amt Schlieben	649	15	\N	2019-05-18	\N	2024-09-17 11:01:02.037859	2024-09-17 11:01:02.037859		0	0	0	0	0	0	0	8	21	29	0	18.05.2019 - Malitschkendorf, Amtsausscheid (26. Amtsausscheid Amt Schlieben)	f	f	f	f
 2235	27. Amtsausscheid Amt Schlieben	650	15	\N	2022-05-21	\N	2024-09-17 11:25:41.206656	2024-09-17 11:25:41.206656		0	0	0	0	0	0	0	7	20	27	0	21.05.2022 - Lebusa, Amtsausscheid (27. Amtsausscheid Amt Schlieben)	f	f	f	f
 2236	29. Amtsausscheid Amt Schlieben	651	15	\N	2024-05-04	\N	2024-09-17 11:35:18.214196	2024-09-17 11:35:18.214196		0	0	0	0	0	0	0	7	20	27	0	04.05.2024 - Proßmarke, Amtsausscheid (29. Amtsausscheid Amt Schlieben)	f	f	f	f
+2237	3. Deutschland-Cup	22	1	2	2024-09-21	\N	2024-09-23 19:12:11.576164	2024-09-23 19:27:19.612993		65	60	68	58	10	9	6	12	10	13	68	21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)	t	t	t	t
+2238	4-Bahnenpokal	275	32	\N	2024-09-14	\N	2024-09-23 19:30:08.958001	2024-09-23 19:30:08.958001		0	0	0	0	0	0	0	16	42	15	0	14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)	f	f	f	f
 \.
