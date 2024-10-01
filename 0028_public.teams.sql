@@ -49,7 +49,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 43	FF Admannshagen-Bargeshagen	Bargeshagen	1	54.1246790000	11.9805863541	logo.png	MV	2016-01-20 21:32:05.590871	2023-06-08 19:55:30.557311	2016-01-20 21:32:05.590871	31	42	{"male": {"din": {"pb": [2411, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"], "sb": [2411, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"]}, "tgl": {"pb": [3204, "20.08.2022 - Ostseebad Nienhagen, Pokallauf (Gespensterwaldpokal)"], "sb": [4742, "06.07.2024 - Neustadt-Glewe, MV-Cup (3. MV-Cup 2024)"]}}, "female": {"din": {"pb": [2984, "15.07.2023 - Ostseebad Nienhagen, Pokallauf (32. Feuerwehrtag)"], "sb": [3299, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"]}, "tgl": {"pb": null, "sb": null}}}
 44	FF Rövershagen	Rövershagen	1	54.1749967000	12.2395150000	573px-Wappen_R__vershagen.svg.png	MV	2016-01-20 21:32:05.696153	2016-01-20 21:32:05.696153	2016-01-20 21:32:05.696153	3	40	{"male": {"din": {"pb": [3107, "04.07.2009 - Dummersdorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3702, "04.07.2009 - Dummersdorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 45	FF Merzdorf	Merzdorf	1	51.7782494757	14.3862533569	ifjdifff.jpg	BB	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	28	91	{"male": {"din": {"pb": [2186, "25.08.2012 - Wittenberg, Supercup"], "sb": [2428, "04.05.2024 - Trebendorf (Sa.), Ostsachsenpokal (1. Lauf Ostsachsenpokal)"]}, "tgl": {"pb": [3266, "04.09.2010 - Schwanebeck, Pokallauf (14. Schwanebecker Pokallauf)"], "sb": null}}, "female": {"din": {"pb": [2896, "09.09.2011 - Forst, Pokallauf (9. Rosenpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-46	FF Charlottenthal	Charlottenthal	1	53.6851789948	12.2668844461	charlottenthal.jpg	MV	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	74	93	{"male": {"din": {"pb": [2448, "23.06.2018 - Güstrow, Kreisausscheid (Landkreis Rostock)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2633, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"], "sb": [2648, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"]}, "tgl": {"pb": null, "sb": null}}}
+46	FF Charlottenthal	Charlottenthal	1	53.6851789948	12.2668844461	charlottenthal.jpg	MV	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	77	93	{"male": {"din": {"pb": [2448, "23.06.2018 - Güstrow, Kreisausscheid (Landkreis Rostock)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2633, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"], "sb": [2648, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"]}, "tgl": {"pb": null, "sb": null}}}
 47	FF Genschmar	Genschmar	1	52.6128839000	14.5121628000	genschmar.jpg	BB	2016-01-20 21:32:05.953736	2016-01-20 21:32:05.953736	2016-01-20 21:32:05.953736	35	136	{"male": {"din": {"pb": [2041, "27.05.2023 - Groß Neuendorf, 4BP (1. Lauf Brandenburger 4. Bahnenpokal)"], "sb": [2050, "04.05.2024 - Zerkwitz, BB-Cup"]}, "tgl": {"pb": [2066, "07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)"], "sb": [2103, "29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)"]}}, "female": {"din": {"pb": [2850, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"], "sb": [2850, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"]}, "tgl": {"pb": [3145, "04.05.2024 - Zerkwitz, 4BP"], "sb": [3145, "04.05.2024 - Zerkwitz, 4BP"]}}}
 48	FF Tribsees	Tribsees	1	54.0946272000	12.7584066000	tribsees.png	MV	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	13	33	{"male": {"din": {"pb": [2507, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4669, "18.09.2004 - Schwerin, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 50	FF Schwarz	Schwarz	1	53.2248053000	12.7860693000	\N	MV	2016-01-20 21:32:06.076995	2016-01-20 21:32:06.076995	2016-01-20 21:32:06.076995	7	39	{"male": {"din": {"pb": [3070, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3347,14 +3347,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 11618, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 11623, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 886, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 888, true);
 
 
 --
@@ -3375,7 +3375,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 23175, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 23182, true);
 
 
 --
@@ -3403,7 +3403,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2238, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 40775, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 40794, true);
 
 
 --
@@ -3480,7 +3480,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 11612, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 11617, true);
 
 
 --
@@ -3494,14 +3494,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4076, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4078, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 21835, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 21861, true);
 
 
 --
