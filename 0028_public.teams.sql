@@ -379,7 +379,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 411	FF Libbenichen	Libbenichen	1	52.4775000000	14.4367000000	\N	BB	2016-01-20 21:32:12.682562	2016-01-20 21:32:12.682562	2016-01-20 21:32:12.682562	21	105	{"male": {"din": {"pb": [2209, "10.07.2021 - Günthersdorf, Pokallauf (3. Einbahnpokal)"], "sb": [2235, "29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)"]}, "tgl": {"pb": [2252, "05.08.2023 - Möckern, SA-Cup (5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup)"], "sb": [2315, "29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)"]}}, "female": {"din": {"pb": [2554, "15.06.2023 - Günthersdorf, 4BP (3. Lauf Brandenburger 4-Bahnenpokal)"], "sb": [2557, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"]}, "tgl": {"pb": [2615, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"], "sb": [2615, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"]}}}
 412	FF Fischwasser	Fischwasser	1	51.5966778000	13.6149341000	\N	BB	2016-01-20 21:32:12.686026	2016-01-20 21:32:12.686026	2016-01-20 21:32:12.686026	15	9	{"male": {"din": {"pb": [3866, "23.06.2012 - Tröbitz, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [5910, "13.06.2007 - Rückersdorf, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 415	FF Kittlitz	Kittlitz	1	51.8304735792	13.9241409302	\N	BB	2016-01-20 21:32:12.688944	2016-01-20 21:32:12.688944	2016-01-20 21:32:12.688944	0	78	{"male": {"din": {"pb": [2364, "01.08.2015 - Kittlitz, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2731, "14.09.2013 - Doberlug-Kirchhain, Landesausscheid (Brandenburg)"], "sb": [3214, "04.05.2024 - Zerkwitz, BB-Cup"]}, "tgl": {"pb": [2957, "15.06.2023 - Günthersdorf, 4BP (3. Lauf Brandenburger 4-Bahnenpokal)"], "sb": null}}}
-416	FF Groß Neuendorf	Groß Neuendorf	1	52.7004958000	14.4075050000	\N	BB	2016-01-20 21:32:12.692192	2016-01-20 21:32:12.692192	2016-01-20 21:32:12.692192	1	127	{"male": {"din": {"pb": [2177, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"], "sb": [2177, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"]}, "tgl": {"pb": [2178, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"], "sb": [2178, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+416	FF Groß Neuendorf	Groß Neuendorf	1	52.7004958000	14.4075050000	\N	BB	2016-01-20 21:32:12.692192	2016-01-20 21:32:12.692192	2016-01-20 21:32:12.692192	3	127	{"male": {"din": {"pb": [2177, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"], "sb": [2177, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"]}, "tgl": {"pb": [2178, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"], "sb": [2178, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 417	FF Zerkwitz	Zerkwitz	1	51.8623219000	13.9286839000	11tz_bild.png	BB	2016-01-20 21:32:12.780053	2016-01-20 21:32:12.780053	2016-01-20 21:32:12.780053	5	157	{"male": {"din": {"pb": [2036, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"], "sb": [2036, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"]}, "tgl": {"pb": [2192, "06.10.2018 - Genschmar, Pokallauf (9. Supercup und 22. Oderpokal)"], "sb": [2340, "15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)"]}}, "female": {"din": {"pb": [2601, "06.10.2018 - Genschmar, Pokallauf (9. Supercup und 22. Oderpokal)"], "sb": [2848, "01.06.2024 - Gehren, BB-Cup (2. BB-Cup 2024)"]}, "tgl": {"pb": [2844, "06.10.2018 - Genschmar, Pokallauf (9. Supercup und 22. Oderpokal)"], "sb": [3054, "04.05.2024 - Zerkwitz, 4BP"]}}}
 418	FF Heinersdorf	Heinersdorf	1	52.4533418752	14.2146778107	\N	BB	2016-01-20 21:32:12.836781	2016-01-20 21:32:12.836781	2016-01-20 21:32:12.836781	0	28	{"male": {"din": {"pb": [2248, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"], "sb": [2248, "14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)"]}, "tgl": {"pb": [2305, "07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)"], "sb": [2335, "13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)"]}}, "female": {"din": {"pb": [3615, "01.09.2011 - Cottbus, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 419	FF Kobbeln	Kobbeln	1	52.0954066000	14.5603370000	\N	BB	2016-01-20 21:32:12.841022	2016-01-20 21:32:12.841022	2016-01-20 21:32:12.841022	0	9	{"male": {"din": {"pb": [2410, "10.07.2021 - Günthersdorf, Pokallauf (3. Einbahnpokal)"], "sb": null}, "tgl": {"pb": [3837, "13.06.2015 - Steinsdorf, Amtsausscheid"], "sb": null}}, "female": {"din": {"pb": [3387, "10.06.2017 - Henzendorf, Amtsausscheid (25. Amtsausscheid Amt Neuzelle)"], "sb": null}, "tgl": {"pb": [10176, "13.06.2015 - Steinsdorf, Amtsausscheid"], "sb": null}}}
@@ -3347,14 +3347,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 11675, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 11692, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 888, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 889, true);
 
 
 --
@@ -3375,7 +3375,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 23182, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 23184, true);
 
 
 --
@@ -3403,7 +3403,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2238, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 40846, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 40867, true);
 
 
 --
@@ -3480,7 +3480,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 11669, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 11686, true);
 
 
 --
@@ -3501,7 +3501,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4078, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 21861, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 21867, true);
 
 
 --
