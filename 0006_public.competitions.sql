@@ -2229,4 +2229,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2236	29. Amtsausscheid Amt Schlieben	651	15	\N	2024-05-04	\N	2024-09-17 11:35:18.214196	2024-09-17 11:35:18.214196		0	0	0	0	0	0	0	7	20	27	0	04.05.2024 - Proßmarke, Amtsausscheid (29. Amtsausscheid Amt Schlieben)	f	f	f	f
 2237	3. Deutschland-Cup	22	1	2	2024-09-21	\N	2024-09-23 19:12:11.576164	2024-09-23 19:27:19.612993		65	60	68	58	10	9	6	12	10	13	68	21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)	t	t	t	t
 2238	4-Bahnenpokal	275	32	\N	2024-09-14	\N	2024-09-23 19:30:08.958001	2024-09-23 19:30:08.958001		0	0	0	0	0	0	0	16	42	15	0	14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)	f	f	f	f
+2239	Odessos-Cup	627	10	1	2024-10-02	\N	2024-10-13 19:26:46.01948	2024-10-13 19:31:42.133278		16	14	8	16	0	2	2	2	2	2	16	02.10.2024 - Varna, Pokallauf (Odessos-Cup)	t	t	t	t
 \.
