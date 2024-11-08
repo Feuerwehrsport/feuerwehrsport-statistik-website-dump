@@ -3347,14 +3347,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 12672, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 12701, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 891, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 892, true);
 
 
 --
@@ -3375,7 +3375,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 23202, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 23206, true);
 
 
 --
@@ -3403,7 +3403,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2239, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 41900, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 41937, true);
 
 
 --
@@ -3480,7 +3480,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 12666, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 12695, true);
 
 
 --
@@ -3501,7 +3501,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4078, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 21889, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 21911, true);
 
 
 --
