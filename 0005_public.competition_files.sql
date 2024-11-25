@@ -2349,4 +2349,55 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2353	2238	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-09-23 19:32:33.678587	2024-09-23 19:34:08.8116
 2354	2238	ergebnis-loschangriff-nass-din-manner-kreis.pdf	la_male	2024-09-23 19:32:39.865288	2024-09-23 19:34:04.671718
 2355	2238	ergebnis-loschangriff-nass-tgl-manner-4bp.pdf	la_male	2024-09-23 19:32:46.173553	2024-09-23 19:34:00.052225
+2356	2245	ergebnis-loschangriff-nass-jugend-ak-1-madchen.pdf		2024-11-24 19:57:05.487824	2024-11-24 19:57:05.487824
+2357	2245	ergebnis-loschangriff-nass-jugend-ak-1.pdf		2024-11-24 19:57:10.254402	2024-11-24 19:57:10.254402
+2358	2245	ergebnis-loschangriff-nass-frauen.pdf		2024-11-24 19:57:14.610342	2024-11-24 19:57:14.610342
+2359	2245	ergebnis-loschangriff-nass-manner.pdf		2024-11-24 19:57:18.262035	2024-11-24 19:57:18.262035
+2360	2245	ergebnis-loschangriff-nass-jugend-florian.pdf		2024-11-24 19:57:21.94765	2024-11-24 19:57:21.94765
+2361	2245	ergebnis-loschangriff-nass-jugend-ak-2.pdf		2024-11-24 19:57:25.619407	2024-11-24 19:57:25.619407
+2362	2246	ergebnis-loschangriff-nass-din-manner.pdf		2024-11-24 19:59:28.539422	2024-11-24 19:59:28.539422
+2363	2246	ergebnis-loschangriff-nass-tgl-manner.pdf		2024-11-24 19:59:32.538312	2024-11-24 20:03:29.851551
+2364	2247	ergebnis-loschangriff-nass-frauen.pdf		2024-11-24 20:07:25.023042	2024-11-24 20:07:25.023042
+2365	2247	ergebnis-loschangriff-nass-manner.pdf		2024-11-24 20:07:29.64057	2024-11-24 20:07:29.64057
+2366	2248	ergebnis-din-frauen.pdf	la_female	2024-11-24 20:12:39.456291	2024-11-24 20:12:39.456291
+2367	2248	ergebnis-tgl-frauen.pdf	la_female	2024-11-24 20:12:45.888562	2024-11-24 20:33:29.104501
+2368	2248	ergebnis-din-manner.pdf	la_male	2024-11-24 20:12:52.041345	2024-11-24 20:33:23.253509
+2369	2248	ergebnis-tgl-manner.pdf	la_male	2024-11-24 20:12:57.383567	2024-11-24 20:33:17.125202
+2370	2248	ergebnis-km-frauen.pdf		2024-11-24 20:13:01.226545	2024-11-24 20:32:12.244748
+2371	2248	ergebnis-km-manner.pdf		2024-11-24 20:13:04.857137	2024-11-24 20:31:34.435417
+2372	2249	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-11-24 20:24:24.098992	2024-11-24 20:24:24.098992
+2373	2249	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-11-24 20:24:29.836576	2024-11-24 20:31:10.691275
+2374	2249	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-11-24 20:24:35.523846	2024-11-24 20:30:54.285635
+2375	2249	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-11-24 20:24:42.30445	2024-11-24 20:30:09.859404
+2376	2250	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-11-24 20:28:35.123156	2024-11-24 20:28:35.123156
+2377	2250	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2024-11-24 20:34:05.955568	2024-11-24 20:34:05.955568
+2378	2250	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2024-11-24 20:34:27.583909	2024-11-24 20:34:27.583909
+2379	2250	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-11-24 20:34:34.954178	2024-11-24 20:34:34.954178
+2380	2251	ergebnis-loschangriff-nass-jugend.pdf		2024-11-24 20:41:58.537223	2024-11-24 20:41:58.537223
+2381	2251	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2024-11-24 20:42:07.69312	2024-11-24 20:42:07.69312
+2382	2251	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2024-11-24 20:42:14.012971	2024-11-24 20:42:14.012971
+2383	2251	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2024-11-24 20:42:20.898429	2024-11-24 20:42:20.898429
+2384	2251	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2024-11-24 20:42:27.041899	2024-11-24 20:42:27.041899
+2385	2252	ergebnis-kreismeisterschaft-loschangriff-manner-tgl-pumpe.pdf	la_male	2024-11-24 21:25:13.7378	2024-11-24 21:25:13.7378
+2386	2252	ergebnis-kreismeisterschaft-loschangriff-manner-din-pumpe.pdf	la_male	2024-11-24 21:25:21.161736	2024-11-24 21:25:21.161736
+2387	2252	ergebnis-loschangriff-jugend-tgl-pumpe.pdf		2024-11-24 21:25:26.675055	2024-11-24 21:25:26.675055
+2388	2252	ergebnis-loschangriff-jugend-din-pumpe.pdf		2024-11-24 21:25:31.237848	2024-11-24 21:25:31.237848
+2389	2252	ergebnis-loschangriff-manner-tgl-pumpe.pdf	la_male	2024-11-24 21:25:36.730985	2024-11-24 21:25:36.730985
+2390	2252	ergebnis-loschangriff-manner-din-pumpe.pdf	la_male	2024-11-24 21:25:42.924866	2024-11-24 21:25:42.924866
+2391	2252	ergebnis-loschangriff-frauen-din-pumpe.pdf	la_female	2024-11-24 21:25:49.425094	2024-11-24 21:25:49.425094
+2392	2154	ergebnis-gaudilauf-frauen.pdf		2024-11-24 21:28:18.689861	2024-11-24 21:28:18.689861
+2393	2154	ergebnis-gaudilauf-manner.pdf		2024-11-24 21:28:35.413273	2024-11-24 21:28:35.413273
+2394	2154	ergebnis-herbstcup-jugend-2023.pdf		2024-11-24 21:28:53.166658	2024-11-24 21:28:53.166658
+2395	2154	ergebnis-herbstcup-frauen-2023.pdf		2024-11-24 21:29:05.505685	2024-11-24 21:29:05.505685
+2396	2154	ergebnis-herbstcup-manner-2023.pdf		2024-11-24 21:29:21.437238	2024-11-24 21:29:21.437238
+2397	2253	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-11-24 21:49:49.519933	2024-11-24 21:49:49.519933
+2398	2253	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-11-24 21:49:54.893993	2024-11-24 21:49:54.893993
+2399	2253	ergebnis-schnelligkeitsubung.pdf		2024-11-24 21:50:00.772688	2024-11-24 21:50:00.772688
+2400	2253	ergebnis-loschangriff-nass-u40.pdf		2024-11-24 21:50:05.646224	2024-11-24 21:50:05.646224
+2401	2253	ergebnis-loschangriff-nass-jugend.pdf		2024-11-24 21:50:10.551103	2024-11-24 21:50:10.551103
+2402	2253	ergebnis-feuerwehrmarsch-manner.pdf		2024-11-24 21:50:16.929841	2024-11-24 21:50:16.929841
+2403	2253	ergebnis-feuerwehrmarsch-jugend.pdf		2024-11-24 21:50:20.521643	2024-11-24 21:50:20.521643
+2404	2253	ergebnis-fragenkomplex-floriangruppe.pdf		2024-11-24 21:50:24.808575	2024-11-24 21:50:24.808575
+2405	2253	ergebnis-loschangriff-pokallauf-manner.pdf		2024-11-24 21:50:28.741701	2024-11-24 21:50:28.741701
+2406	2253	ergebnis-loschangriff-pokallauf-jugend.pdf		2024-11-24 21:50:32.949464	2024-11-24 21:50:32.949464
 \.

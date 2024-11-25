@@ -2097,7 +2097,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2101	Amtsausscheid Dahme/Mark	96	15	\N	2022-05-11	\N	2022-09-23 20:04:11.662952	2022-09-23 20:04:11.662952		0	0	0	0	0	0	0	2	12	14	0	11.05.2022 - Dahme/Mark, Amtsausscheid (Amtsausscheid Dahme/Mark)	f	f	f	f
 2102	16. Nachtpokal Gräfendorf	141	10	\N	2022-09-17	\N	2022-09-23 20:09:16.251291	2022-09-23 20:09:16.251291		0	0	0	0	0	0	0	3	29	32	0	17.09.2022 - Gräfendorf, Pokallauf (16. Nachtpokal Gräfendorf)	f	f	f	f
 2103	Amt Rostocker Heide	86	15	\N	2022-09-24	\N	2022-09-24 19:49:54.601317	2022-09-24 19:49:54.601317		0	0	0	0	0	0	0	2	10	6	0	24.09.2022 - Gelbensande, Amtsausscheid (Amt Rostocker Heide)	f	f	f	f
-2104	MV-Cup	125	13	\N	2022-10-07	\N	2022-10-09 09:12:17.99776	2022-10-09 09:12:17.99776		0	0	0	0	0	0	0	8	42	17	0	07.10.2022 - Schwerin, MV-Cup (MV-Cup)	f	f	f	f
+2104	MV-Cup	125	13	\N	2022-10-08	\N	2022-10-09 09:12:17.99776	2024-11-24 20:40:17.782517		0	0	0	0	0	0	0	8	42	17	0	08.10.2022 - Schwerin, MV-Cup (MV-Cup)	f	f	f	f
 2105	Herbstcup	619	10	\N	2022-10-01	\N	2022-10-12 18:05:09.398373	2022-10-12 18:05:09.398373		0	0	0	0	0	0	0	2	28	15	0	01.10.2022 - Hohewisch, Pokallauf (Herbstcup)	f	f	f	f
 2106	Landesmeisterschaft Sachsen 2022	620	2	\N	2022-07-09	\N	2022-10-12 18:15:43.279146	2023-02-21 07:21:15.644516		24	38	22	48	4	2	6	6	22	15	45	09.07.2022 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen 2022)	t	t	t	t
 2107	Sächsischer Steigercup	2	20	\N	2022-09-24	\N	2022-10-12 20:42:15.037761	2022-10-12 20:42:15.037761		16	28	0	0	0	0	0	0	0	7	22	24.09.2022 - Narsdorf, Sächsischer Steigercup (Sächsischer Steigercup)	f	f	f	f
@@ -2230,4 +2230,18 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2237	3. Deutschland-Cup	22	1	2	2024-09-21	\N	2024-09-23 19:12:11.576164	2024-09-23 19:27:19.612993		65	60	68	58	10	9	6	12	10	13	68	21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)	t	t	t	t
 2238	4-Bahnenpokal	275	32	\N	2024-09-14	\N	2024-09-23 19:30:08.958001	2024-09-23 19:30:08.958001		0	0	0	0	0	0	0	16	42	15	0	14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)	f	f	f	f
 2239	Odessos-Cup	627	10	1	2024-10-02	\N	2024-10-13 19:26:46.01948	2024-10-13 19:31:42.133278		16	14	8	16	0	2	2	2	2	2	16	02.10.2024 - Varna, Pokallauf (Odessos-Cup)	t	t	t	t
+2240		11	1	2	2008-05-24	\N	2024-11-24 15:39:44.148135	2024-11-24 15:52:12.359743		0	127	0	127	0	0	26	0	13	17	105	24.05.2008 - Ballhausen, D-Cup	f	f	f	f
+2241		1	1	2	2008-06-16	\N	2024-11-24 15:55:01.395484	2024-11-24 16:10:30.650697		0	118	83	124	7	0	0	7	14	22	152	16.06.2008 - Charlottenthal, D-Cup	f	f	f	f
+2242		8	1	2	2007-07-07	\N	2024-11-24 16:11:07.194651	2024-11-24 16:25:14.498761		0	107	0	0	0	0	0	0	18	21	77	07.07.2007 - Berlin, D-Cup	f	f	f	f
+2243		19	10	\N	2007-06-09	\N	2024-11-24 16:25:37.039319	2024-11-24 16:25:37.039319		0	111	0	121	0	0	24	0	14	19	112	09.06.2007 - Burkersdorf, Pokallauf	f	f	f	f
+2244		3	1	2	2007-05-19	\N	2024-11-24 16:38:22.957599	2024-11-24 16:49:14.943965		0	97	0	104	7	7	0	7	11	18	81	19.05.2007 - Tribsees, D-Cup	f	f	f	f
+2245	15 Jahre Förderverein Feuerwehr Vettin	604	10	\N	2024-10-05	\N	2024-11-24 19:55:41.607002	2024-11-24 19:55:41.607002		0	0	0	0	0	0	0	4	20	12	0	05.10.2024 - Vettin, Pokallauf (15 Jahre Förderverein Feuerwehr Vettin)	f	f	f	f
+2246	Nachtlauf der FF Nitzahn | DIN | TGL	652	10	\N	2024-10-02	\N	2024-11-24 19:58:58.294773	2024-11-24 19:58:58.294773		0	0	0	0	0	0	0	2	20	16	0	02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)	f	f	f	f
+2247	22. Flutlichtlöschangriff	314	10	\N	2024-10-11	\N	2024-11-24 20:04:31.881708	2024-11-24 20:04:31.881708		0	0	0	0	0	0	0	6	74	40	0	11.10.2024 - Wiepke, Pokallauf (22. Flutlichtlöschangriff)	f	f	f	f
+2248	17. Otto-Lilienthal-Cup	318	10	\N	2024-09-14	\N	2024-11-24 20:08:57.975328	2024-11-24 20:08:57.975328		0	0	0	0	0	0	0	6	40	15	0	14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)	f	f	f	f
+2249	11. Tollensetalpokal	298	10	\N	2024-09-14	\N	2024-11-24 20:24:16.200312	2024-11-24 20:24:16.200312		0	0	0	0	0	0	0	4	40	12	0	14.09.2024 - Altentreptow, Pokallauf (11. Tollensetalpokal)	f	f	f	f
+2250	Kreismeisterschaft Potsdam-Mittelmark	66	6	\N	2024-09-21	\N	2024-11-24 20:28:18.611784	2024-11-24 20:28:18.611784		0	0	10	14	0	0	0	10	28	25	12	21.09.2024 - Neschholz, Kreisausscheid (Kreismeisterschaft Potsdam-Mittelmark)	f	f	f	f
+2251	4. MV-Cup 2024	386	13	\N	2024-09-28	\N	2024-11-24 20:41:49.590988	2024-11-24 20:41:49.590988		0	0	0	0	0	0	0	10	54	23	0	28.09.2024 - Techentin, MV-Cup (4. MV-Cup 2024)	f	f	f	f
+2252	3. Flutlichtpokal 2023	281	10	\N	2023-09-30	\N	2024-11-24 21:21:28.252026	2024-11-24 21:21:28.252026		0	0	0	0	0	0	0	2	34	16	0	30.09.2023 - Nachterstedt, Pokallauf (3. Flutlichtpokal 2023)	f	f	f	f
+2253	28. Techentiner Feuerwehrtreffen	386	10	\N	2022-06-11	\N	2024-11-24 21:49:39.0768	2024-11-24 21:49:39.0768		0	0	0	0	0	0	0	0	22	11	0	11.06.2022 - Techentin, Pokallauf (28. Techentiner Feuerwehrtreffen)	f	f	f	f
 \.
