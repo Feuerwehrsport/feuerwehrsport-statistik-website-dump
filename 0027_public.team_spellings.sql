@@ -285,4 +285,9 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 278	2737	FF Klepzig Lehnsdorf	Klepzig Lehnsdorf	2023-05-11 20:11:58.974513	2023-05-11 20:11:58.974513
 279	43	FF Admannshagen-Bargeshagen	Admannshagen-Bargeshagen	2023-07-01 19:05:41.402484	2023-07-01 19:05:41.402484
 280	953	FF Trebendorf SN	Trebendorf SN	2024-05-09 20:25:09.520063	2024-05-09 20:25:09.520063
+281	1214	Spritznixen	Spritznixen	2024-11-25 19:46:57.084835	2024-11-25 19:46:57.084835
+282	417	FireLadies Zerkwitz	Zerkwitz	2024-11-25 21:36:32.826398	2024-11-25 21:36:32.826398
+283	2409	FF Bräunsdorf-Limbach-Oberfrona	Bräunsdorf-Limbach-Oberfrona	2024-11-25 21:39:00.686383	2024-11-25 21:39:00.686383
+284	2458	FF Bräunsdorf-Freiberg	Bräunsdorf-Freiberg	2024-11-25 21:39:04.74069	2024-11-25 21:39:04.74069
+285	2409	FF Bräunsdorf-Limbach	Bräunsdorf-Limbach	2024-11-25 21:39:08.185272	2024-11-25 21:39:08.185272
 \.

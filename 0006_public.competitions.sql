@@ -2200,7 +2200,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2206	4-Bahnenpokal und BB-Cup	222	32	\N	2024-06-29	\N	2024-07-08 10:27:35.217627	2024-07-08 10:27:35.217627		0	0	0	0	0	0	0	20	66	23	0	29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)	f	f	f	f
 2207	Kreisausscheid Prignitz	642	6	\N	2024-07-06	\N	2024-07-08 10:37:47.678386	2024-07-10 06:45:26.59235		0	0	0	0	0	0	0	2	22	12	0	06.07.2024 - Breese, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f
 2208	3. MV-Cup 2024	592	13	\N	2024-07-06	\N	2024-07-08 10:39:21.153597	2024-07-08 10:39:21.153597		0	0	0	0	0	0	0	14	58	26	0	06.07.2024 - Neustadt-Glewe, MV-Cup (3. MV-Cup 2024)	f	f	f	f
-2209	TGL-Cup	167	33	\N	2024-07-06	\N	2024-07-14 19:26:55.368126	2024-07-14 19:26:55.368126		0	0	0	0	0	0	0	6	77	22	0	06.07.2024 - Zella, TGL-Cup (TGL-Cup)	f	f	f	f
+2209	5. TGL-Cup 2024	167	33	\N	2024-07-06	\N	2024-07-14 19:26:55.368126	2024-11-25 19:50:12.986255		0	0	0	0	0	0	0	6	77	22	0	06.07.2024 - Zella, TGL-Cup (5. TGL-Cup 2024)	f	f	f	f
 2210	4-Bahnenpokal und BB-Cup	636	16	\N	2024-07-13	\N	2024-07-28 07:50:28.632238	2024-07-28 07:50:28.632238		0	0	0	0	0	0	0	21	68	24	0	13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)	f	f	f	f
 2212	Kreisausscheid NWM	51	6	\N	2024-06-15	\N	2024-07-28 08:23:13.850433	2024-07-28 08:23:13.850433		0	0	0	0	0	0	0	4	16	10	0	15.06.2024 - Hohen Viecheln, Kreisausscheid (Kreisausscheid NWM)	f	f	f	f
 2213	5.SAP-Lauf	613	18	\N	2024-07-20	\N	2024-07-28 08:43:19.714641	2024-07-28 08:43:19.714641		0	0	0	0	0	0	0	7	31	15	0	20.07.2024 - Böddensell, SA-Cup (5.SAP-Lauf)	f	f	f	f
@@ -2244,4 +2244,19 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2251	4. MV-Cup 2024	386	13	\N	2024-09-28	\N	2024-11-24 20:41:49.590988	2024-11-24 20:41:49.590988		0	0	0	0	0	0	0	10	54	23	0	28.09.2024 - Techentin, MV-Cup (4. MV-Cup 2024)	f	f	f	f
 2252	3. Flutlichtpokal 2023	281	10	\N	2023-09-30	\N	2024-11-24 21:21:28.252026	2024-11-24 21:21:28.252026		0	0	0	0	0	0	0	2	34	16	0	30.09.2023 - Nachterstedt, Pokallauf (3. Flutlichtpokal 2023)	f	f	f	f
 2253	28. Techentiner Feuerwehrtreffen	386	10	\N	2022-06-11	\N	2024-11-24 21:49:39.0768	2024-11-24 21:49:39.0768		0	0	0	0	0	0	0	0	22	11	0	11.06.2022 - Techentin, Pokallauf (28. Techentiner Feuerwehrtreffen)	f	f	f	f
+2254	Flutlichtpokal	607	10	\N	2022-09-17	\N	2024-11-25 19:34:53.300694	2024-11-25 19:34:53.300694		0	0	0	0	0	0	0	0	0	0	0	17.09.2022 - Bargeshagen , Pokallauf (Flutlichtpokal)	f	f	f	f
+2255	7. TGL-Cup 2024	498	33	\N	2024-09-14	\N	2024-11-25 19:39:00.211895	2024-11-25 19:50:27.143575		0	0	0	0	0	0	0	8	58	20	0	14.09.2024 - Mupperg, TGL-Cup (7. TGL-Cup 2024)	f	f	f	f
+2256	4. Flutlichtpokal	281	10	\N	2024-10-12	\N	2024-11-25 19:52:26.230714	2024-11-25 19:52:26.230714		0	0	0	0	0	0	0	2	47	19	0	12.10.2024 - Nachterstedt, Pokallauf (4. Flutlichtpokal)	f	f	f	f
+2257	Kreisfeuerwehrverbandstag LUP	592	6	\N	2024-09-14	\N	2024-11-25 19:56:58.71407	2024-11-25 19:56:58.71407		0	0	0	0	0	0	0	10	54	32	0	14.09.2024 - Neustadt-Glewe, Kreisausscheid (Kreisfeuerwehrverbandstag LUP)	f	f	f	f
+2258	3. Stendaler Hansepokal	325	10	\N	2024-08-17	\N	2024-11-25 19:59:37.926686	2024-11-25 19:59:37.926686		0	0	0	0	0	0	0	6	39	20	0	17.08.2024 - Stendal, Pokallauf (3. Stendaler Hansepokal)	f	f	f	f
+2259	30 Jahre Jugendfeuerwehr Wiepke	314	10	\N	2024-10-12	\N	2024-11-25 20:02:22.35515	2024-11-25 20:02:22.35515		0	0	0	0	0	0	0	0	0	0	0	12.10.2024 - Wiepke, Pokallauf (30 Jahre Jugendfeuerwehr Wiepke)	f	f	f	f
+2260	Pokallauf Dannefeld	632	10	\N	2024-09-21	\N	2024-11-25 20:03:39.664735	2024-11-25 20:03:39.664735		0	0	4	16	0	0	0	6	19	19	10	21.09.2024 - Dannefeld, Pokallauf (Pokallauf Dannefeld)	f	f	f	f
+2261	Flutlichtpokal (Kinderkrebshilfe)	51	10	\N	2024-10-19	\N	2024-11-25 20:10:08.197734	2024-11-25 20:10:08.197734		0	0	0	0	0	0	0	18	99	59	0	19.10.2024 - Hohen Viecheln, Pokallauf (Flutlichtpokal (Kinderkrebshilfe))	f	f	f	f
+2262	30. Techentiner Feuerwehrtreffen	386	10	\N	2024-06-01	\N	2024-11-25 20:13:12.579916	2024-11-25 20:13:12.579916		0	0	0	0	0	0	0	6	26	16	0	01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)	f	f	f	f
+2263	7. Herbstcup	619	10	\N	2024-10-12	\N	2024-11-25 20:16:35.868628	2024-11-25 20:16:35.868628		0	0	0	0	0	0	0	8	48	28	0	12.10.2024 - Hohewisch, Pokallauf (7. Herbstcup)	f	f	f	f
+2264	29. Techentiner Feuerwehrtreffen	386	10	\N	2023-06-10	\N	2024-11-25 20:27:30.19072	2024-11-25 20:27:30.19072		0	0	0	0	0	0	0	0	18	9	0	10.06.2023 - Techentin, Pokallauf (29. Techentiner Feuerwehrtreffen)	f	f	f	f
+2266	Inselpokal Poel	269	10	\N	2024-09-07	\N	2024-11-25 20:35:38.071087	2024-11-25 20:35:38.071087		0	0	0	0	0	0	0	42	241	142	0	07.09.2024 - Poel, Pokallauf (Inselpokal Poel)	f	f	f	f
+2267	9. Jugend-Flutlichtpokal	607	10	\N	2024-09-28	\N	2024-11-25 21:06:03.105458	2024-11-25 21:06:03.105458		0	0	0	0	0	0	0	0	0	0	0	28.09.2024 - Bargeshagen , Pokallauf (9. Jugend-Flutlichtpokal)	f	f	f	f
+2269	Supercup und Oderpokal / 4-Bahnenpokal	142	32	\N	2024-10-05	\N	2024-11-25 21:09:18.206771	2024-11-25 21:09:18.206771		0	0	0	0	0	0	0	20	59	20	0	05.10.2024 - Genschmar, 4BP (Supercup und Oderpokal / 4-Bahnenpokal)	f	f	f	f
+2270	26.Pokallauf / BB-Cup	67	16	\N	2024-08-31	\N	2024-11-25 21:59:24.054676	2024-11-25 21:59:24.054676		0	0	0	0	0	0	0	12	22	17	0	31.08.2024 - Schwanebeck, BB-Cup (26.Pokallauf / BB-Cup)	f	f	f	f
 \.
