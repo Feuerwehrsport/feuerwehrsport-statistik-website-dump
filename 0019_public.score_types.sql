@@ -11,10 +11,3 @@ COPY public.score_types (id, people, run, score, created_at, updated_at) FROM st
 4	10	8	3	2016-01-20 21:32:01.501857	2016-01-20 21:32:01.501857
 5	10	10	4	2016-05-23 20:39:35.313966	2016-05-23 20:39:35.313966
 \.
-
-
---
--- Name: score_types_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
---
-
-SELECT pg_catalog.setval('public.score_types_id_seq', 5, true);

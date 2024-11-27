@@ -134,48 +134,6 @@ ALTER SEQUENCE public.api_users_id_seq OWNED BY public.api_users.id;
 
 
 --
--- Name: appointments; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.appointments (
-    id integer NOT NULL,
-    dated_at date NOT NULL,
-    name character varying(200) NOT NULL,
-    description text NOT NULL,
-    event_id integer,
-    disciplines character varying(200) DEFAULT ''::character varying NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL,
-    creator_id integer,
-    creator_type character varying,
-    place character varying(200)
-);
-
-
-ALTER TABLE public.appointments OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: appointments_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.appointments_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.appointments_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: appointments_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.appointments_id_seq OWNED BY public.appointments.id;
-
-
---
 -- Name: ar_internal_metadata; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -417,7 +375,8 @@ CREATE TABLE public.scores (
     team_id integer,
     team_number integer DEFAULT 0 NOT NULL,
     created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
+    updated_at timestamp without time zone NOT NULL,
+    single_discipline_id bigint NOT NULL
 );
 
 
@@ -453,7 +412,7 @@ ALTER TABLE public.competition_team_numbers OWNER TO "feuerwehrsport-statistik";
 
 CREATE TABLE public.competitions (
     id integer NOT NULL,
-    name character varying(200) DEFAULT ''::character varying NOT NULL,
+    name character varying(200),
     place_id integer NOT NULL,
     event_id integer NOT NULL,
     score_type_id integer,
@@ -461,7 +420,7 @@ CREATE TABLE public.competitions (
     published_at timestamp without time zone,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
-    hint_content text DEFAULT ''::text NOT NULL,
+    hint_content text,
     hl_female integer DEFAULT 0 NOT NULL,
     hl_male integer DEFAULT 0 NOT NULL,
     hb_female integer DEFAULT 0 NOT NULL,
@@ -1255,7 +1214,7 @@ CREATE TABLE public.series_assessments (
     id integer NOT NULL,
     round_id integer NOT NULL,
     discipline character varying(3) NOT NULL,
-    name character varying(200) DEFAULT ''::character varying NOT NULL,
+    name character varying(200),
     type character varying(200) NOT NULL,
     gender integer NOT NULL,
     created_at timestamp without time zone NOT NULL,
@@ -1441,6 +1400,46 @@ ALTER SEQUENCE public.series_rounds_id_seq OWNED BY public.series_rounds.id;
 
 
 --
+-- Name: single_disciplines; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.single_disciplines (
+    id bigint NOT NULL,
+    key character varying(2) NOT NULL,
+    short_name character varying(100) NOT NULL,
+    name character varying(200) NOT NULL,
+    description text NOT NULL,
+    default_for_male boolean DEFAULT false NOT NULL,
+    default_for_female boolean DEFAULT false NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.single_disciplines OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: single_disciplines_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.single_disciplines_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.single_disciplines_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: single_disciplines_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.single_disciplines_id_seq OWNED BY public.single_disciplines.id;
+
+
+--
 -- Name: tags; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1562,7 +1561,7 @@ CREATE TABLE public.teams (
     latitude numeric(15,10),
     longitude numeric(15,10),
     image character varying,
-    state character varying(200) DEFAULT ''::character varying NOT NULL,
+    state character varying(200),
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
     checked_at timestamp without time zone,
@@ -1620,13 +1619,6 @@ ALTER TABLE ONLY public.admin_users ALTER COLUMN id SET DEFAULT nextval('public.
 --
 
 ALTER TABLE ONLY public.api_users ALTER COLUMN id SET DEFAULT nextval('public.api_users_id_seq'::regclass);
-
-
---
--- Name: appointments id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.appointments ALTER COLUMN id SET DEFAULT nextval('public.appointments_id_seq'::regclass);
 
 
 --
@@ -1830,6 +1822,13 @@ ALTER TABLE ONLY public.series_participations ALTER COLUMN id SET DEFAULT nextva
 --
 
 ALTER TABLE ONLY public.series_rounds ALTER COLUMN id SET DEFAULT nextval('public.series_rounds_id_seq'::regclass);
+
+
+--
+-- Name: single_disciplines id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.single_disciplines ALTER COLUMN id SET DEFAULT nextval('public.single_disciplines_id_seq'::regclass);
 
 
 --

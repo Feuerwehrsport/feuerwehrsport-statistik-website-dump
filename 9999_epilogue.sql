@@ -1,14 +1,6 @@
 
 
 --
--- Name: active_record_views active_record_views_class_name_key; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.active_record_views
-    ADD CONSTRAINT active_record_views_class_name_key UNIQUE (class_name);
-
-
---
 -- Name: active_record_views active_record_views_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -30,14 +22,6 @@ ALTER TABLE ONLY public.admin_users
 
 ALTER TABLE ONLY public.api_users
     ADD CONSTRAINT api_users_pkey PRIMARY KEY (id);
-
-
---
--- Name: appointments appointments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.appointments
-    ADD CONSTRAINT appointments_pkey PRIMARY KEY (id);
 
 
 --
@@ -281,6 +265,14 @@ ALTER TABLE ONLY public.series_rounds
 
 
 --
+-- Name: single_disciplines single_disciplines_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.single_disciplines
+    ADD CONSTRAINT single_disciplines_pkey PRIMARY KEY (id);
+
+
+--
 -- Name: tags tags_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -305,6 +297,13 @@ ALTER TABLE ONLY public.teams
 
 
 --
+-- Name: active_record_views_class_name_index; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE UNIQUE INDEX active_record_views_class_name_index ON public.active_record_views USING btree (class_name);
+
+
+--
 -- Name: delayed_jobs_priority; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -316,13 +315,6 @@ CREATE INDEX delayed_jobs_priority ON public.delayed_jobs USING btree (priority,
 --
 
 CREATE INDEX index_admin_users_on_login_id ON public.admin_users USING btree (login_id);
-
-
---
--- Name: index_appointments_on_event_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE INDEX index_appointments_on_event_id ON public.appointments USING btree (event_id);
 
 
 --
@@ -550,6 +542,13 @@ CREATE INDEX index_scores_on_person_id ON public.scores USING btree (person_id);
 
 
 --
+-- Name: index_scores_on_single_discipline_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_scores_on_single_discipline_id ON public.scores USING btree (single_discipline_id);
+
+
+--
 -- Name: index_scores_on_team_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -681,14 +680,6 @@ ALTER TABLE ONLY public.competitions
 
 
 --
--- Name: appointments fk_rails_3f47875492; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.appointments
-    ADD CONSTRAINT fk_rails_3f47875492 FOREIGN KEY (event_id) REFERENCES public.events(id);
-
-
---
 -- Name: change_requests fk_rails_4716775f9d; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -710,6 +701,14 @@ ALTER TABLE ONLY public.series_cups
 
 ALTER TABLE ONLY public.person_participations
     ADD CONSTRAINT fk_rails_6d79ed02ed FOREIGN KEY (group_score_id) REFERENCES public.group_scores(id);
+
+
+--
+-- Name: scores fk_rails_77d69e8944; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.scores
+    ADD CONSTRAINT fk_rails_77d69e8944 FOREIGN KEY (single_discipline_id) REFERENCES public.single_disciplines(id);
 
 
 --

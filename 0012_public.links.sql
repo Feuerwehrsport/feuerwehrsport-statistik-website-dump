@@ -117,7 +117,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 117	www.ff-breitenau.de	21	Team	http://www.ff-breitenau.de	2016-01-20 21:39:43.726783	2016-01-20 21:39:43.726783
 118	http://www.freiwilligefeuerwehr-losenrade-online.de/	24	Team	http://www.freiwilligefeuerwehr-losenrade-online.de/	2016-01-20 21:39:43.729733	2016-01-20 21:39:43.729733
 119	http://www.ffwostseebadnienhagen.de/	36	Team	http://www.ffwostseebadnienhagen.de/	2016-01-20 21:39:43.732584	2016-01-20 21:39:43.732584
-120	http://www.feuerwehr-merzdorf.de.tl/	45	Team	http://www.feuerwehr-merzdorf.de.tl/	2016-01-20 21:39:43.735488	2016-01-20 21:39:43.735488
 121	http://www.feuerwehr-charlottenthal.de	46	Team	http://www.feuerwehr-charlottenthal.de	2016-01-20 21:39:43.738418	2016-01-20 21:39:43.738418
 122	http://ffw-genschmar.de.tl/Home.htm	47	Team	http://ffw-genschmar.de.tl/Home.htm	2016-01-20 21:39:43.741182	2016-01-20 21:39:43.741182
 123	http://www.ffw-lindholz.de	52	Team	http://www.ffw-lindholz.de	2016-01-20 21:39:43.743882	2016-01-20 21:39:43.743882
@@ -160,9 +159,7 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 193	FF Magwitz	203	Team	http://www.ff-oelsnitz.de/page_06_03_03.htm	2016-01-20 21:39:43.854424	2016-01-20 21:39:43.854424
 194	http://www.fw-trebendorf.de/main_cs3.swf	953	Team	http://www.fw-trebendorf.de/main_cs3.swf	2016-01-20 21:39:43.857341	2016-01-20 21:39:43.857341
 195	http://www.feuerwehr-baerenstein.de/	211	Team	http://www.feuerwehr-baerenstein.de/	2016-01-20 21:39:43.860512	2016-01-20 21:39:43.860512
-196	http://www.ff-ottendorf.de/	207	Team	http://www.ff-ottendorf.de/	2016-01-20 21:39:43.863718	2016-01-20 21:39:43.863718
 197	http://www.feuerwehr-abtshagen.de.tl/	170	Team	http://www.feuerwehr-abtshagen.de.tl/	2016-01-20 21:39:43.866479	2016-01-20 21:39:43.866479
-198	http://www.ffw-bargeshagen.home-index.de/	43	Team	http://www.ffw-bargeshagen.home-index.de/	2016-01-20 21:39:43.875682	2016-01-20 21:39:43.875682
 199	http://www.ff-altchemnitz.de/	241	Team	http://www.ff-altchemnitz.de/	2016-01-20 21:39:43.878967	2016-01-20 21:39:43.878967
 200	http://www.feuerwehr-arnstadt.de/	257	Team	http://www.feuerwehr-arnstadt.de/	2016-01-20 21:39:43.882608	2016-01-20 21:39:43.882608
 201	http://ffw-bastorf.leubatec.de/	41	Team	http://ffw-bastorf.leubatec.de/	2016-01-20 21:39:43.885709	2016-01-20 21:39:43.885709
@@ -1047,7 +1044,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 1095	Bericht bei Thüringer Allgemeine	61	Competition	http://www.thueringer-allgemeine.de/web/zgt/leben/blaulicht/detail/-/specific/4-Siege-beim-Deutschland-Cup-der-Feuerwehrleute-in-Marolterode-1186743639	2016-01-20 21:39:48.027608	2016-01-20 21:39:48.027608
 1096	http://www.feuerwehr-scharfenstein.de	1628	Team	http://www.feuerwehr-scharfenstein.de	2016-01-20 21:39:48.030642	2016-01-20 21:39:48.030642
 1097	http://www.feuerwehr-leutersbach.de/	1611	Team	http://www.feuerwehr-leutersbach.de/	2016-01-20 21:39:48.03699	2016-01-20 21:39:48.03699
-1098	Amtblatt mit Ergebnissen und Bericht	438	Competition	http://emazynxftp.de/~schlieben/Docs/Amtsblatt/2982_Schlieben_052014na.pdf	2016-01-20 21:39:48.039789	2016-01-20 21:39:48.039789
 1099	Ergebnisse	439	Competition	http://www.bitterfeld-wolfen-112.de/aktuelles/wettkampfergebnisse_kreispokallauf	2016-01-20 21:39:48.042605	2016-01-20 21:39:48.042605
 1100	Bericht	440	Competition	http://www.ff-breitenau.de/seite/34820/news.html	2016-01-20 21:39:48.045601	2016-01-20 21:39:48.045601
 1101	Bilder	440	Competition	http://www.ff-breitenau.de/fotos/2/70552/schnappschuesse/km__in_doberlug-kirchhain/	2016-01-20 21:39:48.048508	2016-01-20 21:39:48.048508
@@ -1846,7 +1842,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 1898	Ergebnisse	1105	Competition	http://loeschangriff.info/gera-liebschwitz.html	2016-09-13 07:03:57.953157	2016-09-13 07:03:57.953157
 1899	Ergebnisse	1106	Competition	http://www.kfv-osl.de/fileadmin/user_upload/download/2016_Ergebnisliste_KFT.pdf	2016-09-13 07:26:28.022218	2016-09-13 07:26:28.022218
 1900	Ergebnisse	1107	Competition	http://www.kreisfeuerwehrverband-potsdam-mittelmark.de/KFV/Inhalt/Download_11/ergebnisse_kft/Platzierung_FF_KFT_2016.pdf	2016-09-13 07:50:35.172972	2016-09-13 07:50:35.172972
-1901	FF Hohewisch	515	Team	http://www.ff-Hohewisch.simplesite.com	2016-09-14 16:36:35.674544	2016-09-14 16:36:35.674544
 1902	Feuerwehr Grimmen	53	Team	http://www.feuerwehr-grimmen.de/	2016-09-15 07:28:16.298487	2016-09-15 07:28:16.298487
 1903	Ergebnisse	1109	Competition	http://loeschangriff.de/E_OL_GESAMTWERTUNG_016.html	2016-10-02 13:02:55.294183	2016-10-02 13:02:55.294183
 1904	Ergebnisse	1111	Competition	https://www.klein-gaglow.de/feuerwehrsport/319-ergebnisse-der-gemeindemeisterschaft-2016.html	2016-10-02 16:51:04.892214	2016-10-02 16:51:04.892214
@@ -2647,4 +2642,68 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2704	www.nachtpokallauf.de	177	Appointment	http://www.nachtpokallauf.de	2019-10-03 13:35:19.866025	2019-10-03 13:35:19.866025
 2705	Stendaler Hansepokal	1981	Competition	https://feuerwehr-stendal.de/sdlpokal	2019-12-19 12:23:44.518564	2019-12-19 12:23:44.518564
 2706	Seddin-Dannenwalde	3741	Team	https://www.facebook.com/FreiwilligeFeuerwehrSeddinPrignitz/?ref=aymt_homepage_panel&eid=ARA6O5zGWvQ_GDh8VnuCbjNjbZuEBz6NOMWASRpdjd4HvZ3b5AoY8GmoG7zJ3DEAm3PeHNPACH0yCy-u	2020-01-02 16:43:39.931415	2020-01-02 16:43:39.931415
+2707	Anmeldung	182	Appointment	https://feuerwehr-stendal.de/sdlpokal	2020-01-25 11:37:18.668767	2020-01-25 11:37:18.668767
+2708	Wettkampfteam FFW Niederalbertsdorf	1560	Team	https://www.facebook.com/Wettkampfteam-FFW-Niederalbertsdorf-900583663304648	2020-09-03 10:45:36.616143	2020-09-03 10:45:36.616143
+2710	FFW Niederjesar auf Facebook	3256	Team	https://www.facebook.com/pages/category/Fire-Station/Freiwillige-Feuerwehr-Niederjesar-105983174709531/	2021-04-15 14:13:58.115227	2021-04-15 14:13:58.115227
+2711	Anmeldung 	186	Appointment	https://feuerwehrsport-statistik.de/wa/heedebockpokal-14-08-2021	2021-07-14 18:49:54.75089	2021-07-14 18:49:54.75089
+2712	WettkampfgruppeNeustadtGlewe 	2204	Team	https://www.facebook.com/WettkampfgruppeNeustadtGlewe/	2021-07-20 11:07:52.229273	2021-07-20 11:07:52.229273
+2713	Online-Anmeldung	187	Appointment	https://feuerwehrsport-statistik.de/wa/ostsee-pokal-25-09-2021	2021-07-21 21:14:27.173628	2021-07-21 21:14:27.173628
+2714	Online-Anmeldung	188	Appointment	https://feuerwehrsport-statistik.de/wa/einweihung-04-09-2021	2021-07-21 21:15:58.135842	2021-07-21 21:15:58.135842
+2715	Webseite	189	Appointment	https://www.inselpokal-poel.de/	2021-07-21 21:20:27.953568	2021-07-21 21:20:27.953568
+2716	Anmeldung	190	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/3008487855.php	2021-07-21 21:22:33.902147	2021-07-21 21:22:33.902147
+2717	www.nachtpokallauf.de	192	Appointment	http://www.nachtpokallauf.de	2021-09-23 08:26:54.913874	2021-09-23 08:26:54.913874
+2718	MV-Cup	195	Appointment	https://mv-cup.de	2022-02-16 16:10:30.760953	2022-02-16 16:10:30.760953
+2719	Webseite mit Infos	199	Appointment	https://www.inselpokal-poel.de/	2022-02-16 16:13:46.264759	2022-02-16 16:13:46.264759
+2720	MV-Cup	198	Appointment	https://mv-cup.de	2022-02-16 16:14:05.513377	2022-02-16 16:14:05.513377
+2721	MV-Cup	197	Appointment	https://mv-cup.de	2022-02-16 16:14:17.489512	2022-02-16 16:14:17.489512
+2722	MV-Cup	196	Appointment	https://mv-cup.de	2022-02-16 16:14:30.702022	2022-02-16 16:14:30.702022
+2723	Offizielle Webseite	194	Appointment	https://dfm.muehlhausen.de/	2022-02-16 16:15:04.010847	2022-02-16 16:15:04.010847
+2724	Online-Anmeldung	193	Appointment	https://feuerwehrsport-statistik.de/wa/deutschland-cup-07-05-2022	2022-03-03 16:41:25.863101	2022-03-03 16:41:25.863101
+2725	Offizielle Webseite	128	Appointment	https://ctif2022.com/	2022-03-03 16:55:59.971655	2022-03-03 16:55:59.971655
+2726	Feuerwehr Starbach	1664	Team	http://www.feuerwehr-starbach.de/	2022-06-07 12:21:57.577541	2022-06-07 12:21:57.577541
+2727	Online-Anmeldung	205	Appointment	https://feuerwehrsport-statistik.de/registrations/competitions/71	2022-06-20 12:40:14.248965	2022-06-20 12:40:14.248965
+2728	Link zur Anmeldung	210	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/5745554346.php	2022-06-24 08:26:26.793724	2022-06-24 08:26:26.793724
+2729	Anmeldung	212	Appointment	https://verwaltung.feuerwehrsport-teammv.de/voting/polls/MtyyaPNeZbz7a86y7bmz51cs	2022-07-14 15:57:03.43035	2022-07-14 15:57:03.43035
+2730	Online-Anmeldung	212	Appointment	https://feuerwehrsport-statistik.de/wa/einweihung-der-ftz-beselin-13-08-2022	2022-07-14 16:00:39.175057	2022-07-14 16:00:39.175057
+2732	Facebook	213	Appointment	https://m.facebook.com/events/734178747886429?acontext=%7B%22source%22%3A%223%22%2C%22action_history%22%3A%22null%22%7D&aref=3&__tn__=HH-R	2022-07-21 06:58:31.273247	2022-07-21 06:58:31.273247
+2733	www.nachtpokallauf.de	216	Appointment	http://www.nachtpokallauf.de	2022-09-24 08:34:26.265282	2022-09-24 08:34:26.265282
+2734	www.feuerwehr-graefendorf.de	216	Appointment	http://www.feuerwehr-graefendorf.de	2022-09-24 08:35:01.872791	2022-09-24 08:35:01.872791
+2735	Link zum Anmelden	218	Appointment	https://verwaltung.feuerwehrsport-teammv.de/voting/polls/RBpfBb1h6iSHTpjtrUz8g2zJ	2022-10-09 14:35:45.401986	2022-10-09 14:35:45.401986
+2736	Webseite	217	Appointment	https://www.inselpokal-poel.de/	2022-10-09 14:36:01.364967	2022-10-09 14:36:01.364967
+2737	Bericht beim Team-MV	2108	Competition	https://feuerwehrsport-teammv.de/2022/10/22-10-2022-mv-hindernis-und-steigercup-in-charlottenthal/	2022-10-25 07:04:52.068776	2022-10-25 07:04:52.068776
+2738	https://mv-cup.de/	240	Appointment	https://mv-cup.de/	2023-05-10 12:06:06.92868	2023-05-10 12:06:06.92868
+2739	https://mv-cup.de/	242	Appointment	https://mv-cup.de/	2023-05-10 12:06:17.667237	2023-05-10 12:06:17.667237
+2740	https://mv-cup.de/	243	Appointment	https://mv-cup.de/	2023-05-10 12:06:27.938452	2023-05-10 12:06:27.938452
+2741	http://ff-admannshagen-bargeshagen.de	244	Appointment	http://ff-admannshagen-bargeshagen.de	2023-05-10 12:08:28.609397	2023-05-10 12:08:28.609397
+2742	https://kfv-rostock.de/	245	Appointment	https://kfv-rostock.de/	2023-05-10 12:09:28.822861	2023-05-10 12:09:28.822861
+2743	Online-Anmeldung	236	Appointment	https://feuerwehrsport-statistik.de/registrations/competitions/79	2023-05-10 12:11:08.28712	2023-05-10 12:11:08.28712
+2744	Online-Anmeldung	245	Appointment	https://feuerwehrsport-statistik.de/registrations/competitions/81	2023-05-10 12:11:27.168867	2023-05-10 12:11:27.168867
+2745	Online-Anmeldung	246	Appointment	https://feuerwehrsport-statistik.de/registrations/competitions/83	2023-05-10 12:12:57.676888	2023-05-10 12:12:57.676888
+2746	LFV Sachsen	246	Appointment	https://lfv-sachsen.de/wettbewerbe/	2023-05-10 12:13:15.300517	2023-05-10 12:13:15.300517
+2747	LFV Sachsen	247	Appointment	https://lfv-sachsen.de/wettbewerbe/	2023-05-10 12:14:26.103698	2023-05-10 12:14:26.103698
+2748	LFV Sachsen	248	Appointment	https://lfv-sachsen.de/wettbewerbe/	2023-05-10 12:15:21.201131	2023-05-10 12:15:21.201131
+2749	TGL-Cup	250	Appointment	http://tglcup.de.tl	2023-05-22 08:47:15.777055	2023-05-22 08:47:15.777055
+2750	TGL-Cup	254	Appointment	http://tglcup.de.tl	2023-05-22 08:52:02.419433	2023-05-22 08:52:02.419433
+2751	TGL-Cup	252	Appointment	http://tglcup.de.tl	2023-05-22 08:52:20.633417	2023-05-22 08:52:20.633417
+2752	TGL-Cup	253	Appointment	http://tglcup.de.tl	2023-05-22 08:52:35.950765	2023-05-22 08:52:35.950765
+2753	TGL-Cup	255	Appointment	http://tglcup.de.tl	2023-05-22 08:53:00.095158	2023-05-22 08:53:00.095158
+2754	Online Anmeldung 	225	Appointment	https://feuerwehrsport-statistik.de/registrations/competitions/86	2023-06-07 17:56:49.14699	2023-06-07 17:56:49.14699
+2756	Kfv LDS	237	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/6317416101.php	2023-06-14 12:01:51.574977	2023-06-14 12:01:51.574977
+2757	Instagram	201	Team	https://www.instagram.com/wkddbue/	2023-06-20 12:56:43.189959	2023-06-20 12:56:43.189959
+2758	Twitter	201	Team	https://twitter.com/wkddbue	2023-06-20 13:06:20.66726	2023-06-20 13:06:20.66726
+2759	Facebook	201	Team	https://de-de.facebook.com/wkddbue/	2023-06-20 13:06:55.643972	2023-06-20 13:06:55.643972
+2760	Löschangriff Helmsdorf 	258	Appointment	https://instagram.com/angriff_helmsdorf?igshid=MzRlODBiNWFlZA==	2023-08-12 14:37:22.613085	2023-08-12 14:37:22.613085
+2761	Roger	200	Appointment	http://	2023-09-24 07:04:57.041261	2023-09-24 07:04:57.041261
+2762	nachtpokallauf.de	264	Appointment	http://www.nachtpokallauf.de	2023-10-10 13:06:08.015342	2023-10-10 13:06:08.015342
+2763	FF Hohewisch 	515	Team	https://fv-hohewisch.de/	2023-10-15 14:26:14.28912	2023-10-15 14:26:14.28912
+2765	Feuerwehrsport Murchin	277	Appointment	https://wkg-murchin.de	2024-03-06 05:06:42.005027	2024-03-06 05:06:42.005027
+2766	Kfv-LDS 	294	Appointment	https://www.kfv-lds.de/cms/01_kfv/Termine/termine/3320544346.php?splitId=0&from=2024-07-20%2010:00:00&to=2024-07-20%2014:00:00	2024-05-23 04:45:47.793276	2024-05-23 04:45:47.793276
+2767	TFC	297	Appointment	https://www.xn--thringer-feuerwehrcup-9hc.de/	2024-05-29 16:59:39.909745	2024-05-29 16:59:39.909745
+2768	https://www.fw-ottendorf.de	207	Team	https://www.fw-ottendorf.de	2024-06-26 09:13:04.077586	2024-06-26 09:13:04.077586
+2769	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	302	Appointment	https://www.feuerwehrsport-rhinow.de/pdfs/einladung2024ottocup.pdf	2024-07-16 12:03:13.531	2024-07-16 12:03:13.531
+2770	https://www.facebook.com/events/1226326785052418	303	Appointment	https://www.facebook.com/events/1226326785052418	2024-08-03 08:44:35.502158	2024-08-03 08:44:35.502158
+2771	Nachtaktivenpokal 	304	Appointment	https://www.instagram.com/p/C-YbKOnNvJg/?igsh=cjBzeGFzaXJqNTM2	2024-08-13 09:15:46.860666	2024-08-13 09:15:46.860666
+2772	Feuerwehr Pretzsch / Merschwitz	305	Appointment	http://ffw-pretzsch.de/	2024-08-19 08:00:11.047353	2024-08-19 08:00:11.047353
+2773	Feuerwehr Pretzsch	362	Team	http://ffw-pretzsch.de/	2024-08-19 08:04:46.201581	2024-08-19 08:04:46.201581
+2775	Facebook	306	Appointment	https://m.facebook.com/events/349415184830932/?acontext=%7B%22action_history%22:%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment	2024-08-25 19:47:15.668145	2024-08-25 19:47:15.668145
 \.
