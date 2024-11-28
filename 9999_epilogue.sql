@@ -381,6 +381,13 @@ CREATE INDEX index_competitions_on_event_id ON public.competitions USING btree (
 
 
 --
+-- Name: index_competitions_on_id_and_year; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_competitions_on_id_and_year ON public.competitions USING btree (id, year);
+
+
+--
 -- Name: index_competitions_on_place_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -392,6 +399,13 @@ CREATE INDEX index_competitions_on_place_id ON public.competitions USING btree (
 --
 
 CREATE INDEX index_competitions_on_score_type_id ON public.competitions USING btree (score_type_id);
+
+
+--
+-- Name: index_competitions_on_year; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_competitions_on_year ON public.competitions USING btree (year);
 
 
 --
@@ -525,6 +539,13 @@ CREATE INDEX index_person_participations_on_person_id ON public.person_participa
 --
 
 CREATE INDEX index_person_spellings_on_person_id ON public.person_spellings USING btree (person_id);
+
+
+--
+-- Name: index_scores_for_year_overview; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_scores_for_year_overview ON public.scores USING btree (person_id, single_discipline_id, competition_id, "time");
 
 
 --

@@ -369,7 +369,6 @@ ALTER TABLE public.people OWNER TO "feuerwehrsport-statistik";
 CREATE TABLE public.scores (
     id integer NOT NULL,
     person_id integer NOT NULL,
-    discipline character varying NOT NULL,
     competition_id integer NOT NULL,
     "time" integer NOT NULL,
     team_id integer,
@@ -436,7 +435,8 @@ CREATE TABLE public.competitions (
     hb_male_for_bla_badge boolean DEFAULT false NOT NULL,
     hl_male_for_bla_badge boolean DEFAULT false NOT NULL,
     hb_female_for_bla_badge boolean DEFAULT false NOT NULL,
-    hl_female_for_bla_badge boolean DEFAULT false NOT NULL
+    hl_female_for_bla_badge boolean DEFAULT false NOT NULL,
+    year integer NOT NULL
 );
 
 
@@ -1099,54 +1099,63 @@ CREATE TABLE public.schema_migrations (
 ALTER TABLE public.schema_migrations OWNER TO "feuerwehrsport-statistik";
 
 --
+-- Name: single_disciplines; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.single_disciplines (
+    id bigint NOT NULL,
+    key character varying(2) NOT NULL,
+    short_name character varying(100) NOT NULL,
+    name character varying(200) NOT NULL,
+    description text NOT NULL,
+    default_for_male boolean DEFAULT false NOT NULL,
+    default_for_female boolean DEFAULT false NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.single_disciplines OWNER TO "feuerwehrsport-statistik";
+
+--
 -- Name: score_double_events; Type: VIEW; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 CREATE VIEW public.score_double_events AS
- SELECT DISTINCT ON ((concat(hb_scores.competition_id, '-', hb_scores.person_id))) hb_scores.person_id,
-    hb_scores.competition_id,
-    hb_scores."time" AS hb,
-    hl_scores."time" AS hl,
-    (hb_scores."time" + hl_scores."time") AS "time"
-   FROM (( SELECT scores."time",
-            scores.competition_id,
-            scores.person_id
-           FROM public.scores
-          WHERE ((scores."time" <> 99999999) AND ((scores.discipline)::text = 'hb'::text) AND (scores.team_number >= 0))) hb_scores
-     JOIN ( SELECT scores."time",
-            scores.competition_id,
-            scores.person_id
-           FROM public.scores
-          WHERE ((scores."time" <> 99999999) AND ((scores.discipline)::text = 'hl'::text) AND (scores.team_number >= 0))) hl_scores ON (((hb_scores.competition_id = hl_scores.competition_id) AND (hb_scores.person_id = hl_scores.person_id))))
-  ORDER BY (concat(hb_scores.competition_id, '-', hb_scores.person_id)), (hb_scores."time" + hl_scores."time");
+ SELECT double_events.person_id,
+    double_events.competition_id,
+    double_events.hb,
+    double_events.hb_single_discipline_id,
+    double_events.hl,
+    double_events.hl_single_discipline_id,
+    double_events."time",
+    double_events.r
+   FROM ( SELECT hb_scores.person_id,
+            hb_scores.competition_id,
+            hb_scores."time" AS hb,
+            hb_scores.single_discipline_id AS hb_single_discipline_id,
+            hl_scores."time" AS hl,
+            hl_scores.single_discipline_id AS hl_single_discipline_id,
+            (hb_scores."time" + hl_scores."time") AS "time",
+            row_number() OVER (PARTITION BY hb_scores.competition_id, hb_scores.person_id ORDER BY (hb_scores."time" + hl_scores."time")) AS r
+           FROM (( SELECT scores."time",
+                    scores.competition_id,
+                    scores.person_id,
+                    scores.single_discipline_id
+                   FROM (public.scores
+                     JOIN public.single_disciplines sd ON ((sd.id = scores.single_discipline_id)))
+                  WHERE ((scores."time" <> 99999999) AND ((sd.key)::text = 'hb'::text) AND (scores.team_number >= 0))) hb_scores
+             JOIN ( SELECT scores."time",
+                    scores.competition_id,
+                    scores.person_id,
+                    scores.single_discipline_id
+                   FROM (public.scores
+                     JOIN public.single_disciplines sd ON ((sd.id = scores.single_discipline_id)))
+                  WHERE ((scores."time" <> 99999999) AND ((sd.key)::text = 'hl'::text) AND (scores.team_number >= 0))) hl_scores ON (((hb_scores.competition_id = hl_scores.competition_id) AND (hb_scores.person_id = hl_scores.person_id))))) double_events
+  WHERE (double_events.r = 1);
 
 
 ALTER TABLE public.score_double_events OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: score_low_double_events; Type: VIEW; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE VIEW public.score_low_double_events AS
- SELECT DISTINCT ON ((concat(hb_scores.competition_id, '-', hb_scores.person_id))) hb_scores.person_id,
-    hb_scores.competition_id,
-    hb_scores."time" AS hb,
-    hl_scores."time" AS hl,
-    (hb_scores."time" + hl_scores."time") AS "time"
-   FROM (( SELECT scores."time",
-            scores.competition_id,
-            scores.person_id
-           FROM public.scores
-          WHERE ((scores."time" <> 99999999) AND ((scores.discipline)::text = 'hw'::text) AND (scores.team_number >= 0))) hb_scores
-     JOIN ( SELECT scores."time",
-            scores.competition_id,
-            scores.person_id
-           FROM public.scores
-          WHERE ((scores."time" <> 99999999) AND ((scores.discipline)::text = 'hl'::text) AND (scores.team_number >= 0))) hl_scores ON (((hb_scores.competition_id = hl_scores.competition_id) AND (hb_scores.person_id = hl_scores.person_id))))
-  ORDER BY (concat(hb_scores.competition_id, '-', hb_scores.person_id)), (hb_scores."time" + hl_scores."time");
-
-
-ALTER TABLE public.score_low_double_events OWNER TO "feuerwehrsport-statistik";
 
 --
 -- Name: score_types; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
@@ -1398,25 +1407,6 @@ ALTER TABLE public.series_rounds_id_seq OWNER TO "feuerwehrsport-statistik";
 
 ALTER SEQUENCE public.series_rounds_id_seq OWNED BY public.series_rounds.id;
 
-
---
--- Name: single_disciplines; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.single_disciplines (
-    id bigint NOT NULL,
-    key character varying(2) NOT NULL,
-    short_name character varying(100) NOT NULL,
-    name character varying(200) NOT NULL,
-    description text NOT NULL,
-    default_for_male boolean DEFAULT false NOT NULL,
-    default_for_female boolean DEFAULT false NOT NULL,
-    created_at timestamp(6) without time zone NOT NULL,
-    updated_at timestamp(6) without time zone NOT NULL
-);
-
-
-ALTER TABLE public.single_disciplines OWNER TO "feuerwehrsport-statistik";
 
 --
 -- Name: single_disciplines_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
