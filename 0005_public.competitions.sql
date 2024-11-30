@@ -2100,7 +2100,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2104	MV-Cup	125	13	\N	2022-10-08	\N	2022-10-09 09:12:17.99776	2024-11-24 20:40:17.782517		0	0	0	0	0	0	0	8	42	17	0	08.10.2022 - Schwerin, MV-Cup (MV-Cup)	f	f	f	f	2022
 2105	Herbstcup	619	10	\N	2022-10-01	\N	2022-10-12 18:05:09.398373	2022-10-12 18:05:09.398373		0	0	0	0	0	0	0	2	28	15	0	01.10.2022 - Hohewisch, Pokallauf (Herbstcup)	f	f	f	f	2022
 2106	Landesmeisterschaft Sachsen 2022	620	2	\N	2022-07-09	\N	2022-10-12 18:15:43.279146	2023-02-21 07:21:15.644516		24	38	22	48	4	2	6	6	22	15	45	09.07.2022 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen 2022)	t	t	t	t	2022
-2107	Sächsischer Steigercup	2	20	\N	2022-09-24	\N	2022-10-12 20:42:15.037761	2022-10-12 20:42:15.037761		16	28	0	0	0	0	0	0	0	7	22	24.09.2022 - Narsdorf, Sächsischer Steigercup (Sächsischer Steigercup)	f	f	f	f	2022
+2107	Sächsischer Steigercup	2	20	\N	2022-09-24	\N	2022-10-12 20:42:15.037761	2022-10-12 20:42:15.037761		28	32	0	0	0	0	0	0	0	9	30	24.09.2022 - Narsdorf, Sächsischer Steigercup (Sächsischer Steigercup)	f	f	f	f	2022
 2108	30. Jugendfeuerwehr	1	13	\N	2022-10-22	\N	2022-10-25 06:28:37.286519	2022-10-25 06:28:37.286519		26	14	21	16	0	0	0	0	0	12	22	22.10.2022 - Charlottenthal, MV-Cup (30. Jugendfeuerwehr)	f	f	f	f	2022
 2109	20. Flutlichtpokal 	314	10	\N	2022-10-07	\N	2022-11-16 13:43:07.174195	2022-11-16 13:43:07.174195		0	0	0	0	0	0	0	6	60	32	0	07.10.2022 - Wiepke, Pokallauf (20. Flutlichtpokal )	f	f	f	f	2022
 2110	Adventssteigen	617	10	\N	2022-12-10	\N	2022-12-11 21:24:18.179643	2022-12-11 21:24:18.179643		9	18	0	0	0	0	0	0	0	6	9	10.12.2022 - Beselin, Pokallauf (Adventssteigen)	f	f	f	f	2022
@@ -2116,7 +2116,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2120	MV-Steiger- und Hinderniscup	25	13	\N	2023-06-10	\N	2023-06-21 20:54:32.122333	2023-06-21 20:54:32.122333		18	22	18	16	0	0	0	0	0	15	21	10.06.2023 - Ostseebad Nienhagen, MV-Cup (MV-Steiger- und Hinderniscup)	f	f	f	f	2023
 2121	Sächsischen Steigercup	2	20	4	2023-06-17	\N	2023-06-22 09:44:56.869257	2023-06-22 11:10:46.946518		18	22	0	0	0	0	0	0	0	6	20	17.06.2023 - Narsdorf, Sächsischer Steigercup (Sächsischen Steigercup)	f	f	f	f	2023
 2122	3. MV-Cup	125	13	\N	2023-06-24	\N	2023-06-27 06:53:12.016339	2023-06-27 06:53:12.016339		0	0	0	0	0	0	0	8	50	21	0	24.06.2023 - Schwerin, MV-Cup (3. MV-Cup)	f	f	f	f	2023
-2123	LK LRO	623	6	\N	2023-07-01	\N	2023-07-01 17:02:50.272693	2023-07-01 17:03:22.67196	<p>Das Hakenleitersteigen fand am Freitag in Beselin statt.</p>\r\n	16	24	21	22	5	7	5	10	30	32	25	01.07.2023 - Gnoien, Kreisausscheid (LK LRO)	f	f	f	f	2023
+2123	LK LRO	623	6	\N	2023-07-01	\N	2023-07-01 17:02:50.272693	2023-07-01 17:03:22.67196	<p>Das Hakenleitersteigen fand am Freitag in Beselin statt.</p>\r\n	28	26	21	24	5	7	5	10	30	33	32	01.07.2023 - Gnoien, Kreisausscheid (LK LRO)	f	f	f	f	2023
 2124	2. Stendaler Hansepokal	325	10	\N	2023-07-01	\N	2023-07-06 08:25:56.830188	2023-07-06 08:25:56.830188		0	0	0	0	0	0	0	4	44	21	0	01.07.2023 - Stendal, Pokallauf (2. Stendaler Hansepokal)	f	f	f	f	2023
 2125	4. MV-Cup	44	13	\N	2023-07-08	\N	2023-07-12 11:51:13.848757	2023-07-12 11:51:13.848757		0	0	0	0	0	0	0	4	32	18	0	08.07.2023 - Kummer, MV-Cup (4. MV-Cup)	f	f	f	f	2023
 2126	3. Deutschland-Cup	624	1	2	2023-07-08	\N	2023-07-12 11:54:27.733725	2023-08-03 08:40:50.501753		56	52	53	68	5	8	7	9	13	20	71	08.07.2023 - Letschin, D-Cup (3. Deutschland-Cup)	t	t	t	t	2023
@@ -2126,7 +2126,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2130	3. Sächsischer Steigercup	16	20	4	2023-07-29	\N	2023-08-04 08:29:22.022909	2023-08-04 08:32:27.596972		16	20	0	0	0	0	0	0	0	7	18	29.07.2023 - Brandis, Sächsischer Steigercup (3. Sächsischer Steigercup)	f	f	f	f	2023
 2131	5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup	478	18	\N	2023-08-05	\N	2023-08-09 10:50:45.37338	2023-08-09 10:50:45.37338		0	0	0	0	0	0	0	10	92	29	0	05.08.2023 - Möckern, SA-Cup (5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup)	f	f	f	f	2023
 2132	4. Deutschland-Cup	17	1	5	2023-08-12	\N	2023-08-17 11:51:35.659578	2023-09-17 19:30:18.775944		72	76	66	66	18	0	0	16	22	27	75	12.08.2023 - Taura, D-Cup (4. Deutschland-Cup)	t	t	t	t	2023
-2133	3. offene Hakenleitersteigen des KFV LDS e.V.	200	10	\N	2023-07-22	\N	2023-08-17 12:19:44.291023	2023-08-17 12:19:44.291023		20	26	0	0	0	0	0	0	0	0	23	22.07.2023 - Langengrassau, Pokallauf (3. offene Hakenleitersteigen des KFV LDS e.V.)	f	f	f	f	2023
+2133	3. offene Hakenleitersteigen des KFV LDS e.V.	200	10	\N	2023-07-22	\N	2023-08-17 12:19:44.291023	2023-08-17 12:19:44.291023		46	44	0	0	0	0	0	0	0	2	41	22.07.2023 - Langengrassau, Pokallauf (3. offene Hakenleitersteigen des KFV LDS e.V.)	f	f	f	f	2023
 2134	12. Flutlichtpokal	295	10	\N	2023-08-25	\N	2023-09-04 08:26:23.85222	2023-09-04 08:26:23.85222		0	0	0	0	0	0	0	8	45	53	0	25.08.2023 - Spornitz, Pokallauf (12. Flutlichtpokal)	f	f	f	f	2023
 2135	4. Lauf BB-Cup 2022 & 25. Pokallauf	67	16	\N	2023-09-02	\N	2023-09-04 08:54:52.105172	2023-09-04 08:54:52.105172		0	0	0	0	0	0	0	4	16	12	0	02.09.2023 - Schwanebeck, BB-Cup (4. Lauf BB-Cup 2022 & 25. Pokallauf)	f	f	f	f	2023
 2136	1. Lauf BB-Cup	208	16	\N	2023-05-13	\N	2023-09-06 08:26:15.787332	2023-09-06 08:26:15.787332		0	0	0	0	0	0	0	12	14	13	0	13.05.2023 - Zerkwitz, BB-Cup (1. Lauf BB-Cup)	f	f	f	f	2023
@@ -2186,8 +2186,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2192	1. MV-Cup 2024	44	13	\N	2024-05-18	\N	2024-05-21 08:57:41.423592	2024-05-21 08:57:41.423592		0	0	0	0	0	0	0	8	60	25	0	18.05.2024 - Kummer, MV-Cup (1. MV-Cup 2024)	f	f	f	f	2024
 2193		611	34	\N	2024-05-18	\N	2024-05-22 07:04:10.162025	2024-05-22 07:04:10.162025		0	0	0	0	0	0	0	4	20	12	0	18.05.2024 - Steinitz (Sachsen), Ostsachsenpokal	f	f	f	f	2024
 2194		639	10	\N	2024-05-23	\N	2024-05-24 20:55:43.717461	2024-09-04 19:39:19.265146		0	10	0	10	0	0	0	0	0	1	5	23.05.2024 - Ostrowiec Świętokrzyski, Pokallauf	t	t	t	t	2024
-2195	1. Lauf 2024	16	20	4	2024-04-27	\N	2024-06-05 08:39:47.503794	2024-06-05 08:42:49.254118		36	16	0	0	0	0	0	0	0	9	26	27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)	f	f	f	f	2024
-2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-09-04 19:38:55.355083		44	22	44	35	12	4	3	10	32	26	52	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	t	t	t	t	2024
+2195	1. Lauf 2024	16	20	4	2024-04-27	\N	2024-06-05 08:39:47.503794	2024-06-05 08:42:49.254118		36	28	0	0	0	0	0	0	0	10	32	27.04.2024 - Brandis, Sächsischer Steigercup (1. Lauf 2024)	f	f	f	f	2024
+2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-09-04 19:38:55.355083		44	38	44	35	12	4	3	10	32	28	60	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	t	t	t	t	2024
 2197	2. BB-Cup 2024	65	16	\N	2024-06-01	\N	2024-06-06 12:03:33.482532	2024-06-06 12:03:33.482532		0	0	0	0	0	0	0	16	28	22	0	01.06.2024 - Gehren, BB-Cup (2. BB-Cup 2024)	f	f	f	f	2024
 2198	3. TGL-Cup 2024	199	33	\N	2024-06-08	\N	2024-06-11 18:53:54.063971	2024-06-11 18:53:54.063971		0	0	0	0	0	0	0	4	50	14	0	08.06.2024 - Rübeland, TGL-Cup (3. TGL-Cup 2024)	f	f	f	f	2024
 2199	2. SAP 2024	640	18	\N	2024-05-25	\N	2024-06-11 19:12:02.93111	2024-06-11 19:12:02.93111		0	0	0	0	1	0	0	9	34	15	0	25.05.2024 - Bornum, SA-Cup (2. SAP 2024)	f	f	f	f	2024
@@ -2211,14 +2211,14 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2218	11.Lindenpokal /TGL-Cup und SAP	234	33	\N	2024-08-10	\N	2024-08-23 15:38:24.931636	2024-08-23 15:38:24.931636		0	0	0	0	0	0	0	14	91	29	0	10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)	f	f	f	f	2024
 2219	MV-Hindernis- und -Steigercup	25	13	\N	2024-08-03	\N	2024-08-23 15:52:26.866943	2024-08-23 15:52:26.866943		6	16	6	12	0	0	0	0	0	9	11	03.08.2024 - Ostseebad Nienhagen, MV-Cup (MV-Hindernis- und -Steigercup)	f	f	f	f	2024
 2220	Feuerwehrfest	594	10	\N	2024-07-27	\N	2024-08-23 15:58:54.941269	2024-08-23 15:58:54.941269		0	0	6	10	0	0	0	0	0	8	8	27.07.2024 - Schwarz, Pokallauf (Feuerwehrfest)	f	f	f	f	2024
-2221	2. Lauf D-Cup	25	1	2	2024-08-17	\N	2024-08-23 16:07:14.332186	2024-09-04 19:38:16.956265		74	62	72	64	11	0	0	12	10	12	74	17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)	t	t	t	t	2024
+2221	2. Lauf D-Cup	25	1	2	2024-08-17	\N	2024-08-23 16:07:14.332186	2024-09-04 19:38:16.956265		92	72	82	72	11	0	0	12	10	16	88	17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)	t	t	t	t	2024
 2222	4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. 	200	10	\N	2024-07-20	\N	2024-08-28 20:39:16.353019	2024-08-28 20:39:16.353019		22	18	19	19	0	0	0	0	0	12	21	20.07.2024 - Langengrassau, Pokallauf (4. offene Hakenleitersteigen des Kreisfeuerwehrverbandes LDS e.V. )	f	f	f	f	2024
 2223	6. WM im Feuerwehrsport	644	11	1	2010-08-27	\N	2024-09-04 07:33:11.123171	2024-09-04 19:37:44.727507		0	16	0	16	0	0	2	0	2	1	9	27.08.2010 - Donezk (UKR), WM (6. WM im Feuerwehrsport)	t	t	f	f	2010
 2224	Tschechische Meisterschaft 2024	645	10	1	2024-08-23	\N	2024-09-04 19:03:16.525818	2024-09-04 19:05:56.958249		16	13	16	14	0	2	2	2	2	2	16	23.08.2024 - Olomouc (CZ), Pokallauf (Tschechische Meisterschaft 2024)	t	t	t	t	2024
 2225	Feuerwehrfest	170	10	\N	2024-05-25	\N	2024-09-05 08:44:56.84948	2024-09-05 08:44:56.84948		0	0	0	0	0	0	0	4	18	11	0	25.05.2024 - Vehra, Pokallauf (Feuerwehrfest)	f	f	f	f	2024
 2226	1. Lauf TGL-Cup 2023	219	33	\N	2023-05-06	\N	2024-09-05 09:37:06.628753	2024-09-05 09:37:06.628753		0	0	0	0	0	0	0	4	44	13	0	06.05.2023 - Garitz-Bornum, TGL-Cup (1. Lauf TGL-Cup 2023)	f	f	f	f	2023
 2227		626	10	\N	2024-09-08	\N	2024-09-10 06:08:07.869309	2024-09-10 06:08:07.869309		0	0	0	0	0	0	0	0	6	3	0	08.09.2024 - Rothenburg, Pokallauf	f	f	f	f	2024
-2228	Kreisausscheid SPN	14	6	\N	2023-07-08	\N	2024-09-10 06:53:18.377915	2024-09-10 06:53:18.377915		12	8	10	6	2	3	2	4	14	15	10	08.07.2023 - Cottbus, Kreisausscheid (Kreisausscheid SPN)	f	f	f	f	2023
+2228	Kreisausscheid SPN	14	6	\N	2023-07-08	\N	2024-09-10 06:53:18.377915	2024-09-10 06:53:18.377915		24	22	10	6	2	3	2	4	14	17	23	08.07.2023 - Cottbus, Kreisausscheid (Kreisausscheid SPN)	f	f	f	f	2023
 2229	23. Flutlichtpokal	143	10	\N	2023-10-02	\N	2024-09-10 10:04:25.626396	2024-09-10 10:04:25.626396		0	0	0	0	0	0	0	10	47	36	0	02.10.2023 - Merzdorf, Pokallauf (23. Flutlichtpokal)	f	f	f	f	2023
 2230	2. Wesenitztalpokal	385	10	\N	2022-10-09	\N	2024-09-12 08:02:40.2565	2024-09-12 08:15:01.024845		0	0	0	0	0	0	0	0	16	16	0	09.10.2022 - Helmsdorf, Pokallauf (2. Wesenitztalpokal)	f	f	f	f	2022
 2231	22. Amtsausscheid Amt Schlieben	646	15	\N	2015-06-06	\N	2024-09-17 10:07:07.455438	2024-09-17 10:07:07.455438		0	0	0	0	0	0	0	8	19	27	0	06.06.2015 - Körba, Amtsausscheid (22. Amtsausscheid Amt Schlieben)	f	f	f	f	2015
@@ -2227,7 +2227,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2234	26. Amtsausscheid Amt Schlieben	649	15	\N	2019-05-18	\N	2024-09-17 11:01:02.037859	2024-09-17 11:01:02.037859		0	0	0	0	0	0	0	8	21	29	0	18.05.2019 - Malitschkendorf, Amtsausscheid (26. Amtsausscheid Amt Schlieben)	f	f	f	f	2019
 2235	27. Amtsausscheid Amt Schlieben	650	15	\N	2022-05-21	\N	2024-09-17 11:25:41.206656	2024-09-17 11:25:41.206656		0	0	0	0	0	0	0	7	20	27	0	21.05.2022 - Lebusa, Amtsausscheid (27. Amtsausscheid Amt Schlieben)	f	f	f	f	2022
 2236	29. Amtsausscheid Amt Schlieben	651	15	\N	2024-05-04	\N	2024-09-17 11:35:18.214196	2024-09-17 11:35:18.214196		0	0	0	0	0	0	0	7	20	27	0	04.05.2024 - Proßmarke, Amtsausscheid (29. Amtsausscheid Amt Schlieben)	f	f	f	f	2024
-2237	3. Deutschland-Cup	22	1	2	2024-09-21	\N	2024-09-23 19:12:11.576164	2024-09-23 19:27:19.612993		65	60	68	58	10	9	6	12	10	13	68	21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)	t	t	t	t	2024
+2237	3. Deutschland-Cup	22	1	2	2024-09-21	\N	2024-09-23 19:12:11.576164	2024-09-23 19:27:19.612993		79	68	84	68	10	9	6	12	10	14	81	21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)	t	t	t	t	2024
 2238	4-Bahnenpokal	275	32	\N	2024-09-14	\N	2024-09-23 19:30:08.958001	2024-09-23 19:30:08.958001		0	0	0	0	0	0	0	16	42	15	0	14.09.2024 - Libbenichen, 4BP (4-Bahnenpokal)	f	f	f	f	2024
 2239	Odessos-Cup	627	10	1	2024-10-02	\N	2024-10-13 19:26:46.01948	2024-10-13 19:31:42.133278		16	14	8	16	0	2	2	2	2	2	16	02.10.2024 - Varna, Pokallauf (Odessos-Cup)	t	t	t	t	2024
 2240		11	1	2	2008-05-24	\N	2024-11-24 15:39:44.148135	2024-11-24 15:52:12.359743		0	127	0	127	0	0	26	0	13	17	105	24.05.2008 - Ballhausen, D-Cup	f	f	f	f	2008
