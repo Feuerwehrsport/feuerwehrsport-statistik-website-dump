@@ -2105,15 +2105,15 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2109	20. Flutlichtpokal 	314	10	\N	2022-10-07	\N	2022-11-16 13:43:07.174195	2022-11-16 13:43:07.174195		0	0	0	0	0	0	0	6	60	32	0	07.10.2022 - Wiepke, Pokallauf (20. Flutlichtpokal )	f	f	f	f	2022
 2110	Adventssteigen	617	10	\N	2022-12-10	\N	2022-12-11 21:24:18.179643	2022-12-11 21:24:18.179643		9	18	0	0	0	0	0	0	0	6	9	10.12.2022 - Beselin, Pokallauf (Adventssteigen)	f	f	f	f	2022
 2111	28. Pokallauf	621	10	\N	2022-08-20	\N	2023-03-25 18:41:23.338679	2023-03-25 18:41:23.338679		0	0	6	16	0	0	0	0	0	0	11	20.08.2022 - Kloster Neuendorf, Pokallauf (28. Pokallauf)	f	f	f	f	2022
-2112	Hallenpokal	9	4	\N	2023-04-15	\N	2023-04-17 06:58:25.053698	2023-04-17 06:58:25.053698		0	0	75	54	0	0	0	0	0	15	61	15.04.2023 - Halle, Hallenpokal (Hallenpokal)	f	f	f	f	2023
-2113	Neujahrssteigen	14	29	\N	2023-01-07	\N	2023-04-17 12:24:50.960377	2023-04-17 12:24:50.960377		88	58	0	0	0	0	0	0	0	25	69	07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)	f	f	f	f	2023
+2112	Hallenpokal	9	4	\N	2023-04-15	\N	2023-04-17 06:58:25.053698	2023-04-17 06:58:25.053698		0	0	75	62	0	0	0	0	0	16	65	15.04.2023 - Halle, Hallenpokal (Hallenpokal)	f	f	f	f	2023
+2113	Neujahrssteigen	14	29	\N	2023-01-07	\N	2023-04-17 12:24:50.960377	2023-04-17 12:24:50.960377		114	96	0	0	0	0	0	0	0	33	85	07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)	f	f	f	f	2023
 2114		18	1	2	2023-04-29	\N	2023-05-02 07:46:45.021364	2023-08-03 08:41:13.714895		77	66	0	0	14	0	0	12	10	18	72	29.04.2023 - Nudersdorf, D-Cup	t	t	t	t	2023
 2115	1. MV-Cup 2023	51	13	\N	2023-05-06	\N	2023-05-07 20:48:25.53734	2023-05-07 20:48:25.53734		0	0	0	0	0	0	0	6	28	17	0	06.05.2023 - Hohen Viecheln, MV-Cup (1. MV-Cup 2023)	f	f	f	f	2023
 2116	3. Lauf Ostsachsenpokal	622	10	\N	2022-09-03	\N	2023-05-10 12:47:34.244356	2023-05-10 12:47:34.244356		0	0	1	4	0	0	0	1	11	12	5	03.09.2022 - Skerbersdorf, Pokallauf (3. Lauf Ostsachsenpokal)	f	f	f	f	2022
 2117	2. Deutschland-Cup	1	1	2	2023-05-13	\N	2023-05-15 09:01:47.094842	2023-08-03 08:41:01.662563		80	75	73	78	7	0	0	12	12	19	86	13.05.2023 - Charlottenthal, D-Cup (2. Deutschland-Cup)	t	t	t	t	2023
 2118	DBR-Land	487	15	\N	2023-06-03	\N	2023-06-04 09:10:41.427402	2023-06-04 09:10:41.427402		0	0	0	0	0	0	0	6	11	9	0	03.06.2023 - Börgerende-Rethwisch, Amtsausscheid (DBR-Land)	f	f	f	f	2023
 2119	2. MV-Cup	592	13	\N	2023-06-03	\N	2023-06-04 18:21:35.396192	2023-06-04 18:21:35.396192		0	0	0	0	0	0	0	4	48	18	0	03.06.2023 - Neustadt-Glewe, MV-Cup (2. MV-Cup)	f	f	f	f	2023
-2120	MV-Steiger- und Hinderniscup	25	13	\N	2023-06-10	\N	2023-06-21 20:54:32.122333	2023-06-21 20:54:32.122333		18	22	18	16	0	0	0	0	0	15	21	10.06.2023 - Ostseebad Nienhagen, MV-Cup (MV-Steiger- und Hinderniscup)	f	f	f	f	2023
+2120	MV-Steiger- und Hinderniscup	25	13	\N	2023-06-10	\N	2023-06-21 20:54:32.122333	2023-06-21 20:54:32.122333		22	24	22	16	0	0	0	0	0	16	24	10.06.2023 - Ostseebad Nienhagen, MV-Cup (MV-Steiger- und Hinderniscup)	f	f	f	f	2023
 2121	Sächsischen Steigercup	2	20	4	2023-06-17	\N	2023-06-22 09:44:56.869257	2023-06-22 11:10:46.946518		18	22	0	0	0	0	0	0	0	6	20	17.06.2023 - Narsdorf, Sächsischer Steigercup (Sächsischen Steigercup)	f	f	f	f	2023
 2122	3. MV-Cup	125	13	\N	2023-06-24	\N	2023-06-27 06:53:12.016339	2023-06-27 06:53:12.016339		0	0	0	0	0	0	0	8	50	21	0	24.06.2023 - Schwerin, MV-Cup (3. MV-Cup)	f	f	f	f	2023
 2123	LK LRO	623	6	\N	2023-07-01	\N	2023-07-01 17:02:50.272693	2023-07-01 17:03:22.67196	<p>Das Hakenleitersteigen fand am Freitag in Beselin statt.</p>\r\n	28	26	21	24	5	7	5	10	30	33	32	01.07.2023 - Gnoien, Kreisausscheid (LK LRO)	f	f	f	f	2023
@@ -2135,18 +2135,18 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2139	3. Lauf BB-Cup - 37. Planepokal	66	16	\N	2023-06-17	\N	2023-09-06 08:42:19.765229	2023-09-06 08:42:19.765229		0	0	0	0	0	0	0	12	30	21	0	17.06.2023 - Neschholz, BB-Cup (3. Lauf BB-Cup - 37. Planepokal)	f	f	f	f	2023
 2140	Teltow-Fläming	120	6	\N	2023-06-24	\N	2023-09-06 08:45:25.082128	2023-09-06 08:45:25.082128		0	0	0	0	0	0	0	2	22	12	0	24.06.2023 - Werbig, Kreisausscheid (Teltow-Fläming)	f	f	f	f	2023
 2141	7. Radinkendorfer Pokallauf	183	10	\N	2023-07-09	\N	2023-09-06 08:51:19.734488	2023-09-06 08:51:19.734488		0	0	0	0	0	0	0	2	24	8	0	09.07.2023 - Radinkendorf, Pokallauf (7. Radinkendorfer Pokallauf)	f	f	f	f	2023
-2142	4. Sächsischer Steigercup	17	20	4	2023-09-16	\N	2023-09-17 19:19:40.78143	2023-09-17 19:21:37.993078		22	14	0	0	0	0	0	0	0	9	18	16.09.2023 - Taura, Sächsischer Steigercup (4. Sächsischer Steigercup)	f	f	f	f	2023
+2142	4. Sächsischer Steigercup	17	20	4	2023-09-16	\N	2023-09-17 19:19:40.78143	2023-09-17 19:21:37.993078		42	30	0	0	0	0	0	0	0	12	36	16.09.2023 - Taura, Sächsischer Steigercup (4. Sächsischer Steigercup)	f	f	f	f	2023
 2143	Inselpokal Poel	269	10	\N	2023-09-09	\N	2023-09-17 19:33:09.347972	2023-09-17 19:33:09.347972		0	0	0	0	0	0	0	38	223	132	0	09.09.2023 - Poel, Pokallauf (Inselpokal Poel)	f	f	f	f	2023
 2144	Brandenburg	625	2	4	2023-09-09	\N	2023-09-17 19:40:19.329158	2023-09-17 19:56:33.246368		48	44	48	48	8	8	9	14	36	62	53	09.09.2023 - Königswusterhausen, Landesausscheid (Brandenburg)	t	t	t	t	2023
 2145		626	10	\N	2023-09-03	\N	2023-09-17 19:48:12.555496	2023-09-17 19:48:12.555496		0	0	0	0	0	0	0	1	6	7	0	03.09.2023 - Rothenburg, Pokallauf	f	f	f	f	2023
 2146	Thüringen	164	2	\N	2023-09-16	\N	2023-09-18 20:11:34.307304	2023-09-18 20:15:15.922266		4	18	0	12	0	0	0	10	20	17	13	16.09.2023 - Gamstädt, Landesausscheid (Thüringen)	t	t	t	t	2023
-2147	Mecklenburg-Vorpommern	3	2	3	2023-09-23	\N	2023-09-24 11:33:45.57798	2023-09-25 11:08:52.601793		22	28	22	24	4	4	5	20	50	36	28	23.09.2023 - Tribsees, Landesausscheid (Mecklenburg-Vorpommern)	t	t	t	t	2023
+2147	Mecklenburg-Vorpommern	3	2	3	2023-09-23	\N	2023-09-24 11:33:45.57798	2023-09-25 11:08:52.601793		32	30	32	26	4	4	5	20	50	36	34	23.09.2023 - Tribsees, Landesausscheid (Mecklenburg-Vorpommern)	t	t	t	t	2023
 2148	Odessos Cup	627	10	1	2023-09-25	\N	2023-10-04 08:26:15.189657	2023-10-04 08:47:23.38144		0	14	0	16	0	0	1	0	1	1	7	25.09.2023 - Varna, Pokallauf (Odessos Cup)	t	t	t	t	2023
 2149	Amt Neukloster-Warin	628	15	\N	2010-07-24	\N	2023-10-24 20:45:17.721706	2023-10-24 20:45:17.721706		0	0	0	0	0	0	0	4	22	13	0	24.07.2010 - Züsow, Amtsausscheid (Amt Neukloster-Warin)	f	f	f	f	2010
 2150	8. Mühlenpokal	121	10	\N	2023-09-02	\N	2023-11-29 15:51:57.50214	2023-11-29 15:51:57.50214		0	0	0	0	0	0	0	2	10	6	0	02.09.2023 - Gölsdorf, Pokallauf (8. Mühlenpokal)	f	f	f	f	2023
 2151	Nachtpokal	141	10	\N	2023-09-16	\N	2023-11-29 15:57:10.589227	2023-11-29 15:57:10.589227		0	0	0	0	0	0	0	2	23	24	0	16.09.2023 - Gräfendorf, Pokallauf (Nachtpokal)	f	f	f	f	2023
 2152		629	10	\N	2022-09-17	\N	2023-11-29 16:37:47.902165	2023-11-29 16:37:47.902165		0	0	1	4	0	0	0	1	10	11	5	17.09.2022 - Hoyerswerda, Pokallauf	f	f	f	f	2022
-2153	2. Adventssteigen	617	10	\N	2023-12-10	\N	2023-12-11 13:01:18.366947	2023-12-11 13:01:18.366947		15	24	0	0	0	0	0	0	0	11	13	10.12.2023 - Beselin, Pokallauf (2. Adventssteigen)	f	f	f	f	2023
+2153	2. Adventssteigen	617	10	\N	2023-12-10	\N	2023-12-11 13:01:18.366947	2023-12-11 13:01:18.366947		30	24	0	0	0	0	0	0	0	11	18	10.12.2023 - Beselin, Pokallauf (2. Adventssteigen)	f	f	f	f	2023
 2154	6. Herbstcup	619	10	\N	2023-10-07	\N	2024-01-02 15:06:47.900355	2024-01-02 15:06:47.900355		0	0	0	0	0	0	0	6	44	25	0	07.10.2023 - Hohewisch, Pokallauf (6. Herbstcup)	f	f	f	f	2023
 2155	2. Lauf TGL-CUP 2023	405	33	\N	2023-05-20	\N	2024-01-02 15:27:13.685432	2024-01-02 15:27:13.685432		0	0	0	0	0	0	0	10	64	21	0	20.05.2023 - Beckwitz, TGL-Cup (2. Lauf TGL-CUP 2023)	f	f	f	f	2023
 2156	2 Lauf Ostsachsenpokal 2023	76	34	\N	2023-06-10	\N	2024-01-02 15:35:23.648295	2024-01-02 15:35:23.648295		0	0	0	0	0	0	0	4	12	8	0	10.06.2023 - Bluno, Ostsachsenpokal (2 Lauf Ostsachsenpokal 2023)	f	f	f	f	2023
@@ -2175,8 +2175,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2180	2. Lauf Thüringer Feuerwehr-Cup	227	26	\N	2023-06-17	\N	2024-01-04 17:08:14.653964	2024-01-04 17:08:14.653964		0	0	0	0	0	0	0	2	32	11	0	17.06.2023 - Wipfra, Thüringer Feuerwehr-Cup (2. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2023
 2181	3. Lauf TGL-Cup	167	33	\N	2023-07-01	\N	2024-01-04 17:12:03.170545	2024-01-04 17:12:03.170545		0	0	0	0	0	0	0	4	54	16	0	01.07.2023 - Zella, TGL-Cup (3. Lauf TGL-Cup)	f	f	f	f	2023
 2182	6. Lauf Thüringer Feuerwehr-Cup	209	26	\N	2023-09-02	\N	2024-01-04 17:15:25.946167	2024-01-04 17:15:25.946167		0	0	0	0	0	0	0	2	38	13	0	02.09.2023 - Zottelstedt, Thüringer Feuerwehr-Cup (6. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2023
-2183	Neujahrssteigen	200	10	\N	2024-01-06	\N	2024-01-10 12:20:48.99523	2024-01-10 12:20:48.99523		41	40	0	0	0	0	0	0	0	19	41	06.01.2024 - Langengrassau, Pokallauf (Neujahrssteigen)	f	f	f	f	2024
-2184	HALLENpokal	9	4	\N	2024-04-13	\N	2024-04-28 18:28:04.142228	2024-04-28 18:28:04.142228		0	0	64	54	0	0	0	0	0	17	55	13.04.2024 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f	2024
+2183	Neujahrssteigen	200	10	\N	2024-01-06	\N	2024-01-10 12:20:48.99523	2024-01-10 12:20:48.99523		87	74	0	0	0	0	0	0	0	27	72	06.01.2024 - Langengrassau, Pokallauf (Neujahrssteigen)	f	f	f	f	2024
+2184	HALLENpokal	9	4	\N	2024-04-13	\N	2024-04-28 18:28:04.142228	2024-04-28 18:28:04.142228		0	0	96	58	0	0	0	0	0	19	63	13.04.2024 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f	2024
 2186		208	16	\N	2024-05-04	\N	2024-05-06 14:01:54.298239	2024-05-06 14:01:54.298239		0	0	0	0	0	0	0	18	32	25	0	04.05.2024 - Zerkwitz, BB-Cup	f	f	f	f	2024
 2187		208	32	\N	2024-05-04	\N	2024-05-06 14:05:15.76319	2024-05-06 14:05:15.76319		0	0	0	0	0	0	0	12	22	17	0	04.05.2024 - Zerkwitz, 4BP	f	f	f	f	2024
 2188	1. TGL-Cup 2024	219	33	\N	2024-05-04	\N	2024-05-06 14:08:01.893205	2024-05-06 14:08:01.893205		0	0	0	0	0	0	0	4	48	13	0	04.05.2024 - Garitz-Bornum, TGL-Cup (1. TGL-Cup 2024)	f	f	f	f	2024
@@ -2193,7 +2193,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2199	2. SAP 2024	640	18	\N	2024-05-25	\N	2024-06-11 19:12:02.93111	2024-06-11 19:12:02.93111		0	0	0	0	1	0	0	9	34	15	0	25.05.2024 - Bornum, SA-Cup (2. SAP 2024)	f	f	f	f	2024
 2200	700 Jahre Werder	641	10	\N	2024-06-07	\N	2024-06-12 12:35:14.052386	2024-06-12 12:35:14.052386		0	0	0	0	0	0	0	0	12	6	0	07.06.2024 - Werder, Pokallauf (700 Jahre Werder)	f	f	f	f	2024
 2201	2. MV-Cup 2024	51	13	\N	2024-06-15	\N	2024-06-17 18:10:39.621513	2024-06-17 18:10:39.621513		0	0	0	0	0	0	0	8	34	21	0	15.06.2024 - Hohen Viecheln, MV-Cup (2. MV-Cup 2024)	f	f	f	f	2024
-2202	D-Cup Seelow/Gieshof 	196	1	2	2024-06-22	\N	2024-06-22 20:45:49.11347	2024-08-15 18:20:42.217555		70	60	70	65	6	9	6	12	14	19	77	22.06.2024 - Seelow, D-Cup (D-Cup Seelow/Gieshof )	t	t	t	t	2024
+2202	D-Cup Seelow/Gieshof 	196	1	2	2024-06-22	\N	2024-06-22 20:45:49.11347	2024-08-15 18:20:42.217555		88	68	83	73	6	9	6	12	14	24	90	22.06.2024 - Seelow, D-Cup (D-Cup Seelow/Gieshof )	t	t	t	t	2024
 2203	TGL-Cup und SAP	637	33	\N	2024-06-22	\N	2024-06-24 08:24:46.456792	2024-06-24 08:24:46.456792		0	0	0	0	0	0	0	14	72	24	0	22.06.2024 - Harzgerode, TGL-Cup (TGL-Cup und SAP)	f	f	f	f	2024
 2204		285	18	\N	2024-06-22	\N	2024-06-24 08:52:24.627656	2024-06-24 08:52:24.627656		0	0	0	0	0	0	0	3	9	12	0	22.06.2024 - Gröningen, SA-Cup	f	f	f	f	2024
 2205	BB-Cup + 4-BP	66	16	\N	2024-06-15	\N	2024-06-24 09:04:20.868607	2024-06-24 09:04:20.868607		0	0	0	0	0	0	0	20	56	23	0	15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)	f	f	f	f	2024
@@ -2261,4 +2261,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2270	26.Pokallauf / BB-Cup	67	16	\N	2024-08-31	\N	2024-11-25 21:59:24.054676	2024-11-25 21:59:24.054676		0	0	0	0	0	0	0	12	22	17	0	31.08.2024 - Schwanebeck, BB-Cup (26.Pokallauf / BB-Cup)	f	f	f	f	2024
 2271	Flutlichtpokal	607	10	\N	2023-10-14	\N	2024-11-26 09:24:28.780393	2024-11-26 09:24:28.780393		0	0	0	0	0	0	0	0	0	0	0	14.10.2023 - Bargeshagen , Pokallauf (Flutlichtpokal)	f	f	f	f	2023
 2272	21. Flutlichtlöschangriff	314	10	\N	2023-10-13	\N	2024-11-26 09:26:01.657196	2024-11-26 09:26:01.657196		0	0	0	0	0	0	0	5	41	42	0	13.10.2023 - Wiepke, Pokallauf (21. Flutlichtlöschangriff)	f	f	f	f	2023
+2273	Heedebockpokal	17	10	\N	2024-08-10	\N	2024-11-30 21:09:13.579362	2024-11-30 21:09:13.579362	\N	98	86	66	46	8	0	0	10	16	25	92	10.08.2024 - Taura, Pokallauf (Heedebockpokal)	f	f	f	f	2024
+2274	3. Sächsischer Steigercup	17	20	4	2024-08-10	\N	2024-11-30 21:47:54.811306	2024-11-30 21:56:58.540512	\N	0	0	0	0	0	0	0	0	0	0	0	10.08.2024 - Taura, Sächsischer Steigercup (3. Sächsischer Steigercup)	f	f	f	f	2024
+2275	Stadtmeisterschaft Sonnewalde	49	14	\N	2024-05-26	\N	2024-11-30 22:21:29.070344	2024-11-30 22:21:29.070344	\N	0	0	0	0	3	0	0	3	11	14	0	26.05.2024 - Sonnewalde, Stadtausscheid (Stadtmeisterschaft Sonnewalde)	f	f	f	f	2024
 \.

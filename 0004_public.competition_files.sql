@@ -2485,4 +2485,49 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2492	2271	ergebnis-loschangriff-nass-jugend.pdf		2024-11-26 09:24:40.094636	2024-11-26 09:24:40.094636
 2493	2272	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-11-26 09:29:55.756401	2024-11-26 09:29:55.756401
 2494	2272	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-11-26 09:30:00.259985	2024-11-26 09:30:00.259985
+2495	2219	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-11-30 21:00:34.029967	2024-11-30 21:00:34.029967
+2496	2272	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2024-11-30 21:00:42.079022	2024-11-30 21:00:42.079022
+2497	2272	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2024-11-30 21:00:49.640385	2024-11-30 21:00:49.640385
+2498	2272	ergebnis-zweikampf-frauen.pdf	zk_female	2024-11-30 21:00:58.451881	2024-11-30 21:00:58.451881
+2499	2272	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-11-30 21:01:09.49375	2024-11-30 21:01:09.49375
+2500	2272	ergebnis-zweikampf-manner.pdf	zk_male	2024-11-30 21:01:15.769671	2024-11-30 21:01:15.769671
+2501	2220	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2024-11-30 21:05:32.531255	2024-11-30 21:05:32.531255
+2502	2220	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2024-11-30 21:05:48.099113	2024-11-30 21:05:48.099113
+2503	2273	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-11-30 21:17:51.973456	2024-11-30 21:17:51.973456
+2504	2273	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-11-30 21:18:03.029755	2024-11-30 21:18:03.029755
+2505	2273	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2024-11-30 21:18:13.090433	2024-11-30 21:18:13.090433
+2506	2273	ergebnis-zweikampf-frauen.pdf	zk_female	2024-11-30 21:45:14.361316	2024-11-30 21:45:14.361316
+2507	2273	ergebnis-zweikampf-manner.pdf	zk_male	2024-11-30 21:45:19.161445	2024-11-30 21:45:19.161445
+2508	2273	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2024-11-30 21:45:24.096734	2024-11-30 21:45:24.096734
+2509	2273	ergebnis-100m-hindernisbahn-madchen-u20.pdf	hb_female	2024-11-30 21:45:29.654679	2024-11-30 21:45:29.654679
+2510	2273	ergebnis-100m-hindernisbahn-madchen-u15.pdf	hb_female	2024-11-30 21:45:35.063119	2024-11-30 21:45:35.063119
+2511	2273	ergebnis-100m-hindernisbahn-jungen-u20.pdf	hb_male	2024-11-30 21:45:40.240096	2024-11-30 21:45:40.240096
+2512	2273	ergebnis-100m-hindernisbahn-jungen-u15.pdf	hb_male	2024-11-30 21:45:45.091513	2024-11-30 21:45:45.091513
+2513	2273	ergebnis-hakenleitersteigen-madchen-u20.pdf	hl_female	2024-11-30 21:45:49.739757	2024-11-30 21:45:49.739757
+2514	2273	ergebnis-hakenleitersteigen-madchen-u15.pdf	hl_female	2024-11-30 21:45:54.946424	2024-11-30 21:45:54.946424
+2515	2273	ergebnis-hakenleitersteigen-jungen-u20.pdf	hl_male	2024-11-30 21:45:59.409485	2024-11-30 21:45:59.409485
+2516	2273	ergebnis-hakenleitersteigen-jungen-u15.pdf	hl_male	2024-11-30 21:46:04.312737	2024-11-30 21:46:04.312737
+2517	2273	ergebnis-gruppenstafette-frauen.pdf	gs_female	2024-11-30 21:46:08.838856	2024-11-30 21:46:08.838856
+2518	2273	ergebnis-gruppenstafette-frauen-u20.pdf	gs_female	2024-11-30 21:46:13.383917	2024-11-30 21:46:13.383917
+2519	2273	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-11-30 21:46:18.091774	2024-11-30 21:46:18.091774
+2520	2273	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-11-30 21:46:22.774162	2024-11-30 21:46:22.774162
+2521	2273	ergebnis-hakenleitersteigen-madchen-u10.pdf	hl_female	2024-11-30 21:46:27.585494	2024-11-30 21:46:27.585494
+2522	2273	ergebnis-hakenleitersteigen-jungen-u10.pdf	hl_male	2024-11-30 21:46:31.884113	2024-11-30 21:46:31.884113
+2523	2273	ergebnis-hakenleitersteigen-jungen-u10.pdf	hl_male	2024-11-30 21:46:38.848103	2024-11-30 21:46:38.848103
+2524	2274	ergebnis-hakenleitersteigen-manner-u15.pdf	hl_male	2024-11-30 21:48:35.263627	2024-11-30 21:48:35.263627
+2525	2274	ergebnis-hakenleitersteigen-frauen-u15.pdf	hl_female	2024-11-30 21:48:39.605955	2024-11-30 21:48:39.605955
+2526	2274	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2024-11-30 21:48:43.967199	2024-11-30 21:48:43.967199
+2527	2274	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2024-11-30 21:48:49.153902	2024-11-30 21:48:49.153902
+2528	2274	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-11-30 21:48:54.315079	2024-11-30 21:48:54.315079
+2529	2274	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-11-30 21:48:59.842705	2024-11-30 21:48:59.842705
+2530	2275	ergebnis-loschangriff-nass-frauen.pdf	la_female	2024-11-30 22:22:20.03123	2024-11-30 22:22:20.03123
+2531	2275	ergebnis-loschangriff-nass-manner.pdf	la_male	2024-11-30 22:22:25.155279	2024-11-30 22:22:25.155279
+2532	2275	ergebnis-loschangriff-nass-bambini.pdf		2024-11-30 22:22:29.868358	2024-11-30 22:22:29.868358
+2533	2275	ergebnis-loschangriff-nass-ak-1-madchen.pdf	la_female	2024-11-30 22:22:34.000853	2024-11-30 22:22:34.000853
+2534	2275	ergebnis-gruppenstafette-ak-1-jungen.pdf		2024-11-30 22:22:38.058359	2024-11-30 22:22:38.058359
+2535	2275	ergebnis-loschangriff-nass-ak-1-jungen.pdf	la_male	2024-11-30 22:22:42.724028	2024-11-30 22:22:42.724028
+2536	2275	ergebnis-gruppenstafette-ak-2-jungen.pdf		2024-11-30 22:22:47.574699	2024-11-30 22:22:47.574699
+2537	2275	ergebnis-loschangriff-nass-ak-2-jungen.pdf	la_male	2024-11-30 22:22:52.253174	2024-11-30 22:22:52.253174
+2538	2275	ergebnis-gruppenstafette-frauen.pdf	gs_female	2024-11-30 22:22:56.98656	2024-11-30 22:22:56.98656
+2539	2275	ergebnis-u-40.pdf		2024-11-30 22:23:04.507711	2024-11-30 22:23:04.507711
 \.
