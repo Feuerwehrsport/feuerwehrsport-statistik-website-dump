@@ -2546,4 +2546,29 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2555	2276	ergebnis-kreismeisterschaften-kjf-ee-2024-la-ak-ii-m.pdf		2024-12-01 15:52:37.737713	2024-12-01 15:52:37.737713
 2556	2276	ergebnis-kreismeisterschaften-kjf-ee-2024-hb-ak-ii-m.pdf		2024-12-01 15:52:43.333721	2024-12-01 15:52:43.333721
 2557	2276	ergebnis-kreismeisterschaften-kjf-ee-2024-hl-ak-ii-m.pdf		2024-12-01 15:52:51.168873	2024-12-01 15:52:51.168873
+2558	2277	ergebnis-hakenleitersteigen-ak-i-weiblich.pdf	hl_female	2024-12-02 14:36:06.710895	2024-12-02 14:36:06.710895
+2559	2277	ergebnis-hakenleitersteigen-ak-ii-weiblich-15-16.pdf	hl_female	2024-12-02 14:36:14.343914	2024-12-02 14:36:14.343914
+2560	2277	ergebnis-100m-hindernisbahn-ak-ii-weiblich-17-18.pdf	hb_female	2024-12-02 14:36:19.800942	2024-12-02 14:36:19.800942
+2561	2277	ergebnis-hakenleitersteigen-ak-i-mannlich.pdf	hl_male	2024-12-02 14:36:23.974242	2024-12-02 14:36:23.974242
+2562	2277	ergebnis-hakenleitersteigen-ak-ii-mannlich-15-16.pdf	hl_male	2024-12-02 14:36:28.41624	2024-12-02 14:36:28.41624
+2563	2277	ergebnis-100m-hindernisbahn-ak-ii-mannlich-15-16.pdf	hb_male	2024-12-02 14:36:32.743075	2024-12-02 14:36:32.743075
+2564	2277	ergebnis-5x80m-ak-i-mannlich.pdf		2024-12-02 14:36:37.534259	2024-12-02 14:36:37.534259
+2565	2277	ergebnis-gruppenstafette-ak-i-mannlich.pdf		2024-12-02 14:36:42.169098	2024-12-02 14:36:42.169098
+2566	2277	ergebnis-loschangriff-nass-ak-i-mannlich.pdf	la_male	2024-12-02 14:36:48.149608	2024-12-02 14:36:48.149608
+2567	2277	ergebnis-5x80m-ak-ii-mannlich.pdf		2024-12-02 14:36:52.729504	2024-12-02 14:36:52.729504
+2568	2277	ergebnis-gruppenstafette-ak-ii-mannlich.pdf		2024-12-02 14:36:57.382229	2024-12-02 14:36:57.382229
+2569	2277	ergebnis-loschangriff-nass-ak-ii-mannlich.pdf	la_male	2024-12-02 14:37:02.623987	2024-12-02 14:37:02.623987
+2570	2277	ergebnis-gruppenstafette-ak-i-weiblich.pdf	gs_female	2024-12-02 14:37:08.035722	2024-12-02 14:37:08.035722
+2571	2277	ergebnis-loschangriff-nass-ak-i-weiblich.pdf	la_female	2024-12-02 14:37:12.599962	2024-12-02 14:37:12.599962
+2572	2277	ergebnis-gruppenstafette-ak-ii-weiblich.pdf	gs_female	2024-12-02 14:37:17.286603	2024-12-02 14:37:17.286603
+2573	2277	ergebnis-loschangriff-nass-ak-ii-weiblich.pdf	la_female	2024-12-02 14:37:21.994459	2024-12-02 14:37:21.994459
+2574	2277	ergebnis-100m-hindernisbahn-ak-ii-weiblich-15-16.pdf	hb_female	2024-12-02 14:37:26.57059	2024-12-02 14:37:26.57059
+2575	2277	ergebnis-100m-hindernisbahn-ak-ii-mannlich-17-18.pdf	hb_male	2024-12-02 14:37:31.21221	2024-12-02 14:37:31.21221
+2576	2277	ergebnis-hakenleitersteigen-ak-ii-mannlich-17-18.pdf	hl_male	2024-12-02 14:37:35.753205	2024-12-02 14:37:35.753205
+2577	2277	ergebnis-hakenleitersteigen-ak-ii-weiblich-17-18.pdf	hl_female	2024-12-02 14:37:40.081898	2024-12-02 14:37:40.081898
+2578	2277	ergebnis-100m-hindernisbahn-ak-i-mannlich.pdf	hb_male	2024-12-02 14:37:44.391265	2024-12-02 14:37:44.391265
+2579	2277	ergebnis-100m-hindernisbahn-ak-i-weiblich.pdf	hb_female	2024-12-02 14:38:02.019388	2024-12-02 14:38:02.019388
+2580	2277	ergebnis-5x80m-ak-ii-weiblich.pdf		2024-12-02 14:38:06.592371	2024-12-02 14:38:06.592371
+2581	2277	ergebnis-5x80m-ak-i-weiblich.pdf		2024-12-02 14:38:11.002677	2024-12-02 14:38:11.002677
+2582	2277	gesamtwertung.pdf		2024-12-02 14:38:15.009867	2024-12-02 14:38:15.009867
 \.
