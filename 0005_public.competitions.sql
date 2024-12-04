@@ -1297,7 +1297,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1297	75 Jahre FF Thalheim	204	10	\N	2005-07-09	\N	2018-01-05 20:42:47.622961	2018-01-05 20:42:47.622961		0	0	0	0	0	0	0	8	34	21	0	09.07.2005 - Thalheim, Pokallauf (75 Jahre FF Thalheim)	f	f	f	f	2005
 1298		20	6	\N	2005-07-09	\N	2018-01-05 20:44:20.774291	2018-01-05 20:44:20.774291		0	0	0	0	0	0	0	0	40	20	0	09.07.2005 - Bernburg, Kreisausscheid	f	f	f	f	2005
 1299		37	6	\N	2005-06-25	\N	2018-01-05 20:46:15.803819	2018-01-05 20:46:15.803819		0	0	0	0	0	0	0	0	48	24	0	25.06.2005 - Pretzsch, Kreisausscheid	f	f	f	f	2005
-1300		14	29	\N	2018-01-06	\N	2018-01-08 09:03:24.073303	2018-01-08 09:03:24.073303		36	58	0	0	0	0	0	0	0	24	47	06.01.2018 - Cottbus, Neujahrssteigen	f	f	f	f	2018
+1300		14	29	\N	2018-01-06	\N	2018-01-08 09:03:24.073303	2018-01-08 09:03:24.073303		78	84	0	0	0	0	0	0	0	31	73	06.01.2018 - Cottbus, Neujahrssteigen	f	f	f	f	2018
 1301	Deutschland Masters	118	10	\N	2017-08-26	\N	2018-01-08 16:19:07.307451	2018-01-08 16:19:07.307451		0	0	0	0	0	0	0	2	10	6	0	26.08.2017 - Dobareuth, Pokallauf (Deutschland Masters)	f	f	f	f	2017
 1302	30. Flämingpokallauf	232	10	\N	2011-06-11	\N	2018-01-18 08:25:08.518739	2018-01-18 08:25:08.518739		0	0	0	0	0	0	0	4	38	16	0	11.06.2011 - Reetz, Pokallauf (30. Flämingpokallauf)	f	f	f	f	2011
 1303	31. Flämingpokallauf	232	10	\N	2012-06-09	\N	2018-01-18 08:29:30.262665	2018-01-18 08:29:30.262665		0	0	0	0	0	0	0	2	32	10	0	09.06.2012 - Reetz, Pokallauf (31. Flämingpokallauf)	f	f	f	f	2012
@@ -1620,7 +1620,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1621		362	19	\N	2018-06-17	\N	2018-07-05 14:25:12.762037	2018-07-05 14:25:12.762037		0	0	4	8	0	0	0	2	16	9	6	17.06.2018 - Groß Düben, Oberlausitzpokal	f	f	f	f	2018
 1622	28. Feuerwehrtag	25	10	\N	2018-07-14	\N	2018-07-14 19:54:04.689789	2018-07-14 19:54:04.689789		0	0	0	0	0	0	0	4	26	12	0	14.07.2018 - Ostseebad Nienhagen, Pokallauf (28. Feuerwehrtag)	f	f	f	f	2018
 1623	2. Seeholzpokal	494	10	\N	2018-07-14	\N	2018-07-16 12:26:14.817261	2018-07-16 12:26:14.817261		0	0	0	0	0	0	0	6	62	21	0	14.07.2018 - Murchin, Pokallauf (2. Seeholzpokal)	f	f	f	f	2018
-1624		25	13	\N	2018-07-21	\N	2018-07-21 16:58:36.744551	2018-07-21 16:58:36.744551		12	18	12	18	0	0	0	0	0	13	18	21.07.2018 - Ostseebad Nienhagen, MV-Cup	f	f	f	f	2018
+1624		25	13	\N	2018-07-21	\N	2018-07-21 16:58:36.744551	2018-07-21 16:58:36.744551		12	24	12	18	0	0	0	0	0	14	21	21.07.2018 - Ostseebad Nienhagen, MV-Cup	f	f	f	f	2018
 1625		372	18	\N	2018-07-14	\N	2018-07-24 12:33:58.267071	2018-07-24 12:33:58.267071		0	0	4	11	0	0	0	6	24	18	15	14.07.2018 - Berge, SA-Cup	f	f	f	f	2018
 1627	Memorial Milana Kružíka Plzeň	495	10	\N	2018-05-18	\N	2018-07-27 11:32:26.001825	2018-07-27 11:32:26.001825		0	8	0	8	0	0	0	0	0	1	4	18.05.2018 - Pilsen (CZ), Pokallauf (Memorial Milana Kružíka Plzeň)	f	f	f	f	2018
 1628	2. EuregioCup	5	10	2	2018-08-04	\N	2018-08-06 06:17:26.51664	2018-08-14 11:57:25.487583		115	115	115	106	0	10	10	20	16	22	93	04.08.2018 - Zeulenroda, Pokallauf (2. EuregioCup)	t	t	t	t	2018
@@ -1658,14 +1658,14 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1661		60	6	\N	2018-05-26	\N	2018-08-27 12:00:52.494968	2018-08-27 12:00:52.494968		7	3	8	3	0	2	1	0	0	7	12	26.05.2018 - Doberlug-Kirchhain, Kreisausscheid	f	f	f	f	2018
 1662	Oldies-Cup und Oberlausitzpokal	101	19	\N	2018-07-14	\N	2018-08-27 13:33:42.885014	2018-08-27 13:33:42.885014		0	0	6	14	0	0	0	4	26	13	10	14.07.2018 - Trebendorf (Sa.), Oberlausitzpokal (Oldies-Cup und Oberlausitzpokal)	f	f	f	f	2018
 1663		77	19	\N	2018-08-25	\N	2018-08-27 18:06:29.708256	2018-08-27 18:06:29.708256		0	0	4	22	0	0	0	4	18	13	13	25.08.2018 - Lauba, Oberlausitzpokal	f	f	f	f	2018
-1664		3	13	\N	2018-08-31	\N	2018-08-31 20:46:58.368998	2018-08-31 20:46:58.368998		12	18	12	16	0	0	0	0	0	10	17	31.08.2018 - Tribsees, MV-Cup	f	f	f	f	2018
+1664		3	13	\N	2018-08-31	\N	2018-08-31 20:46:58.368998	2018-08-31 20:46:58.368998		16	22	12	16	0	0	0	0	0	12	21	31.08.2018 - Tribsees, MV-Cup	f	f	f	f	2018
 1665	Pokal des Bürgermeisters der Gemeinde Göda	394	10	\N	2018-06-16	\N	2018-09-03 20:01:26.062774	2018-09-03 20:01:26.062774		0	0	0	0	0	0	0	0	9	7	0	16.06.2018 - Birkau, Pokallauf (Pokal des Bürgermeisters der Gemeinde Göda)	f	f	f	f	2018
 1666		348	26	\N	2018-08-11	\N	2018-09-03 20:54:43.222651	2018-09-03 20:54:43.222651		0	0	0	0	0	0	0	4	15	16	0	11.08.2018 - Urbach, Thüringer Feuerwehr-Cup	f	f	f	f	2018
 1667	Gemeindeausscheid der FF Märkische Heide	454	31	\N	2018-06-23	\N	2018-09-03 21:24:56.577207	2018-09-03 21:24:56.577207		0	0	0	0	0	0	0	5	12	17	0	23.06.2018 - Dürrenhofe, Gemeindeausscheid (Gemeindeausscheid der FF Märkische Heide)	f	f	f	f	2018
 1668		386	6	\N	2018-09-06	\N	2018-09-07 13:16:34.489715	2018-09-07 13:16:34.489715		0	18	0	0	0	0	0	0	0	3	9	06.09.2018 - Techentin, Kreisausscheid	f	f	f	f	2018
 1669	17. Budissapokal und 2. Kreispokal 2018	179	10	\N	2018-08-26	\N	2018-09-07 13:30:26.661922	2018-09-07 13:30:26.661922		0	0	0	0	0	0	0	1	8	9	0	26.08.2018 - Preititz, Pokallauf (17. Budissapokal und 2. Kreispokal 2018)	f	f	f	f	2018
 1670	Pokallauf Hochkirch und 3. Kreispokal 2018	393	10	\N	2018-09-01	\N	2018-09-07 13:38:03.220946	2018-09-07 13:38:03.220946		0	0	3	7	0	0	0	1	7	10	10	01.09.2018 - Hochkirch, Pokallauf (Pokallauf Hochkirch und 3. Kreispokal 2018)	f	f	f	f	2018
-1671		1	1	2	2018-09-08	\N	2018-09-09 14:51:28.591139	2018-09-09 15:02:17.406671		76	80	80	76	5	0	0	10	10	18	86	08.09.2018 - Charlottenthal, D-Cup	t	t	t	t	2018
+1671		1	1	2	2018-09-08	\N	2018-09-09 14:51:28.591139	2018-09-09 15:02:17.406671		76	88	80	76	5	0	0	10	10	19	90	08.09.2018 - Charlottenthal, D-Cup	t	t	t	t	2018
 1672	7. Ilmtalpokal	209	26	\N	2018-09-08	\N	2018-09-12 14:15:09.139623	2019-10-17 17:39:28.156745		0	0	0	0	0	0	0	3	18	15	0	08.09.2018 - Zottelstedt, Thüringer Feuerwehr-Cup (7. Ilmtalpokal)	f	f	f	f	2018
 1673	9. Schkeuditzpokal	75	17	\N	2018-09-08	\N	2018-09-12 14:28:08.968139	2018-09-12 14:28:08.968139		0	0	0	0	0	0	0	0	52	17	0	08.09.2018 - Hayna, Feuerwehr-Cup-Sachsen (9. Schkeuditzpokal)	f	f	f	f	2018
 1674		508	11	\N	2018-09-12	\N	2018-09-12 18:55:00.747073	2018-09-18 07:51:29.596538		16	16	16	16	0	2	2	2	2	2	18	12.09.2018 - Banská Bystrica (SK), WM	t	t	t	t	2018
@@ -1992,7 +1992,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1995	Kreisausscheid MOL + 4. 4BP	275	32	\N	2019-08-17	\N	2019-08-28 11:45:11.545053	2019-10-17 17:35:42.65897	<p>Am Freitag Abend fanden in Waldsieversdorf die Einzeldisziplinen und Staffel statt. Am Samstag fanden die restlichen Diszplinen in Libbenichen statt. Dabei wurden verschiedene Wettk&auml;mpfe gleichzeitig durchgef&uuml;hrt.</p>\r\n\r\n<p>Neben dem Kreisausscheid von M&auml;rkisch Oderland galt der Wettkampf auch als 4. Lauf des 4-Bahnenpokals, Libbenichenpokal, Amtswanderpokal, Amtspokal/offener Pokal und Pokal des Amtsdirektors.<br />\r\n<br />\r\nKurze Erl&auml;uterung zu den Zeiten aus den beiden DIN-L&auml;ufen:</p>\r\n\r\n<ul>\r\n\t<li>Libbenichenpokal - alle Mannschaften</li>\r\n\t<li>Kreismeisterschaften - nur MOL</li>\r\n\t<li>Amtswanderpokal - nur Amt Seelow-Land</li>\r\n\t<li>Amtspokal/offener Pokal - Amt Seelow-Land, Amt Golzow (Lauf 1 gro&szlig;e Liste), Amt Lebus (Lauf 1 gro&szlig;e Liste) jeweils getrennt</li>\r\n\t<li>Pokal des Amtsdirektors - Amt Golzow und Amt Lebus vermutlich zusammen gewertet</li>\r\n</ul>\r\n\r\n<p>Die einzelnen Platzierungen m&uuml;ssen den PDFs entnommen werden.</p>\r\n	8	18	14	20	3	0	0	12	42	27	17	17.08.2019 - Libbenichen, 4BP (Kreisausscheid MOL + 4. 4BP)	f	f	f	f	2019
 1996		348	26	\N	2019-08-24	\N	2019-08-29 07:08:18.861412	2019-08-29 07:08:18.861412		0	0	0	0	0	0	0	10	40	18	0	24.08.2019 - Urbach, Thüringer Feuerwehr-Cup	f	f	f	f	2019
 1997	TGL-Cup	199	10	\N	2019-06-22	\N	2019-08-29 07:14:39.497463	2019-08-29 07:14:39.497463		0	0	0	0	0	0	0	8	60	20	0	22.06.2019 - Rübeland, Pokallauf (TGL-Cup)	f	f	f	f	2019
-1998	3. Lauf	1	1	2	2019-08-31	\N	2019-09-01 08:20:18.188469	2019-10-22 18:13:31.365506		74	104	82	108	11	0	0	12	16	18	103	31.08.2019 - Charlottenthal, D-Cup (3. Lauf)	t	t	t	t	2019
+1998	3. Lauf	1	1	2	2019-08-31	\N	2019-09-01 08:20:18.188469	2019-10-22 18:13:31.365506		78	106	82	108	11	0	0	12	16	20	106	31.08.2019 - Charlottenthal, D-Cup (3. Lauf)	t	t	t	t	2019
 1999	7. Erzgebirgspokal	202	10	\N	2019-06-15	\N	2019-09-06 08:56:15.817996	2019-09-06 08:56:15.817996		0	0	0	0	0	0	0	0	26	13	0	15.06.2019 - Großolbersdorf, Pokallauf (7. Erzgebirgspokal)	f	f	f	f	2019
 2000	Sachsen-Cup	316	10	\N	2019-08-24	\N	2019-09-06 08:58:07.046104	2019-09-06 15:12:29.616585		0	0	0	0	0	0	0	0	30	15	0	24.08.2019 - Bräunsdorf (Limbach-Oberfrohna), Pokallauf (Sachsen-Cup)	f	f	f	f	2019
 2001	Pokal des Bürgermeisters	601	10	\N	2019-08-31	\N	2019-09-06 08:59:40.974663	2019-09-06 08:59:40.974663		0	0	0	0	0	0	0	0	12	6	0	31.08.2019 - Neuenmörbitz, Pokallauf (Pokal des Bürgermeisters)	f	f	f	f	2019
@@ -2002,7 +2002,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2005	10. Flutlichtpokal	295	10	\N	2019-08-30	\N	2019-09-18 18:41:21.944942	2019-09-18 18:41:21.944942		0	0	0	0	0	0	0	4	92	50	0	30.08.2019 - Spornitz, Pokallauf (10. Flutlichtpokal)	f	f	f	f	2019
 2006	6. Lauf	209	26	\N	2019-09-14	\N	2019-09-18 18:53:08.443932	2019-09-18 18:53:08.443932		0	0	0	0	0	0	0	2	48	15	0	14.09.2019 - Zottelstedt, Thüringer Feuerwehr-Cup (6. Lauf)	f	f	f	f	2019
 2007	20. Inselpokal	269	10	\N	2019-09-21	\N	2019-09-22 08:30:51.657	2019-09-22 08:30:51.657		0	0	0	0	0	0	0	44	262	153	0	21.09.2019 - Poel, Pokallauf (20. Inselpokal)	f	f	f	f	2019
-2008	3. MV-Steiger- und 4. Hinderniscup	1	13	\N	2019-09-28	\N	2019-09-28 13:51:08.363783	2019-09-28 13:51:08.363783		12	26	14	25	0	0	0	0	0	16	21	28.09.2019 - Charlottenthal, MV-Cup (3. MV-Steiger- und 4. Hinderniscup)	f	f	f	f	2019
+2008	3. MV-Steiger- und 4. Hinderniscup	1	13	\N	2019-09-28	\N	2019-09-28 13:51:08.363783	2019-09-28 13:51:08.363783		14	28	14	25	0	0	0	0	0	18	23	28.09.2019 - Charlottenthal, MV-Cup (3. MV-Steiger- und 4. Hinderniscup)	f	f	f	f	2019
 2009	Kreismeisterschaften Belgern-Schildau	17	6	\N	2019-09-28	\N	2019-09-28 14:49:17.71843	2019-09-28 14:49:17.71843		0	0	0	0	0	0	0	2	8	5	0	28.09.2019 - Taura, Kreisausscheid (Kreismeisterschaften Belgern-Schildau)	f	f	f	f	2019
 2011	BB-Cup	67	16	\N	2019-08-24	\N	2019-09-28 18:00:19.099477	2019-09-28 18:00:19.099477		0	0	0	0	0	0	0	6	15	21	0	24.08.2019 - Schwanebeck, BB-Cup (BB-Cup)	f	f	f	f	2019
 2012	Landesmeisterschaften Thüringen	167	2	\N	2019-09-28	\N	2019-09-28 18:24:20.162209	2019-09-28 18:24:20.162209		0	0	0	0	0	0	0	10	38	24	0	28.09.2019 - Zella, Landesausscheid (Landesmeisterschaften Thüringen)	f	f	f	f	2019
@@ -2015,7 +2015,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2019		16	20	4	2019-10-06	\N	2019-10-10 09:31:26.535914	2019-10-10 09:32:54.289572		7	14	0	0	0	0	0	0	0	7	21	06.10.2019 - Brandis, Sächsischer Steigercup	f	f	f	f	2019
 2020	8. Ilmtalpokal	209	26	\N	2019-09-14	\N	2019-10-17 17:41:39.873089	2019-10-17 17:41:39.873089		0	0	0	0	0	0	0	2	64	20	0	14.09.2019 - Zottelstedt, Thüringer Feuerwehr-Cup (8. Ilmtalpokal)	f	f	f	f	2019
 2021	2. Flutlichtpokal	281	10	\N	2019-10-19	\N	2019-10-25 15:55:29.543878	2019-10-25 15:55:29.543878		0	0	0	0	0	0	0	2	36	16	0	19.10.2019 - Nachterstedt, Pokallauf (2. Flutlichtpokal)	f	f	f	f	2019
-2022		177	29	\N	2020-01-04	\N	2020-01-04 18:32:24.382141	2020-01-05 09:00:03.11063	<p>Die Platzierungen wurden <strong>nicht</strong> nach Bestzeit, sondern nach der <strong>Summe der beiden besseren Zeiten</strong> vergeben. Die Platzierungen sind dem angeh&auml;ngten PDF zu entnehmen.</p>\r\n	84	87	0	0	0	0	0	0	0	14	57	04.01.2020 - Jänschwalde, Neujahrssteigen	f	f	f	f	2020
+2022		177	29	\N	2020-01-04	\N	2020-01-04 18:32:24.382141	2020-01-05 09:00:03.11063	<p>Die Platzierungen wurden <strong>nicht</strong> nach Bestzeit, sondern nach der <strong>Summe der beiden besseren Zeiten</strong> vergeben. Die Platzierungen sind dem angeh&auml;ngten PDF zu entnehmen.</p>\r\n	84	129	0	0	0	0	0	0	0	18	71	04.01.2020 - Jänschwalde, Neujahrssteigen	f	f	f	f	2020
 2023	Niederer Fläming	605	15	\N	2013-04-20	\N	2020-04-21 07:33:59.50749	2020-04-21 07:33:59.50749		0	0	0	1	0	0	0	0	0	1	1	20.04.2013 - Luckenwalde, Amtsausscheid (Niederer Fläming)	f	f	f	f	2013
 2024	25. Amtsausscheid Dahme/Mark	606	15	\N	2018-06-02	\N	2020-04-21 07:37:16.226757	2020-04-21 07:37:16.226757		0	0	0	0	0	0	0	7	17	24	0	02.06.2018 - Bollensdorf, Amtsausscheid (25. Amtsausscheid Dahme/Mark)	f	f	f	f	2018
 2025	Nachtpokal	254	10	\N	2018-08-11	\N	2020-04-21 07:42:55.454582	2020-04-21 07:42:55.454582		0	0	0	0	0	0	0	0	17	17	0	11.08.2018 - Lütte, Pokallauf (Nachtpokal)	f	f	f	f	2018
@@ -2028,7 +2028,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2032	Heedebockpokal	17	10	\N	2020-08-15	\N	2020-08-22 11:47:59.433507	2020-08-22 11:47:59.433507		61	72	60	64	0	0	0	8	22	32	70	15.08.2020 - Taura, Pokallauf (Heedebockpokal)	f	f	f	f	2020
 2033	9. Ilmtalpokal	209	10	\N	2020-09-05	\N	2020-09-06 12:54:43.36562	2020-09-06 12:54:43.36562		0	0	0	0	0	0	0	2	62	19	0	05.09.2020 - Zottelstedt, Pokallauf (9. Ilmtalpokal)	f	f	f	f	2020
 2034	Amtsfeuerwehrtag Bad Doberan Land	607	15	\N	2020-09-11	\N	2020-09-11 20:03:50.371426	2020-09-11 20:03:50.371426		0	0	0	0	0	0	0	4	18	10	0	11.09.2020 - Bargeshagen , Amtsausscheid (Amtsfeuerwehrtag Bad Doberan Land)	f	f	f	f	2020
-2035	MV-Trainingswettkampf	3	13	\N	2020-09-12	\N	2020-09-13 20:34:00.001954	2020-09-13 20:34:00.001954		22	18	0	0	0	0	0	0	0	11	15	12.09.2020 - Tribsees, MV-Cup (MV-Trainingswettkampf)	f	f	f	f	2020
+2035	MV-Trainingswettkampf	3	13	\N	2020-09-12	\N	2020-09-13 20:34:00.001954	2020-09-13 20:34:00.001954		28	20	0	0	0	0	0	0	0	13	19	12.09.2020 - Tribsees, MV-Cup (MV-Trainingswettkampf)	f	f	f	f	2020
 2036	Gräfendorf-Gölsdorf-Lauf	120	10	\N	2020-09-05	\N	2020-09-28 11:36:48.233612	2020-09-28 11:36:48.233612		0	0	0	0	0	0	0	0	9	3	0	05.09.2020 - Werbig, Pokallauf (Gräfendorf-Gölsdorf-Lauf)	f	f	f	f	2020
 2037	Trainingswettkampf	18	10	\N	2020-10-03	\N	2020-10-03 15:31:42.044925	2020-10-03 15:31:42.044925		21	46	0	0	0	0	0	0	0	10	21	03.10.2020 - Nudersdorf, Pokallauf (Trainingswettkampf)	f	f	f	f	2020
 2038	2. Seddiner Königsgrabpokal	593	10	\N	2020-10-10	\N	2020-10-12 15:28:25.083959	2020-10-12 15:28:25.083959		0	0	0	0	0	0	0	4	34	19	0	10.10.2020 - Seddin (Prignitz), Pokallauf (2. Seddiner Königsgrabpokal)	f	f	f	f	2020
@@ -2039,7 +2039,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2043		2	20	\N	2021-07-11	\N	2021-08-12 09:08:18.927178	2021-08-12 09:08:18.927178		0	20	0	0	0	0	0	0	0	4	20	11.07.2021 - Narsdorf, Sächsischer Steigercup	f	f	f	f	2021
 2044	Heedebockpokal	17	10	\N	2021-08-14	\N	2021-08-14 16:44:24.612162	2021-08-14 16:44:24.612162		60	68	52	57	0	0	0	4	14	30	67	14.08.2021 - Taura, Pokallauf (Heedebockpokal)	f	f	f	f	2021
 2045	Mühlenpokal	44	10	\N	2021-08-21	\N	2021-08-23 12:31:02.196951	2021-08-23 12:31:02.196951		0	0	0	0	0	0	0	3	21	14	0	21.08.2021 - Kummer, Pokallauf (Mühlenpokal)	f	f	f	f	2021
-2046	Bahneinweihung und Feuerwehrtag	25	10	\N	2021-09-04	\N	2021-09-04 15:57:32.726638	2023-03-21 11:48:14.137081		34	40	40	36	0	0	0	4	24	23	45	04.09.2021 - Ostseebad Nienhagen, Pokallauf (Bahneinweihung und Feuerwehrtag)	f	f	f	f	2021
+2046	Bahneinweihung und Feuerwehrtag	25	10	\N	2021-09-04	\N	2021-09-04 15:57:32.726638	2023-03-21 11:48:14.137081		44	42	40	38	0	0	0	4	24	24	47	04.09.2021 - Ostseebad Nienhagen, Pokallauf (Bahneinweihung und Feuerwehrtag)	f	f	f	f	2021
 2047		18	10	\N	2021-08-28	\N	2021-09-06 12:35:29.54137	2021-09-06 12:35:29.54137		28	52	0	0	0	0	0	2	14	14	25	28.08.2021 - Nudersdorf, Pokallauf	f	f	f	f	2021
 2048	Traingswettkampf	593	10	\N	2021-09-11	\N	2021-09-13 10:53:59.015328	2021-09-13 14:31:37.997912		0	0	0	0	0	0	0	3	9	4	0	11.09.2021 - Seddin (Prignitz), Pokallauf (Traingswettkampf)	f	f	f	f	2021
 2049	Landkreis Dahme Spreewald	200	6	\N	2021-09-11	\N	2021-09-15 11:35:57.789159	2021-09-15 11:35:57.789159		14	12	14	10	0	0	0	0	0	7	13	11.09.2021 - Langengrassau, Kreisausscheid (Landkreis Dahme Spreewald)	f	f	f	f	2021
@@ -2052,8 +2052,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2056	Boizepokal 2021	193	10	\N	2021-10-02	\N	2021-10-04 12:51:47.750801	2021-10-04 12:51:47.750801		0	0	0	0	0	0	0	4	34	12	0	02.10.2021 - Schwartow, Pokallauf (Boizepokal 2021)	f	f	f	f	2021
 2057	Ostsee-Pokal	3	10	\N	2021-09-25	\N	2021-10-04 20:48:27.819848	2023-03-21 11:57:45.125921		36	42	28	32	3	0	0	6	14	13	41	25.09.2021 - Tribsees, Pokallauf (Ostsee-Pokal)	f	f	f	f	2021
 2058	25. Oderpokal & 11. Supercup	142	10	\N	2021-10-02	\N	2021-10-07 05:55:01.251586	2021-10-07 05:55:01.251586		0	0	0	0	0	0	0	2	18	10	0	02.10.2021 - Genschmar, Pokallauf (25. Oderpokal & 11. Supercup)	f	f	f	f	2021
-2059	19. Flutlichtlöschangriff Wiepke	314	10	\N	2021-10-08	\N	2021-10-13 09:47:38.091538	2021-10-13 09:47:38.091538		10	0	0	0	0	0	0	4	34	21	5	08.10.2021 - Wiepke, Pokallauf (19. Flutlichtlöschangriff Wiepke)	f	f	f	f	2021
-2060	Schlosspokallauf	18	10	\N	2022-04-30	\N	2022-05-02 07:07:41.391674	2023-03-21 11:57:35.997183		20	56	0	0	0	0	0	8	12	13	29	30.04.2022 - Nudersdorf, Pokallauf (Schlosspokallauf)	f	f	f	f	2022
+2059	19. Flutlichtlöschangriff Wiepke	314	10	\N	2021-10-08	\N	2021-10-13 09:47:38.091538	2021-10-13 09:47:38.091538		0	0	0	0	0	0	0	4	34	19	0	08.10.2021 - Wiepke, Pokallauf (19. Flutlichtlöschangriff Wiepke)	f	f	f	f	2021
+2060	Schlosspokallauf	18	10	\N	2022-04-30	\N	2022-05-02 07:07:41.391674	2023-03-21 11:57:35.997183		44	70	0	0	0	0	0	8	12	15	48	30.04.2022 - Nudersdorf, Pokallauf (Schlosspokallauf)	f	f	f	f	2022
 2061	Deutschland-Cup	386	1	2	2022-05-07	\N	2022-05-08 13:04:13.076054	2023-02-21 07:21:09.230737		92	85	89	92	6	12	10	12	18	23	96	07.05.2022 - Techentin, D-Cup (Deutschland-Cup)	t	t	t	t	2022
 2062	1. Löschfest 	609	10	\N	2022-05-07	\N	2022-05-10 11:29:34.137128	2022-05-10 11:29:34.137128		0	0	0	0	0	0	0	0	10	6	0	07.05.2022 - Mirow, Pokallauf (1. Löschfest )	f	f	f	f	2022
 2063	1. Lauf TGL-Cup 2022	219	10	\N	2022-05-07	\N	2022-05-10 11:37:08.585464	2022-05-10 11:37:08.585464		0	0	0	0	0	0	0	4	50	14	0	07.05.2022 - Garitz-Bornum, Pokallauf (1. Lauf TGL-Cup 2022)	f	f	f	f	2022
@@ -2088,7 +2088,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2092	Einweihung der FTZ Beselin	617	10	\N	2022-08-13	\N	2022-08-13 17:11:28.83372	2022-08-13 17:11:28.83372		15	17	0	0	0	0	0	0	0	8	11	13.08.2022 - Beselin, Pokallauf (Einweihung der FTZ Beselin)	f	f	f	f	2022
 2093	Gespensterwaldpokal	25	10	\N	2022-08-20	\N	2022-08-20 15:33:17.488743	2022-08-20 15:33:17.488743		16	12	14	14	0	0	0	6	24	22	16	20.08.2022 - Ostseebad Nienhagen, Pokallauf (Gespensterwaldpokal)	f	f	f	f	2022
 2094	4. Lauf  4BP	275	32	\N	2022-08-13	\N	2022-08-22 09:33:59.108786	2022-08-22 09:33:59.108786		0	0	0	0	0	0	0	2	18	10	0	13.08.2022 - Libbenichen, 4BP (4. Lauf  4BP)	f	f	f	f	2022
-2095	Heedebockpokal 	17	10	\N	2022-08-20	\N	2022-08-23 12:05:04.531838	2022-09-22 07:38:10.347517		60	41	39	27	0	0	0	6	13	23	53	20.08.2022 - Taura, Pokallauf (Heedebockpokal )	f	f	f	f	2022
+2095	Heedebockpokal 	17	10	\N	2022-08-20	\N	2022-08-23 12:05:04.531838	2022-09-22 07:38:10.347517		60	53	39	31	0	0	0	6	13	26	59	20.08.2022 - Taura, Pokallauf (Heedebockpokal )	f	f	f	f	2022
 2096	11. Flutlichpokal	295	10	\N	2022-08-26	\N	2022-08-29 12:27:41.124445	2022-08-29 12:27:41.124445		0	0	0	0	0	0	0	6	30	36	0	26.08.2022 - Spornitz, Pokallauf (11. Flutlichpokal)	f	f	f	f	2022
 2097	5. Lauf TGL-Cup 	447	33	\N	2022-08-27	\N	2022-08-31 06:55:02.424145	2022-08-31 06:55:02.424145		0	0	0	0	0	0	0	4	42	13	0	27.08.2022 - Großpillingsdorf, TGL-Cup (5. Lauf TGL-Cup )	f	f	f	f	2022
 2098	22. Inselpokal Poel	269	10	\N	2022-09-10	\N	2022-09-10 20:43:35.603563	2022-09-10 20:43:35.603563		0	0	0	0	0	0	0	31	190	111	0	10.09.2022 - Poel, Pokallauf (22. Inselpokal Poel)	f	f	f	f	2022
@@ -2099,15 +2099,15 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2103	Amt Rostocker Heide	86	15	\N	2022-09-24	\N	2022-09-24 19:49:54.601317	2022-09-24 19:49:54.601317		0	0	0	0	0	0	0	2	10	6	0	24.09.2022 - Gelbensande, Amtsausscheid (Amt Rostocker Heide)	f	f	f	f	2022
 2104	MV-Cup	125	13	\N	2022-10-08	\N	2022-10-09 09:12:17.99776	2024-11-24 20:40:17.782517		0	0	0	0	0	0	0	8	42	17	0	08.10.2022 - Schwerin, MV-Cup (MV-Cup)	f	f	f	f	2022
 2105	Herbstcup	619	10	\N	2022-10-01	\N	2022-10-12 18:05:09.398373	2022-10-12 18:05:09.398373		0	0	0	0	0	0	0	2	28	15	0	01.10.2022 - Hohewisch, Pokallauf (Herbstcup)	f	f	f	f	2022
-2106	Landesmeisterschaft Sachsen 2022	620	2	\N	2022-07-09	\N	2022-10-12 18:15:43.279146	2023-02-21 07:21:15.644516		24	38	22	48	4	2	6	6	22	15	45	09.07.2022 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen 2022)	t	t	t	t	2022
+2106	Landesmeisterschaft Sachsen 2022	620	2	\N	2022-07-09	\N	2022-10-12 18:15:43.279146	2023-02-21 07:21:15.644516		34	38	28	48	4	2	6	6	22	16	50	09.07.2022 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen 2022)	t	t	t	t	2022
 2107	Sächsischer Steigercup	2	20	\N	2022-09-24	\N	2022-10-12 20:42:15.037761	2022-10-12 20:42:15.037761		28	32	0	0	0	0	0	0	0	9	30	24.09.2022 - Narsdorf, Sächsischer Steigercup (Sächsischer Steigercup)	f	f	f	f	2022
-2108	30. Jugendfeuerwehr	1	13	\N	2022-10-22	\N	2022-10-25 06:28:37.286519	2022-10-25 06:28:37.286519		26	14	21	16	0	0	0	0	0	12	22	22.10.2022 - Charlottenthal, MV-Cup (30. Jugendfeuerwehr)	f	f	f	f	2022
+2108	30. Jugendfeuerwehr	1	13	\N	2022-10-22	\N	2022-10-25 06:28:37.286519	2022-10-25 06:28:37.286519		26	16	21	18	0	0	0	0	0	12	23	22.10.2022 - Charlottenthal, MV-Cup (30. Jugendfeuerwehr)	f	f	f	f	2022
 2109	20. Flutlichtpokal 	314	10	\N	2022-10-07	\N	2022-11-16 13:43:07.174195	2022-11-16 13:43:07.174195		0	0	0	0	0	0	0	6	60	32	0	07.10.2022 - Wiepke, Pokallauf (20. Flutlichtpokal )	f	f	f	f	2022
 2110	Adventssteigen	617	10	\N	2022-12-10	\N	2022-12-11 21:24:18.179643	2022-12-11 21:24:18.179643		9	18	0	0	0	0	0	0	0	6	9	10.12.2022 - Beselin, Pokallauf (Adventssteigen)	f	f	f	f	2022
 2111	28. Pokallauf	621	10	\N	2022-08-20	\N	2023-03-25 18:41:23.338679	2023-03-25 18:41:23.338679		0	0	6	16	0	0	0	0	0	0	11	20.08.2022 - Kloster Neuendorf, Pokallauf (28. Pokallauf)	f	f	f	f	2022
 2112	Hallenpokal	9	4	\N	2023-04-15	\N	2023-04-17 06:58:25.053698	2023-04-17 06:58:25.053698		0	0	75	62	0	0	0	0	0	16	65	15.04.2023 - Halle, Hallenpokal (Hallenpokal)	f	f	f	f	2023
 2113	Neujahrssteigen	14	29	\N	2023-01-07	\N	2023-04-17 12:24:50.960377	2023-04-17 12:24:50.960377		114	96	0	0	0	0	0	0	0	33	85	07.01.2023 - Cottbus, Neujahrssteigen (Neujahrssteigen)	f	f	f	f	2023
-2114		18	1	2	2023-04-29	\N	2023-05-02 07:46:45.021364	2023-08-03 08:41:13.714895		77	66	0	0	14	0	0	12	10	18	72	29.04.2023 - Nudersdorf, D-Cup	t	t	t	t	2023
+2114		18	1	2	2023-04-29	\N	2023-05-02 07:46:45.021364	2023-08-03 08:41:13.714895		129	94	0	0	14	0	0	12	10	31	106	29.04.2023 - Nudersdorf, D-Cup	t	t	t	t	2023
 2115	1. MV-Cup 2023	51	13	\N	2023-05-06	\N	2023-05-07 20:48:25.53734	2023-05-07 20:48:25.53734		0	0	0	0	0	0	0	6	28	17	0	06.05.2023 - Hohen Viecheln, MV-Cup (1. MV-Cup 2023)	f	f	f	f	2023
 2116	3. Lauf Ostsachsenpokal	622	10	\N	2022-09-03	\N	2023-05-10 12:47:34.244356	2023-05-10 12:47:34.244356		0	0	1	4	0	0	0	1	11	12	5	03.09.2022 - Skerbersdorf, Pokallauf (3. Lauf Ostsachsenpokal)	f	f	f	f	2022
 2117	2. Deutschland-Cup	1	1	2	2023-05-13	\N	2023-05-15 09:01:47.094842	2023-08-03 08:41:01.662563		110	87	82	79	7	0	0	12	12	24	107	13.05.2023 - Charlottenthal, D-Cup (2. Deutschland-Cup)	t	t	t	t	2023
