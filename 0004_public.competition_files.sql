@@ -2571,4 +2571,8 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2580	2277	ergebnis-5x80m-ak-ii-weiblich.pdf		2024-12-02 14:38:06.592371	2024-12-02 14:38:06.592371
 2581	2277	ergebnis-5x80m-ak-i-weiblich.pdf		2024-12-02 14:38:11.002677	2024-12-02 14:38:11.002677
 2582	2277	gesamtwertung.pdf		2024-12-02 14:38:15.009867	2024-12-02 14:38:15.009867
+2583	2278	ergebnis-hakenleitersteigen-jugend.pdf	hl_female,hl_male	2024-12-08 19:34:51.933011	2024-12-08 19:34:51.933011
+2584	2278	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-12-08 19:35:00.727783	2024-12-08 19:35:00.727783
+2585	2278	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-12-08 19:35:06.316655	2024-12-08 19:35:06.316655
+2586	2278	ergebnis-spass.pdf		2024-12-08 19:35:12.327992	2024-12-08 19:35:12.327992
 \.

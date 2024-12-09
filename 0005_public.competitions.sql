@@ -2266,4 +2266,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2275	Stadtmeisterschaft Sonnewalde	49	14	\N	2024-05-26	\N	2024-11-30 22:21:29.070344	2024-11-30 22:21:29.070344	\N	0	0	0	0	3	0	0	3	11	14	0	26.05.2024 - Sonnewalde, Stadtausscheid (Stadtmeisterschaft Sonnewalde)	f	f	f	f	2024
 2276	Kreismeisterschaften JF KFV EE 2024	60	6	\N	2024-06-15	\N	2024-12-01 15:50:43.148098	2024-12-01 15:50:43.148098	\N	0	6	2	5	0	0	0	0	0	5	6	15.06.2024 - Doberlug-Kirchhain, Kreisausscheid (Kreismeisterschaften JF KFV EE 2024)	f	f	f	f	2024
 2277	LM LJF BB 2024	654	2	\N	2024-09-14	\N	2024-12-02 14:35:55.57816	2024-12-02 14:35:55.57816	\N	40	40	42	34	0	0	0	0	0	26	53	14.09.2024 - Guben, Landesausscheid (LM LJF BB 2024)	f	f	f	f	2024
+2278	3. Adventssteigen	617	10	\N	2024-12-08	\N	2024-12-08 19:33:50.064476	2024-12-08 19:33:50.064476	\N	23	41	0	0	0	0	0	0	0	12	21	08.12.2024 - Beselin, Pokallauf (3. Adventssteigen)	f	f	f	f	2024
 \.
