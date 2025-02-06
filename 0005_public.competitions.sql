@@ -2267,4 +2267,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2276	Kreismeisterschaften JF KFV EE 2024	60	6	\N	2024-06-15	\N	2024-12-01 15:50:43.148098	2024-12-01 15:50:43.148098	\N	0	6	2	5	0	0	0	0	0	5	6	15.06.2024 - Doberlug-Kirchhain, Kreisausscheid (Kreismeisterschaften JF KFV EE 2024)	f	f	f	f	2024
 2277	LM LJF BB 2024	654	2	\N	2024-09-14	\N	2024-12-02 14:35:55.57816	2024-12-02 14:35:55.57816	\N	40	40	42	34	0	0	0	0	0	26	53	14.09.2024 - Guben, Landesausscheid (LM LJF BB 2024)	f	f	f	f	2024
 2278	3. Adventssteigen	617	10	\N	2024-12-08	\N	2024-12-08 19:33:50.064476	2024-12-08 19:33:50.064476	\N	23	41	0	0	0	0	0	0	0	12	21	08.12.2024 - Beselin, Pokallauf (3. Adventssteigen)	f	f	f	f	2024
+2279		1	1	\N	2005-05-21	\N	2025-02-05 08:07:41.779138	2025-02-05 08:07:41.779138	\N	0	0	0	76	0	0	0	0	10	11	76	21.05.2005 - Charlottenthal, D-Cup	f	f	f	f	2005
+2281	Neujahressteigen	14	10	\N	2025-01-11	\N	2025-02-05 08:36:08.468712	2025-02-05 08:36:08.468712	\N	20	24	0	0	0	0	0	0	0	13	22	11.01.2025 - Cottbus, Pokallauf (Neujahressteigen)	f	f	f	f	2025
+2282		22	1	\N	2005-06-11	\N	2025-02-05 10:05:17.830784	2025-02-05 10:05:17.830784	\N	0	0	0	0	0	0	0	0	11	11	0	11.06.2005 - Marolterode, D-Cup	f	f	f	f	2005
 \.

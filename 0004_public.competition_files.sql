@@ -2575,4 +2575,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2584	2278	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2024-12-08 19:35:00.727783	2024-12-08 19:35:00.727783
 2585	2278	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2024-12-08 19:35:06.316655	2024-12-08 19:35:06.316655
 2586	2278	ergebnis-spass.pdf		2024-12-08 19:35:12.327992	2024-12-08 19:35:12.327992
+2587	2281	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-02-05 08:37:58.002972	2025-02-05 08:37:58.002972
+2588	2281	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-02-05 08:38:03.431666	2025-02-05 08:38:03.431666
 \.
