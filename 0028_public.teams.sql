@@ -14,7 +14,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 7	Auswahl Berlin	Berlin	0	52.5170565541	13.3930206299	berlin.png	BE	2016-01-20 21:32:02.585386	2016-01-20 21:32:02.585386	2016-01-20 21:32:02.585386	22	27	{"male": {"din": {"pb": [2781, "03.06.2022 - Mühlhausen, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 8	FF Halle	Halle	1	51.4825041000	11.9705452000	halle.png	ST	2016-01-20 21:32:02.682902	2016-01-20 21:32:02.682902	2016-01-20 21:32:02.682902	35	36	{"male": {"din": {"pb": [2921, "26.09.2009 - Charlottenthal, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 9	FF Thalheim	Thalheim	1	51.6512588161	12.2279548645	thalheim_sachsenanhalt.jpg	ST	2016-01-20 21:32:02.760809	2016-01-20 21:32:02.760809	2016-01-20 21:32:02.760809	32	42	{"male": {"din": {"pb": [2425, "14.08.2010 - Thalheim, Kreisausscheid"], "sb": null}, "tgl": {"pb": [3733, "19.09.1998 - Thalheim, Landesausscheid (2. Landespokallauf im Löschangriff-Naß (Sachsen-Anhalt))"], "sb": null}}, "female": {"din": {"pb": [3238, "23.07.2008 - Böblingen, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-10	Märkisch-Oderland	MOL	0	52.2778210162	14.2142486572	mol.png	BB	2016-01-20 21:32:02.921987	2016-01-20 21:32:02.921987	2016-01-20 21:32:02.921987	73	133	{"male": {"din": {"pb": [2037, "16.06.2018 - Neschholz, BB-Cup"], "sb": null}, "tgl": {"pb": [2054, "18.05.2019 - Zerbst, Pokallauf (1. Airportpokal)"], "sb": null}}, "female": {"din": {"pb": [2778, "15.09.2012 - Charlottenthal, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+10	Märkisch-Oderland	MOL	0	52.2778210162	14.2142486572	mol.png	BB	2016-01-20 21:32:02.921987	2016-01-20 21:32:02.921987	2016-01-20 21:32:02.921987	74	133	{"male": {"din": {"pb": [2037, "16.06.2018 - Neschholz, BB-Cup"], "sb": null}, "tgl": {"pb": [2054, "18.05.2019 - Zerbst, Pokallauf (1. Airportpokal)"], "sb": null}}, "female": {"din": {"pb": [2778, "15.09.2012 - Charlottenthal, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 11	Thüringen-Auswahl	Thüringen	0	50.7333163000	11.0747905000	thueringen.m.png	TH	2016-01-20 21:32:03.010887	2018-01-25 09:51:53.657673	2018-01-25 09:51:51	123	89	{"male": {"din": {"pb": [2338, "14.07.2013 - Mulhouse (F), CTIF"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2809, "25.07.2012 - Cottbus, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 12	Team Muldental	Muldental	0	51.4458230078	12.9695963860	Muldentalkreis.png	SN	2016-01-20 21:32:03.125179	2018-06-27 20:12:27.402561	2016-01-20 21:32:03.125179	81	57	{"male": {"din": {"pb": [2400, "09.07.2022 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen 2022)"], "sb": null}, "tgl": {"pb": [2726, "14.05.2011 - Hayna, Feuerwehr-Cup-Sachsen (2. Schkeuditz Pokal)"], "sb": null}}, "female": {"din": {"pb": [3057, "31.07.2010 - Taura, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 13	FF Taura	Taura	1	51.4721613761	13.0070400238	taura.jpeg	SN	2016-01-20 21:32:03.214168	2016-01-20 21:32:03.214168	2016-01-20 21:32:03.214168	140	182	{"male": {"din": {"pb": [2239, "25.07.2012 - Cottbus, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2674, "07.05.2016 - Sitzenroda, Pokallauf (10. Quellentalpokal und 1. Lauf Extraliga Germany)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -58,7 +58,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 53	FF Grimmen	Grimmen	1	54.1128666000	13.0442375000	index.jpg	MV	2016-01-20 21:32:06.211013	2016-09-16 08:33:46.975252	2016-09-16 08:33:46.975252	10	3	{"male": {"din": {"pb": [3466, "04.09.2010 - Tribsees, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 55	FF Bollewick	Bollewick	1	53.3560542000	12.5799858000	\N	MV	2016-01-20 21:32:06.214643	2016-01-20 21:32:06.214643	2016-01-20 21:32:06.214643	6	58	{"male": {"din": {"pb": [2421, "24.08.2019 - Ludwigslust, Landesausscheid (Landesmeisterschaften Mecklenburg-Vorpommern)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3868, "27.06.2009 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 56	FF Gröningen	Gröningen	1	51.9363717000	11.2166312000	gr__ningen.png	ST	2016-01-20 21:32:06.290088	2016-01-20 21:32:06.290088	2016-01-20 21:32:06.290088	13	111	{"male": {"din": {"pb": [2615, "08.07.2023 - Böddensell, SA-Cup (4. Lauf Sachsen-Anhalt Pokal)"], "sb": null}, "tgl": {"pb": [2508, "09.06.2018 - Rübeland, Pokallauf (3. Lauf TGL-Cup)"], "sb": null}}, "female": {"din": {"pb": [3947, "05.07.2008 - Bahrendorf, Kreisausscheid (Kreismeisterschaft Altkreis Börde 2008)"], "sb": null}, "tgl": {"pb": [4241, "13.06.2009 - Gröningen, Pokallauf (8. Pokallauf)"], "sb": null}}}
-57	FF Buch	Buch	1	52.4846619333	11.9472885132	11pic_11.png	ST	2016-01-20 21:32:06.384256	2016-01-20 21:32:06.384256	2016-01-20 21:32:06.384256	5	63	{"male": {"din": {"pb": [2136, "10.09.2011 - Gollma, Landesausscheid (LM Sachsen-Anhalt)"], "sb": null}, "tgl": {"pb": [2981, "17.08.2024 - Stendal, Pokallauf (3. Stendaler Hansepokal)"], "sb": null}}, "female": {"din": {"pb": [2754, "07.07.2012 - Hohndorf, SA-Cup (4. Hohndorfer Pokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+57	FF Buch	Buch	1	52.4846619333	11.9472885132	11pic_11.png	ST	2016-01-20 21:32:06.384256	2016-01-20 21:32:06.384256	2016-01-20 21:32:06.384256	5	65	{"male": {"din": {"pb": [2136, "10.09.2011 - Gollma, Landesausscheid (LM Sachsen-Anhalt)"], "sb": null}, "tgl": {"pb": [2981, "17.08.2024 - Stendal, Pokallauf (3. Stendaler Hansepokal)"], "sb": null}}, "female": {"din": {"pb": [2754, "07.07.2012 - Hohndorf, SA-Cup (4. Hohndorfer Pokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 58	FF Helfta	Helfta	1	51.5036661000	11.5736559000	helfta.jpg	ST	2016-01-20 21:32:06.453068	2016-01-20 21:32:06.453068	2016-01-20 21:32:06.453068	6	29	{"male": {"din": {"pb": [2359, "21.08.2010 - Erdeborn, Pokallauf (130 Jahre FF Erdeborn)"], "sb": null}, "tgl": {"pb": [3945, "19.09.1998 - Thalheim, Landesausscheid (2. Landespokallauf im Löschangriff-Naß (Sachsen-Anhalt))"], "sb": null}}, "female": {"din": {"pb": [3296, "19.05.2007 - Gollma, Pokallauf (12. Parkpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 59	FF Warin	Warin	1	53.8045570430	11.7104923725	warin.jpg	MV	2016-01-20 21:32:06.540277	2016-01-20 21:32:06.540277	2016-01-20 21:32:06.540277	22	68	{"male": {"din": {"pb": [2378, "14.05.2011 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 60	FF Lossa	Lossa	1	51.2201098500	11.4137649536	lossa.jpg	ST	2016-01-20 21:32:06.635652	2016-01-20 21:32:06.635652	2016-01-20 21:32:06.635652	8	15	{"male": {"din": {"pb": [2866, "20.06.2009 - Drosa, SA-Cup (8. Pokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3458, "25.07.2012 - Cottbus, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -1162,7 +1162,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1345	WF Feuerwache Jänschwalde Mitte	Jänschwalde Mitte	1	51.8330195489	14.4628143311	\N	BB	2016-01-20 21:32:19.637718	2018-03-06 14:21:37.125154	2018-03-06 14:21:01	0	7	{"male": {"din": {"pb": [2444, "10.06.2016 - Schwarze Pumpe, Pokallauf (21. Vattenfallpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1346	FF Ihlow - Groß Neuendorf	Ihlow - Groß Neuendorf	1	\N	\N	\N	BB	2016-01-20 21:32:19.640586	2016-01-20 21:32:19.640586	2018-09-20 13:04:08.041644	0	1	{"male": {"din": {"pb": [3128, "08.06.2012 - Schwarze Pumpe, Pokallauf (17. Vattenfall-Pokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1347	FF Ammersbek	Ammersbek	1	53.6959258000	10.1908018000	\N		2016-01-20 21:32:19.643097	2016-01-20 21:32:19.643097	2018-09-20 13:04:08.041644	0	1	{"male": {"din": {"pb": [4031, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-1348	FF Schmellwitz	Schmellwitz	1	51.7862184000	14.3341500000	\N	BB	2016-01-20 21:32:19.645761	2016-01-20 21:32:19.645761	2016-01-20 21:32:19.645761	1	3	{"male": {"din": {"pb": [4089, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+1348	FF Schmellwitz	Schmellwitz	1	51.7862184000	14.3341500000	\N	BB	2016-01-20 21:32:19.645761	2016-01-20 21:32:19.645761	2016-01-20 21:32:19.645761	1	4	{"male": {"din": {"pb": [4089, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1349	FF Gablenz	Gablenz	1	51.5333028000	14.6666986000	\N	BB	2016-01-20 21:32:19.64818	2016-01-20 21:32:19.64818	2016-01-20 21:32:19.64818	0	2	{"male": {"din": {"pb": [4359, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1350	FF Klein Kölzig	Klein Kölzig	1	51.6530883000	14.5818686000	\N	BB	2016-01-20 21:32:19.650681	2016-01-20 21:32:19.650681	2016-01-20 21:32:19.650681	0	1	{"male": {"din": {"pb": [4378, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1351	FF European Firefighters	European Firefighters	1	\N	\N	\N		2016-01-20 21:32:19.654314	2016-01-20 21:32:19.654314	2018-09-20 13:04:08.041644	0	1	{"male": {"din": {"pb": [5133, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -2130,7 +2130,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2523	FF Prützke	Prützke	1	52.3483437402	12.6280975342	\N	BB	2016-01-20 21:32:27.286987	2016-01-20 21:32:27.286987	2016-01-20 21:32:27.286987	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [5288, "15.09.2007 - Krahne, Pokallauf (3. Eichengrund)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2524	SV Mannichswalde	Mannichswalde	1	50.8072364835	12.3077774048	\N	SN	2016-01-20 21:32:27.290286	2016-01-20 21:32:27.290286	2016-01-20 21:32:27.290286	0	1	{"male": {"din": {"pb": [4109, "03.10.2015 - Mannichswalde, Pokallauf (20. Grenzlandpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2525	Team MKV	MKV	0	\N	\N	\N		2016-01-20 21:32:27.293501	2018-09-20 12:58:28.849196	2018-09-20 12:58:21	0	1	{"male": {"din": {"pb": [5373, "03.10.2015 - Mannichswalde, Pokallauf (20. Grenzlandpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2526	FF Gallinchen	Gallinchen	1	51.7085232013	14.3529510498	\N	BB	2016-01-20 21:32:27.308251	2016-01-20 21:32:27.308251	2016-01-20 21:32:27.308251	1	5	{"male": {"din": {"pb": [3475, "01.10.2021 - Merzdorf, Pokallauf (21. Flutlichtpokal in Merzdorf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+2526	FF Gallinchen	Gallinchen	1	51.7085232013	14.3529510498	\N	BB	2016-01-20 21:32:27.308251	2016-01-20 21:32:27.308251	2016-01-20 21:32:27.308251	1	6	{"male": {"din": {"pb": [3475, "01.10.2021 - Merzdorf, Pokallauf (21. Flutlichtpokal in Merzdorf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2527	FF Hart-Pöllnitz	Hart-Pöllnitz	1	50.7586129614	11.9572448730	\N	TH	2016-01-20 21:32:27.322782	2016-01-20 21:32:27.322782	2016-01-20 21:32:27.322782	0	2	{"male": {"din": {"pb": [3385, "27.08.2017 - Triptis, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2528	FF Hundhaupten	Hundhaupten	1	50.8284933762	11.9867706299	\N	TH	2016-01-20 21:32:27.32604	2016-01-20 21:32:27.32604	2016-01-20 21:32:27.32604	0	1	{"male": {"din": {"pb": [5765, "29.08.2015 - Münchenbernsdorf, Amtsausscheid (22. VG-Ausscheid und offener Pokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2529	FF Bindfelde	Bindfelde	1	52.5895443372	11.9013690948	\N	ST	2016-01-20 21:32:27.329368	2016-01-20 21:32:27.329368	2016-01-20 21:32:27.329368	0	7	{"male": {"din": {"pb": [2960, "02.05.2015 - Stendal, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4049, "09.09.2017 - Teutschenthal, Landesausscheid (Sachsen-Anhalt)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3314,7 +3314,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3939	FF Ihle	Ihle	1	52.2096517000	11.9825481000	\N	ST	2024-04-29 11:56:18.355054	2024-06-24 09:24:23.190618	2024-06-24 09:24:18	0	1	{"male": {"din": {"pb": [3443, "20.04.2024 - Schmilkendorf, SA-Cup (1. SAP 2024)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3941	FF Probsthain	Probsthain	1	\N	\N	\N		2024-05-13 11:48:42.651667	2024-05-13 11:48:42.651667	\N	0	1	{"male": {"din": {"pb": [3583, "11.05.2024 - Beckwitz, TGL-Cup (2. TGL-Cup 2024)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3942	Feuerwehrsport Murchin Frauen	FWS Murchin Frauen	0	51.0000000000	13.0000000000	Murchin_mit_schrift.png	MV	2024-05-29 05:17:23.632019	2024-05-29 05:39:19.758707	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3943	Czech Republic	Czech	0	\N	\N	\N		2024-06-05 08:48:23.777742	2024-06-05 08:48:23.777742	\N	7	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+3943	Czech Republic	Czech	0	\N	\N	\N		2024-06-05 08:48:23.777742	2024-06-05 08:48:23.777742	\N	11	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3944	Feuerwehr Niederschlesien	Niederschlesien	0	\N	\N	\N		2024-06-05 08:48:57.870168	2024-06-05 08:48:57.870168	\N	5	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3945	FFW Neuenkirchen bei Anklam	FF Neuenkirchen	1	\N	\N	\N		2024-06-09 14:14:34.915287	2024-06-09 14:14:34.915287	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3946	FF Osterwieck	Osterwieck	1	\N	\N	\N		2024-06-11 18:55:09.503755	2024-06-11 18:55:09.503755	\N	0	1	{"male": {"din": {"pb": [2817, "08.06.2024 - Rübeland, TGL-Cup (3. TGL-Cup 2024)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3373,7 +3373,6 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4023	FF Plau am See	Plau am See	1	\N	\N	\N		2024-11-25 19:58:04.098405	2024-11-25 19:58:04.098405	\N	0	1	{"male": {"din": {"pb": [4557, "14.09.2024 - Neustadt-Glewe, Kreisausscheid (Kreisfeuerwehrverbandstag LUP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4024	FF Dewitz/Bretsch	Dewitz/Bretsch	1	\N	\N	\N		2024-11-25 20:01:20.655203	2024-11-25 20:01:20.655203	\N	0	1	{"male": {"din": {"pb": [2921, "17.08.2024 - Stendal, Pokallauf (3. Stendaler Hansepokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4025	Mixteam MV	Mixteam MV	0	\N	\N	\N		2024-11-25 20:11:08.442907	2024-11-25 20:11:08.442907	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4026	FF Buch-Altmark	Buch-Altmark	1	\N	\N	\N		2024-11-25 20:11:18.104433	2024-11-25 20:11:18.104433	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4027	FF Lichterfelde /Altmark	Lichterfelde /Altmark	1	\N	\N	\N		2024-11-25 20:11:21.991607	2024-11-25 20:11:21.991607	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4028	Team Plate - Neustadt	Plate - Neustadt	0	\N	\N	\N		2024-11-25 20:11:33.298032	2024-11-25 20:11:33.298032	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4029	Wettkampfteam Gemeinde Warnow	Gemeinde Warnow	0	\N	\N	\N		2024-11-25 20:11:42.734209	2024-11-25 20:11:42.734209	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3381,21 +3380,16 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4031	FF Kellinghusen	Kellinghusen	1	\N	\N	\N		2024-11-25 20:13:41.743506	2024-11-25 20:13:41.743506	\N	0	1	{"male": {"din": {"pb": [4898, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4032	Team MIFA	MIFA	0	\N	\N	\N		2024-11-25 20:16:54.76973	2024-11-25 20:16:54.76973	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4033	FF Crivitz/Demen	Crivitz/Demen	1	\N	\N	\N		2024-11-25 20:18:37.960496	2024-11-25 20:18:37.960496	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4034	FF Buch (Altmark)	Buch (Altmark)	1	\N	\N	\N		2024-11-25 20:36:05.244972	2024-11-25 20:36:05.244972	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4035	Team Dingelstädt	Dingelstädt	0	\N	\N	\N		2024-11-25 20:36:15.098817	2024-11-25 20:36:15.098817	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4037	Team Eichsfelder Kessel	Eichsfelder Kessel	0	\N	\N	\N		2024-11-25 20:36:29.893268	2024-11-25 20:36:29.893268	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4038	FF Groß Gallien	Groß Gallien	1	\N	\N	\N		2024-11-25 20:36:34.328251	2024-11-25 20:36:34.328251	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4040	Team Brüchau/Kakerbeck	Brüchau/Kakerbeck	0	\N	\N	\N		2024-11-26 09:27:39.401086	2024-11-26 09:27:39.401086	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4041	FF Strehla	Strehla	1	\N	\N	\N	\N	2024-11-29 09:53:35.203798	2024-11-29 09:53:35.203798	\N	2	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4042	Team Firesport	Firesport	0	\N	\N	\N	\N	2024-11-30 21:10:33.825785	2024-11-30 21:10:33.825785	\N	14	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4043	FF Kleinkrausnik	Kleinkrausnik	1	\N	\N	\N	\N	2024-11-30 22:21:56.029413	2024-11-30 22:21:56.029413	\N	0	1	{"male": {"din": {"pb": [4422, "26.05.2024 - Sonnewalde, Stadtausscheid (Stadtmeisterschaft Sonnewalde)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4044	FF Cottbus-Schmellwitz	Cottbus-Schmellwitz	1	\N	\N	\N	\N	2024-12-02 14:46:49.250182	2024-12-02 14:46:49.250182	\N	1	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4045	FF Cottbus-Gallinchen	Cottbus-Gallinchen	1	\N	\N	\N	\N	2024-12-02 14:47:51.174707	2024-12-02 14:47:51.174707	\N	1	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+4043	FF Kleinkrausnik	Kleinkrausnik	1	51.7353928000	13.5916012000	\N	BB	2024-11-30 22:21:56.029413	2025-02-09 19:47:06.585371	2025-02-09 19:47:04	0	1	{"male": {"din": {"pb": [4422, "26.05.2024 - Sonnewalde, Stadtausscheid (Stadtmeisterschaft Sonnewalde)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4046	FF Cottbus Saspow	Cottbus Saspow	1	\N	\N	\N	\N	2024-12-02 14:47:55.797006	2024-12-02 14:47:55.797006	\N	1	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4048	Märkisch - Oderland	Märkisch - Oderland	0	\N	\N	\N	\N	2025-02-05 08:25:09.799115	2025-02-05 08:25:09.799115	\N	13	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4049	Südthüringenauswahl	Südthüringenauswahl	0	\N	\N	\N	\N	2025-02-05 10:06:23.166389	2025-02-05 10:06:23.166389	\N	0	1	{"male": {"din": {"pb": [3160, "11.06.2005 - Marolterode, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4050	FF Borsdorf	FF Borsdorf	1	\N	\N	\N	SN	2025-02-06 14:25:45.497623	2025-02-06 14:30:30.174161	2025-02-06 14:30:17	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4052	Czech Team	Czech Team	0	\N	\N	\N	\N	2025-02-06 14:33:08.814203	2025-02-06 14:33:08.814203	\N	4	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4053	FF Borsdorf	Borsdorf	1	\N	\N	\N	SN	2025-02-06 14:33:29.47106	2025-02-06 14:56:02.113874	\N	1	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 \.
 
@@ -3404,7 +3398,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 15501, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 15521, true);
 
 
 --
@@ -3425,14 +3419,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24244, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24269, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 578, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 584, true);
 
 
 --
@@ -3453,14 +3447,14 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2282, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 47443, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 47495, true);
 
 
 --
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 364, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 370, true);
 
 
 --
@@ -3530,7 +3524,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 15495, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 15515, true);
 
 
 --
@@ -3586,14 +3580,14 @@ SELECT pg_catalog.setval('public.scores_id_seq', 46222, true);
 -- Name: series_assessments_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_assessments_id_seq', 1488, true);
+SELECT pg_catalog.setval('public.series_assessments_id_seq', 1490, true);
 
 
 --
 -- Name: series_cups_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_cups_id_seq', 1351, true);
+SELECT pg_catalog.setval('public.series_cups_id_seq', 1352, true);
 
 
 --
@@ -3607,14 +3601,14 @@ SELECT pg_catalog.setval('public.series_kinds_id_seq', 14, true);
 -- Name: series_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_participations_id_seq', 65049, true);
+SELECT pg_catalog.setval('public.series_participations_id_seq', 65067, true);
 
 
 --
 -- Name: series_rounds_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_rounds_id_seq', 102, true);
+SELECT pg_catalog.setval('public.series_rounds_id_seq', 105, true);
 
 
 --
@@ -3635,7 +3629,7 @@ SELECT pg_catalog.setval('public.tags_id_seq', 1251, true);
 -- Name: team_spellings_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.team_spellings_id_seq', 285, true);
+SELECT pg_catalog.setval('public.team_spellings_id_seq', 291, true);
 
 
 --
