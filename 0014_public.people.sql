@@ -3043,13 +3043,13 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 3985	Jakobs	Felix	1	1	2024-04-09 10:37:57.324098	2024-04-09 10:37:57.324098	0	0	18	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3986	Baunack	Carsten	1	1	2024-04-22 13:58:50.653305	2024-04-22 13:58:50.653305	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3987	Krüger	Steve	1	1	2024-04-22 14:02:37.401529	2024-04-22 14:02:37.401529	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3989	Fischer	Lynn	0	1	2024-04-22 14:04:24.889931	2024-04-22 14:04:24.889931	0	0	2	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3989	Fischer	Lynn	0	1	2024-04-22 14:04:24.889931	2024-04-22 14:04:24.889931	0	0	2	0	3	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3990	Landsmann	Leon	1	1	2024-04-22 14:04:52.477382	2024-04-22 14:04:52.477382	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3991	Peters	Paul	1	1	2024-04-22 14:05:43.858154	2024-04-22 14:05:43.858154	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3992	Krüger	Wiebke	0	1	2024-04-22 14:06:26.727238	2024-04-22 14:06:26.727238	0	0	2	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3993	Baunack	Wiebke	0	1	2024-04-22 14:06:46.024038	2024-04-22 14:06:46.024038	0	0	2	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3992	Krüger	Wiebke	0	1	2024-04-22 14:06:26.727238	2024-04-22 14:06:26.727238	0	0	2	0	3	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3993	Baunack	Wiebke	0	1	2024-04-22 14:06:46.024038	2024-04-22 14:06:46.024038	0	0	2	0	3	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3994	Doberenz	Patrick	1	1	2024-04-22 14:07:14.239039	2024-04-22 14:07:14.239039	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-3995	Milker	Hanna	0	1	2024-04-22 14:08:57.060057	2024-04-22 14:08:57.060057	0	0	0	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+3995	Milker	Hanna	0	1	2024-04-22 14:08:57.060057	2024-04-22 14:08:57.060057	0	0	0	0	3	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3996	Wagner	Paul	1	1	2024-04-25 16:26:32.397225	2024-04-25 16:26:32.397225	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3997	Beckert	Robin	1	1	2024-04-25 16:27:11.157448	2024-04-25 16:27:11.157448	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 3999	Täubert	Frank	1	1	2024-04-25 16:32:50.688459	2024-04-25 16:32:50.688459	0	0	6	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -3058,7 +3058,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4003	Roch	Oliver	1	1	2024-04-28 18:31:21.5119	2024-04-28 18:31:21.5119	6	2	2	0	0	{"pb": {"hb": [2375, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "hl": [3806, "17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)"], "zk": [6375, "17.08.2024 - Ostseebad Nienhagen, D-Cup (2. Lauf D-Cup)"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4004	Laurisch	Jörg	1	1	2024-05-04 22:31:05.070473	2024-05-04 22:31:05.070473	0	0	48	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4005	Puhlmann	Maximilian	1	1	2024-05-08 11:15:52.142797	2024-05-08 11:15:52.142797	0	0	3	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-4006	Baunack	Lyv	0	1	2024-05-09 07:18:04.385447	2024-05-09 07:18:04.385447	0	0	2	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4006	Baunack	Lyv	0	1	2024-05-09 07:18:04.385447	2024-05-09 07:18:04.385447	0	0	2	0	3	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4007	Otto	Carolin	0	1	2024-05-15 09:52:25.494091	2024-05-15 09:52:25.494091	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4008	Fischer 	Chiara	0	1	2024-05-15 09:52:56.871109	2024-05-15 09:52:56.871109	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4009	Alpert	Seline	0	1	2024-05-15 09:59:25.358124	2024-05-15 09:59:25.358124	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -3079,7 +3079,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4033	Moritz	Florentine	0	1	2024-06-05 08:52:56.850092	2024-06-05 08:52:56.850092	0	4	0	0	0	{"pb": {"hb": null, "hl": [1349, "10.08.2024 - Taura, Pokallauf (Heedebockpokal)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4034	Andreas	Anni	0	1	2024-06-05 08:52:56.860851	2024-06-05 08:52:56.860851	0	4	0	0	0	{"pb": {"hb": null, "hl": [1428, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4035	Andreas	Nele	0	1	2024-06-05 08:52:56.871538	2024-06-05 08:52:56.871538	0	2	0	0	0	{"pb": {"hb": null, "hl": [1566, "01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-4036	Landsmann	Lisa	0	1	2024-06-06 13:21:27.686939	2024-06-06 13:21:27.686939	0	0	0	0	2	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4036	Landsmann	Lisa	0	1	2024-06-06 13:21:27.686939	2024-06-06 13:21:27.686939	0	0	0	0	3	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4037	Lange	Willi-Joe	1	1	2024-06-07 10:42:06.638138	2024-06-22 21:02:45.222749	8	6	0	2	0	{"pb": {"hb": [2164, "22.06.2024 - Seelow, D-Cup (D-Cup Seelow/Gieshof )"], "hl": [2558, "21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)"], "zk": [4771, "21.09.2024 - Marolterode, D-Cup (3. Deutschland-Cup)"]}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4038	Gust	Patric	1	1	2024-06-10 18:34:03.35925	2024-06-10 18:34:03.35925	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4039	Macholett	Hannes	1	1	2024-06-10 18:34:49.896671	2024-06-10 18:34:49.896671	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
