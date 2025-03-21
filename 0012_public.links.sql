@@ -2706,4 +2706,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2772	Feuerwehr Pretzsch / Merschwitz	305	Appointment	http://ffw-pretzsch.de/	2024-08-19 08:00:11.047353	2024-08-19 08:00:11.047353
 2773	Feuerwehr Pretzsch	362	Team	http://ffw-pretzsch.de/	2024-08-19 08:04:46.201581	2024-08-19 08:04:46.201581
 2775	Facebook	306	Appointment	https://m.facebook.com/events/349415184830932/?acontext=%7B%22action_history%22:%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment	2024-08-25 19:47:15.668145	2024-08-25 19:47:15.668145
+2776	Feuerwehrverein Zechin	1493	Team	https://www.amt-golzow.de/verzeichnis/visitenkarte.php?mandat=194382	2025-03-20 10:33:42.422312	2025-03-20 10:33:42.422312
 \.

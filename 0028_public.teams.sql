@@ -1276,7 +1276,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1490	FF Sternebeck	Sternebeck	1	52.6729915000	13.9939113000	\N	BB	2016-01-20 21:32:20.610812	2016-01-20 21:32:20.610812	2016-01-20 21:32:20.610812	0	2	{"male": {"din": {"pb": [5420, "18.06.2011 - Altreetz, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1491	FF Kunersdorf	Kunersdorf	1	52.6738840634	14.1582870483	\N	BB	2016-01-20 21:32:20.63497	2016-01-20 21:32:20.63497	2016-01-20 21:32:20.63497	0	2	{"male": {"din": {"pb": [5360, "18.06.2011 - Altreetz, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1492	FF Altreetz	Altreetz	1	52.7648654000	14.1635184000	\N	BB	2016-01-20 21:32:20.638151	2016-01-20 21:32:20.638151	2016-01-20 21:32:20.638151	1	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-1493	FF Zechin	Zechin	1	52.6097319000	14.4528783000	\N	BB	2016-01-20 21:32:20.64629	2016-01-20 21:32:20.64629	2016-01-20 21:32:20.64629	0	42	{"male": {"din": {"pb": [2343, "05.10.2024 - Genschmar, 4BP (Supercup und Oderpokal / 4-Bahnenpokal)"], "sb": null}, "tgl": {"pb": [2333, "04.05.2024 - Zerkwitz, 4BP"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+1493	FF Zechin	Zechin	1	52.6097319000	14.4528783000	2025-03-19-02_Wappen_Feuerwehr_Zechin.jpg	BB	2016-01-20 21:32:20.64629	2025-03-20 12:26:11.417401	2016-01-20 21:32:20.64629	0	42	{"male": {"din": {"pb": [2343, "05.10.2024 - Genschmar, 4BP (Supercup und Oderpokal / 4-Bahnenpokal)"], "sb": null}, "tgl": {"pb": [2333, "04.05.2024 - Zerkwitz, 4BP"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1495	FF Wulkenzin	Wulkenzin	1	53.5403038000	13.1658484000	\N	MV	2016-01-20 21:32:20.648949	2016-01-20 21:32:20.648949	2016-01-20 21:32:20.648949	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3352, "26.06.2010 - Wesenberg, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1496	FF Stanomino/Pomianowo	Stanomino/Pomianowo	1	\N	\N	\N	PL	2016-01-20 21:32:20.651582	2016-01-20 21:32:20.651582	2018-09-20 13:04:08.041644	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4766, "26.06.2010 - Wesenberg, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1497	FF Blankensee	Blankensee	1	53.4042902000	13.2685526000	\N	MV	2016-01-20 21:32:20.654065	2016-01-20 21:32:20.654065	2016-01-20 21:32:20.654065	0	1	{"male": {"din": {"pb": [2545, "26.06.2010 - Wesenberg, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3398,14 +3398,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 19279, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 19287, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1009, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1010, true);
 
 
 --
@@ -3419,14 +3419,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24308, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24313, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 584, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 585, true);
 
 
 --
@@ -3447,7 +3447,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2284, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 53211, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 53226, true);
 
 
 --
@@ -3510,7 +3510,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 334, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2775, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2776, true);
 
 
 --
@@ -3524,7 +3524,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 19273, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 19281, true);
 
 
 --
@@ -3538,7 +3538,7 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4280, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4281, true);
 
 
 --

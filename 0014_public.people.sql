@@ -3315,4 +3315,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4278	Adam	Sebastian	1	1	2025-02-25 07:50:14.030585	2025-02-25 07:50:14.030585	0	2	0	0	0	{"pb": {"hb": null, "hl": [1930, "12.06.2004 - Marolterode, D-Cup"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4279	Diez	Mathias	1	1	2025-02-25 07:50:14.37295	2025-02-25 07:50:14.37295	0	2	0	0	0	{"pb": {"hb": null, "hl": [2513, "12.06.2004 - Marolterode, D-Cup"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4280	Thiemann	Marcus	1	1	2025-02-25 07:50:14.53938	2025-02-25 07:50:14.53938	0	2	0	0	0	{"pb": {"hb": null, "hl": [3930, "12.06.2004 - Marolterode, D-Cup"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4281	Glatzer	Florian	1	1	2025-03-20 10:35:47.053064	2025-03-20 10:35:47.053064	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
