@@ -389,7 +389,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 423	FF Grebs	Grebs	1	52.2539265000	12.3929612000	\N	BB	2016-01-20 21:32:12.859319	2016-01-20 21:32:12.859319	2016-01-20 21:32:12.859319	0	7	{"male": {"din": {"pb": [2670, "12.09.2010 - Lehnin, Kreisausscheid"], "sb": null}, "tgl": {"pb": [3467, "22.08.2009 - Seddin, Pokallauf (6. Seddiner See Pokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 424	FF Lug	Lug	1	51.6301655866	13.9296340942	lug.png	BB	2016-01-20 21:32:12.949909	2016-01-20 21:32:12.949909	2016-01-20 21:32:12.949909	3	65	{"male": {"din": {"pb": [2298, "11.08.2012 - Sedlitz, Pokallauf (2. Sedlitzer Nachtpokallauf)"], "sb": null}, "tgl": {"pb": [2937, "04.06.2011 - Gehren, Pokallauf (4-Bahnen-Pokal)"], "sb": null}}, "female": {"din": {"pb": [4187, "30.08.2014 - Muckwar, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 425	FF Lühsdorf	Lühsdorf	1	52.1575203000	12.9770837867	\N	BB	2016-01-20 21:32:12.974517	2016-01-20 21:32:12.974517	2016-01-20 21:32:12.974517	0	9	{"male": {"din": {"pb": [2636, "12.09.2010 - Lehnin, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-426	FF Gräfendorf	Gräfendorf	1	51.9164462707	13.1899988651	ffg-logo.jpg	BB	2016-01-20 21:32:12.977821	2018-04-01 16:22:36.363282	2016-01-20 21:32:12.977821	72	131	{"male": {"din": {"pb": [2397, "17.06.2023 - Neschholz, BB-Cup (3. Lauf BB-Cup - 37. Planepokal)"], "sb": null}, "tgl": {"pb": [2584, "04.05.2024 - Zerkwitz, 4BP"], "sb": null}}, "female": {"din": {"pb": [3172, "07.05.2016 - Neuendorf, BB-Cup (13. Pokallauf der FF Neuendorf)"], "sb": null}, "tgl": {"pb": [3956, "23.06.2012 - Neschholz, Pokallauf (28. Planepokallauf)"], "sb": null}}}
+426	FF Gräfendorf	Gräfendorf	1	51.9168036225	13.1900846958	ffg-logo.jpg	BB	2016-01-20 21:32:12.977821	2025-03-24 15:34:07.792604	2016-01-20 21:32:12.977821	72	131	{"male": {"din": {"pb": [2397, "17.06.2023 - Neschholz, BB-Cup (3. Lauf BB-Cup - 37. Planepokal)"], "sb": null}, "tgl": {"pb": [2584, "04.05.2024 - Zerkwitz, 4BP"], "sb": null}}, "female": {"din": {"pb": [3172, "07.05.2016 - Neuendorf, BB-Cup (13. Pokallauf der FF Neuendorf)"], "sb": null}, "tgl": {"pb": [3956, "23.06.2012 - Neschholz, Pokallauf (28. Planepokallauf)"], "sb": null}}}
 427	FF Hohenselchow	Hohenselchow	1	53.2037391000	14.2806247000	\N	BB	2016-01-20 21:32:12.986002	2017-08-29 09:23:25.869491	2017-08-29 09:23:25.869491	7	5	{"male": {"din": {"pb": [2472, "29.09.2012 - Hohenselchow, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 428	FF Neutrebbin	Neutrebbin	1	52.6669948000	14.2261578000	851495b6d06812a71f6916e1112547f8_wappen.jpg	BB	2016-01-20 21:32:13.050045	2016-01-20 21:32:13.050045	2016-01-20 21:32:13.050045	3	57	{"male": {"din": {"pb": [2575, "05.10.2013 - Genschmar, Pokallauf (18. Oderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2770, "15.09.2017 - Doberlug-Kirchhain, Landesausscheid (Brandenburg)"], "sb": null}, "tgl": {"pb": [3298, "09.08.2014 - Neutrebbin, Pokallauf"], "sb": null}}}
 429	FF Schöllnitz	Schöllnitz	1	51.6633300000	13.9945367000	\N	BB	2016-01-20 21:32:13.06374	2016-01-20 21:32:13.06374	2016-01-20 21:32:13.06374	1	33	{"male": {"din": {"pb": [3387, "13.08.2011 - Sedlitz, Pokallauf (1. Sedlitzer Nachtpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2825, "15.09.2017 - Doberlug-Kirchhain, Landesausscheid (Brandenburg)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -751,7 +751,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 849	FF Jüterbog	Jüterbog	1	51.9969761000	13.0820695000	\N	BB	2016-01-20 21:32:16.624981	2016-01-20 21:32:16.624981	2016-01-20 21:32:16.624981	0	4	{"male": {"din": {"pb": [4523, "30.06.2007 - Jüterbog, Kreisausscheid (Kreismeisterschaften Teltow-Fläming)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 850	FF Trebbin	Trebbin	1	52.2150361000	13.2140282000	\N	BB	2016-01-20 21:32:16.627486	2016-01-20 21:32:16.627486	2016-01-20 21:32:16.627486	0	18	{"male": {"din": {"pb": [3619, "27.06.2009 - Großbeeren, Kreisausscheid (8. Kreismeisterschaften Teltow-Fläming)"], "sb": null}, "tgl": {"pb": [4788, "24.09.2011 - Gräfendorf, Pokallauf (6. Nachtpokal Gräfendorf)"], "sb": null}}, "female": {"din": {"pb": [5150, "13.05.2017 - Trebbin, Kreisausscheid (Teltow-Fläming)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 851	FF Schönefelde	Schönefelde	1	\N	\N	\N	BB	2016-01-20 21:32:16.630592	2016-01-20 21:32:16.630592	2018-09-20 13:04:08.041644	0	1	{"male": {"din": {"pb": [4168, "30.06.2007 - Jüterbog, Kreisausscheid (Kreismeisterschaften Teltow-Fläming)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-852	FF Werbig	Werbig	1	51.9316820000	13.1934124000	\N	BB	2016-01-20 21:32:16.633294	2016-01-20 21:32:16.633294	2016-01-20 21:32:16.633294	10	38	{"male": {"din": {"pb": [2934, "03.10.2016 - Pretzsch, Pokallauf (23. Elbe-Pokal)"], "sb": null}, "tgl": {"pb": [3692, "11.06.2005 - Reetz, Pokallauf (24. Flämingpokallauf)"], "sb": null}}, "female": {"din": {"pb": [3641, "06.09.2014 - Schwanebeck, BB-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+852	FF Werbig	Werbig	1	51.9271325084	13.1902456284	\N	BB	2016-01-20 21:32:16.633294	2025-03-24 15:33:12.406678	2016-01-20 21:32:16.633294	10	38	{"male": {"din": {"pb": [2934, "03.10.2016 - Pretzsch, Pokallauf (23. Elbe-Pokal)"], "sb": null}, "tgl": {"pb": [3692, "11.06.2005 - Reetz, Pokallauf (24. Flämingpokallauf)"], "sb": null}}, "female": {"din": {"pb": [3641, "06.09.2014 - Schwanebeck, BB-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 853	FF Ludwigsfelde	Ludwigsfelde	1	52.3016096000	13.2610163000	\N	BB	2016-01-20 21:32:16.635901	2016-01-20 21:32:16.635901	2016-01-20 21:32:16.635901	0	13	{"male": {"din": {"pb": [3874, "12.07.2008 - Schönefeld, Pokallauf"], "sb": null}, "tgl": {"pb": [4945, "20.06.2009 - Neschholz, Pokallauf (25. Planepokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 854	FF Kloster Zinna	Kloster Zinna	1	52.0253168000	13.1020091599	\N	BB	2016-01-20 21:32:16.638598	2016-01-20 21:32:16.638598	2016-01-20 21:32:16.638598	0	1	{"male": {"din": {"pb": [6400, "30.06.2007 - Jüterbog, Kreisausscheid (Kreismeisterschaften Teltow-Fläming)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 855	FF Dobbrikow	Dobbrikow	1	52.1666417000	13.0632758000	\N	BB	2016-01-20 21:32:16.641552	2016-01-20 21:32:16.641552	2016-01-20 21:32:16.641552	0	11	{"male": {"din": {"pb": [2688, "13.05.2017 - Trebbin, Kreisausscheid (Teltow-Fläming)"], "sb": null}, "tgl": {"pb": [3819, "29.09.2012 - Gräfendorf, Pokallauf (7. Nachtpokal Gräfendorf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3289,7 +3289,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3909	FF Demen	Demen	1	53.6290231000	11.7634251000	\N	MV	2023-09-04 08:32:20.835565	2023-10-25 13:06:17.074336	2023-10-25 13:06:02	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3910	FF Obere Warnow	Obere Warnow	1	53.5301731000	11.8884665000	\N	MV	2023-09-04 08:32:24.146939	2023-10-25 13:05:01.868264	2023-10-25 13:05:00	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3911	FF Ländeken	Ländeken	1	\N	\N	\N		2023-09-06 08:33:43.655082	2023-09-06 08:33:43.655082	\N	0	1	{"male": {"din": {"pb": [3621, "20.05.2023 - Schlenzer, Amtsausscheid (Amtsausscheid Dahme/Mark)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3912	Team Gräfendorf/Werbig	Gräfendorf/Werbig	0	\N	\N	\N		2023-09-06 08:33:52.100592	2023-09-06 08:33:52.100592	\N	14	3	{"male": {"din": {"pb": [2394, "01.06.2024 - Görsdorf, Amtsausscheid (Dahme/Mark)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+3912	Team Gräfendorf/Werbig	Gräfendorf/Werbig	0	51.9273508384	13.1905460358	\N		2023-09-06 08:33:52.100592	2025-03-24 15:30:50.056189	\N	14	3	{"male": {"din": {"pb": [2394, "01.06.2024 - Görsdorf, Amtsausscheid (Dahme/Mark)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3913	FF Cottbus-Saspow	Cottbus-Saspow	1	51.7875894500	14.3575198209	\N	BB	2023-09-06 08:38:07.529413	2023-10-25 13:06:35.986063	2023-10-25 13:06:35	0	2	{"male": {"din": {"pb": [2741, "02.10.2023 - Merzdorf, Pokallauf (23. Flutlichtpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3914	FF Wiesenau	Wiesenau	1	52.2309612000	14.5910238000	\N	BB	2023-09-06 08:53:17.09204	2023-10-25 13:05:36.107395	2023-10-25 13:05:34	0	3	{"male": {"din": {"pb": [3017, "05.10.2024 - Genschmar, 4BP (Supercup und Oderpokal / 4-Bahnenpokal)"], "sb": null}, "tgl": {"pb": [3022, "05.10.2024 - Genschmar, 4BP (Supercup und Oderpokal / 4-Bahnenpokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3915	FF Karow Berlin	Karow Berlin	1	52.6150868000	13.4862758000	\N	BE	2023-09-17 19:33:49.776816	2023-10-25 13:04:46.406258	2023-10-25 13:04:45	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3398,14 +3398,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 19305, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 19310, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1010, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1011, true);
 
 
 --
@@ -3419,14 +3419,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24313, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24319, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 585, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 587, true);
 
 
 --
@@ -3447,7 +3447,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2284, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 53247, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 53262, true);
 
 
 --
@@ -3524,7 +3524,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 19299, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 19304, true);
 
 
 --
