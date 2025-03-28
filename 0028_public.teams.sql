@@ -39,20 +39,20 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 33	FF Drebligar	Drebligar	1	51.6279866000	12.9130234000	\N	SN	2016-01-20 21:32:05.028196	2016-01-20 21:32:05.028196	2016-01-20 21:32:05.028196	20	8	{"male": {"din": {"pb": [2969, "06.07.2008 - Brandis, Pokallauf (Sachsenpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3359, "23.07.2008 - Böblingen, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 34	FF Ballhausen	Ballhausen	1	51.1552005000	10.8863003000	1FF_Ballhausen.jpg	TH	2016-01-20 21:32:05.114275	2016-01-20 21:32:05.114275	2016-01-20 21:32:05.114275	21	17	{"male": {"din": {"pb": [2708, "10.09.2011 - Schwarzbach, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3667, "26.09.2003 - Arnstadt, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 35	FF Marolterode	Marolterode	1	51.2333000000	10.6833000000	Marolterode.png	TH	2016-01-20 21:32:05.212465	2016-01-20 21:32:05.212465	2016-01-20 21:32:05.212465	27	124	{"male": {"din": {"pb": [2238, "13.06.2009 - Marolterode, Thüringer Feuerwehr-Cup"], "sb": null}, "tgl": {"pb": [3142, "30.09.2016 - Niedersachswerfen, Pokallauf (Südharzpokal)"], "sb": null}}, "female": {"din": {"pb": [3097, "07.06.2008 - Marolterode, Thüringer Feuerwehr-Cup (Feuerwehrfest)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-36	FF Ostseebad Nienhagen	Nienhagen	1	54.1592835000	11.9547036148	nienhagen.png	MV	2016-01-20 21:32:05.320017	2016-01-20 21:32:05.320017	2016-01-20 21:32:05.320017	58	119	{"male": {"din": {"pb": [2297, "03.07.2010 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": [2495, "06.10.2018 - Genschmar, Pokallauf (9. Supercup und 22. Oderpokal)"], "sb": null}}, "female": {"din": {"pb": [2920, "02.06.2018 - Börgerende-Rethwisch, Amtsausscheid (Bad Doberan-Land)"], "sb": null}, "tgl": {"pb": [4636, "05.10.2019 - Genschmar, 4BP (Oderpokal & Supercup)"], "sb": null}}}
+36	FF Ostseebad Nienhagen	Nienhagen	1	54.1592835000	11.9547036148	nienhagen.png	MV	2016-01-20 21:32:05.320017	2016-01-20 21:32:05.320017	2016-01-20 21:32:05.320017	58	120	{"male": {"din": {"pb": [2297, "03.07.2010 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": [2495, "06.10.2018 - Genschmar, Pokallauf (9. Supercup und 22. Oderpokal)"], "sb": null}}, "female": {"din": {"pb": [2920, "02.06.2018 - Börgerende-Rethwisch, Amtsausscheid (Bad Doberan-Land)"], "sb": null}, "tgl": {"pb": [4636, "05.10.2019 - Genschmar, 4BP (Oderpokal & Supercup)"], "sb": null}}}
 37	KA Südthüringen	Südthüringen	0	50.4812682485	10.8337211609	\N	TH	2016-01-20 21:32:05.32472	2018-01-24 11:28:41.351778	2018-01-24 11:24:55	25	6	{"male": {"din": {"pb": [2740, "16.08.2008 - Frienstedt, Thüringer Feuerwehr-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3281, "23.07.2008 - Böblingen, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 38	Team Halle/Thalheim	Halle/Thalheim	0	\N	\N	\N	ST	2016-01-20 21:32:05.327265	2018-01-25 09:54:10.39336	2018-01-25 09:54:03	23	16	{"male": {"din": {"pb": [2771, "24.05.2008 - Ballhausen, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 39	Team Gamstädt/Stelzendorf	Gamstädt/Stelzendorf	0	50.6575142609	11.9232559204	\N	TH	2016-01-20 21:32:05.329837	2018-01-25 09:56:10.599858	2018-01-25 09:56:08	12	6	{"male": {"din": {"pb": [2499, "23.07.2008 - Böblingen, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 40	Auswahl Preußen	Preußen	0	52.5162208639	13.3703613281	Preussen.png	DE	2016-01-20 21:32:05.481153	2018-01-25 09:51:33.156954	2018-01-25 09:51:31	8	5	{"male": {"din": {"pb": [2333, "21.09.2024 - Dannefeld, Pokallauf (Pokallauf Dannefeld)"], "sb": null}, "tgl": {"pb": [2667, "17.08.2024 - Stendal, Pokallauf (3. Stendaler Hansepokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 41	FF Bastorf	Bastorf	1	54.1248485000	11.6992361000	Logo.png	MV	2016-01-20 21:32:05.578481	2016-01-20 21:32:05.578481	2016-01-20 21:32:05.578481	2	51	{"male": {"din": {"pb": [2768, "05.07.2014 - Lüssow, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3166, "12.06.2010 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-42	FF Hohenfelde	Hohenfelde	1	54.0790893000	11.9097721000	\N	MV	2016-01-20 21:32:05.585674	2016-01-20 21:32:05.585674	2016-01-20 21:32:05.585674	1	22	{"male": {"din": {"pb": [2902, "04.07.2009 - Dummersdorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-43	FF Admannshagen-Bargeshagen	Bargeshagen	1	54.1246790000	11.9805863541	logo.png	MV	2016-01-20 21:32:05.590871	2023-06-08 19:55:30.557311	2016-01-20 21:32:05.590871	33	45	{"male": {"din": {"pb": [2411, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"], "sb": null}, "tgl": {"pb": [3204, "20.08.2022 - Ostseebad Nienhagen, Pokallauf (Gespensterwaldpokal)"], "sb": null}}, "female": {"din": {"pb": [2984, "15.07.2023 - Ostseebad Nienhagen, Pokallauf (32. Feuerwehrtag)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+42	FF Hohenfelde	Hohenfelde	1	54.0790893000	11.9097721000	\N	MV	2016-01-20 21:32:05.585674	2016-01-20 21:32:05.585674	2016-01-20 21:32:05.585674	1	23	{"male": {"din": {"pb": [2902, "04.07.2009 - Dummersdorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+43	FF Admannshagen-Bargeshagen	Bargeshagen	1	54.1246790000	11.9805863541	logo.png	MV	2016-01-20 21:32:05.590871	2023-06-08 19:55:30.557311	2016-01-20 21:32:05.590871	33	46	{"male": {"din": {"pb": [2411, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"], "sb": null}, "tgl": {"pb": [3204, "20.08.2022 - Ostseebad Nienhagen, Pokallauf (Gespensterwaldpokal)"], "sb": null}}, "female": {"din": {"pb": [2984, "15.07.2023 - Ostseebad Nienhagen, Pokallauf (32. Feuerwehrtag)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 44	FF Rövershagen	Rövershagen	1	54.1749967000	12.2395150000	573px-Wappen_R__vershagen.svg.png	MV	2016-01-20 21:32:05.696153	2016-01-20 21:32:05.696153	2016-01-20 21:32:05.696153	3	40	{"male": {"din": {"pb": [3107, "04.07.2009 - Dummersdorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3702, "04.07.2009 - Dummersdorf, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 45	FF Merzdorf	Merzdorf	1	51.7782494757	14.3862533569	ifjdifff.jpg	BB	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	2016-01-20 21:32:05.796788	29	92	{"male": {"din": {"pb": [2186, "25.08.2012 - Wittenberg, Supercup"], "sb": null}, "tgl": {"pb": [3266, "04.09.2010 - Schwanebeck, Pokallauf (14. Schwanebecker Pokallauf)"], "sb": null}}, "female": {"din": {"pb": [2896, "09.09.2011 - Forst, Pokallauf (9. Rosenpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-46	FF Charlottenthal	Charlottenthal	1	53.6851789948	12.2668844461	charlottenthal.jpg	MV	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	78	96	{"male": {"din": {"pb": [2448, "23.06.2018 - Güstrow, Kreisausscheid (Landkreis Rostock)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2633, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+46	FF Charlottenthal	Charlottenthal	1	53.6851789948	12.2668844461	charlottenthal.jpg	MV	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	2016-01-20 21:32:05.877166	78	97	{"male": {"din": {"pb": [2448, "23.06.2018 - Güstrow, Kreisausscheid (Landkreis Rostock)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2633, "01.07.2023 - Gnoien, Kreisausscheid (LK LRO)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 47	FF Genschmar	Genschmar	1	52.6128839000	14.5121628000	genschmar.jpg	BB	2016-01-20 21:32:05.953736	2016-01-20 21:32:05.953736	2016-01-20 21:32:05.953736	35	141	{"male": {"din": {"pb": [2041, "27.05.2023 - Groß Neuendorf, 4BP (1. Lauf Brandenburger 4. Bahnenpokal)"], "sb": null}, "tgl": {"pb": [2066, "07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)"], "sb": null}}, "female": {"din": {"pb": [2763, "31.08.2024 - Schwanebeck, BB-Cup (26.Pokallauf / BB-Cup)"], "sb": null}, "tgl": {"pb": [3145, "04.05.2024 - Zerkwitz, 4BP"], "sb": null}}}
-48	FF Tribsees	Tribsees	1	54.0946272000	12.7584066000	tribsees.png	MV	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	14	37	{"male": {"din": {"pb": [2507, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4669, "18.09.2004 - Schwerin, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-50	FF Schwarz	Schwarz	1	53.2248053000	12.7860693000	\N	MV	2016-01-20 21:32:06.076995	2016-01-20 21:32:06.076995	2016-01-20 21:32:06.076995	9	40	{"male": {"din": {"pb": [3070, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+48	FF Tribsees	Tribsees	1	54.0946272000	12.7584066000	tribsees.png	MV	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	2016-01-20 21:32:06.059782	14	38	{"male": {"din": {"pb": [2507, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4669, "18.09.2004 - Schwerin, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+50	FF Schwarz	Schwarz	1	53.2248053000	12.7860693000	\N	MV	2016-01-20 21:32:06.076995	2016-01-20 21:32:06.076995	2016-01-20 21:32:06.076995	9	41	{"male": {"din": {"pb": [3070, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 51	FF Bellin	Bellin	1	53.7096469085	12.1882098913	530px-Wappen_Bellin.svg.png	MV	2016-01-20 21:32:06.18403	2016-01-20 21:32:06.18403	2016-01-20 21:32:06.18403	1	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 52	FF Lindholz	Lindholz	1	54.0570175000	12.6934406038	\N	MV	2016-01-20 21:32:06.20544	2016-01-20 21:32:06.20544	2016-01-20 21:32:06.20544	10	47	{"male": {"din": {"pb": [2531, "09.05.2015 - Schwerin, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2953, "14.05.2011 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 53	FF Grimmen	Grimmen	1	54.1128666000	13.0442375000	index.jpg	MV	2016-01-20 21:32:06.211013	2016-09-16 08:33:46.975252	2016-09-16 08:33:46.975252	10	3	{"male": {"din": {"pb": [3466, "04.09.2010 - Tribsees, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3398,14 +3398,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 19313, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 19315, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1011, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1012, true);
 
 
 --
@@ -3419,7 +3419,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24349, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24355, true);
 
 
 --
@@ -3433,21 +3433,21 @@ SELECT pg_catalog.setval('public.change_requests_id_seq', 596, true);
 -- Name: competition_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competition_files_id_seq', 2592, true);
+SELECT pg_catalog.setval('public.competition_files_id_seq', 2595, true);
 
 
 --
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 2284, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 2285, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 53294, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 53313, true);
 
 
 --
@@ -3496,14 +3496,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 84038, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 5661, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 5664, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 334, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 335, true);
 
 
 --
@@ -3524,7 +3524,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 19307, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 19309, true);
 
 
 --
@@ -3573,7 +3573,7 @@ SELECT pg_catalog.setval('public.score_types_id_seq', 5, true);
 -- Name: scores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.scores_id_seq', 46656, true);
+SELECT pg_catalog.setval('public.scores_id_seq', 46683, true);
 
 
 --
