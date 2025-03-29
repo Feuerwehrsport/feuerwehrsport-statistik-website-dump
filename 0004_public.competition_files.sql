@@ -2584,4 +2584,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2593	2285	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-03-27 20:40:02.240666	2025-03-27 20:40:02.240666
 2594	2285	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-03-27 20:40:08.614578	2025-03-27 20:40:08.614578
 2595	2285	ergebnis-100m-hindernisbahn-jugend.pdf		2025-03-27 20:40:14.713963	2025-03-27 20:40:14.713963
+2596	2286	2024-09-14graefendorf.pdf	la_female,la_male	2025-03-28 09:33:10.477522	2025-03-28 09:33:10.477522
+2597	2287	2024-08-23walddrehna.pdf	la_female	2025-03-28 09:37:17.545194	2025-03-28 09:37:17.545194
 \.

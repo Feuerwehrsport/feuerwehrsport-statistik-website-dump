@@ -2273,4 +2273,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2283		2	1	\N	2005-08-27	\N	2025-02-12 07:58:10.226633	2025-02-12 07:58:10.226633	\N	0	99	0	107	0	0	21	0	24	26	90	27.08.2005 - Narsdorf, D-Cup	f	f	f	f	2005
 2284		655	1	\N	2004-06-12	\N	2025-02-25 07:40:55.092449	2025-02-25 07:40:55.092449	\N	0	158	0	0	0	0	0	0	11	18	82	12.06.2004 - Marolterode, D-Cup	f	f	f	f	2004
 2285	MV-Hinderniscup	367	4	\N	2025-03-26	\N	2025-03-27 20:38:51.937833	2025-03-27 20:38:51.937833	\N	0	0	12	15	0	0	0	0	0	7	14	26.03.2025 - Rostock, Hallenpokal (MV-Hinderniscup)	f	f	f	f	2025
+2286	18. Nachtpokal	141	10	\N	2024-09-14	\N	2025-03-28 09:27:13.080538	2025-03-28 09:28:32.538509		0	0	0	0	0	0	0	1	24	25	0	14.09.2024 - Gräfendorf, Pokallauf (18. Nachtpokal)	f	f	f	f	2024
+2287	8. Sommernachtslauf	58	10	\N	2024-08-23	\N	2025-03-28 09:33:52.684098	2025-03-28 09:33:52.684098	\N	0	0	0	0	0	0	0	0	13	13	0	23.08.2024 - Walddrehna, Pokallauf (8. Sommernachtslauf)	f	f	f	f	2024
 \.
