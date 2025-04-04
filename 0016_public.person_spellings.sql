@@ -225,4 +225,5 @@ COPY public.person_spellings (id, person_id, last_name, first_name, gender, offi
 220	4	Müller	Melanie	0	t	2024-08-23 16:36:27.822191	2024-08-23 16:36:27.822191
 221	1077	Richter	Isabell	0	t	2025-03-14 20:35:22.369555	2025-03-14 20:35:22.369555
 222	4244	Selter	Stehen	1	f	2025-03-25 10:07:04.587785	2025-03-25 10:07:04.587785
+223	2209	Kunert	Lisa-Marie	0	t	2025-04-03 12:53:39.16316	2025-04-03 12:53:39.16316
 \.
