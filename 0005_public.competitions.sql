@@ -2277,4 +2277,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2287	8. Sommernachtslauf	58	10	\N	2024-08-23	\N	2025-03-28 09:33:52.684098	2025-03-28 09:33:52.684098	\N	0	0	0	0	0	0	0	0	13	13	0	23.08.2024 - Walddrehna, Pokallauf (8. Sommernachtslauf)	f	f	f	f	2024
 2288	Pokallauf Brü-Ka-Wu	656	10	\N	2025-04-26	\N	2025-04-28 19:09:27.413498	2025-04-28 19:09:27.413498	\N	0	0	0	0	0	0	0	5	46	20	0	26.04.2025 - Brüchau, Pokallauf (Pokallauf Brü-Ka-Wu)	f	f	f	f	2025
 2289	MV CUP Lauf 1/2025	44	13	\N	2025-04-26	\N	2025-04-30 08:28:21.847161	2025-04-30 08:28:21.847161	\N	0	0	0	0	0	0	0	16	76	30	0	26.04.2025 - Kummer, MV-Cup (MV CUP Lauf 1/2025)	f	f	f	f	2025
+2290	Pokallauf Zechin	657	10	\N	2025-05-01	\N	2025-05-02 09:31:41.202997	2025-05-02 09:31:41.202997	\N	0	0	0	0	0	0	0	12	20	8	0	01.05.2025 - Zechin, Pokallauf (Pokallauf Zechin)	f	f	f	f	2025
 \.
