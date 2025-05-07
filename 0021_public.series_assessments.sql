@@ -400,4 +400,6 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 1488	102	hw		Series::PersonAssessment	0	2024-11-16 21:56:20.549328	2024-11-16 21:56:20.549328
 1501	106	la		Series::TeamAssessment	0	2025-04-30 08:34:41.061621	2025-04-30 08:34:41.061621
 1502	106	la		Series::TeamAssessment	1	2025-04-30 08:34:41.116163	2025-04-30 08:34:41.116163
+1516	104	la		Series::TeamAssessment	0	2025-05-06 19:54:26.125375	2025-05-06 19:54:26.125375
+1517	104	la		Series::TeamAssessment	1	2025-05-06 19:54:26.155002	2025-05-06 19:54:26.155002
 \.

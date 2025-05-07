@@ -2278,4 +2278,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2288	Pokallauf Brü-Ka-Wu	656	10	\N	2025-04-26	\N	2025-04-28 19:09:27.413498	2025-04-28 19:09:27.413498	\N	0	0	0	0	0	0	0	5	46	20	0	26.04.2025 - Brüchau, Pokallauf (Pokallauf Brü-Ka-Wu)	f	f	f	f	2025
 2289	MV CUP Lauf 1/2025	44	13	\N	2025-04-26	\N	2025-04-30 08:28:21.847161	2025-04-30 08:28:21.847161	\N	0	0	0	0	0	0	0	16	76	30	0	26.04.2025 - Kummer, MV-Cup (MV CUP Lauf 1/2025)	f	f	f	f	2025
 2290	Pokallauf Zechin	657	10	\N	2025-05-01	\N	2025-05-02 09:31:41.202997	2025-05-02 09:31:41.202997	\N	0	0	0	0	0	0	0	12	20	8	0	01.05.2025 - Zechin, Pokallauf (Pokallauf Zechin)	f	f	f	f	2025
+2291	Pokallauf	658	10	\N	2025-05-03	\N	2025-05-06 14:05:24.139485	2025-05-06 14:05:24.139485	\N	0	0	0	0	0	0	0	2	24	13	0	03.05.2025 - Hohenhenningen, Pokallauf (Pokallauf)	f	f	f	f	2025
+2292	TGL-Cup	219	33	\N	2025-05-03	\N	2025-05-06 19:39:27.154855	2025-05-06 19:39:27.154855	\N	0	0	0	0	0	0	0	4	38	16	0	03.05.2025 - Garitz-Bornum, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 \.
