@@ -2280,4 +2280,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2290	Pokallauf Zechin	657	10	\N	2025-05-01	\N	2025-05-02 09:31:41.202997	2025-05-02 09:31:41.202997	\N	0	0	0	0	0	0	0	12	20	8	0	01.05.2025 - Zechin, Pokallauf (Pokallauf Zechin)	f	f	f	f	2025
 2291	Pokallauf	658	10	\N	2025-05-03	\N	2025-05-06 14:05:24.139485	2025-05-06 14:05:24.139485	\N	0	0	0	0	0	0	0	2	24	13	0	03.05.2025 - Hohenhenningen, Pokallauf (Pokallauf)	f	f	f	f	2025
 2292	TGL-Cup	219	33	\N	2025-05-03	\N	2025-05-06 19:39:27.154855	2025-05-06 19:39:27.154855	\N	0	0	0	0	0	0	0	4	38	16	0	03.05.2025 - Garitz-Bornum, TGL-Cup (TGL-Cup)	f	f	f	f	2025
+2293	TGL-Cup	498	33	\N	2025-05-10	\N	2025-05-12 16:25:18.840692	2025-05-12 16:25:18.840692	\N	0	0	0	0	0	0	0	4	68	18	0	10.05.2025 - Mupperg, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 \.
