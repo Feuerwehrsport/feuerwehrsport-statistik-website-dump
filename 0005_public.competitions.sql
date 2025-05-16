@@ -2281,4 +2281,8 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2291	Pokallauf	658	10	\N	2025-05-03	\N	2025-05-06 14:05:24.139485	2025-05-06 14:05:24.139485	\N	0	0	0	0	0	0	0	2	24	13	0	03.05.2025 - Hohenhenningen, Pokallauf (Pokallauf)	f	f	f	f	2025
 2292	TGL-Cup	219	33	\N	2025-05-03	\N	2025-05-06 19:39:27.154855	2025-05-06 19:39:27.154855	\N	0	0	0	0	0	0	0	4	38	16	0	03.05.2025 - Garitz-Bornum, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2293	TGL-Cup	498	33	\N	2025-05-10	\N	2025-05-12 16:25:18.840692	2025-05-12 16:25:18.840692	\N	0	0	0	0	0	0	0	4	68	18	0	10.05.2025 - Mupperg, TGL-Cup (TGL-Cup)	f	f	f	f	2025
+2294	MV CUP Lauf 2/2025	592	13	\N	2025-05-10	\N	2025-05-15 09:50:28.422465	2025-05-15 09:50:28.422465	\N	0	0	0	0	0	0	0	12	42	27	0	10.05.2025 - Neustadt-Glewe, MV-Cup (MV CUP Lauf 2/2025)	f	f	f	f	2025
+2295	1. Lauf SAP	33	18	\N	2025-04-26	\N	2025-05-15 09:55:06.65589	2025-05-15 09:55:06.65589	\N	0	0	0	0	0	0	0	5	42	17	0	26.04.2025 - Schmilkendorf, SA-Cup (1. Lauf SAP)	f	f	f	f	2025
+2296	Amtsauscheid des Amtes Neustadt-Glewe	619	15	\N	2025-05-10	\N	2025-05-15 10:56:39.857696	2025-05-15 10:56:39.857696	\N	0	0	0	0	0	0	0	0	8	4	0	10.05.2025 - Hohewisch, Amtsausscheid (Amtsauscheid des Amtes Neustadt-Glewe)	f	f	f	f	2025
+2297	4. Stendaler Hansepokal 2025	325	10	\N	2025-05-10	\N	2025-05-15 10:58:03.622944	2025-05-15 10:58:03.622944	\N	0	0	0	0	0	0	0	20	42	18	0	10.05.2025 - Stendal, Pokallauf (4. Stendaler Hansepokal 2025)	f	f	f	f	2025
 \.

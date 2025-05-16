@@ -2612,4 +2612,23 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2621	2293	ergebnis-loschangriff-tgl-cup-frauen.pdf	la_female	2025-05-12 16:32:45.993667	2025-05-12 16:32:45.993667
 2622	2293	ergebnis-loschangriff-tgl-cup-manner.pdf	la_male	2025-05-12 16:32:52.595741	2025-05-12 16:32:52.595741
 2623	2293	ergebnis-loschangriff-nass-din-manner-din-kreis.pdf	la_male	2025-05-12 16:32:57.325087	2025-05-12 16:32:57.325087
+2624	2294	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-05-15 09:51:27.656624	2025-05-15 09:51:27.656624
+2625	2294	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-05-15 09:51:32.273815	2025-05-15 09:51:32.273815
+2626	2294	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-05-15 09:51:36.936454	2025-05-15 09:51:36.936454
+2627	2294	ergebnis-loschangriff-nass-madchen.pdf	la_female	2025-05-15 09:51:41.289499	2025-05-15 09:51:41.289499
+2628	2295	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-05-15 09:57:02.154645	2025-05-15 09:57:02.154645
+2629	2295	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-05-15 09:57:07.11159	2025-05-15 09:57:07.11159
+2630	2295	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-05-15 09:57:12.275129	2025-05-15 09:57:12.275129
+2631	2295	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-05-15 09:57:16.918536	2025-05-15 09:57:16.918536
+2632	2295	ergebnis-loschangriff-sap-frauen.pdf	la_female	2025-05-15 09:57:22.207393	2025-05-15 09:57:22.207393
+2633	2295	ergebnis-loschangriff-sap-manner.pdf	la_male	2025-05-15 09:57:26.869971	2025-05-15 09:57:26.869971
+2634	2296	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-05-15 10:57:08.630819	2025-05-15 10:57:08.630819
+2635	2296	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-05-15 10:57:15.30881	2025-05-15 10:57:15.30881
+2636	2297	ergebnis-abschnitt-stadtausscheid-manner.pdf	la_male	2025-05-15 11:04:56.106418	2025-05-15 11:04:56.106418
+2637	2297	ergebnis-abschnitt-stadtausscheid-frauen.pdf	la_female	2025-05-15 11:05:02.083213	2025-05-15 11:05:02.083213
+2638	2297	ergebnis-abschnitt-stadtausscheid-jugend.pdf	la_female,la_male	2025-05-15 11:05:09.247757	2025-05-15 11:05:09.247757
+2639	2297	ergebnis-hansepokal-tgl.pdf	la_female,la_male	2025-05-15 11:05:16.038249	2025-05-15 11:05:16.038249
+2640	2297	ergebnis-hansepokal-din-manner.pdf	la_male	2025-05-15 11:05:21.81697	2025-05-15 11:05:21.81697
+2641	2297	ergebnis-hansepokal-din-frauen.pdf	la_female	2025-05-15 11:05:27.771975	2025-05-15 11:05:27.771975
+2642	2297	ergebnis-hansepokal-din-jugend.pdf	la_female,la_male	2025-05-15 11:05:34.625994	2025-05-15 11:05:34.625994
 \.
