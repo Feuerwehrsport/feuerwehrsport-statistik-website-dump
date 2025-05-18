@@ -2631,4 +2631,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2640	2297	ergebnis-hansepokal-din-manner.pdf	la_male	2025-05-15 11:05:21.81697	2025-05-15 11:05:21.81697
 2641	2297	ergebnis-hansepokal-din-frauen.pdf	la_female	2025-05-15 11:05:27.771975	2025-05-15 11:05:27.771975
 2642	2297	ergebnis-hansepokal-din-jugend.pdf	la_female,la_male	2025-05-15 11:05:34.625994	2025-05-15 11:05:34.625994
+2643	2298	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-05-17 12:24:21.171061	2025-05-17 12:24:21.171061
+2644	2298	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-05-17 12:24:28.876585	2025-05-17 12:24:28.876585
 \.
