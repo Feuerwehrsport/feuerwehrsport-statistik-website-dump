@@ -296,4 +296,5 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 289	57	FF Buch-Altmark	Buch-Altmark	2025-02-09 19:41:05.012882	2025-02-09 19:41:05.012882
 290	1348	FF Cottbus-Schmellwitz	Cottbus-Schmellwitz	2025-02-09 19:47:57.995063	2025-02-09 19:47:57.995063
 291	2526	FF Cottbus-Gallinchen	Cottbus-Gallinchen	2025-02-09 19:49:09.291841	2025-02-09 19:49:09.291841
+292	417	Fire Ladies Zerkwitz	Zerkwitz	2025-05-21 09:21:30.181574	2025-05-21 09:21:30.181574
 \.

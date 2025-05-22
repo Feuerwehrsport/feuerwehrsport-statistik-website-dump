@@ -24,4 +24,6 @@ COPY public.group_score_types (id, discipline, name, regular, created_at, update
 18	la	Freie Pumpe auf Dose	f	2019-06-18 18:51:44.54892	2019-06-18 18:51:44.54892
 19	la	2 B auf Dose mit TGL	f	2022-10-24 13:59:22.117703	2022-10-24 13:59:22.117703
 20	fs	WKO 2023 mit Gas-Feuer	f	2024-06-07 05:12:53.776408	2024-06-07 05:12:53.776408
+21	la	BB-Jugend	f	2025-05-21 09:51:39.07566	2025-05-21 09:51:39.07566
+22	la	MV-Jugend	f	2025-05-21 09:51:52.162718	2025-05-21 09:51:52.162718
 \.
