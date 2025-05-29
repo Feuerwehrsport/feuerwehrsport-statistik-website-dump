@@ -2289,4 +2289,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2299	Schloßpokallauf	18	10	\N	2025-04-26	\N	2025-05-21 09:08:33.116619	2025-05-21 09:09:01.713125		42	40	0	0	0	0	0	0	0	11	41	26.04.2025 - Nudersdorf, Pokallauf (Schloßpokallauf)	f	f	f	f	2025
 2300	3.Lausitzer Pokallauf / BB-Cup+4BP	208	16	\N	2025-05-17	\N	2025-05-21 09:17:34.569081	2025-05-21 09:17:34.569081	\N	0	0	0	0	0	0	0	28	92	34	0	17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)	f	f	f	f	2025
 2301	1. Dannenwalder Bekemühlenpokal	659	10	\N	2025-05-17	\N	2025-05-21 13:14:31.583764	2025-05-21 13:14:31.583764	\N	0	0	0	0	0	0	0	4	35	15	0	17.05.2025 - Dannenwalde, Pokallauf (1. Dannenwalder Bekemühlenpokal)	f	f	f	f	2025
+2302	Straguth - 2. SAP	612	18	\N	2025-05-24	\N	2025-05-28 08:38:31.712263	2025-05-28 08:38:31.712263	\N	0	0	4	8	0	0	0	14	54	20	6	24.05.2025 - Straguth, SA-Cup (Straguth - 2. SAP)	f	f	f	f	2025
+2303	Amt Warnow-West	660	15	\N	2025-05-24	\N	2025-05-28 08:44:27.49299	2025-05-28 08:44:27.49299	\N	0	0	0	0	0	0	0	2	8	5	0	24.05.2025 - Kritzmow, Amtsausscheid (Amt Warnow-West)	f	f	f	f	2025
+2304	1. Lauf Stadtpokal Dornburg-Camburg	661	10	\N	2025-05-24	\N	2025-05-28 08:47:10.288245	2025-05-28 08:47:10.288245	\N	0	0	6	6	0	0	0	0	0	3	6	24.05.2025 - Dornburg-Camburg, Pokallauf (1. Lauf Stadtpokal Dornburg-Camburg)	f	f	f	f	2025
 \.

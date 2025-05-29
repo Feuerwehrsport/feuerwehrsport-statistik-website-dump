@@ -2653,4 +2653,23 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2662	2300	ergebnis-loschangriff-nass-jugend-ak2.pdf		2025-05-21 09:23:07.831552	2025-05-21 09:23:07.831552
 2663	2300	ergebnis-jbb-cup-tageswertung-ak1.pdf		2025-05-21 09:23:12.985057	2025-05-21 09:23:12.985057
 2664	2300	ergebnis-jbb-cup-tageswertung-ak2.pdf		2025-05-21 09:23:17.579593	2025-05-21 09:23:17.579593
+2665	2301	ergebnis-trainingslauf-wko-zielgerate-manner.pdf	la_male	2025-05-28 08:37:50.019431	2025-05-28 08:37:50.019431
+2666	2301	ergebnis-loschangriff-nass-wko-dose-frauen.pdf	la_female	2025-05-28 08:37:55.433795	2025-05-28 08:37:55.433795
+2667	2301	ergebnis-loschangriff-nass-wko-dose-manner.pdf	la_male	2025-05-28 08:38:01.015626	2025-05-28 08:38:01.015626
+2668	2302	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-05-28 08:40:01.879144	2025-05-28 08:40:01.879144
+2669	2302	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-05-28 08:40:07.865566	2025-05-28 08:40:07.865566
+2670	2302	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-05-28 08:40:12.577366	2025-05-28 08:40:12.577366
+2671	2302	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-05-28 08:40:17.322653	2025-05-28 08:40:17.322653
+2672	2302	ergebnis-100m-hindernis-frauen.pdf	hb_female	2025-05-28 08:40:27.072025	2025-05-28 08:40:27.072025
+2673	2302	ergebnis-100m-hindernis-manner.pdf	hb_male	2025-05-28 08:40:32.411288	2025-05-28 08:40:32.411288
+2674	2302	ergebnis-loschangriff-frauen-sap.pdf	la_female	2025-05-28 08:40:37.77137	2025-05-28 08:40:37.77137
+2675	2302	ergebnis-loschangriff-manner-sap.pdf	la_male	2025-05-28 08:40:42.740505	2025-05-28 08:40:42.740505
+2676	2303	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-05-28 08:45:06.31688	2025-05-28 08:45:06.31688
+2677	2303	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-05-28 08:45:11.035643	2025-05-28 08:45:11.035643
+2678	2304	ergebnis-gesamtalter-der-mannschaft-84-bis-112.pdf		2025-05-28 08:47:16.543165	2025-05-28 08:47:16.543165
+2679	2304	ergebnis-gesamtalter-der-mannschaft-84-bis-112.pdf		2025-05-28 08:47:21.236643	2025-05-28 08:47:21.236643
+2680	2304	ergebnis-gesamtalter-der-mannschaft-60-bis-83.pdf		2025-05-28 08:47:25.506528	2025-05-28 08:47:25.506528
+2681	2304	ergebnis-gesamtalter-der-mannschaft-60-bis-83.pdf		2025-05-28 08:47:29.70087	2025-05-28 08:47:29.70087
+2682	2304	ergebnis-100m-hindernisbahn-jugend-m-100m-bahn.pdf		2025-05-28 08:48:52.851733	2025-05-28 08:48:52.851733
+2683	2304	ergebnis-100m-hindernisbahn-jugend-w-100m-bahn.pdf		2025-05-28 08:48:56.975139	2025-05-28 08:48:56.975139
 \.
