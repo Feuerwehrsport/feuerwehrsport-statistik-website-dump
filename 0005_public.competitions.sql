@@ -42,12 +42,12 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 35		18	10	\N	2012-04-28	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	32	0	0	0	0	0	0	0	2	16	28.04.2012 - Nudersdorf, Pokallauf	f	f	f	f	2012
 36		18	10	\N	2011-09-24	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	52	0	64	0	0	9	0	0	9	33	24.09.2011 - Nudersdorf, Pokallauf	f	f	f	f	2011
 37		9	10	\N	2011-10-01	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	71	0	0	0	0	0	0	0	7	31	01.10.2011 - Halle, Pokallauf	f	f	f	f	2011
-38		20	18	\N	2011-07-02	\N	2013-12-31 23:00:00	2018-02-06 17:43:41.654889		0	0	0	32	0	0	0	0	38	19	16	02.07.2011 - Bernburg, SA-Cup	f	f	f	f	2011
+38		20	18	\N	2011-07-02	\N	2013-12-31 23:00:00	2018-02-06 17:43:41.654889		0	0	0	32	0	0	0	0	38	19	16	02.07.2011 - Bernburg, SAP	f	f	f	f	2011
 39		18	10	\N	2010-04-24	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	30	0	0	0	0	0	0	0	3	15	24.04.2010 - Nudersdorf, Pokallauf	f	f	f	f	2010
 40		21	10	\N	2010-05-08	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	1	48	0	0	0	8	54	31	25	08.05.2010 - Buch, Pokallauf	f	f	f	f	2010
 41		22	26	\N	2010-06-05	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	46	0	0	0	0	0	7	32	19	23	05.06.2010 - Marolterode, Thüringer Feuerwehr-Cup	f	f	f	f	2010
-42	9. Pokallauf	23	18	\N	2010-06-19	\N	2013-12-31 23:00:00	2018-02-06 17:52:08.430197		0	0	0	40	0	0	0	6	38	22	20	19.06.2010 - Drosa, SA-Cup (9. Pokallauf)	f	f	f	f	2010
-43		20	18	\N	2010-07-03	\N	2013-12-31 23:00:00	2018-02-06 17:41:36.184939		0	0	0	30	0	0	0	0	38	18	15	03.07.2010 - Bernburg, SA-Cup	f	f	f	f	2010
+42	9. Pokallauf	23	18	\N	2010-06-19	\N	2013-12-31 23:00:00	2018-02-06 17:52:08.430197		0	0	0	40	0	0	0	6	38	22	20	19.06.2010 - Drosa, SAP (9. Pokallauf)	f	f	f	f	2010
+43		20	18	\N	2010-07-03	\N	2013-12-31 23:00:00	2018-02-06 17:41:36.184939		0	0	0	30	0	0	0	0	38	18	15	03.07.2010 - Bernburg, SAP	f	f	f	f	2010
 44		24	10	\N	2010-08-07	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	38	0	0	0	0	0	0	0	3	19	07.08.2010 - Helfta, Pokallauf	f	f	f	f	2010
 45		18	10	\N	2011-04-30	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	48	0	0	0	0	0	0	0	4	24	30.04.2011 - Nudersdorf, Pokallauf	f	f	f	f	2011
 46		21	10	\N	2011-05-07	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	40	0	0	0	6	46	27	20	07.05.2011 - Buch, Pokallauf	f	f	f	f	2011
@@ -184,7 +184,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 177		77	17	\N	2012-07-07	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	1	14	15	0	07.07.2012 - Lauba, Feuerwehr-Cup-Sachsen	f	f	f	f	2012
 178		78	17	\N	2012-08-04	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	0	16	8	0	04.08.2012 - Lauterhofen, Feuerwehr-Cup-Sachsen	f	f	f	f	2012
 179		48	17	\N	2012-09-29	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	4	26	15	0	29.09.2012 - Dahlen, Feuerwehr-Cup-Sachsen	f	f	f	f	2012
-180	4. Schkeuditz Pokal	75	18	\N	2013-05-25	\N	2013-12-31 23:00:00	2016-03-05 19:05:48.215872		0	0	0	22	0	0	0	2	38	20	11	25.05.2013 - Hayna, SA-Cup (4. Schkeuditz Pokal)	f	f	f	f	2013
+180	4. Schkeuditz Pokal	75	18	\N	2013-05-25	\N	2013-12-31 23:00:00	2016-03-05 19:05:48.215872		0	0	0	22	0	0	0	2	38	20	11	25.05.2013 - Hayna, SAP (4. Schkeuditz Pokal)	f	f	f	f	2013
 181		51	13	\N	2013-06-01	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	10	36	23	0	01.06.2013 - Hohen Viecheln, MV-Cup	f	f	f	f	2013
 182		65	16	\N	2013-06-01	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	16	34	25	0	01.06.2013 - Gehren, BB-Cup	f	f	f	f	2013
 183		79	19	\N	2004-06-06	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	1	8	9	0	06.06.2004 - Ostritz, Oberlausitzpokal	f	f	f	f	2004
@@ -230,7 +230,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 223	18. Vattenfallpokal	98	10	\N	2013-05-31	\N	2013-12-31 23:00:00	2016-06-21 19:26:23.389118		0	0	0	0	0	0	0	20	59	64	0	31.05.2013 - Schwarze Pumpe, Pokallauf (18. Vattenfallpokal)	f	f	f	f	2013
 224		66	16	\N	2013-06-15	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	14	40	27	0	15.06.2013 - Neschholz, BB-Cup	f	f	f	f	2013
 225		5	1	2	2013-07-06	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	94	75	99	6	10	13	6	8	24	118	06.07.2013 - Zeulenroda, D-Cup	t	t	t	t	2013
-226	Muldestauseepokal	99	18	\N	2013-07-06	\N	2013-12-31 23:00:00	2017-11-27 14:25:35.794643		0	0	0	0	0	0	0	4	18	11	0	06.07.2013 - Muldestausee, SA-Cup (Muldestauseepokal)	f	f	f	f	2013
+226	Muldestauseepokal	99	18	\N	2013-07-06	\N	2013-12-31 23:00:00	2017-11-27 14:25:35.794643		0	0	0	0	0	0	0	4	18	11	0	06.07.2013 - Muldestausee, SAP (Muldestauseepokal)	f	f	f	f	2013
 227	23. Pokallauf der Bärensäule	100	10	\N	2013-06-29	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	10	26	18	0	29.06.2013 - Weidenhain, Pokallauf (23. Pokallauf der Bärensäule)	f	f	f	f	2013
 228	2. Lauf Oberlausitz Pokal 2013	101	19	\N	2013-06-22	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	12	16	14	0	22.06.2013 - Trebendorf (Sa.), Oberlausitzpokal (2. Lauf Oberlausitz Pokal 2013)	f	f	f	f	2013
 229	1.Lauf Oberlausitz-Pokal 2013	82	19	\N	2013-06-15	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	6	24	15	0	15.06.2013 - Lawalde, Oberlausitzpokal (1.Lauf Oberlausitz-Pokal 2013)	f	f	f	f	2013
@@ -483,7 +483,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 479		215	6	\N	2005-05-07	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	3	3	0	0	0	4	4	8	6	07.05.2005 - Scharfenstein, Kreisausscheid	f	f	f	f	2005
 480	12. Flutlicht- Pokallauf	143	10	\N	2012-10-02	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	10	37	38	0	02.10.2012 - Merzdorf, Pokallauf (12. Flutlicht- Pokallauf)	f	f	f	f	2012
 481		215	10	\N	1995-04-29	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	0	8	8	0	29.04.1995 - Scharfenstein, Pokallauf	f	f	f	f	1995
-482	Rolandpokal	21	18	\N	2009-05-02	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	3	22	25	0	02.05.2009 - Buch, SA-Cup (Rolandpokal)	f	f	f	f	2009
+482	Rolandpokal	21	18	\N	2009-05-02	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	3	22	25	0	02.05.2009 - Buch, SAP (Rolandpokal)	f	f	f	f	2009
 483		193	13	\N	2014-06-14	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	6	30	18	0	14.06.2014 - Schwartow, MV-Cup	f	f	f	f	2014
 484	30. Planepokal	66	10	\N	2014-06-21	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	7	44	29	0	21.06.2014 - Neschholz, Pokallauf (30. Planepokal)	f	f	f	f	2014
 485		216	10	\N	2014-06-21	\N	2013-12-31 23:00:00	2013-12-31 23:00:00		0	0	0	0	0	0	0	2	10	6	0	21.06.2014 - Zabitz, Pokallauf	f	f	f	f	2014
@@ -835,7 +835,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 832		310	6	\N	2006-07-08	\N	2015-08-07 12:54:09	2015-08-07 12:54:09		0	0	0	0	0	0	0	1	19	20	0	08.07.2006 - Burkersdorf (Frauenstein), Kreisausscheid	f	f	f	f	2006
 833		311	6	\N	2005-10-01	\N	2015-08-07 12:56:09	2015-08-07 12:56:09		0	0	0	0	0	0	0	2	19	21	0	01.10.2005 - Halsbrücke, Kreisausscheid	f	f	f	f	2005
 834	Bürgermeisterpokal	246	10	\N	2014-08-16	\N	2015-08-10 12:04:36	2015-08-10 12:04:36		0	0	0	0	0	0	0	5	18	23	0	16.08.2014 - Seddin, Pokallauf (Bürgermeisterpokal)	f	f	f	f	2014
-835		245	18	\N	2015-08-08	\N	2015-08-10 16:26:15	2015-08-10 16:26:15		0	0	0	0	0	0	0	0	20	13	0	08.08.2015 - Blankenburg, SA-Cup	f	f	f	f	2015
+835		245	18	\N	2015-08-08	\N	2015-08-10 16:26:15	2015-08-10 16:26:15		0	0	0	0	0	0	0	0	20	13	0	08.08.2015 - Blankenburg, SAP	f	f	f	f	2015
 836		181	17	\N	2015-08-08	\N	2015-08-10 16:29:48	2015-08-10 16:29:48		0	0	0	17	0	0	0	2	50	21	17	08.08.2015 - Lauta, Feuerwehr-Cup-Sachsen	f	f	f	f	2015
 837	Nessetal-Pokal	164	26	\N	2015-08-15	\N	2015-08-16 11:23:46	2015-08-16 11:23:46		0	0	0	0	0	0	0	2	30	16	0	15.08.2015 - Gamstädt, Thüringer Feuerwehr-Cup (Nessetal-Pokal)	f	f	f	f	2015
 838		215	10	\N	2008-05-31	\N	2015-08-17 08:56:55	2015-08-17 08:56:55		0	0	0	0	0	0	0	3	18	21	0	31.05.2008 - Scharfenstein, Pokallauf	f	f	f	f	2008
@@ -1050,7 +1050,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1048		193	13	\N	2016-06-04	\N	2016-06-06 13:27:40.20401	2016-06-06 13:27:40.20401		0	0	0	0	0	0	0	6	32	19	0	04.06.2016 - Schwartow, MV-Cup	f	f	f	f	2016
 1049	Feuerwehrfest	22	26	\N	2016-06-04	\N	2016-06-06 21:14:39.89453	2016-06-06 21:14:39.89453		0	0	0	0	0	0	0	0	29	13	0	04.06.2016 - Marolterode, Thüringer Feuerwehr-Cup (Feuerwehrfest)	f	f	f	f	2016
 1050	10. Waldstadionpokallauf	65	16	\N	2016-06-04	\N	2016-06-07 08:42:21.542681	2016-06-07 08:42:21.542681		0	0	0	0	0	0	0	14	36	25	0	04.06.2016 - Gehren, BB-Cup (10. Waldstadionpokallauf)	f	f	f	f	2016
-1051	14. Pokallauf	23	18	\N	2016-06-04	\N	2016-06-07 08:51:14.09483	2016-06-07 08:51:14.09483		0	0	0	0	0	0	0	6	20	13	0	04.06.2016 - Drosa, SA-Cup (14. Pokallauf)	f	f	f	f	2016
+1051	14. Pokallauf	23	18	\N	2016-06-04	\N	2016-06-07 08:51:14.09483	2016-06-07 08:51:14.09483		0	0	0	0	0	0	0	6	20	13	0	04.06.2016 - Drosa, SAP (14. Pokallauf)	f	f	f	f	2016
 1052	4. Erzgebirgspokal	202	10	\N	2016-06-04	\N	2016-06-07 09:03:13.865054	2016-06-07 09:03:13.865054		0	0	0	0	0	0	0	0	32	9	0	04.06.2016 - Großolbersdorf, Pokallauf (4. Erzgebirgspokal)	f	f	f	f	2016
 1053	7. Wippertalpokal	220	10	\N	2016-06-04	\N	2016-06-08 20:44:29.302624	2016-06-08 20:44:29.302624		0	0	0	0	0	0	0	3	18	9	0	04.06.2016 - Wülfingerode, Pokallauf (7. Wippertalpokal)	f	f	f	f	2016
 1054		2	20	\N	2015-05-10	\N	2016-06-14 09:43:31.125773	2016-06-14 09:43:31.125773		0	16	0	0	0	0	0	0	0	4	16	10.05.2015 - Narsdorf, Sächsischer Steigercup	f	f	f	f	2015
@@ -1132,7 +1132,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1130		2	20	4	2016-06-11	\N	2016-10-13 17:27:09.860501	2016-11-02 16:31:43.701579	<p>Die 4x100-Zeiten gelten f&uuml;r die Landesmeisterschaft am <a href="https://feuerwehrsport-statistik.de/competitions/1100">20. August 2016</a> in Taura.</p>\r\n	9	27	0	0	0	3	9	0	0	9	36	11.06.2016 - Narsdorf, Sächsischer Steigercup	f	f	f	f	2016
 1131		16	20	4	2016-08-27	\N	2016-10-13 17:33:38.323005	2016-10-13 17:37:59.552778		8	22	0	0	0	0	0	0	0	8	30	27.08.2016 - Brandis, Sächsischer Steigercup	f	f	f	f	2016
 1132	12. Wanderpokallauf	207	10	\N	2016-07-23	\N	2016-10-13 19:57:41.466313	2016-10-13 19:57:41.466313		0	0	0	0	0	0	0	1	41	29	0	23.07.2016 - Willmersdorf-Stöbritz, Pokallauf (12. Wanderpokallauf)	f	f	f	f	2016
-1133	5. Lindenpokal	234	18	\N	2016-08-06	\N	2016-10-13 20:08:04.912682	2016-10-13 20:08:04.912682		0	0	0	0	0	0	0	10	84	33	0	06.08.2016 - Tryppehna, SA-Cup (5. Lindenpokal)	f	f	f	f	2016
+1133	5. Lindenpokal	234	18	\N	2016-08-06	\N	2016-10-13 20:08:04.912682	2016-10-13 20:08:04.912682		0	0	0	0	0	0	0	10	84	33	0	06.08.2016 - Tryppehna, SAP (5. Lindenpokal)	f	f	f	f	2016
 1134	Feuerwehrfest	247	10	\N	2016-08-20	\N	2016-10-13 20:19:27.4502	2016-10-13 20:19:27.4502		0	0	0	0	0	0	0	0	20	9	0	20.08.2016 - Jecha, Pokallauf (Feuerwehrfest)	f	f	f	f	2016
 1135	Tüte-Gedenklauf	246	10	\N	2016-08-20	\N	2016-10-13 20:25:00.220518	2016-10-13 20:25:00.220518		0	0	0	0	0	0	0	8	19	10	0	20.08.2016 - Seddin, Pokallauf (Tüte-Gedenklauf)	f	f	f	f	2016
 1136	Spritzenfest	248	10	\N	2016-08-27	\N	2016-10-13 20:27:56.991605	2016-10-13 20:27:56.991605		0	0	0	0	0	0	0	0	22	9	0	27.08.2016 - Mengelrode, Pokallauf (Spritzenfest)	f	f	f	f	2016
@@ -1149,7 +1149,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1147	Nachtlauf	250	10	\N	2016-09-02	\N	2016-10-14 13:27:56.085208	2016-10-14 13:27:56.085208		0	0	0	0	0	0	0	6	16	11	0	02.09.2016 - Erfurt-Waltersleben, Pokallauf (Nachtlauf)	f	f	f	f	2016
 1148	2. Sommernachtspokallauf	58	10	\N	2016-08-26	\N	2016-10-14 13:34:12.568484	2016-10-14 13:34:12.568484		0	0	0	0	0	0	0	3	12	15	0	26.08.2016 - Walddrehna, Pokallauf (2. Sommernachtspokallauf)	f	f	f	f	2016
 1149	10. Stadtpokallauf	245	10	\N	2016-08-13	\N	2016-10-14 14:39:38.04692	2018-05-24 13:45:32.472751		0	0	0	0	0	0	0	6	31	16	0	13.08.2016 - Blankenburg, Pokallauf (10. Stadtpokallauf)	f	f	f	f	2016
-1150		372	18	\N	2016-07-16	\N	2016-10-23 10:33:36.333889	2016-10-23 10:33:36.333889		0	0	0	0	0	0	0	0	34	17	0	16.07.2016 - Berge, SA-Cup	f	f	f	f	2016
+1150		372	18	\N	2016-07-16	\N	2016-10-23 10:33:36.333889	2016-10-23 10:33:36.333889		0	0	0	0	0	0	0	0	34	17	0	16.07.2016 - Berge, SAP	f	f	f	f	2016
 1151	Vorpommern-Greifswald	373	6	\N	2016-06-18	\N	2016-10-23 20:11:18.966124	2016-10-23 20:11:18.966124		0	0	0	0	0	0	0	6	21	27	0	18.06.2016 - Glasow, Kreisausscheid (Vorpommern-Greifswald)	f	f	f	f	2016
 1152	5. Flutlichtpokal	295	10	\N	2014-08-30	\N	2016-10-24 09:29:16.828692	2016-10-24 09:29:16.828692		0	0	0	0	0	0	0	4	47	47	0	30.08.2014 - Spornitz, Pokallauf (5. Flutlichtpokal)	f	f	f	f	2014
 1153	6. Flutlichtpokal	295	10	\N	2015-08-28	\N	2016-10-24 09:36:56.995103	2016-10-24 09:36:56.995103		0	0	0	0	0	0	0	4	49	51	0	28.08.2015 - Spornitz, Pokallauf (6. Flutlichtpokal)	f	f	f	f	2015
@@ -1240,17 +1240,17 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1240	2. Feuerwehrpokallauf des Landrates Nordsachsen	400	6	\N	2012-09-15	\N	2017-11-27 14:33:42.788476	2017-11-27 14:33:42.788476		0	0	0	0	0	0	0	6	39	23	0	15.09.2012 - Benndorf, Kreisausscheid (2. Feuerwehrpokallauf des Landrates Nordsachsen)	f	f	f	f	2012
 1241	Superliga	4	10	\N	2012-08-26	\N	2017-11-27 14:38:41.299985	2017-11-27 14:38:41.299985		0	0	0	0	0	0	0	0	30	10	0	26.08.2012 - Wittenberg, Pokallauf (Superliga)	f	f	f	f	2012
 1242	Feuerwehrfest	7	10	\N	2008-08-02	\N	2017-11-28 18:41:51.933572	2017-11-28 18:41:51.933572		0	0	0	0	0	0	0	5	21	11	0	02.08.2008 - Hachelbich, Pokallauf (Feuerwehrfest)	f	f	f	f	2008
-1243	7. Bürgermeisterpokal	131	18	\N	2012-08-18	\N	2017-11-28 18:48:17.188433	2017-11-28 18:48:17.188433		0	0	0	0	0	0	0	10	28	19	0	18.08.2012 - Eichstedt, SA-Cup (7. Bürgermeisterpokal)	f	f	f	f	2012
+1243	7. Bürgermeisterpokal	131	18	\N	2012-08-18	\N	2017-11-28 18:48:17.188433	2017-11-28 18:48:17.188433		0	0	0	0	0	0	0	10	28	19	0	18.08.2012 - Eichstedt, SAP (7. Bürgermeisterpokal)	f	f	f	f	2012
 1244	2. Teupitz - Cup	188	10	\N	2012-07-14	\N	2017-11-28 18:54:43.413373	2017-11-28 18:54:43.413373		0	0	0	0	0	0	0	14	59	25	0	14.07.2012 - Teupitz, Pokallauf (2. Teupitz - Cup)	f	f	f	f	2012
-1245	4. Hohndorfer Pokallauf	402	18	\N	2012-07-07	\N	2017-11-29 11:36:34.134098	2017-11-29 11:36:34.134098		0	0	0	0	0	0	0	4	16	10	0	07.07.2012 - Hohndorf, SA-Cup (4. Hohndorfer Pokallauf)	f	f	f	f	2012
-1246	11. Pokallauf	23	18	\N	2012-06-09	\N	2017-11-29 16:42:53.088922	2017-11-29 16:42:53.088922		0	0	0	0	0	0	0	8	24	16	0	09.06.2012 - Drosa, SA-Cup (11. Pokallauf)	f	f	f	f	2012
+1245	4. Hohndorfer Pokallauf	402	18	\N	2012-07-07	\N	2017-11-29 11:36:34.134098	2017-11-29 11:36:34.134098		0	0	0	0	0	0	0	4	16	10	0	07.07.2012 - Hohndorf, SAP (4. Hohndorfer Pokallauf)	f	f	f	f	2012
+1246	11. Pokallauf	23	18	\N	2012-06-09	\N	2017-11-29 16:42:53.088922	2017-11-29 16:42:53.088922		0	0	0	0	0	0	0	8	24	16	0	09.06.2012 - Drosa, SAP (11. Pokallauf)	f	f	f	f	2012
 1247	17. Parkpokallauf	32	15	\N	2012-05-19	\N	2017-11-29 16:57:26.24342	2018-01-28 20:58:02.517648		0	0	0	0	0	0	0	12	40	26	0	19.05.2012 - Gollma, Amtsausscheid (17. Parkpokallauf)	f	f	f	f	2012
-1248	4. Rolandpokal	21	18	\N	2012-05-12	\N	2017-12-14 14:15:36.399535	2017-12-14 14:15:36.399535		0	0	0	0	0	0	0	8	40	24	0	12.05.2012 - Buch, SA-Cup (4. Rolandpokal)	f	f	f	f	2012
+1248	4. Rolandpokal	21	18	\N	2012-05-12	\N	2017-12-14 14:15:36.399535	2017-12-14 14:15:36.399535		0	0	0	0	0	0	0	8	40	24	0	12.05.2012 - Buch, SAP (4. Rolandpokal)	f	f	f	f	2012
 1249	LM Sachsen-Anhalt	32	2	\N	2011-09-10	\N	2017-12-14 14:25:34.296655	2017-12-14 14:25:34.296655		0	0	0	0	0	0	0	0	74	37	0	10.09.2011 - Gollma, Landesausscheid (LM Sachsen-Anhalt)	f	f	f	f	2011
-1250	3. Hohndorfer Pokallauf	402	18	\N	2011-07-30	\N	2017-12-14 14:42:40.707458	2017-12-14 14:42:40.707458		0	0	0	0	0	0	0	4	28	16	0	30.07.2011 - Hohndorf, SA-Cup (3. Hohndorfer Pokallauf)	f	f	f	f	2011
+1250	3. Hohndorfer Pokallauf	402	18	\N	2011-07-30	\N	2017-12-14 14:42:40.707458	2017-12-14 14:42:40.707458		0	0	0	0	0	0	0	4	28	16	0	30.07.2011 - Hohndorf, SAP (3. Hohndorfer Pokallauf)	f	f	f	f	2011
 1251	1. Teupitz-Cup	188	10	\N	2011-07-09	\N	2018-01-02 16:34:24.139335	2018-01-02 16:34:24.139335		0	0	0	0	0	0	0	6	44	29	0	09.07.2011 - Teupitz, Pokallauf (1. Teupitz-Cup)	f	f	f	f	2011
 1252	KFV Wittenberg	403	6	\N	2011-06-25	\N	2018-01-02 16:47:18.891914	2018-01-02 16:47:18.891914		0	0	0	0	0	0	0	6	24	15	0	25.06.2011 - Gräfenhainichen, Kreisausscheid (KFV Wittenberg)	f	f	f	f	2011
-1253	16. Parkpokallauf	32	18	\N	2011-06-18	\N	2018-01-02 16:50:42.090184	2018-01-28 20:57:44.846757		0	0	0	0	0	0	0	8	42	25	0	18.06.2011 - Gollma, SA-Cup (16. Parkpokallauf)	f	f	f	f	2011
+1253	16. Parkpokallauf	32	18	\N	2011-06-18	\N	2018-01-02 16:50:42.090184	2018-01-28 20:57:44.846757		0	0	0	0	0	0	0	8	42	25	0	18.06.2011 - Gollma, SAP (16. Parkpokallauf)	f	f	f	f	2011
 1254	2. Schkeuditz Pokal	75	17	\N	2011-05-14	\N	2018-01-03 09:42:09.443821	2018-01-03 09:42:09.443821		0	0	0	0	0	0	0	6	40	18	0	14.05.2011 - Hayna, Feuerwehr-Cup-Sachsen (2. Schkeuditz Pokal)	f	f	f	f	2011
 1255		188	16	\N	2011-05-07	\N	2018-01-03 19:48:08.998073	2018-01-03 19:48:08.998073		0	0	0	0	0	0	0	7	31	38	0	07.05.2011 - Teupitz, BB-Cup	f	f	f	f	2011
 1256	Stadtfeuerwehrtag	303	10	\N	2010-06-26	\N	2018-01-03 19:57:28.359405	2018-01-03 19:57:28.359405		0	0	0	0	0	0	0	1	9	10	0	26.06.2010 - Kittlitz, Pokallauf (Stadtfeuerwehrtag)	f	f	f	f	2010
@@ -1261,12 +1261,12 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1261	Kreispokallauf	20	10	\N	2004-09-11	\N	2018-01-03 20:31:12.993684	2018-01-03 20:31:12.993684		0	0	0	0	0	0	0	0	18	17	0	11.09.2004 - Bernburg, Pokallauf (Kreispokallauf)	f	f	f	f	2004
 1262	15. Parkpokallauf	32	10	\N	2010-05-15	\N	2018-01-04 20:27:30.003475	2018-01-28 20:57:29.94591		0	0	0	0	0	0	0	12	66	39	0	15.05.2010 - Gollma, Pokallauf (15. Parkpokallauf)	f	f	f	f	2010
 1263	Schiefschnauzenpokal	405	10	\N	2010-05-08	\N	2018-01-04 20:34:40.335828	2018-01-04 20:34:40.335828		0	0	0	0	0	0	0	0	10	10	0	08.05.2010 - Beckwitz, Pokallauf (Schiefschnauzenpokal)	f	f	f	f	2010
-1264	10.Wasserturmpokallauf	61	18	\N	2009-09-05	\N	2018-01-04 20:38:02.652425	2018-02-12 11:55:46.559353		0	0	0	0	0	0	0	0	23	12	0	05.09.2009 - Reinsdorf, SA-Cup (10.Wasserturmpokallauf)	f	f	f	f	2009
+1264	10.Wasserturmpokallauf	61	18	\N	2009-09-05	\N	2018-01-04 20:38:02.652425	2018-02-12 11:55:46.559353		0	0	0	0	0	0	0	0	23	12	0	05.09.2009 - Reinsdorf, SAP (10.Wasserturmpokallauf)	f	f	f	f	2009
 1265	Feuerwehrfest	216	10	\N	2009-08-22	\N	2018-01-04 20:41:29.125122	2018-01-04 20:41:29.125122		0	0	0	0	0	0	0	2	12	7	0	22.08.2009 - Zabitz, Pokallauf (Feuerwehrfest)	f	f	f	f	2009
 1266	6. Seddiner See Pokallauf	246	10	\N	2009-08-22	\N	2018-01-04 20:47:26.40879	2018-01-04 20:52:21.860564		0	0	0	0	0	0	0	6	57	22	0	22.08.2009 - Seddin, Pokallauf (6. Seddiner See Pokallauf)	f	f	f	f	2009
-1267	5. Pokallauf	20	18	\N	2009-07-04	\N	2018-01-04 20:56:02.352935	2018-01-04 20:58:41.765159		0	0	0	0	0	0	0	2	36	19	0	04.07.2009 - Bernburg, SA-Cup (5. Pokallauf)	f	f	f	f	2009
+1267	5. Pokallauf	20	18	\N	2009-07-04	\N	2018-01-04 20:56:02.352935	2018-01-04 20:58:41.765159		0	0	0	0	0	0	0	2	36	19	0	04.07.2009 - Bernburg, SAP (5. Pokallauf)	f	f	f	f	2009
 1268	Feuerwehrfest	167	10	\N	2009-07-04	\N	2018-01-04 21:00:03.553995	2018-01-04 21:00:03.553995		0	0	0	0	0	0	0	4	21	11	0	04.07.2009 - Zella, Pokallauf (Feuerwehrfest)	f	f	f	f	2009
-1269	8. Pokallauf	23	18	\N	2009-06-20	\N	2018-01-04 21:03:08.097895	2018-01-04 21:03:08.097895		0	0	0	0	0	0	0	2	38	20	0	20.06.2009 - Drosa, SA-Cup (8. Pokallauf)	f	f	f	f	2009
+1269	8. Pokallauf	23	18	\N	2009-06-20	\N	2018-01-04 21:03:08.097895	2018-01-04 21:03:08.097895		0	0	0	0	0	0	0	2	38	20	0	20.06.2009 - Drosa, SAP (8. Pokallauf)	f	f	f	f	2009
 1270	3. REMA-Cup	135	10	\N	2009-06-13	\N	2018-01-04 21:06:21.269412	2018-01-04 21:06:21.269412		0	0	0	0	0	0	0	6	32	19	0	13.06.2009 - Preußnitz, Pokallauf (3. REMA-Cup)	f	f	f	f	2009
 1271	85 Jahre FF Hayna	75	10	\N	2009-05-16	\N	2018-01-04 21:10:12.217653	2018-01-04 21:10:12.217653		0	0	0	0	0	0	0	8	50	21	0	16.05.2009 - Hayna, Pokallauf (85 Jahre FF Hayna)	f	f	f	f	2009
 1272	2. Spreewald-Cup	71	10	\N	2009-05-16	\N	2018-01-04 21:28:11.364549	2018-01-04 21:28:11.364549		0	0	0	0	0	0	0	14	37	34	0	16.05.2009 - Klein Radden, Pokallauf (2. Spreewald-Cup)	f	f	f	f	2009
@@ -1366,7 +1366,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1367	8. Seenlandpokal	76	17	\N	2017-05-06	\N	2018-02-15 20:17:07.440079	2018-02-15 20:17:07.440079		0	0	0	0	0	0	0	2	26	14	0	06.05.2017 - Bluno, Feuerwehr-Cup-Sachsen (8. Seenlandpokal)	f	f	f	f	2017
 1368	Nessetalpokal	164	26	\N	2017-08-19	\N	2018-02-15 20:30:31.409491	2018-02-15 20:30:31.409491		0	0	0	0	0	0	0	6	38	18	0	19.08.2017 - Gamstädt, Thüringer Feuerwehr-Cup (Nessetalpokal)	f	f	f	f	2017
 1369	Feuerwehrfest	27	10	\N	2017-06-24	\N	2018-02-15 20:37:17.399454	2018-02-15 20:37:17.399454		0	0	0	0	0	0	0	6	18	9	0	24.06.2017 - Tüttleben, Pokallauf (Feuerwehrfest)	f	f	f	f	2017
-1370	11. Stadtpokallauf	245	18	\N	2017-08-19	\N	2018-02-15 20:45:25.865028	2018-05-24 13:45:19.983388		0	0	0	0	0	0	0	4	26	10	0	19.08.2017 - Blankenburg, SA-Cup (11. Stadtpokallauf)	f	f	f	f	2017
+1370	11. Stadtpokallauf	245	18	\N	2017-08-19	\N	2018-02-15 20:45:25.865028	2018-05-24 13:45:19.983388		0	0	0	0	0	0	0	4	26	10	0	19.08.2017 - Blankenburg, SAP (11. Stadtpokallauf)	f	f	f	f	2017
 1371		233	26	\N	2017-07-15	\N	2018-02-15 20:56:11.721806	2018-02-15 20:56:11.721806		0	0	0	0	0	0	0	8	36	20	0	15.07.2017 - Kleinbrüchter, Thüringer Feuerwehr-Cup	f	f	f	f	2017
 1372	Feuerwehrfest	299	10	\N	2017-05-20	\N	2018-02-15 21:05:51.994161	2018-02-15 21:05:51.994161		0	0	0	0	0	0	0	3	25	12	0	20.05.2017 - Branderode, Pokallauf (Feuerwehrfest)	f	f	f	f	2017
 1373	Feuerwehrfest	346	10	\N	2017-07-22	\N	2018-02-15 21:17:18.075126	2018-02-15 21:17:18.075126		0	0	0	0	0	0	0	0	22	10	0	22.07.2017 - MHL-Saalfeld, Pokallauf (Feuerwehrfest)	f	f	f	f	2017
@@ -1424,7 +1424,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1425	4. Hopfenbergpokal	447	10	\N	2017-07-29	\N	2018-02-27 15:47:39.315458	2018-02-27 15:47:39.315458		0	0	0	0	0	0	0	0	20	8	0	29.07.2017 - Großpillingsdorf, Pokallauf (4. Hopfenbergpokal)	f	f	f	f	2017
 1426	3. Lauf Extra-Liga, 3. Lauf TGL-Cup, KM UH-Kreis	167	30	\N	2017-06-24	\N	2018-02-27 16:06:01.885393	2018-02-27 16:06:01.885393		0	0	0	0	0	0	0	2	56	20	0	24.06.2017 - Zella, Extra-Liga (3. Lauf Extra-Liga, 3. Lauf TGL-Cup, KM UH-Kreis)	f	f	f	f	2017
 1427	4. Lauf TGL-Cup und Rübeländer Pokallauf	199	10	\N	2017-07-22	\N	2018-02-27 16:32:51.679187	2018-02-27 16:32:51.679187		0	0	0	0	0	0	0	0	46	14	0	22.07.2017 - Rübeland, Pokallauf (4. Lauf TGL-Cup und Rübeländer Pokallauf)	f	f	f	f	2017
-1428		372	18	\N	2017-07-15	\N	2018-02-27 16:39:22.894034	2018-02-27 16:39:22.894034		0	0	0	0	0	0	0	0	36	18	0	15.07.2017 - Berge, SA-Cup	f	f	f	f	2017
+1428		372	18	\N	2017-07-15	\N	2018-02-27 16:39:22.894034	2018-02-27 16:39:22.894034		0	0	0	0	0	0	0	0	36	18	0	15.07.2017 - Berge, SAP	f	f	f	f	2017
 1429	Sachsen-Cup und Oberlausitzpokal	77	19	\N	2017-07-08	\N	2018-02-27 16:46:43.118344	2018-04-03 16:13:32.734978		0	0	6	18	0	0	0	0	24	13	12	08.07.2017 - Lauba, Oberlausitzpokal (Sachsen-Cup und Oberlausitzpokal)	f	f	f	f	2017
 1430	2. Lauf 4-Bahnenpokal und 21. Traditionswettkampf	207	10	\N	2017-07-22	\N	2018-02-27 16:59:56.900492	2018-02-27 16:59:56.900492		0	0	0	0	0	0	0	11	52	25	0	22.07.2017 - Willmersdorf-Stöbritz, Pokallauf (2. Lauf 4-Bahnenpokal und 21. Traditionswettkampf)	f	f	f	f	2017
 1431	Kreisausscheid Landkreis Gotha	448	6	\N	2017-08-26	\N	2018-02-27 17:15:04.262908	2018-02-27 17:15:04.262908		0	0	0	0	0	0	0	2	16	9	0	26.08.2017 - Laucha, Kreisausscheid (Kreisausscheid Landkreis Gotha)	f	f	f	f	2017
@@ -1538,7 +1538,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1539	Feuerwehrfest	299	10	\N	2018-05-05	\N	2018-05-15 15:13:27.522801	2018-05-15 15:13:27.522801		0	0	0	0	0	0	0	0	24	9	0	05.05.2018 - Branderode, Pokallauf (Feuerwehrfest)	f	f	f	f	2018
 1540	11. Spreewald-Cup	71	10	\N	2018-05-12	\N	2018-05-15 15:22:44.58648	2018-11-07 14:13:16.836834		0	0	0	0	0	0	0	12	28	20	0	12.05.2018 - Klein Radden, Pokallauf (11. Spreewald-Cup)	f	f	f	f	2018
 1541	Feuerwehrfest	170	10	\N	2018-05-12	\N	2018-05-15 15:53:41.799795	2018-05-15 15:53:41.799795		0	0	0	0	0	0	0	12	26	19	0	12.05.2018 - Vehra, Pokallauf (Feuerwehrfest)	f	f	f	f	2018
-1542		33	18	\N	2018-05-05	\N	2018-05-15 16:02:23.982308	2018-05-15 16:02:23.982308		0	0	0	0	0	0	0	4	22	13	0	05.05.2018 - Schmilkendorf, SA-Cup	f	f	f	f	2018
+1542		33	18	\N	2018-05-05	\N	2018-05-15 16:02:23.982308	2018-05-15 16:02:23.982308		0	0	0	0	0	0	0	4	22	13	0	05.05.2018 - Schmilkendorf, SAP	f	f	f	f	2018
 1543	Pokallauf und TGL-Cup	219	10	\N	2018-05-12	\N	2018-05-15 16:19:54.298548	2018-05-15 16:19:54.298548		0	0	0	0	0	0	0	6	41	16	0	12.05.2018 - Garitz-Bornum, Pokallauf (Pokallauf und TGL-Cup)	f	f	f	f	2018
 1544	12. Otto-Lilienthal-Cup	318	10	\N	2017-09-23	\N	2018-05-16 16:14:32.903851	2018-05-16 16:14:32.903851		0	0	0	0	0	0	0	6	18	9	0	23.09.2017 - Rhinow, Pokallauf (12. Otto-Lilienthal-Cup)	f	f	f	f	2017
 1545	11. Otto-Lilienthal-Cup	318	10	\N	2016-09-10	\N	2018-05-16 16:16:26.26375	2018-05-16 16:16:26.26375		0	0	0	0	0	0	0	5	28	13	0	10.09.2016 - Rhinow, Pokallauf (11. Otto-Lilienthal-Cup)	f	f	f	f	2016
@@ -1621,7 +1621,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1622	28. Feuerwehrtag	25	10	\N	2018-07-14	\N	2018-07-14 19:54:04.689789	2018-07-14 19:54:04.689789		0	0	0	0	0	0	0	4	26	12	0	14.07.2018 - Ostseebad Nienhagen, Pokallauf (28. Feuerwehrtag)	f	f	f	f	2018
 1623	2. Seeholzpokal	494	10	\N	2018-07-14	\N	2018-07-16 12:26:14.817261	2018-07-16 12:26:14.817261		0	0	0	0	0	0	0	6	62	21	0	14.07.2018 - Murchin, Pokallauf (2. Seeholzpokal)	f	f	f	f	2018
 1624		25	13	\N	2018-07-21	\N	2018-07-21 16:58:36.744551	2018-07-21 16:58:36.744551		12	24	12	18	0	0	0	0	0	14	21	21.07.2018 - Ostseebad Nienhagen, MV-Cup	f	f	f	f	2018
-1625		372	18	\N	2018-07-14	\N	2018-07-24 12:33:58.267071	2018-07-24 12:33:58.267071		0	0	4	11	0	0	0	6	24	18	15	14.07.2018 - Berge, SA-Cup	f	f	f	f	2018
+1625		372	18	\N	2018-07-14	\N	2018-07-24 12:33:58.267071	2018-07-24 12:33:58.267071		0	0	4	11	0	0	0	6	24	18	15	14.07.2018 - Berge, SAP	f	f	f	f	2018
 1627	Memorial Milana Kružíka Plzeň	495	10	\N	2018-05-18	\N	2018-07-27 11:32:26.001825	2018-07-27 11:32:26.001825		0	8	0	8	0	0	0	0	0	1	4	18.05.2018 - Pilsen (CZ), Pokallauf (Memorial Milana Kružíka Plzeň)	f	f	f	f	2018
 1628	2. EuregioCup	5	10	2	2018-08-04	\N	2018-08-06 06:17:26.51664	2018-08-14 11:57:25.487583		115	115	115	106	0	10	10	20	16	22	93	04.08.2018 - Zeulenroda, Pokallauf (2. EuregioCup)	t	t	t	t	2018
 1629	13.Landesmeisterschaften	496	2	2	2018-07-28	\N	2018-08-08 19:15:34.280209	2018-09-18 07:51:44.571952	<p>Das Hakenleitersteigen wurde im Rahmen des s&auml;chsischen Steigercups am 02.06.2018 in Taura durchgef&uuml;hrt</p>\r\n	0	0	30	80	4	4	13	10	48	34	55	28.07.2018 - Görlitz, Landesausscheid (13.Landesmeisterschaften)	t	t	t	t	2018
@@ -1685,12 +1685,12 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1688	9. loeschangriff.info-Cup	233	10	\N	2018-07-21	\N	2018-09-28 20:33:23.746282	2018-09-28 20:33:23.746282		0	0	0	0	0	0	0	2	10	5	0	21.07.2018 - Kleinbrüchter, Pokallauf (9. loeschangriff.info-Cup)	f	f	f	f	2018
 1689	1. Einbahnpokal	510	10	\N	2018-07-14	\N	2018-09-28 20:35:53.480776	2018-09-28 20:35:53.480776		0	0	0	0	0	0	0	2	14	10	0	14.07.2018 - Günthersdorf, Pokallauf (1. Einbahnpokal)	f	f	f	f	2018
 1690	26. Pokallauf des Oberbürgermeisters der Stadt Bischofswerda	364	10	\N	2018-09-29	\N	2018-09-30 07:56:56.134426	2018-09-30 07:56:56.134426		0	0	0	0	0	0	0	1	9	10	0	29.09.2018 - Bischofswerda, Pokallauf (26. Pokallauf des Oberbürgermeisters der Stadt Bischofswerda)	f	f	f	f	2018
-1691	12. Stadtpokallauf	245	18	\N	2018-08-18	\N	2018-10-08 10:02:31.350077	2018-10-08 10:02:31.350077		0	0	8	12	0	0	0	2	22	12	10	18.08.2018 - Blankenburg, SA-Cup (12. Stadtpokallauf)	f	f	f	f	2018
+1691	12. Stadtpokallauf	245	18	\N	2018-08-18	\N	2018-10-08 10:02:31.350077	2018-10-08 10:02:31.350077		0	0	8	12	0	0	0	2	22	12	10	18.08.2018 - Blankenburg, SAP (12. Stadtpokallauf)	f	f	f	f	2018
 1692	20. Lindepokal	165	26	\N	2018-08-18	\N	2018-10-08 10:12:21.906284	2018-10-08 10:12:21.906284		0	0	0	0	0	0	0	4	26	15	0	18.08.2018 - Frienstedt, Thüringer Feuerwehr-Cup (20. Lindepokal)	f	f	f	f	2018
 1693	9. Ihlower Ackerpokal	112	10	\N	2018-08-04	\N	2018-10-08 10:14:24.214426	2018-10-08 10:14:24.214426		0	0	0	0	0	0	0	2	20	11	0	04.08.2018 - Ihlow, Pokallauf (9. Ihlower Ackerpokal)	f	f	f	f	2018
 1694	3. Peene-Süd-Kanal-Pokal	430	10	\N	2018-08-04	\N	2018-10-08 10:16:16.560053	2018-10-08 10:16:16.560053		0	0	0	0	0	0	0	0	11	11	0	04.08.2018 - Medow, Pokallauf (3. Peene-Süd-Kanal-Pokal)	f	f	f	f	2018
 1695	Feuerwehrfest	236	10	\N	2018-08-04	\N	2018-10-08 10:17:50.920269	2018-10-08 10:17:50.920269		0	0	0	0	0	0	0	0	11	4	0	04.08.2018 - Ershausen, Pokallauf (Feuerwehrfest)	f	f	f	f	2018
-1696	7. Lindenpokal, 5. Pokal TGL-Cup und 3. Lauf Sachsen-Anhalt-Cup	234	18	\N	2018-08-04	\N	2018-10-08 10:20:39.199559	2018-10-08 10:20:39.199559		0	0	0	0	0	0	0	10	62	29	0	04.08.2018 - Tryppehna, SA-Cup (7. Lindenpokal, 5. Pokal TGL-Cup und 3. Lauf Sachsen-Anhalt-Cup)	f	f	f	f	2018
+1696	7. Lindenpokal, 5. Pokal TGL-Cup und 3. Lauf Sachsen-Anhalt-Cup	234	18	\N	2018-08-04	\N	2018-10-08 10:20:39.199559	2018-10-08 10:20:39.199559		0	0	0	0	0	0	0	10	62	29	0	04.08.2018 - Tryppehna, SAP (7. Lindenpokal, 5. Pokal TGL-Cup und 3. Lauf Sachsen-Anhalt-Cup)	f	f	f	f	2018
 1697	Sockenland-Cup Nachtlauf	347	10	\N	2018-08-17	\N	2018-10-08 10:24:16.026668	2018-10-08 10:24:16.026668		0	0	0	0	0	0	0	4	14	8	0	17.08.2018 - Hemleben, Pokallauf (Sockenland-Cup Nachtlauf)	f	f	f	f	2018
 1698	Feuerwehrfest	247	10	\N	2018-08-18	\N	2018-10-08 17:31:11.955639	2018-10-08 17:31:11.955639		0	0	0	0	0	0	0	0	16	7	0	18.08.2018 - Jecha, Pokallauf (Feuerwehrfest)	f	f	f	f	2018
 1699	31. Spritzenfest	248	10	\N	2018-08-25	\N	2018-10-08 17:34:56.327197	2018-10-08 17:34:56.327197		0	0	0	0	0	0	0	0	15	11	0	25.08.2018 - Mengelrode, Pokallauf (31. Spritzenfest)	f	f	f	f	2018
@@ -1933,7 +1933,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1936	1. MV-Hinderniscup	589	13	\N	2019-05-11	\N	2019-05-11 19:06:51.492284	2019-05-11 19:06:51.492284		0	0	8	22	0	0	0	0	0	12	15	11.05.2019 - Röbel/Müritz, MV-Cup (1. MV-Hinderniscup)	f	f	f	f	2019
 1937	Feuerwehrfest	170	10	\N	2019-05-11	\N	2019-05-12 19:35:06.918343	2019-05-12 19:35:06.918343		0	0	0	0	0	0	0	8	20	14	0	11.05.2019 - Vehra, Pokallauf (Feuerwehrfest)	f	f	f	f	2019
 1938	16. Pokallauf der FF Neuendorf	57	16	\N	2019-05-11	\N	2019-05-12 19:40:37.166647	2019-05-12 19:40:37.166647		0	0	0	0	0	0	0	12	16	14	0	11.05.2019 - Neuendorf, BB-Cup (16. Pokallauf der FF Neuendorf)	f	f	f	f	2019
-1939	1. Lauf Sachsen-Anhalt-Pokal	590	18	\N	2019-05-11	\N	2019-05-12 19:46:14.58272	2019-05-12 19:46:14.58272		0	0	0	0	0	0	0	0	12	6	0	11.05.2019 - Magdeburg, SA-Cup (1. Lauf Sachsen-Anhalt-Pokal)	f	f	f	f	2019
+1939	1. Lauf Sachsen-Anhalt-Pokal	590	18	\N	2019-05-11	\N	2019-05-12 19:46:14.58272	2019-05-12 19:46:14.58272		0	0	0	0	0	0	0	0	12	6	0	11.05.2019 - Magdeburg, SAP (1. Lauf Sachsen-Anhalt-Pokal)	f	f	f	f	2019
 1940	1. Lauf vom Vogtland-Cup	509	10	\N	2019-05-11	\N	2019-05-14 07:07:27.036803	2019-05-14 07:07:27.036803		0	0	0	0	0	0	0	0	16	8	0	11.05.2019 - Reuth, Pokallauf (1. Lauf vom Vogtland-Cup)	f	f	f	f	2019
 1941	1. Klosterpokal	56	10	\N	2019-05-11	\N	2019-05-14 11:40:55.428315	2019-05-14 11:40:55.428315		0	0	0	0	0	0	0	0	26	10	0	11.05.2019 - Neukloster, Pokallauf (1. Klosterpokal)	f	f	f	f	2019
 1942	Kreismeisterschaften Elbe Elster	60	6	\N	2019-05-11	\N	2019-05-16 09:57:12.857315	2019-05-16 10:23:14.41625	<p>Diese Ergebnisse umfassen die Stadtmeisterschaft Sonnenwalde und den Kreismeisterschaft Elbe Elster.</p>\r\n\r\n<p>Aufgrund des anhaltenden Regens konnten nicht alle Disziplinen durchgef&uuml;hrt werden.</p>\r\n	0	0	0	37	3	3	11	6	25	25	21	11.05.2019 - Doberlug-Kirchhain, Kreisausscheid (Kreismeisterschaften Elbe Elster)	f	f	f	f	2019
@@ -1944,17 +1944,17 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1947	2. Lauf 8. Boizepokal	193	10	\N	2018-10-06	\N	2019-05-24 09:43:35.213448	2019-05-24 09:43:35.213448		0	0	0	0	0	0	0	4	30	17	0	06.10.2018 - Schwartow, Pokallauf (2. Lauf 8. Boizepokal)	f	f	f	f	2018
 1948	2. Lauf 7. Boizepokal	193	10	\N	2017-10-07	\N	2019-05-24 09:51:30.08761	2019-05-24 09:51:30.08761		0	0	0	0	0	0	0	6	26	16	0	07.10.2017 - Schwartow, Pokallauf (2. Lauf 7. Boizepokal)	f	f	f	f	2017
 1949	2. Lauf 6. Boizepokal	193	10	\N	2016-10-01	\N	2019-05-24 09:53:42.639183	2019-05-24 09:53:42.639183		0	0	0	0	0	0	0	4	26	15	0	01.10.2016 - Schwartow, Pokallauf (2. Lauf 6. Boizepokal)	f	f	f	f	2016
-1950		33	18	\N	2019-05-25	\N	2019-05-27 08:12:50.470213	2019-05-27 08:12:50.470213		0	0	8	20	0	0	0	6	22	16	14	25.05.2019 - Schmilkendorf, SA-Cup	f	f	f	f	2019
+1950		33	18	\N	2019-05-25	\N	2019-05-27 08:12:50.470213	2019-05-27 08:12:50.470213		0	0	8	20	0	0	0	6	22	16	14	25.05.2019 - Schmilkendorf, SAP	f	f	f	f	2019
 1951	12. Spreewald-Cup	71	10	\N	2019-05-25	\N	2019-05-27 09:46:08.931046	2019-05-27 09:46:08.931046		0	0	0	0	0	0	0	16	26	21	0	25.05.2019 - Klein Radden, Pokallauf (12. Spreewald-Cup)	f	f	f	f	2019
 1952		191	6	\N	2019-05-25	\N	2019-05-28 18:45:30.29573	2019-05-28 18:45:30.29573		0	0	0	0	0	0	0	2	15	17	0	25.05.2019 - Triptis, Kreisausscheid	f	f	f	f	2019
 1953	Memorial Milana Kružíka Plzeň	495	10	\N	2019-05-31	\N	2019-06-02 12:34:28.719644	2019-06-02 12:34:28.719644		0	8	0	8	0	0	0	0	0	0	4	31.05.2019 - Pilsen (CZ), Pokallauf (Memorial Milana Kružíka Plzeň)	f	f	f	f	2019
 1954	13, Waldstadionpokallauf und 2. Lauf BB-Cup	65	16	\N	2019-06-01	\N	2019-06-02 18:19:47.542734	2019-06-02 18:19:47.542734		0	0	0	0	0	0	0	14	22	18	0	01.06.2019 - Gehren, BB-Cup (13, Waldstadionpokallauf und 2. Lauf BB-Cup)	f	f	f	f	2019
-1955	23. Parkpokallauf & 3. Lauf SA-Pokal	32	18	\N	2019-06-01	\N	2019-06-02 18:26:01.08417	2019-06-02 18:26:01.08417		0	0	0	0	0	0	0	4	18	10	0	01.06.2019 - Gollma, SA-Cup (23. Parkpokallauf & 3. Lauf SA-Pokal)	f	f	f	f	2019
+1955	23. Parkpokallauf & 3. Lauf SA-Pokal	32	18	\N	2019-06-01	\N	2019-06-02 18:26:01.08417	2019-06-02 18:26:01.08417		0	0	0	0	0	0	0	4	18	10	0	01.06.2019 - Gollma, SAP (23. Parkpokallauf & 3. Lauf SA-Pokal)	f	f	f	f	2019
 1956	1. Lauf ThFC	22	26	\N	2019-06-01	\N	2019-06-02 18:33:33.523063	2019-06-02 18:33:33.523063		16	14	0	0	0	0	0	6	34	13	15	01.06.2019 - Marolterode, Thüringer Feuerwehr-Cup (1. Lauf ThFC)	f	f	f	f	2019
 1957	6. Radinkendorfer Pokallauf	183	10	\N	2019-06-08	\N	2019-06-10 09:25:29.445122	2019-06-10 09:25:29.445122		0	0	0	0	0	0	0	8	26	17	0	08.06.2019 - Radinkendorf, Pokallauf (6. Radinkendorfer Pokallauf)	f	f	f	f	2019
 1958	27. Techentiner Feuerwehrtreffen	386	13	\N	2019-06-15	\N	2019-06-15 14:27:46.167562	2019-06-15 14:27:46.167562		6	24	6	22	0	0	0	0	0	12	16	15.06.2019 - Techentin, MV-Cup (27. Techentiner Feuerwehrtreffen)	f	f	f	f	2019
 1959	35. Planepokal	66	16	\N	2019-06-15	\N	2019-06-15 19:09:40.499247	2019-06-15 19:09:40.499247		0	0	0	0	0	0	0	16	32	24	0	15.06.2019 - Neschholz, BB-Cup (35. Planepokal)	f	f	f	f	2019
-1960	17. Pokallauf	285	18	\N	2019-06-15	\N	2019-06-16 08:04:10.472235	2019-06-16 08:04:10.472235		0	0	6	20	0	0	0	2	26	14	13	15.06.2019 - Gröningen, SA-Cup (17. Pokallauf)	f	f	f	f	2019
+1960	17. Pokallauf	285	18	\N	2019-06-15	\N	2019-06-16 08:04:10.472235	2019-06-16 08:04:10.472235		0	0	6	20	0	0	0	2	26	14	13	15.06.2019 - Gröningen, SAP (17. Pokallauf)	f	f	f	f	2019
 1961		44	13	\N	2019-05-25	\N	2019-06-17 12:02:51.484176	2019-06-17 12:02:51.484176		0	0	0	0	0	0	0	6	28	17	0	25.05.2019 - Kummer, MV-Cup	f	f	f	f	2019
 1962	Sockenland-Cup	347	10	\N	2019-06-15	\N	2019-06-18 18:49:32.748356	2019-06-18 18:49:32.748356		0	0	0	0	0	0	0	2	12	7	0	15.06.2019 - Hemleben, Pokallauf (Sockenland-Cup)	f	f	f	f	2019
 1963	1. Königsgrabpokal	593	10	\N	2018-05-26	\N	2019-06-19 08:53:14.160686	2019-06-19 08:53:14.160686		0	0	0	0	0	0	0	6	12	9	0	26.05.2018 - Seddin (Prignitz), Pokallauf (1. Königsgrabpokal)	f	f	f	f	2018
@@ -1981,7 +1981,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1984	10. Loeschangriff.info-Cup	233	10	\N	2019-07-13	\N	2019-07-28 12:58:47.937423	2019-07-28 12:58:47.937423		0	0	0	0	0	0	0	3	26	11	0	13.07.2019 - Kleinbrüchter, Pokallauf (10. Loeschangriff.info-Cup)	f	f	f	f	2019
 1985	6. Hopfenbergpokal	447	10	\N	2019-07-27	\N	2019-07-28 13:09:00.849032	2019-07-28 13:09:00.849032		0	0	0	0	0	0	0	0	24	7	0	27.07.2019 - Großpillingsdorf, Pokallauf (6. Hopfenbergpokal)	f	f	f	f	2019
 1986	Interregionaler Wettkampf	319	10	\N	2019-07-16	\N	2019-07-29 07:21:40.18534	2019-07-29 07:21:40.18534		0	2	0	2	0	0	0	0	0	0	1	16.07.2019 - St. Petersburg (RUS), Pokallauf (Interregionaler Wettkampf)	f	f	f	f	2019
-1987	Lindenpokal	234	18	\N	2019-08-03	\N	2019-08-04 12:08:56.979264	2019-08-04 12:08:56.979264		0	0	0	0	0	0	0	4	76	23	0	03.08.2019 - Tryppehna, SA-Cup (Lindenpokal)	f	f	f	f	2019
+1987	Lindenpokal	234	18	\N	2019-08-03	\N	2019-08-04 12:08:56.979264	2019-08-04 12:08:56.979264		0	0	0	0	0	0	0	4	76	23	0	03.08.2019 - Tryppehna, SAP (Lindenpokal)	f	f	f	f	2019
 1988	8. Deutschlandmasters	118	10	\N	2019-08-10	\N	2019-08-16 07:45:19.424994	2019-08-16 07:45:19.424994		0	0	0	0	0	0	0	4	32	14	0	10.08.2019 - Dobareuth, Pokallauf (8. Deutschlandmasters)	f	f	f	f	2019
 1989		164	26	\N	2019-08-03	\N	2019-08-16 07:48:17.488297	2019-08-16 07:48:17.488297		0	0	0	0	0	0	0	6	34	14	0	03.08.2019 - Gamstädt, Thüringer Feuerwehr-Cup	f	f	f	f	2019
 1990	Feuerwehrfest	236	10	\N	2019-08-03	\N	2019-08-16 08:01:09.947058	2019-08-16 08:01:09.947058		0	0	0	0	0	0	0	0	12	6	0	03.08.2019 - Ershausen, Pokallauf (Feuerwehrfest)	f	f	f	f	2019
@@ -2061,17 +2061,17 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2065		51	13	\N	2022-05-21	\N	2022-06-09 19:27:55.964696	2022-06-09 19:29:49.610579		0	0	0	0	0	0	0	4	16	10	0	21.05.2022 - Hohen Viecheln, MV-Cup	f	f	f	f	2022
 2066	1. Lauf Ostsachsenpokal	611	10	\N	2022-06-04	\N	2022-06-14 11:28:31.28622	2022-06-14 11:28:31.28622		0	0	0	1	0	0	0	0	14	7	1	04.06.2022 - Steinitz (Sachsen), Pokallauf (1. Lauf Ostsachsenpokal)	f	f	f	f	2022
 2067	1. Lauf BB-Cup 2022	65	16	\N	2022-05-28	\N	2022-06-15 09:23:55.806678	2022-06-15 09:23:55.806678		0	0	0	0	0	0	0	8	20	14	0	28.05.2022 - Gehren, BB-Cup (1. Lauf BB-Cup 2022)	f	f	f	f	2022
-2068	1. Lauf Sachsen-Anhalt Pokal	33	18	\N	2022-05-14	\N	2022-06-15 09:29:23.464548	2022-06-15 09:29:23.464548		0	0	0	0	0	0	0	3	30	11	0	14.05.2022 - Schmilkendorf, SA-Cup (1. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
-2069	2. Lauf Sachsen-Anhalt Pokal	612	18	\N	2022-06-11	\N	2022-06-15 09:41:37.611256	2022-06-27 08:21:09.78289		0	0	0	0	0	0	0	4	28	9	0	11.06.2022 - Straguth, SA-Cup (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
+2068	1. Lauf Sachsen-Anhalt Pokal	33	18	\N	2022-05-14	\N	2022-06-15 09:29:23.464548	2022-06-15 09:29:23.464548		0	0	0	0	0	0	0	3	30	11	0	14.05.2022 - Schmilkendorf, SAP (1. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
+2069	2. Lauf Sachsen-Anhalt Pokal	612	18	\N	2022-06-11	\N	2022-06-15 09:41:37.611256	2022-06-27 08:21:09.78289		0	0	0	0	0	0	0	4	28	9	0	11.06.2022 - Straguth, SAP (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
 2070		44	13	\N	2022-06-18	\N	2022-06-21 08:10:09.898712	2022-06-21 08:10:09.898712		0	0	0	0	0	0	0	6	38	15	0	18.06.2022 - Kummer, MV-Cup	f	f	f	f	2022
 2071	2. Lauf BB-Cup 2022	66	16	\N	2022-06-18	\N	2022-06-22 05:46:47.145338	2022-06-22 05:46:47.145338		0	0	0	0	0	0	0	10	22	16	0	18.06.2022 - Neschholz, BB-Cup (2. Lauf BB-Cup 2022)	f	f	f	f	2022
 2072	2. Lauf Thüringer Feuerwehr-Cup	227	26	\N	2022-06-25	\N	2022-06-27 07:49:11.493011	2022-06-27 07:49:11.493011		0	0	0	0	0	0	0	2	38	13	0	25.06.2022 - Wipfra, Thüringer Feuerwehr-Cup (2. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2022
-2073	3. Lauf Sachsen-Anhalt Pokal	285	18	\N	2022-06-25	\N	2022-06-27 08:02:50.673258	2022-06-27 08:02:50.673258		0	0	6	14	0	0	0	2	15	18	10	25.06.2022 - Gröningen, SA-Cup (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
+2073	3. Lauf Sachsen-Anhalt Pokal	285	18	\N	2022-06-25	\N	2022-06-27 08:02:50.673258	2022-06-27 08:02:50.673258		0	0	6	14	0	0	0	2	15	18	10	25.06.2022 - Gröningen, SAP (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
 2074	14. Stückener Galgenbergpokal & 1. Lauf 4-Bahnenpokal	222	32	\N	2022-06-25	\N	2022-06-27 08:56:23.905041	2022-06-27 08:56:23.905041		0	0	0	0	0	0	0	8	24	8	0	25.06.2022 - Stücken, 4BP (14. Stückener Galgenbergpokal & 1. Lauf 4-Bahnenpokal)	f	f	f	f	2022
 2075	1. Lauf Thüringer Feuerwehr-Cup	22	26	\N	2022-05-28	\N	2022-06-29 11:56:20.042541	2022-06-29 11:56:20.042541		0	0	0	0	0	0	0	4	30	14	0	28.05.2022 - Marolterode, Thüringer Feuerwehr-Cup (1. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2022
 2076	20. Flutlichtpokal	143	10	\N	2020-10-02	\N	2022-07-01 07:06:35.31433	2022-07-01 07:06:35.31433		0	0	0	0	0	0	0	6	34	19	0	02.10.2020 - Merzdorf, Pokallauf (20. Flutlichtpokal)	f	f	f	f	2020
 2077		592	13	\N	2022-07-02	\N	2022-07-02 19:33:00.192122	2022-07-02 19:33:00.192122		0	0	0	0	0	0	0	10	28	19	0	02.07.2022 - Neustadt-Glewe, MV-Cup	f	f	f	f	2022
-2078	4. Lauf Sachsen-Anhalt Pokal	613	18	\N	2022-07-09	\N	2022-07-13 06:38:11.610732	2022-07-13 06:38:11.610732		0	0	0	0	0	0	0	4	23	14	0	09.07.2022 - Böddensell, SA-Cup (4. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
+2078	4. Lauf Sachsen-Anhalt Pokal	613	18	\N	2022-07-09	\N	2022-07-13 06:38:11.610732	2022-07-13 06:38:11.610732		0	0	0	0	0	0	0	4	23	14	0	09.07.2022 - Böddensell, SAP (4. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
 2079	31. Feuerwehrtag	25	10	\N	2022-07-16	\N	2022-07-16 20:20:28.411242	2022-07-16 20:20:28.411242		0	0	0	0	0	0	0	6	24	12	0	16.07.2022 - Ostseebad Nienhagen, Pokallauf (31. Feuerwehrtag)	f	f	f	f	2022
 2080	3. Lauf Thüringer Feuerwehr-Cup	355	26	\N	2022-07-16	\N	2022-07-21 07:02:05.684614	2022-07-21 07:02:05.684614		0	0	0	0	0	0	0	0	24	8	0	16.07.2022 - Brünn, Thüringer Feuerwehr-Cup (3. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2022
 2081	3. Lauf TGL-Cup	498	33	\N	2022-07-16	\N	2022-07-21 07:52:02.393697	2022-07-21 07:52:02.393697		0	0	0	0	0	0	0	0	24	7	0	16.07.2022 - Mupperg, TGL-Cup (3. Lauf TGL-Cup)	f	f	f	f	2022
@@ -2084,7 +2084,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2088	2. Lauf Ostsachsenpokal	77	34	\N	2022-08-06	\N	2022-08-08 12:17:15.252378	2022-08-08 12:17:15.252378		0	0	0	4	0	0	0	4	26	13	4	06.08.2022 - Lauba, Ostsachsenpokal (2. Lauf Ostsachsenpokal)	f	f	f	f	2022
 2089	1. Heideland-Cup & 5. Lauf Thüringer Feuerwehr-Cup	615	26	\N	2022-08-06	\N	2022-08-08 12:24:30.159372	2022-08-08 12:24:30.159372		0	0	0	0	0	0	0	0	24	7	0	06.08.2022 - Heideland, Thüringer Feuerwehr-Cup (1. Heideland-Cup & 5. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2022
 2090	Feuerwehrfest Ershausen	616	10	\N	2022-08-06	\N	2022-08-08 12:28:15.632208	2022-08-08 12:28:15.632208		0	0	0	0	0	0	0	0	13	5	0	06.08.2022 - Ershausen, Pokallauf (Feuerwehrfest Ershausen)	f	f	f	f	2022
-2091	9. Lindenpokal & 4. Lauf TGL-CUP &  5. Lauf Sachsen-Anhalt Pokal	234	18	\N	2022-08-06	\N	2022-08-08 12:39:08.875672	2022-08-08 12:39:08.875672		0	0	0	0	0	0	0	8	72	23	0	06.08.2022 - Tryppehna, SA-Cup (9. Lindenpokal & 4. Lauf TGL-CUP &  5. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
+2091	9. Lindenpokal & 4. Lauf TGL-CUP &  5. Lauf Sachsen-Anhalt Pokal	234	18	\N	2022-08-06	\N	2022-08-08 12:39:08.875672	2022-08-08 12:39:08.875672		0	0	0	0	0	0	0	8	72	23	0	06.08.2022 - Tryppehna, SAP (9. Lindenpokal & 4. Lauf TGL-CUP &  5. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2022
 2092	Einweihung der FTZ Beselin	617	10	\N	2022-08-13	\N	2022-08-13 17:11:28.83372	2022-08-13 17:11:28.83372		15	17	0	0	0	0	0	0	0	8	11	13.08.2022 - Beselin, Pokallauf (Einweihung der FTZ Beselin)	f	f	f	f	2022
 2093	Gespensterwaldpokal	25	10	\N	2022-08-20	\N	2022-08-20 15:33:17.488743	2022-08-20 15:33:17.488743		16	12	14	14	0	0	0	6	24	22	16	20.08.2022 - Ostseebad Nienhagen, Pokallauf (Gespensterwaldpokal)	f	f	f	f	2022
 2094	4. Lauf  4BP	275	32	\N	2022-08-13	\N	2022-08-22 09:33:59.108786	2022-08-22 09:33:59.108786		0	0	0	0	0	0	0	2	18	10	0	13.08.2022 - Libbenichen, 4BP (4. Lauf  4BP)	f	f	f	f	2022
@@ -2120,11 +2120,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2124	2. Stendaler Hansepokal	325	10	\N	2023-07-01	\N	2023-07-06 08:25:56.830188	2023-07-06 08:25:56.830188		0	0	0	0	0	0	0	4	44	21	0	01.07.2023 - Stendal, Pokallauf (2. Stendaler Hansepokal)	f	f	f	f	2023
 2125	4. MV-Cup	44	13	\N	2023-07-08	\N	2023-07-12 11:51:13.848757	2023-07-12 11:51:13.848757		0	0	0	0	0	0	0	4	32	18	0	08.07.2023 - Kummer, MV-Cup (4. MV-Cup)	f	f	f	f	2023
 2126	3. Deutschland-Cup	624	1	2	2023-07-08	\N	2023-07-12 11:54:27.733725	2023-08-03 08:40:50.501753		70	64	65	78	5	8	7	9	13	25	84	08.07.2023 - Letschin, D-Cup (3. Deutschland-Cup)	t	t	t	t	2023
-2127	4. Lauf Sachsen-Anhalt Pokal	613	18	\N	2023-07-08	\N	2023-07-13 13:18:38.467477	2023-07-13 13:18:38.467477		0	0	0	0	0	0	0	4	35	16	0	08.07.2023 - Böddensell, SA-Cup (4. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
+2127	4. Lauf Sachsen-Anhalt Pokal	613	18	\N	2023-07-08	\N	2023-07-13 13:18:38.467477	2023-07-13 13:18:38.467477		0	0	0	0	0	0	0	4	35	16	0	08.07.2023 - Böddensell, SAP (4. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
 2128	32. Feuerwehrtag	25	10	\N	2023-07-15	\N	2023-07-19 20:34:21.664728	2023-07-19 20:34:21.664728		0	0	0	0	0	0	0	6	24	12	0	15.07.2023 - Ostseebad Nienhagen, Pokallauf (32. Feuerwehrtag)	f	f	f	f	2023
 2129	Sachsen-Cup	101	10	4	2023-07-01	\N	2023-07-27 17:17:25.660696	2023-07-27 17:31:07.101307		38	20	19	26	3	0	0	6	18	20	35	01.07.2023 - Trebendorf (Sa.), Pokallauf (Sachsen-Cup)	f	f	f	f	2023
 2130	3. Sächsischer Steigercup	16	20	4	2023-07-29	\N	2023-08-04 08:29:22.022909	2023-08-04 08:32:27.596972		24	30	0	0	0	0	0	0	0	10	27	29.07.2023 - Brandis, Sächsischer Steigercup (3. Sächsischer Steigercup)	f	f	f	f	2023
-2131	5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup	478	18	\N	2023-08-05	\N	2023-08-09 10:50:45.37338	2023-08-09 10:50:45.37338		0	0	0	0	0	0	0	10	92	29	0	05.08.2023 - Möckern, SA-Cup (5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup)	f	f	f	f	2023
+2131	5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup	478	18	\N	2023-08-05	\N	2023-08-09 10:50:45.37338	2023-08-09 10:50:45.37338		0	0	0	0	0	0	0	10	92	29	0	05.08.2023 - Möckern, SAP (5. Lauf Sachsen-Anhalt Pokal & 5. Lauf TGL-Cup)	f	f	f	f	2023
 2132	4. Deutschland-Cup	17	1	5	2023-08-12	\N	2023-08-17 11:51:35.659578	2023-09-17 19:30:18.775944		110	106	90	82	18	0	0	16	22	39	111	12.08.2023 - Taura, D-Cup (4. Deutschland-Cup)	t	t	t	t	2023
 2133	3. offene Hakenleitersteigen des KFV LDS e.V.	200	10	\N	2023-07-22	\N	2023-08-17 12:19:44.291023	2023-08-17 12:19:44.291023		46	44	0	0	0	0	0	0	0	2	41	22.07.2023 - Langengrassau, Pokallauf (3. offene Hakenleitersteigen des KFV LDS e.V.)	f	f	f	f	2023
 2134	12. Flutlichtpokal	295	10	\N	2023-08-25	\N	2023-09-04 08:26:23.85222	2023-09-04 08:26:23.85222		0	0	0	0	0	0	0	8	45	53	0	25.08.2023 - Spornitz, Pokallauf (12. Flutlichtpokal)	f	f	f	f	2023
@@ -2156,11 +2156,11 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2160	Löschangriff unter Flutlicht	633	10	\N	2023-10-02	\N	2024-01-02 16:19:40.189383	2024-01-02 16:19:40.189383		0	0	0	0	0	0	0	0	36	10	0	02.10.2023 - Eisfeld, Pokallauf (Löschangriff unter Flutlicht)	f	f	f	f	2023
 2161	Feuerwehrfest	236	10	\N	2023-08-05	\N	2024-01-02 16:25:38.585223	2024-01-02 16:25:38.585223		0	0	0	0	0	0	0	0	15	6	0	05.08.2023 - Ershausen, Pokallauf (Feuerwehrfest)	f	f	f	f	2023
 2163	6. Lauf Brandenburger 4-Bahnenpokal	142	32	\N	2023-10-07	\N	2024-01-02 16:35:33.092252	2024-01-02 16:35:33.092252		0	0	0	0	0	0	0	12	60	18	0	07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)	f	f	f	f	2023
-2164	6. Lauf Sachsen-Anhalt Pokal	285	18	\N	2023-09-15	\N	2024-01-02 16:43:29.057425	2024-01-02 16:43:29.057425		0	0	0	0	0	0	0	1	16	10	0	15.09.2023 - Gröningen, SA-Cup (6. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
+2164	6. Lauf Sachsen-Anhalt Pokal	285	18	\N	2023-09-15	\N	2024-01-02 16:43:29.057425	2024-01-02 16:43:29.057425		0	0	0	0	0	0	0	1	16	10	0	15.09.2023 - Gröningen, SAP (6. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
 2165	1. Lauf Brandenburger 4. Bahnenpokal	635	32	\N	2023-05-27	\N	2024-01-02 16:47:51.029319	2024-01-02 16:47:51.029319		0	0	0	0	0	0	0	4	18	12	0	27.05.2023 - Groß Neuendorf, 4BP (1. Lauf Brandenburger 4. Bahnenpokal)	f	f	f	f	2023
 2166	5. Lauf Brandenburger 4. Bahnenpokal	636	32	\N	2023-09-16	\N	2024-01-02 16:52:56.456398	2024-01-02 16:52:56.456398		0	0	0	0	0	0	0	2	17	10	0	16.09.2023 - Groß Muckrow, 4BP (5. Lauf Brandenburger 4. Bahnenpokal)	f	f	f	f	2023
-2167	2. Lauf Sachsen-Anhalt Pokal	637	18	\N	2023-05-13	\N	2024-01-02 16:57:12.858903	2024-01-02 16:57:12.858903		0	0	0	0	0	0	0	4	32	18	0	13.05.2023 - Harzgerode, SA-Cup (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
-2168	3. Lauf Sachsen-Anhalt Pokal	612	18	\N	2023-06-10	\N	2024-01-02 17:00:04.713341	2024-01-02 17:00:04.713341		0	0	0	0	0	0	0	3	17	13	0	10.06.2023 - Straguth, SA-Cup (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
+2167	2. Lauf Sachsen-Anhalt Pokal	637	18	\N	2023-05-13	\N	2024-01-02 16:57:12.858903	2024-01-02 16:57:12.858903		0	0	0	0	0	0	0	4	32	18	0	13.05.2023 - Harzgerode, SAP (2. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
+2168	3. Lauf Sachsen-Anhalt Pokal	612	18	\N	2023-06-10	\N	2024-01-02 17:00:04.713341	2024-01-02 17:00:04.713341		0	0	0	0	0	0	0	3	17	13	0	10.06.2023 - Straguth, SAP (3. Lauf Sachsen-Anhalt Pokal)	f	f	f	f	2023
 2169	3. Lauf Brandenburger 4-Bahnenpokal	510	32	\N	2023-06-15	\N	2024-01-04 16:19:11.293816	2024-01-04 16:19:11.293816		0	0	0	0	0	0	0	6	23	15	0	15.06.2023 - Günthersdorf, 4BP (3. Lauf Brandenburger 4-Bahnenpokal)	f	f	f	f	2023
 2170	5. Lauf Thüringer Feuerwehr-Cup	615	26	\N	2023-08-05	\N	2024-01-04 16:23:37.140575	2024-01-04 16:23:37.140575		0	0	0	0	0	0	0	0	28	8	0	05.08.2023 - Heideland, Thüringer Feuerwehr-Cup (5. Lauf Thüringer Feuerwehr-Cup)	f	f	f	f	2023
 2171	3. Wesenitztalpokal	385	10	\N	2023-10-08	\N	2024-01-04 16:27:28.444822	2024-01-04 16:27:28.444822		0	0	0	0	0	0	0	0	19	19	0	08.10.2023 - Helmsdorf, Pokallauf (3. Wesenitztalpokal)	f	f	f	f	2023
@@ -2182,7 +2182,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2188	1. TGL-Cup 2024	219	33	\N	2024-05-04	\N	2024-05-06 14:08:01.893205	2024-05-06 14:08:01.893205		0	0	0	0	0	0	0	4	48	13	0	04.05.2024 - Garitz-Bornum, TGL-Cup (1. TGL-Cup 2024)	f	f	f	f	2024
 2189	1. Lauf Ostsachsenpokal	101	34	\N	2024-05-04	\N	2024-05-09 20:17:00.836199	2024-05-09 20:17:33.663611		0	0	0	0	0	0	0	6	20	13	0	04.05.2024 - Trebendorf (Sa.), Ostsachsenpokal (1. Lauf Ostsachsenpokal)	f	f	f	f	2024
 2190	2. TGL-Cup 2024	405	33	\N	2024-05-11	\N	2024-05-13 11:47:51.543485	2024-05-13 11:47:51.543485		0	0	0	0	0	0	0	10	56	19	0	11.05.2024 - Beckwitz, TGL-Cup (2. TGL-Cup 2024)	f	f	f	f	2024
-2191	1. SAP 2024	33	18	\N	2024-04-20	\N	2024-05-16 08:38:33.30759	2024-05-16 08:38:33.30759		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SA-Cup (1. SAP 2024)	f	f	f	f	2024
+2191	1. SAP 2024	33	18	\N	2024-04-20	\N	2024-05-16 08:38:33.30759	2024-05-16 08:38:33.30759		0	0	0	0	0	0	0	10	31	16	0	20.04.2024 - Schmilkendorf, SAP (1. SAP 2024)	f	f	f	f	2024
 2192	1. MV-Cup 2024	44	13	\N	2024-05-18	\N	2024-05-21 08:57:41.423592	2024-05-21 08:57:41.423592		0	0	0	0	0	0	0	8	60	25	0	18.05.2024 - Kummer, MV-Cup (1. MV-Cup 2024)	f	f	f	f	2024
 2193		611	34	\N	2024-05-18	\N	2024-05-22 07:04:10.162025	2024-05-22 07:04:10.162025		0	0	0	0	0	0	0	4	20	12	0	18.05.2024 - Steinitz (Sachsen), Ostsachsenpokal	f	f	f	f	2024
 2194		639	10	\N	2024-05-23	\N	2024-05-24 20:55:43.717461	2024-09-04 19:39:19.265146		0	10	0	10	0	0	0	0	0	1	5	23.05.2024 - Ostrowiec Świętokrzyski, Pokallauf	t	t	t	t	2024
@@ -2190,12 +2190,12 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2196	Landesmeisterschaft Sachsen	620	2	\N	2024-06-01	\N	2024-06-05 08:47:08.629144	2024-09-04 19:38:55.355083		44	38	44	35	12	4	3	10	32	28	60	01.06.2024 - Leipzig, Landesausscheid (Landesmeisterschaft Sachsen)	t	t	t	t	2024
 2197	2. BB-Cup 2024	65	16	\N	2024-06-01	\N	2024-06-06 12:03:33.482532	2024-06-06 12:03:33.482532		0	0	0	0	0	0	0	16	28	22	0	01.06.2024 - Gehren, BB-Cup (2. BB-Cup 2024)	f	f	f	f	2024
 2198	3. TGL-Cup 2024	199	33	\N	2024-06-08	\N	2024-06-11 18:53:54.063971	2024-06-11 18:53:54.063971		0	0	0	0	0	0	0	4	50	14	0	08.06.2024 - Rübeland, TGL-Cup (3. TGL-Cup 2024)	f	f	f	f	2024
-2199	2. SAP 2024	640	18	\N	2024-05-25	\N	2024-06-11 19:12:02.93111	2024-06-11 19:12:02.93111		0	0	0	0	1	0	0	9	34	15	0	25.05.2024 - Bornum, SA-Cup (2. SAP 2024)	f	f	f	f	2024
+2199	2. SAP 2024	640	18	\N	2024-05-25	\N	2024-06-11 19:12:02.93111	2024-06-11 19:12:02.93111		0	0	0	0	1	0	0	9	34	15	0	25.05.2024 - Bornum, SAP (2. SAP 2024)	f	f	f	f	2024
 2200	700 Jahre Werder	641	10	\N	2024-06-07	\N	2024-06-12 12:35:14.052386	2024-06-12 12:35:14.052386		0	0	0	0	0	0	0	0	12	6	0	07.06.2024 - Werder, Pokallauf (700 Jahre Werder)	f	f	f	f	2024
 2201	2. MV-Cup 2024	51	13	\N	2024-06-15	\N	2024-06-17 18:10:39.621513	2024-06-17 18:10:39.621513		0	0	0	0	0	0	0	8	34	21	0	15.06.2024 - Hohen Viecheln, MV-Cup (2. MV-Cup 2024)	f	f	f	f	2024
 2202	D-Cup Seelow/Gieshof 	196	1	2	2024-06-22	\N	2024-06-22 20:45:49.11347	2024-08-15 18:20:42.217555		88	68	83	73	6	9	6	12	14	24	90	22.06.2024 - Seelow, D-Cup (D-Cup Seelow/Gieshof )	t	t	t	t	2024
 2203	TGL-Cup und SAP	637	33	\N	2024-06-22	\N	2024-06-24 08:24:46.456792	2024-06-24 08:24:46.456792		0	0	0	0	0	0	0	14	72	24	0	22.06.2024 - Harzgerode, TGL-Cup (TGL-Cup und SAP)	f	f	f	f	2024
-2204		285	18	\N	2024-06-22	\N	2024-06-24 08:52:24.627656	2024-06-24 08:52:24.627656		0	0	0	0	0	0	0	3	9	12	0	22.06.2024 - Gröningen, SA-Cup	f	f	f	f	2024
+2204		285	18	\N	2024-06-22	\N	2024-06-24 08:52:24.627656	2024-06-24 08:52:24.627656		0	0	0	0	0	0	0	3	9	12	0	22.06.2024 - Gröningen, SAP	f	f	f	f	2024
 2205	BB-Cup + 4-BP	66	16	\N	2024-06-15	\N	2024-06-24 09:04:20.868607	2024-06-24 09:04:20.868607		0	0	0	0	0	0	0	20	56	23	0	15.06.2024 - Neschholz, BB-Cup (BB-Cup + 4-BP)	f	f	f	f	2024
 2206	4-Bahnenpokal und BB-Cup	222	32	\N	2024-06-29	\N	2024-07-08 10:27:35.217627	2024-07-08 10:27:35.217627		0	0	0	0	0	0	0	20	66	23	0	29.06.2024 - Stücken, 4BP (4-Bahnenpokal und BB-Cup)	f	f	f	f	2024
 2207	Kreisausscheid Prignitz	642	6	\N	2024-07-06	\N	2024-07-08 10:37:47.678386	2024-07-10 06:45:26.59235		0	0	0	0	0	0	0	2	22	12	0	06.07.2024 - Breese, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f	2024
@@ -2203,7 +2203,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2209	5. TGL-Cup 2024	167	33	\N	2024-07-06	\N	2024-07-14 19:26:55.368126	2024-11-25 19:50:12.986255		0	0	0	0	0	0	0	6	77	22	0	06.07.2024 - Zella, TGL-Cup (5. TGL-Cup 2024)	f	f	f	f	2024
 2210	4-Bahnenpokal und BB-Cup	636	16	\N	2024-07-13	\N	2024-07-28 07:50:28.632238	2024-07-28 07:50:28.632238		0	0	0	0	0	0	0	21	68	24	0	13.07.2024 - Groß Muckrow, BB-Cup (4-Bahnenpokal und BB-Cup)	f	f	f	f	2024
 2212	Kreisausscheid NWM	51	6	\N	2024-06-15	\N	2024-07-28 08:23:13.850433	2024-07-28 08:23:13.850433		0	0	0	0	0	0	0	4	16	10	0	15.06.2024 - Hohen Viecheln, Kreisausscheid (Kreisausscheid NWM)	f	f	f	f	2024
-2213	5.SAP-Lauf	613	18	\N	2024-07-20	\N	2024-07-28 08:43:19.714641	2024-07-28 08:43:19.714641		0	0	0	0	0	0	0	7	31	15	0	20.07.2024 - Böddensell, SA-Cup (5.SAP-Lauf)	f	f	f	f	2024
+2213	5.SAP-Lauf	613	18	\N	2024-07-20	\N	2024-07-28 08:43:19.714641	2024-07-28 08:43:19.714641		0	0	0	0	0	0	0	7	31	15	0	20.07.2024 - Böddensell, SAP (5.SAP-Lauf)	f	f	f	f	2024
 2214	4. Seeholzpokal	494	10	\N	2024-07-27	\N	2024-07-28 08:47:09.17418	2024-07-28 08:47:09.17418		0	0	0	0	0	0	0	8	56	20	0	27.07.2024 - Murchin, Pokallauf (4. Seeholzpokal)	f	f	f	f	2024
 2215	33. Feuerwehrtag	25	6	\N	2024-07-20	\N	2024-07-28 08:53:07.3859	2024-07-28 08:53:07.3859		0	0	0	0	0	0	0	8	34	18	0	20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)	f	f	f	f	2024
 2216	2. Sächsischer Steigercup	2	20	4	2024-06-08	\N	2024-07-28 09:33:41.796176	2024-07-28 09:42:11.534738		30	16	0	0	0	0	0	0	0	10	23	08.06.2024 - Narsdorf, Sächsischer Steigercup (2. Sächsischer Steigercup)	f	f	f	f	2024
@@ -2282,14 +2282,16 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2292	TGL-Cup	219	33	\N	2025-05-03	\N	2025-05-06 19:39:27.154855	2025-05-06 19:39:27.154855	\N	0	0	0	0	0	0	0	4	38	16	0	03.05.2025 - Garitz-Bornum, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2293	TGL-Cup	498	33	\N	2025-05-10	\N	2025-05-12 16:25:18.840692	2025-05-12 16:25:18.840692	\N	0	0	0	0	0	0	0	4	68	18	0	10.05.2025 - Mupperg, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2294	MV CUP Lauf 2/2025	592	13	\N	2025-05-10	\N	2025-05-15 09:50:28.422465	2025-05-15 09:50:28.422465	\N	0	0	0	0	0	0	0	12	42	27	0	10.05.2025 - Neustadt-Glewe, MV-Cup (MV CUP Lauf 2/2025)	f	f	f	f	2025
-2295	1. Lauf SAP	33	18	\N	2025-04-26	\N	2025-05-15 09:55:06.65589	2025-05-15 09:55:06.65589	\N	0	0	0	0	0	0	0	5	42	17	0	26.04.2025 - Schmilkendorf, SA-Cup (1. Lauf SAP)	f	f	f	f	2025
+2295	1. Lauf SAP	33	18	\N	2025-04-26	\N	2025-05-15 09:55:06.65589	2025-05-15 09:55:06.65589	\N	0	0	0	0	0	0	0	5	42	17	0	26.04.2025 - Schmilkendorf, SAP (1. Lauf SAP)	f	f	f	f	2025
 2296	Amtsauscheid des Amtes Neustadt-Glewe	619	15	\N	2025-05-10	\N	2025-05-15 10:56:39.857696	2025-05-15 10:56:39.857696	\N	0	0	0	0	0	0	0	0	8	4	0	10.05.2025 - Hohewisch, Amtsausscheid (Amtsauscheid des Amtes Neustadt-Glewe)	f	f	f	f	2025
 2297	4. Stendaler Hansepokal 2025	325	10	\N	2025-05-10	\N	2025-05-15 10:58:03.622944	2025-05-15 10:58:03.622944	\N	0	0	0	0	0	0	0	20	42	18	0	10.05.2025 - Stendal, Pokallauf (4. Stendaler Hansepokal 2025)	f	f	f	f	2025
 2298	2. MV-Hinderniscup	589	13	\N	2025-05-17	\N	2025-05-17 12:22:31.239856	2025-05-17 12:22:31.239856	\N	0	0	6	23	0	0	0	0	0	8	15	17.05.2025 - Röbel/Müritz, MV-Cup (2. MV-Hinderniscup)	f	f	f	f	2025
 2299	Schloßpokallauf	18	10	\N	2025-04-26	\N	2025-05-21 09:08:33.116619	2025-05-21 09:09:01.713125		42	40	0	0	0	0	0	0	0	11	41	26.04.2025 - Nudersdorf, Pokallauf (Schloßpokallauf)	f	f	f	f	2025
 2300	3.Lausitzer Pokallauf / BB-Cup+4BP	208	16	\N	2025-05-17	\N	2025-05-21 09:17:34.569081	2025-05-21 09:17:34.569081	\N	0	0	0	0	0	0	0	28	92	34	0	17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)	f	f	f	f	2025
 2301	1. Dannenwalder Bekemühlenpokal	659	10	\N	2025-05-17	\N	2025-05-21 13:14:31.583764	2025-05-21 13:14:31.583764	\N	0	0	0	0	0	0	0	4	35	15	0	17.05.2025 - Dannenwalde, Pokallauf (1. Dannenwalder Bekemühlenpokal)	f	f	f	f	2025
-2302	Straguth - 2. SAP	612	18	\N	2025-05-24	\N	2025-05-28 08:38:31.712263	2025-05-28 08:38:31.712263	\N	0	0	4	8	0	0	0	14	54	20	6	24.05.2025 - Straguth, SA-Cup (Straguth - 2. SAP)	f	f	f	f	2025
+2302	Straguth - 2. SAP	612	18	\N	2025-05-24	\N	2025-05-28 08:38:31.712263	2025-05-28 08:38:31.712263	\N	0	0	4	8	0	0	0	14	54	20	6	24.05.2025 - Straguth, SAP (Straguth - 2. SAP)	f	f	f	f	2025
 2303	Amt Warnow-West	660	15	\N	2025-05-24	\N	2025-05-28 08:44:27.49299	2025-05-28 08:44:27.49299	\N	0	0	0	0	0	0	0	2	8	5	0	24.05.2025 - Kritzmow, Amtsausscheid (Amt Warnow-West)	f	f	f	f	2025
 2304	1. Lauf Stadtpokal Dornburg-Camburg	661	10	\N	2025-05-24	\N	2025-05-28 08:47:10.288245	2025-05-28 08:47:10.288245	\N	0	0	6	6	0	0	0	0	0	3	6	24.05.2025 - Dornburg-Camburg, Pokallauf (1. Lauf Stadtpokal Dornburg-Camburg)	f	f	f	f	2025
+2305	Amt Bützow-Land und LRO	662	6	\N	2025-05-24	\N	2025-06-03 11:27:17.30279	2025-06-03 11:27:17.30279	\N	0	0	0	0	0	0	0	6	72	27	0	24.05.2025 - Zernin, Kreisausscheid (Amt Bützow-Land und LRO)	f	f	f	f	2025
+2306	3.Pokallauf Harzgerode / 3.SAP-Cup	637	18	\N	2025-05-31	\N	2025-06-03 19:01:31.037462	2025-06-03 19:01:31.037462	\N	0	0	0	0	0	0	0	12	64	23	0	31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)	f	f	f	f	2025
 \.

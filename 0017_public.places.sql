@@ -650,4 +650,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 659	Dannenwalde	\N	\N	2025-05-21 13:14:25.386881	2025-05-21 13:14:25.386881
 660	Kritzmow	\N	\N	2025-05-28 08:44:15.137451	2025-05-28 08:44:15.137451
 661	Dornburg-Camburg	\N	\N	2025-05-28 08:46:55.949697	2025-05-28 08:46:55.949697
+662	Zernin	\N	\N	2025-06-03 11:27:03.482759	2025-06-03 11:27:03.482759
 \.

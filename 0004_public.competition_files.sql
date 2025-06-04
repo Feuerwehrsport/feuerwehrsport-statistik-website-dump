@@ -2672,4 +2672,27 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2681	2304	ergebnis-gesamtalter-der-mannschaft-60-bis-83.pdf		2025-05-28 08:47:29.70087	2025-05-28 08:47:29.70087
 2682	2304	ergebnis-100m-hindernisbahn-jugend-m-100m-bahn.pdf		2025-05-28 08:48:52.851733	2025-05-28 08:48:52.851733
 2683	2304	ergebnis-100m-hindernisbahn-jugend-w-100m-bahn.pdf		2025-05-28 08:48:56.975139	2025-05-28 08:48:56.975139
+2684	2305	ergebnis-amtswertung-kinderloschangriff.pdf		2025-06-03 11:27:40.154484	2025-06-03 11:27:40.154484
+2685	2305	ergebnis-kreiswertung-loschangriff-nass-einsatz-manner.pdf	la_male	2025-06-03 11:27:46.299671	2025-06-03 11:27:46.299671
+2686	2305	ergebnis-kreiswertung-loschangriff-nass-jugend.pdf		2025-06-03 11:27:50.734315	2025-06-03 11:27:50.734315
+2687	2305	ergebnis-kreiswertung-loschangriff-nass-sport-frauen.pdf	la_female	2025-06-03 11:27:55.951231	2025-06-03 11:27:55.951231
+2688	2305	ergebnis-kreiswertung-loschangriff-nass-sport-manner.pdf	la_male	2025-06-03 11:28:00.196301	2025-06-03 11:28:00.196301
+2689	2305	ergebnis-amtswertung-loschangriff-nass-jugend.pdf		2025-06-03 11:28:06.300425	2025-06-03 11:28:06.300425
+2690	2305	ergebnis-xxxamtswertung-loschangriff-nass-einsatz-manner.pdf	la_male	2025-06-03 11:28:11.405223	2025-06-03 11:28:11.405223
+2691	2305	ergebnis-xxxamtswertung-loschangriff-nass-sport-manner.pdf	la_male	2025-06-03 11:28:15.939485	2025-06-03 11:28:15.939485
+2692	2305	ergebnis-amtswertung-loschangriff-nass-manner-gesamt.pdf	la_male	2025-06-03 11:28:22.33684	2025-06-03 11:28:22.33684
+2693	2305	ergebnis-wanderpokal-jugend.pdf		2025-06-03 11:29:43.347072	2025-06-03 11:29:43.347072
+2694	2305	ergebnis-xxxwanderpokal-manner-einsatz.pdf		2025-06-03 11:29:47.547244	2025-06-03 11:29:47.547244
+2695	2305	ergebnis-xxxwanderpokal-manner-sport.pdf		2025-06-03 11:29:51.891904	2025-06-03 11:29:51.891904
+2696	2306	ergebnis-saugleitungs-cup-manner.pdf		2025-06-03 19:03:46.80846	2025-06-03 19:03:46.80846
+2697	2306	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-06-03 20:16:24.700593	2025-06-03 20:16:24.700593
+2698	2306	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-06-03 20:16:37.813383	2025-06-03 20:16:37.813383
+2699	2306	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-06-03 20:16:44.745388	2025-06-03 20:16:44.745388
+2700	2306	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-06-03 20:16:51.266994	2025-06-03 20:16:51.266994
+2701	2306	ergebnis-saugleitungs-cup-frauen.pdf	la_female	2025-06-03 20:17:33.132927	2025-06-03 20:17:33.132927
+2702	2306	ergebnis-kfv-altkreis-qlb-pokallauf-manner.pdf	la_male	2025-06-03 20:17:42.424841	2025-06-03 20:17:42.424841
+2703	2306	ergebnis-kfv-altkreis-qlb-pokallauf-frauen.pdf	la_female	2025-06-03 20:17:49.496028	2025-06-03 20:17:49.496028
+2704	2306	ergebnis-3-sap-manner.pdf	la_male	2025-06-03 20:17:57.517935	2025-06-03 20:17:57.517935
+2705	2306	ergebnis-3-sap-frauen.pdf	la_female	2025-06-03 20:18:05.424892	2025-06-03 20:18:05.424892
+2706	2306	ergebnis-saugkuppelcup-gesamt.pdf		2025-06-03 20:18:13.302834	2025-06-03 20:18:13.302834
 \.
