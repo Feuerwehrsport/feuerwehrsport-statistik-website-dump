@@ -2140,7 +2140,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2533	FF Bismark	Bismark	1	52.6599341744	11.5612220764	\N	ST	2016-01-20 21:32:27.390962	2016-01-20 21:32:27.390962	2016-01-20 21:32:27.390962	0	3	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2535	FF Drüsedau/Losse	Drüsedau/Losse	1	52.8550349463	11.7045593262	\N	ST	2016-01-20 21:32:27.393924	2016-01-20 21:32:27.393924	2016-01-20 21:32:27.393924	0	7	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2536	FF Garz	Garz	1	52.7495937267	12.2030639648	\N	ST	2016-01-20 21:32:27.39653	2016-01-20 21:32:27.39653	2016-01-20 21:32:27.39653	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4256, "12.09.2015 - Gollma, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2537	FF Olvenstedt	Olvenstedt	1	52.1482373782	11.5730667114	\N	ST	2016-01-20 21:32:27.399421	2016-01-20 21:32:27.399421	2016-01-20 21:32:27.399421	1	39	{"male": {"din": {"pb": [2390, "14.09.2019 - Teutschenthal, Landesausscheid (Sachsen-Anhalt)"], "sb": [2911, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}, "tgl": {"pb": [2563, "10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)"], "sb": [2671, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+2537	FF Olvenstedt	Olvenstedt	1	52.1482373782	11.5730667114	\N	ST	2016-01-20 21:32:27.399421	2016-01-20 21:32:27.399421	2016-01-20 21:32:27.399421	2	42	{"male": {"din": {"pb": [2390, "14.09.2019 - Teutschenthal, Landesausscheid (Sachsen-Anhalt)"], "sb": [2800, "26.04.2025 - Schmilkendorf, SAP (1. Lauf SAP)"]}, "tgl": {"pb": [2563, "10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)"], "sb": [2671, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2539	FF Schlunkendorf	Schlunkendorf	1	52.2425175090	13.0186271667	\N	BB	2016-01-20 21:32:27.402036	2016-01-20 21:32:27.402036	2016-01-20 21:32:27.402036	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [5179, "28.06.2008 - Stücken, Pokallauf (2. Galgenbergpokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2541	FF Zernsdorf	Zernsdorf	0	52.2963021145	13.6944580078	\N	BB	2016-01-20 21:32:27.404802	2016-01-20 21:32:27.404802	2016-01-20 21:32:27.404802	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [4451, "08.05.2010 - Neuendorf, Pokallauf (4-Bahnen-Pokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2542	FF Groß Muckrow	Groß Muckrow	1	52.0670555643	14.4326019287	\N	BB	2016-01-20 21:32:27.407678	2016-01-20 21:32:27.407678	2016-01-20 21:32:27.407678	4	67	{"male": {"din": {"pb": [2121, "07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)"], "sb": [2238, "01.05.2025 - Zechin, Pokallauf (Pokallauf Zechin)"]}, "tgl": {"pb": [2074, "15.06.2023 - Günthersdorf, 4BP (3. Lauf Brandenburger 4-Bahnenpokal)"], "sb": [2608, "01.05.2025 - Zechin, Pokallauf (Pokallauf Zechin)"]}}, "female": {"din": {"pb": [2502, "31.08.2024 - Schwanebeck, BB-Cup (26.Pokallauf / BB-Cup)"], "sb": [2945, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"]}, "tgl": {"pb": [2566, "07.10.2023 - Genschmar, 4BP (6. Lauf Brandenburger 4-Bahnenpokal)"], "sb": [3020, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"]}}}
@@ -3350,7 +3350,6 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3999	FF Fohrde-Pritzerbe	Fohrde-Pritzerbe	1	\N	\N	\N		2024-11-24 20:01:47.233629	2024-11-24 20:01:47.233629	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [5574, "02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4000	FF Dessau/Altmark	Dessau/Altmark	1	\N	\N	\N		2024-11-24 20:05:47.634954	2024-11-24 20:05:47.634954	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4001	Team Brükawu	Brükawu	0	\N	\N	\N		2024-11-24 20:06:33.610639	2024-11-24 20:06:33.610639	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4002	FF Magdeburg - Olvenstedt	Magdeburg - Olvenstedt	1	\N	\N	\N		2024-11-24 20:06:53.759488	2024-11-24 20:06:53.759488	\N	1	3	{"male": {"din": {"pb": [2800, "26.04.2025 - Schmilkendorf, SAP (1. Lauf SAP)"], "sb": [2800, "26.04.2025 - Schmilkendorf, SAP (1. Lauf SAP)"]}, "tgl": {"pb": [2726, "24.05.2025 - Straguth, SAP (Straguth - 2. SAP)"], "sb": [2726, "24.05.2025 - Straguth, SAP (Straguth - 2. SAP)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4003	FF Liepe	Liepe	1	\N	\N	\N		2024-11-24 20:11:39.109318	2024-11-24 20:11:39.109318	\N	0	1	{"male": {"din": {"pb": [4970, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [7093, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4004	FF Stechow-Ferchesar	Stechow-Ferchesar	1	\N	\N	\N		2024-11-24 20:11:56.191115	2024-11-24 20:11:56.191115	\N	0	1	{"male": {"din": {"pb": [4241, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4005	FF Großderschau-Rübehorst	Großderschau-Rübehorst	1	\N	\N	\N		2024-11-24 20:11:59.087354	2024-11-24 20:11:59.087354	\N	0	1	{"male": {"din": {"pb": [4576, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3420,14 +3419,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 22405, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 22411, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1054, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1055, true);
 
 
 --
@@ -3441,14 +3440,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24657, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24662, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 603, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 604, true);
 
 
 --
@@ -3469,14 +3468,14 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2306, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 57199, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 57211, true);
 
 
 --
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 380, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 381, true);
 
 
 --
@@ -3518,14 +3517,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 84953, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 5823, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 5835, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 360, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 361, true);
 
 
 --
@@ -3546,7 +3545,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 22399, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 22405, true);
 
 
 --
@@ -3651,7 +3650,7 @@ SELECT pg_catalog.setval('public.tags_id_seq', 1251, true);
 -- Name: team_spellings_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.team_spellings_id_seq', 292, true);
+SELECT pg_catalog.setval('public.team_spellings_id_seq', 293, true);
 
 
 --

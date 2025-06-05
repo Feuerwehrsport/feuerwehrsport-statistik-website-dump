@@ -297,4 +297,5 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 290	1348	FF Cottbus-Schmellwitz	Cottbus-Schmellwitz	2025-02-09 19:47:57.995063	2025-02-09 19:47:57.995063
 291	2526	FF Cottbus-Gallinchen	Cottbus-Gallinchen	2025-02-09 19:49:09.291841	2025-02-09 19:49:09.291841
 292	417	Fire Ladies Zerkwitz	Zerkwitz	2025-05-21 09:21:30.181574	2025-05-21 09:21:30.181574
+293	2537	FF Magdeburg - Olvenstedt	Magdeburg - Olvenstedt	2025-06-04 15:07:27.163519	2025-06-04 15:07:27.163519
 \.
