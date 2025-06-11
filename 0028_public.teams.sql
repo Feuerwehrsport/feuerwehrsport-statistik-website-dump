@@ -1400,7 +1400,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1641	FF Mühlsdorf	Mühlsdorf	1	51.9480196500	12.1860829824	\N	ST	2016-01-20 21:32:21.540282	2016-01-20 21:32:21.540282	2016-01-20 21:32:21.540282	0	6	{"male": {"din": {"pb": [2529, "14.08.2010 - Thalheim, Kreisausscheid"], "sb": null}, "tgl": {"pb": [3847, "11.06.2005 - Reetz, Pokallauf (24. Flämingpokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1642	FF Straguth	Straguth	1	52.0241131500	12.1859933588	\N	ST	2016-01-20 21:32:21.542739	2016-01-20 21:32:21.542739	2016-01-20 21:32:21.542739	0	5	{"male": {"din": {"pb": [2316, "06.05.2023 - Garitz-Bornum, TGL-Cup (1. Lauf TGL-Cup 2023)"], "sb": null}, "tgl": {"pb": [2416, "20.05.2023 - Beckwitz, TGL-Cup (2. Lauf TGL-CUP 2023)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1643	FF Rödgen	Rödgen	1	51.6411968000	12.1932344889	\N	ST	2016-01-20 21:32:21.545151	2016-01-20 21:32:21.545151	2016-01-20 21:32:21.545151	0	6	{"male": {"din": {"pb": [2745, "14.08.2010 - Thalheim, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-1644	FF Löberitz	Löberitz	1	51.6546669019	12.1519088745	\N	ST	2016-01-20 21:32:21.547531	2016-01-20 21:32:21.547531	2016-01-20 21:32:21.547531	0	13	{"male": {"din": {"pb": [2750, "14.08.2010 - Thalheim, Kreisausscheid"], "sb": [2816, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}, "tgl": {"pb": [2865, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"], "sb": [2865, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}}, "female": {"din": {"pb": [4964, "10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+1644	FF Löberitz	Löberitz	1	51.6546669019	12.1519088745	\N	ST	2016-01-20 21:32:21.547531	2016-01-20 21:32:21.547531	2016-01-20 21:32:21.547531	2	13	{"male": {"din": {"pb": [2750, "14.08.2010 - Thalheim, Kreisausscheid"], "sb": [2816, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}, "tgl": {"pb": [2865, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"], "sb": [2865, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}}, "female": {"din": {"pb": [4964, "10.08.2024 - Tryppehna, TGL-Cup (11.Lindenpokal /TGL-Cup und SAP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1646	FF Nutha	Nutha	1	51.9605577113	12.0128631592	\N	ST	2016-01-20 21:32:21.549987	2016-01-20 21:32:21.549987	2016-01-20 21:32:21.549987	0	5	{"male": {"din": {"pb": [2990, "03.05.2014 - Garitz-Bornum, Pokallauf (Feuerwehrfest in Garitz-Bornum)"], "sb": null}, "tgl": {"pb": [5312, "02.05.2009 - Garitz-Bornum, Pokallauf (Pokal des Bürgermeisters)"], "sb": null}}, "female": {"din": {"pb": [99999999, "17.06.2006 - Drosa, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1647	FF Radegast	Radegast	1	51.6554123865	12.0980072021	\N	ST	2016-01-20 21:32:21.552389	2016-01-20 21:32:21.552389	2016-01-20 21:32:21.552389	0	2	{"male": {"din": {"pb": [3400, "10.07.2010 - Elend, Pokallauf (2. Harzpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1648	FF Göllnitz (BB)	Göllnitz (BB)	1	51.6407134278	13.8556051254	\N	BB	2016-01-20 21:32:21.555208	2016-01-20 21:32:21.555208	2016-01-20 21:32:21.555208	12	20	{"male": {"din": {"pb": [2645, "25.06.2016 - Bluno, Feuerwehr-Cup-Sachsen (7. Seenlandpokal)"], "sb": null}, "tgl": {"pb": [4620, "13.09.2014 - Großbahren, Pokallauf (4. Niederlausitzpokal)"], "sb": null}}, "female": {"din": {"pb": [4760, "24.05.2014 - Doberlug-Kirchhain, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3419,14 +3419,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 22436, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 22442, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1056, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1058, true);
 
 
 --
@@ -3440,14 +3440,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24667, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24672, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 604, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 605, true);
 
 
 --
@@ -3468,7 +3468,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2306, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 57246, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 57261, true);
 
 
 --
@@ -3545,7 +3545,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 22430, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 22436, true);
 
 
 --
@@ -3566,7 +3566,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4290, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 22175, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 22181, true);
 
 
 --

@@ -1344,15 +1344,15 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 1973	Derbsch	Florian	1	1	2016-01-20 21:36:08.490543	2016-01-20 21:36:08.490543	0	0	26	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1974	Freund	Toni	1	1	2016-01-20 21:36:08.493383	2016-01-20 21:36:08.493383	0	0	23	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1975	Ziegelmann	Paul	1	1	2016-01-20 21:36:08.496285	2016-01-20 21:36:08.496285	0	0	98	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1976	Seefeldt	Jessica	0	1	2016-01-20 21:36:08.49908	2016-01-20 21:36:08.49908	0	0	71	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1977	Seefeldt	Janine	0	1	2016-01-20 21:36:08.50219	2016-01-20 21:36:08.50219	0	0	44	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1976	Seefeldt	Jessica	0	1	2016-01-20 21:36:08.49908	2016-01-20 21:36:08.49908	0	0	72	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1977	Seefeldt	Janine	0	1	2016-01-20 21:36:08.50219	2016-01-20 21:36:08.50219	0	0	46	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1978	Landwehr	Aline	0	1	2016-01-20 21:36:08.505681	2016-01-20 21:36:08.505681	0	0	46	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1979	Jetter	Karl	1	1	2016-01-20 21:36:08.512132	2016-01-20 21:36:08.512132	0	0	137	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1980	Förster	Steffen	1	1	2016-01-20 21:36:08.51956	2016-01-20 21:36:08.51956	0	0	67	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1981	Sonntag	Ronny	1	1	2016-01-20 21:36:08.522516	2016-01-20 21:36:08.522516	0	0	101	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1982	Heinrich	Marcel	1	1	2016-01-20 21:36:08.525552	2016-01-20 21:36:08.525552	0	0	78	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1983	Warnke	Steffen	1	1	2016-01-20 21:36:08.528332	2016-01-20 21:36:08.528332	0	0	14	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1984	Winter	Jörn	1	1	2016-01-20 21:36:08.531163	2016-01-20 21:36:08.531163	2	0	106	0	0	{"pb": {"hb": [2083, "20.04.2013 - Luckenwalde, Amtsausscheid (Niederer Fläming)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1984	Winter	Jörn	1	1	2016-01-20 21:36:08.531163	2016-01-20 21:36:08.531163	2	0	108	0	0	{"pb": {"hb": [2083, "20.04.2013 - Luckenwalde, Amtsausscheid (Niederer Fläming)"], "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1985	Möhle	Toni	1	1	2016-01-20 21:36:08.534195	2016-01-20 21:36:08.534195	0	0	130	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1986	Schirrmeister	Philipp	1	1	2016-01-20 21:36:08.537633	2016-01-20 21:36:08.537633	0	0	35	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1987	Seidel	Siegfried	1	1	2016-01-20 21:36:08.541454	2016-01-20 21:36:08.541454	0	0	18	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
@@ -1362,7 +1362,7 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 1991	Warnke	Manuela	0	1	2016-01-20 21:36:08.624801	2016-01-20 21:36:08.624801	0	0	20	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1992	Ziegelmann	Lisa	0	1	2016-01-20 21:36:08.628184	2016-01-20 21:36:08.628184	0	0	28	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 1993	Jetter	Anna	0	1	2016-01-20 21:36:08.63099	2016-01-20 21:36:08.63099	0	0	21	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
-1994	Busse	Caroline	0	1	2016-01-20 21:36:08.633811	2016-01-20 21:36:08.633811	0	0	47	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+1994	Busse	Caroline	0	1	2016-01-20 21:36:08.633811	2016-01-20 21:36:08.633811	0	0	48	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2002	Seidel	Andreas	1	1	2016-01-20 21:36:08.63667	2016-01-20 21:36:08.63667	0	0	14	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2004	Peschel	Heike	0	1	2016-01-20 21:36:08.639461	2016-01-20 21:36:08.639461	0	0	10	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 2005	Richter	Elisa	0	1	2016-01-20 21:36:08.642303	2016-01-20 21:36:08.642303	0	0	8	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
