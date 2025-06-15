@@ -2695,4 +2695,28 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2704	2306	ergebnis-3-sap-manner.pdf	la_male	2025-06-03 20:17:57.517935	2025-06-03 20:17:57.517935
 2705	2306	ergebnis-3-sap-frauen.pdf	la_female	2025-06-03 20:18:05.424892	2025-06-03 20:18:05.424892
 2706	2306	ergebnis-saugkuppelcup-gesamt.pdf		2025-06-03 20:18:13.302834	2025-06-03 20:18:13.302834
+2707	2307	ergebnis-100m-hindernisbahn-manner-u15.pdf	hb_male	2025-06-14 20:45:37.717419	2025-06-14 20:45:37.717419
+2708	2307	ergebnis-hakenleitersteigen-manner-u15.pdf	hl_male	2025-06-14 20:45:42.235166	2025-06-14 20:45:42.235166
+2709	2307	ergebnis-100m-hindernisbahn-frauen-u15.pdf	hb_female	2025-06-14 20:45:46.77659	2025-06-14 20:45:46.77659
+2710	2307	ergebnis-zweikampf-frauen.pdf	zk_female	2025-06-14 20:45:53.297412	2025-06-14 20:45:53.297412
+2711	2307	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2025-06-14 20:45:58.498287	2025-06-14 20:45:58.498287
+2712	2307	ergebnis-hakenleitersteigen-frauen-u15.pdf	hl_female	2025-06-14 20:46:03.398782	2025-06-14 20:46:03.398782
+2713	2307	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-06-14 20:46:08.433793	2025-06-14 20:46:08.433793
+2714	2307	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-06-14 20:46:13.723417	2025-06-14 20:46:13.723417
+2715	2307	ergebnis-zweikampf-manner.pdf	zk_male	2025-06-14 20:46:18.948897	2025-06-14 20:46:18.948897
+2716	2307	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2025-06-14 20:46:26.401226	2025-06-14 20:46:26.401226
+2717	2307	ergebnis-loschangriff-manner-tageswertung-bb-cup.pdf	la_male	2025-06-14 20:46:31.460692	2025-06-14 20:46:31.460692
+2718	2307	ergebnis-loschangriff-frauen-tageswertung-bb-cup.pdf	la_female	2025-06-14 20:46:39.374975	2025-06-14 20:46:39.374975
+2719	2307	gesamtwertung.pdf		2025-06-14 20:46:44.69279	2025-06-14 20:46:44.69279
+2720	2307	ergebnis-gruppenstafette-frauen.pdf	gs_female	2025-06-14 20:46:49.599938	2025-06-14 20:46:49.599938
+2721	2307	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2025-06-14 20:46:54.990468	2025-06-14 20:46:54.990468
+2722	2307	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-06-14 20:47:00.607883	2025-06-14 20:47:00.607883
+2723	2307	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-14 20:47:05.366311	2025-06-14 20:47:05.366311
+2724	2307	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-14 20:47:09.755374	2025-06-14 20:47:09.755374
+2725	2307	ergebnis-loschangriff-frauen-bb-cup.pdf	la_female	2025-06-14 20:47:14.040992	2025-06-14 20:47:14.040992
+2726	2307	ergebnis-loschangriff-manner-bb-cup.pdf	la_male	2025-06-14 20:47:18.348431	2025-06-14 20:47:18.348431
+2727	2307	ergebnis-loschangriff-frauen-d-cup.pdf	la_female	2025-06-14 20:47:23.188308	2025-06-14 20:47:23.188308
+2728	2307	ergebnis-loschangriff-manner-d-cup.pdf	la_male	2025-06-14 20:47:27.90035	2025-06-14 20:47:27.90035
+2729	2307	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-06-14 20:47:33.678965	2025-06-14 20:47:33.678965
+2730	2307	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-06-14 20:47:38.134053	2025-06-14 20:47:38.134053
 \.

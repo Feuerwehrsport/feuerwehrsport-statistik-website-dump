@@ -2286,7 +2286,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2296	Amtsauscheid des Amtes Neustadt-Glewe	619	15	\N	2025-05-10	\N	2025-05-15 10:56:39.857696	2025-05-15 10:56:39.857696	\N	0	0	0	0	0	0	0	0	8	4	0	10.05.2025 - Hohewisch, Amtsausscheid (Amtsauscheid des Amtes Neustadt-Glewe)	f	f	f	f	2025
 2297	4. Stendaler Hansepokal 2025	325	10	\N	2025-05-10	\N	2025-05-15 10:58:03.622944	2025-05-15 10:58:03.622944	\N	0	0	0	0	0	0	0	20	42	18	0	10.05.2025 - Stendal, Pokallauf (4. Stendaler Hansepokal 2025)	f	f	f	f	2025
 2298	2. MV-Hinderniscup	589	13	\N	2025-05-17	\N	2025-05-17 12:22:31.239856	2025-05-17 12:22:31.239856	\N	0	0	6	23	0	0	0	0	0	8	15	17.05.2025 - Röbel/Müritz, MV-Cup (2. MV-Hinderniscup)	f	f	f	f	2025
-2299	Schloßpokallauf	18	10	\N	2025-04-26	\N	2025-05-21 09:08:33.116619	2025-05-21 09:09:01.713125		42	40	0	0	0	0	0	0	0	11	41	26.04.2025 - Nudersdorf, Pokallauf (Schloßpokallauf)	f	f	f	f	2025
+2299	Schloßpokallauf	18	10	\N	2025-04-26	\N	2025-05-21 09:08:33.116619	2025-05-21 09:09:01.713125		42	56	0	0	0	0	0	0	0	12	47	26.04.2025 - Nudersdorf, Pokallauf (Schloßpokallauf)	f	f	f	f	2025
 2300	3.Lausitzer Pokallauf / BB-Cup+4BP	208	16	\N	2025-05-17	\N	2025-05-21 09:17:34.569081	2025-05-21 09:17:34.569081	\N	0	0	0	0	0	0	0	28	92	34	0	17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)	f	f	f	f	2025
 2301	1. Dannenwalder Bekemühlenpokal	659	10	\N	2025-05-17	\N	2025-05-21 13:14:31.583764	2025-05-21 13:14:31.583764	\N	0	0	0	0	0	0	0	4	35	15	0	17.05.2025 - Dannenwalde, Pokallauf (1. Dannenwalder Bekemühlenpokal)	f	f	f	f	2025
 2302	Straguth - 2. SAP	612	18	\N	2025-05-24	\N	2025-05-28 08:38:31.712263	2025-05-28 08:38:31.712263	\N	0	0	4	8	0	0	0	14	54	20	6	24.05.2025 - Straguth, SAP (Straguth - 2. SAP)	f	f	f	f	2025
@@ -2294,4 +2294,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2304	1. Lauf Stadtpokal Dornburg-Camburg	661	10	\N	2025-05-24	\N	2025-05-28 08:47:10.288245	2025-05-28 08:47:10.288245	\N	0	0	6	6	0	0	0	0	0	3	6	24.05.2025 - Dornburg-Camburg, Pokallauf (1. Lauf Stadtpokal Dornburg-Camburg)	f	f	f	f	2025
 2305	Amt Bützow-Land und LRO	662	6	\N	2025-05-24	\N	2025-06-03 11:27:17.30279	2025-06-03 11:27:17.30279	\N	0	0	0	0	0	0	0	6	72	27	0	24.05.2025 - Zernin, Kreisausscheid (Amt Bützow-Land und LRO)	f	f	f	f	2025
 2306	3.Pokallauf Harzgerode / 3.SAP-Cup	637	18	\N	2025-05-31	\N	2025-06-03 19:01:31.037462	2025-06-03 19:01:31.037462	\N	0	0	0	0	0	0	0	12	64	23	0	31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)	f	f	f	f	2025
+2307	1. Deutschland-Cup und 2.BB-Cup	200	35	\N	2025-06-07	\N	2025-06-14 20:34:57.030147	2025-06-14 20:34:57.030147	\N	109	117	97	88	11	0	0	24	38	43	116	07.06.2025 - Langengrassau, D-Cup (1. Deutschland-Cup und 2.BB-Cup)	f	f	f	f	2025
 \.
