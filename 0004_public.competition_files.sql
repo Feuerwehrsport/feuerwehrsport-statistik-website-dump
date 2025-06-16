@@ -2719,4 +2719,11 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2728	2307	ergebnis-loschangriff-manner-d-cup.pdf	la_male	2025-06-14 20:47:27.90035	2025-06-14 20:47:27.90035
 2729	2307	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-06-14 20:47:33.678965	2025-06-14 20:47:33.678965
 2730	2307	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-06-14 20:47:38.134053	2025-06-14 20:47:38.134053
+2731	2308	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-06-15 17:31:01.258655	2025-06-15 17:31:01.258655
+2732	2308	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-15 17:31:06.498095	2025-06-15 17:31:06.498095
+2733	2308	ergebnis-loschangriff-nass-u40.pdf	la_male	2025-06-15 17:31:11.817297	2025-06-15 17:31:11.817297
+2734	2308	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-15 17:31:20.689038	2025-06-15 17:31:20.689038
+2735	2308	ergebnis-loschangriff-nass-manner-pokallauf.pdf	la_male	2025-06-15 17:31:37.279145	2025-06-15 17:31:37.279145
+2736	2308	gesamtwertung.pdf		2025-06-15 17:32:06.167279	2025-06-15 17:32:06.167279
+2737	2308	ergebnis-loschangriff-nass-jugend-pokallauf.pdf	la_female,la_male	2025-06-15 17:32:25.430382	2025-06-15 17:32:25.430382
 \.

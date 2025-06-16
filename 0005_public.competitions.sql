@@ -2295,4 +2295,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2305	Amt Bützow-Land und LRO	662	6	\N	2025-05-24	\N	2025-06-03 11:27:17.30279	2025-06-03 11:27:17.30279	\N	0	0	0	0	0	0	0	6	72	27	0	24.05.2025 - Zernin, Kreisausscheid (Amt Bützow-Land und LRO)	f	f	f	f	2025
 2306	3.Pokallauf Harzgerode / 3.SAP-Cup	637	18	\N	2025-05-31	\N	2025-06-03 19:01:31.037462	2025-06-03 19:01:31.037462	\N	0	0	0	0	0	0	0	12	64	23	0	31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)	f	f	f	f	2025
 2307	1. Deutschland-Cup und 2.BB-Cup	200	35	\N	2025-06-07	\N	2025-06-14 20:34:57.030147	2025-06-14 20:34:57.030147	\N	109	117	97	88	11	0	0	24	38	43	116	07.06.2025 - Langengrassau, D-Cup (1. Deutschland-Cup und 2.BB-Cup)	f	f	f	f	2025
+2308	31. Techentiner Feuerwehrtreffen	386	10	\N	2025-06-14	\N	2025-06-15 15:45:07.326405	2025-06-15 15:45:07.326405	\N	18	30	20	25	0	0	0	4	36	28	31	14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)	f	f	f	f	2025
 \.
