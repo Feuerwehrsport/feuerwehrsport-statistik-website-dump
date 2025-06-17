@@ -2708,4 +2708,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2775	Facebook	306	Appointment	https://m.facebook.com/events/349415184830932/?acontext=%7B%22action_history%22:%22null%22%7D&ref_source=newsfeed&ref_mechanism=feed_attachment	2024-08-25 19:47:15.668145	2024-08-25 19:47:15.668145
 2776	Feuerwehrverein Zechin	1493	Team	https://www.amt-golzow.de/verzeichnis/visitenkarte.php?mandat=194382	2025-03-20 10:33:42.422312	2025-03-20 10:33:42.422312
 2777	Freiwillige Feuerwehr Magdeburg/Olvenstedt	2537	Team	https://feuerwehr-olvenstedt.de/	2025-05-27 17:52:38.627023	2025-05-27 17:52:38.627023
+2778	Freiwillige Feuerwehr Langwedel - Ortsfeuerwehr Etelsen	4008	Team	http://www.feuerwehr-langwedel.de	2025-06-16 13:19:17.745309	2025-06-16 13:19:17.745309
 \.

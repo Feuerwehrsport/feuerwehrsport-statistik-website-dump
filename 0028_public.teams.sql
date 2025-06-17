@@ -3355,7 +3355,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4005	FF Großderschau-Rübehorst	Großderschau-Rübehorst	1	\N	\N	\N		2024-11-24 20:11:59.087354	2024-11-24 20:11:59.087354	\N	0	1	{"male": {"din": {"pb": [4576, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4006	FF Rasnitz	Rasnitz	1	\N	\N	\N		2024-11-24 20:25:59.290161	2024-11-24 20:25:59.290161	\N	0	1	{"male": {"din": {"pb": [99999999, "14.09.2024 - Altentreptow, Pokallauf (11. Tollensetalpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4007	FF Köpernitz	Köpernitz	1	\N	\N	\N		2024-11-24 20:35:02.831335	2024-11-24 20:35:02.831335	\N	0	1	{"male": {"din": {"pb": [3059, "21.09.2024 - Neschholz, Kreisausscheid (Kreismeisterschaft Potsdam-Mittelmark)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4008	FF Etelsen	Etelsen	1	53.0028858452	9.1245424747	\N		2024-11-24 20:43:06.210932	2025-06-14 12:35:51.557531	\N	0	1	{"male": {"din": {"pb": [99999999, "28.09.2024 - Techentin, MV-Cup (4. MV-Cup 2024)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+4008	FF Etelsen	Etelsen	1	53.0028858452	9.1245424747	\N	NI	2024-11-24 20:43:06.210932	2025-06-16 13:18:33.373395	\N	0	1	{"male": {"din": {"pb": [99999999, "28.09.2024 - Techentin, MV-Cup (4. MV-Cup 2024)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4009	FF Hedersleben/Hausneindorf	Hedersleben/Hausneindorf	1	\N	\N	\N		2024-11-24 21:23:54.649802	2024-11-24 21:23:54.649802	\N	0	2	{"male": {"din": {"pb": [2790, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"], "sb": [2790, "31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4010	FF Barby	Barby	1	\N	\N	\N		2024-11-24 21:23:57.490211	2024-11-24 21:23:57.490211	\N	0	1	{"male": {"din": {"pb": [3653, "30.09.2023 - Nachterstedt, Pokallauf (3. Flutlichtpokal 2023)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4011	FF Schermen	Schermen	1	\N	\N	\N		2024-11-24 21:24:00.490504	2024-11-24 21:24:00.490504	\N	0	1	{"male": {"din": {"pb": [7491, "30.09.2023 - Nachterstedt, Pokallauf (3. Flutlichtpokal 2023)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3419,14 +3419,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 22650, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 22815, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1063, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1064, true);
 
 
 --
@@ -3440,7 +3440,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24741, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24743, true);
 
 
 --
@@ -3468,7 +3468,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2308, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 57673, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 57842, true);
 
 
 --
@@ -3531,7 +3531,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 363, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2777, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2778, true);
 
 
 --
@@ -3545,7 +3545,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 22644, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 22809, true);
 
 
 --
