@@ -2294,6 +2294,9 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2304	1. Lauf Stadtpokal Dornburg-Camburg	661	10	\N	2025-05-24	\N	2025-05-28 08:47:10.288245	2025-05-28 08:47:10.288245	\N	0	0	6	6	0	0	0	0	0	3	6	24.05.2025 - Dornburg-Camburg, Pokallauf (1. Lauf Stadtpokal Dornburg-Camburg)	f	f	f	f	2025
 2305	Amt Bützow-Land und LRO	662	6	\N	2025-05-24	\N	2025-06-03 11:27:17.30279	2025-06-03 11:27:17.30279	\N	0	0	0	0	0	0	0	6	72	27	0	24.05.2025 - Zernin, Kreisausscheid (Amt Bützow-Land und LRO)	f	f	f	f	2025
 2306	3.Pokallauf Harzgerode / 3.SAP-Cup	637	18	\N	2025-05-31	\N	2025-06-03 19:01:31.037462	2025-06-03 19:01:31.037462	\N	0	0	0	0	0	0	0	12	64	23	0	31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)	f	f	f	f	2025
-2307	1. Deutschland-Cup und 2.BB-Cup	200	35	\N	2025-06-07	\N	2025-06-14 20:34:57.030147	2025-06-14 20:34:57.030147	\N	109	117	97	88	11	0	0	24	38	43	116	07.06.2025 - Langengrassau, D-Cup (1. Deutschland-Cup und 2.BB-Cup)	f	f	f	f	2025
+2307	1. Deutschland-Cup und 2.BB-Cup	200	35	\N	2025-06-07	\N	2025-06-14 20:34:57.030147	2025-06-17 07:06:12.628314		109	117	97	88	11	0	0	24	38	43	116	07.06.2025 - Langengrassau, D-Cup (1. Deutschland-Cup und 2.BB-Cup)	t	t	t	t	2025
 2308	31. Techentiner Feuerwehrtreffen	386	10	\N	2025-06-14	\N	2025-06-15 15:45:07.326405	2025-06-15 15:45:07.326405	\N	18	30	20	25	0	0	0	4	36	28	31	14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)	f	f	f	f	2025
+2309	Stadtmeisterschaft Sonnewalde	49	15	\N	2025-05-17	\N	2025-06-17 12:05:52.459638	2025-06-17 12:05:52.459638	\N	0	0	0	0	2	0	0	3	13	13	0	17.05.2025 - Sonnewalde, Amtsausscheid (Stadtmeisterschaft Sonnewalde)	f	f	f	f	2025
+2310	TGL-Cup	199	33	\N	2025-06-14	\N	2025-06-17 12:09:16.31039	2025-06-17 12:09:16.31039	\N	0	0	0	0	0	0	0	7	46	14	0	14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)	f	f	f	f	2025
+2311	Bereichsmeisterschaften JF Kreis Bad Freienwalde	184	10	\N	2025-06-14	\N	2025-06-17 12:14:47.023666	2025-06-17 12:14:47.023666	\N	0	0	0	0	0	0	0	0	0	0	0	14.06.2025 - Altreetz, Pokallauf (Bereichsmeisterschaften JF Kreis Bad Freienwalde)	f	f	f	f	2025
 \.

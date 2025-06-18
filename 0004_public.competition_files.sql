@@ -2726,4 +2726,38 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2735	2308	ergebnis-loschangriff-nass-manner-pokallauf.pdf	la_male	2025-06-15 17:31:37.279145	2025-06-15 17:31:37.279145
 2736	2308	gesamtwertung.pdf		2025-06-15 17:32:06.167279	2025-06-15 17:32:06.167279
 2737	2308	ergebnis-loschangriff-nass-jugend-pokallauf.pdf	la_female,la_male	2025-06-15 17:32:25.430382	2025-06-15 17:32:25.430382
+2738	2309	ergebnis-loschangriff-nass-u-40.pdf	la_female,la_male	2025-06-17 12:07:19.430145	2025-06-17 12:07:19.430145
+2739	2309	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-17 12:07:23.867628	2025-06-17 12:07:23.867628
+2740	2309	ergebnis-loschangriff-nass-madchen-ak-2.pdf	la_female	2025-06-17 12:07:30.712856	2025-06-17 12:07:30.712856
+2741	2309	ergebnis-loschangriff-nass-jungen-ak2.pdf	la_male	2025-06-17 12:07:35.955955	2025-06-17 12:07:35.955955
+2742	2309	ergebnis-loschangriff-nass-jungen-ak1.pdf	la_male	2025-06-17 12:07:40.455017	2025-06-17 12:07:40.455017
+2743	2309	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-17 12:07:46.47886	2025-06-17 12:07:46.47886
+2744	2309	ergebnis-loschangriff-nass-bambinis.pdf		2025-06-17 12:07:52.362773	2025-06-17 12:07:52.362773
+2745	2309	ergebnis-gruppenstafette-madchen-ak-2.pdf	gs_female	2025-06-17 12:07:57.720053	2025-06-17 12:07:57.720053
+2746	2309	ergebnis-gruppenstafette-jungen-ak2.pdf		2025-06-17 12:08:03.696481	2025-06-17 12:08:03.696481
+2747	2309	ergebnis-gruppenstafette-jungen-ak1.pdf		2025-06-17 12:08:07.769553	2025-06-17 12:08:07.769553
+2748	2309	ergebnis-gruppenstafette-frauen.pdf	gs_female	2025-06-17 12:08:12.302562	2025-06-17 12:08:12.302562
+2749	2310	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-06-17 12:12:52.676227	2025-06-17 12:12:52.676227
+2750	2310	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-06-17 12:12:57.837246	2025-06-17 12:12:57.837246
+2751	2310	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-06-17 12:13:02.868485	2025-06-17 12:13:02.868485
+2752	2310	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-06-17 12:13:07.621003	2025-06-17 12:13:07.621003
+2753	2310	ergebnis-loschangriff-tgl-cup-frauen.pdf	la_female	2025-06-17 12:13:12.338297	2025-06-17 12:13:12.338297
+2754	2310	ergebnis-loschangriff-tgl-cup-manner.pdf	la_male	2025-06-17 12:13:16.827808	2025-06-17 12:13:16.827808
+2755	2310	ergebnis-loschangriff-frauen.pdf	la_female	2025-06-17 12:13:22.041923	2025-06-17 12:13:22.041923
+2756	2310	ergebnis-loschangriff-manner.pdf	la_male	2025-06-17 12:13:26.593248	2025-06-17 12:13:26.593248
+2757	2311	ergebnis-loschangriff-nass-jungen-15-18.pdf	la_male	2025-06-17 12:14:55.847167	2025-06-17 12:14:55.847167
+2758	2311	gesamtwertung.pdf		2025-06-17 12:15:00.214368	2025-06-17 12:15:00.214368
+2759	2311	ergebnis-gruppenstafette-jungen-15-18.pdf		2025-06-17 12:15:04.356273	2025-06-17 12:15:04.356273
+2760	2311	ergebnis-loschangriff-nass-madchen-15-18.pdf	la_female	2025-06-17 12:15:08.938686	2025-06-17 12:15:08.938686
+2761	2311	ergebnis-loschangriff-nass-madchen-10-14.pdf	la_female	2025-06-17 12:15:14.115205	2025-06-17 12:15:14.115205
+2762	2311	ergebnis-loschangriff-nass-jungen-10-14.pdf	la_male	2025-06-17 12:15:18.605943	2025-06-17 12:15:18.605943
+2763	2311	ergebnis-loschangriff-nass-jugend-u10.pdf		2025-06-17 12:15:23.41998	2025-06-17 12:15:23.41998
+2764	2311	ergebnis-gruppenstafette-madchen-15-18.pdf	gs_female	2025-06-17 12:15:27.769529	2025-06-17 12:15:27.769529
+2765	2311	ergebnis-gruppenstafette-madchen-10-14.pdf	gs_female	2025-06-17 12:15:35.126866	2025-06-17 12:15:35.126866
+2766	2311	ergebnis-gruppenstafette-jungen-10-14.pdf		2025-06-17 12:15:40.723273	2025-06-17 12:15:40.723273
+2767	2311	ergebnis-gruppenstafette-jugend-u10.pdf		2025-06-17 12:15:45.304102	2025-06-17 12:15:45.304102
+2768	2311	ergebnis-5x80m-feuerwehrstafette-jungen-15-18.pdf	fs_male	2025-06-17 12:15:50.660809	2025-06-17 12:15:50.660809
+2769	2311	ergebnis-5x80m-feuerwehrstafette-madchen-15-18.pdf	fs_female	2025-06-17 12:15:59.084386	2025-06-17 12:15:59.084386
+2770	2311	ergebnis-5x80m-feuerwehrstafette-jungen-10-14.pdf	fs_male	2025-06-17 12:16:04.740131	2025-06-17 12:16:04.740131
+2771	2311	ergebnis-5x80m-feuerwehrstafette-madchen-10-14.pdf	fs_female	2025-06-17 12:16:09.128757	2025-06-17 12:16:09.128757
 \.
