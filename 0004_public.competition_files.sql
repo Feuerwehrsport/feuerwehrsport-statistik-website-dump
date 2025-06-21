@@ -2760,4 +2760,7 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2769	2311	ergebnis-5x80m-feuerwehrstafette-madchen-15-18.pdf	fs_female	2025-06-17 12:15:59.084386	2025-06-17 12:15:59.084386
 2770	2311	ergebnis-5x80m-feuerwehrstafette-jungen-10-14.pdf	fs_male	2025-06-17 12:16:04.740131	2025-06-17 12:16:04.740131
 2771	2311	ergebnis-5x80m-feuerwehrstafette-madchen-10-14.pdf	fs_female	2025-06-17 12:16:09.128757	2025-06-17 12:16:09.128757
+2772	2313	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-20 06:56:41.616014	2025-06-20 06:56:41.616014
+2773	2313	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-20 06:56:45.93525	2025-06-20 06:56:45.93525
+2774	2313	ergebnis-loschangriff-nass-jugend.pdf		2025-06-20 06:56:50.773262	2025-06-20 06:56:50.773262
 \.

@@ -2299,4 +2299,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2309	Stadtmeisterschaft Sonnewalde	49	15	\N	2025-05-17	\N	2025-06-17 12:05:52.459638	2025-06-17 12:05:52.459638	\N	0	0	0	0	2	0	0	3	13	13	0	17.05.2025 - Sonnewalde, Amtsausscheid (Stadtmeisterschaft Sonnewalde)	f	f	f	f	2025
 2310	TGL-Cup	199	33	\N	2025-06-14	\N	2025-06-17 12:09:16.31039	2025-06-17 12:09:16.31039	\N	0	0	0	0	0	0	0	7	46	14	0	14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2311	Bereichsmeisterschaften JF Kreis Bad Freienwalde	184	10	\N	2025-06-14	\N	2025-06-17 12:14:47.023666	2025-06-17 12:14:47.023666	\N	0	0	0	0	0	0	0	0	0	0	0	14.06.2025 - Altreetz, Pokallauf (Bereichsmeisterschaften JF Kreis Bad Freienwalde)	f	f	f	f	2025
+2312	Polnische Meisterschaften	663	10	\N	2025-06-16	\N	2025-06-20 06:46:11.081953	2025-06-20 06:46:11.081953	\N	0	16	0	16	0	0	2	0	2	1	8	16.06.2025 - Częstochowa (Polen), Pokallauf (Polnische Meisterschaften)	f	f	f	f	2025
+2313	Birkenpokal	664	10	\N	2025-06-14	\N	2025-06-20 06:54:20.153629	2025-06-20 06:54:20.153629	\N	0	0	0	0	0	0	0	2	19	11	0	14.06.2025 - Roxförde, Pokallauf (Birkenpokal)	f	f	f	f	2025
 \.
