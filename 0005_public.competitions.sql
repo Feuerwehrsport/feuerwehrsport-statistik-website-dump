@@ -2301,4 +2301,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2311	Bereichsmeisterschaften JF Kreis Bad Freienwalde	184	10	\N	2025-06-14	\N	2025-06-17 12:14:47.023666	2025-06-17 12:14:47.023666	\N	0	0	0	0	0	0	0	0	0	0	0	14.06.2025 - Altreetz, Pokallauf (Bereichsmeisterschaften JF Kreis Bad Freienwalde)	f	f	f	f	2025
 2312	Polnische Meisterschaften	663	10	\N	2025-06-16	\N	2025-06-20 06:46:11.081953	2025-06-20 06:46:11.081953	\N	0	16	0	16	0	0	2	0	2	1	8	16.06.2025 - Częstochowa (Polen), Pokallauf (Polnische Meisterschaften)	f	f	f	f	2025
 2313	Birkenpokal	664	10	\N	2025-06-14	\N	2025-06-20 06:54:20.153629	2025-06-20 06:54:20.153629	\N	0	0	0	0	0	0	0	2	19	11	0	14.06.2025 - Roxförde, Pokallauf (Birkenpokal)	f	f	f	f	2025
+2314	LK Stendal	665	6	\N	2025-06-21	\N	2025-06-22 18:54:05.62276	2025-06-22 18:54:05.62276	\N	0	0	0	0	0	0	0	10	26	18	0	21.06.2025 - Tangermünde, Kreisausscheid (LK Stendal)	f	f	f	f	2025
+2315	Jugend Löschangriff nass Löberitz	666	10	\N	2025-06-21	\N	2025-06-22 18:56:17.273835	2025-06-22 18:56:17.273835	\N	0	0	0	0	0	0	0	0	0	0	0	21.06.2025 - Löberitz, Pokallauf (Jugend Löschangriff nass Löberitz)	f	f	f	f	2025
 \.

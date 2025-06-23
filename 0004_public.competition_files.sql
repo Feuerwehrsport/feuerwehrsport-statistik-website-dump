@@ -2763,4 +2763,7 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2772	2313	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-20 06:56:41.616014	2025-06-20 06:56:41.616014
 2773	2313	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-20 06:56:45.93525	2025-06-20 06:56:45.93525
 2774	2313	ergebnis-loschangriff-nass-jugend.pdf		2025-06-20 06:56:50.773262	2025-06-20 06:56:50.773262
+2775	2314	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-22 18:54:43.790029	2025-06-22 18:54:43.790029
+2776	2314	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-22 18:54:48.070474	2025-06-22 18:54:48.070474
+2777	2315	ergebnis-loschangriff-nass-jugend.pdf		2025-06-22 18:56:30.616793	2025-06-22 18:56:30.616793
 \.
