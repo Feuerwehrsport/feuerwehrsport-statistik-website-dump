@@ -2766,4 +2766,16 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2775	2314	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-22 18:54:43.790029	2025-06-22 18:54:43.790029
 2776	2314	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-22 18:54:48.070474	2025-06-22 18:54:48.070474
 2777	2315	ergebnis-loschangriff-nass-jugend.pdf		2025-06-22 18:56:30.616793	2025-06-22 18:56:30.616793
+2778	2316	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-06-23 16:47:12.333994	2025-06-23 16:47:12.333994
+2779	2316	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-06-23 16:47:19.449631	2025-06-23 16:47:19.449631
+2780	2316	ergebnis-loschangriff-nass-jugend-ak1.pdf	la_male	2025-06-23 16:48:07.378933	2025-06-23 16:48:07.378933
+2781	2316	ergebnis-100m-hindernisbahn-stadtwertung-frauen.pdf	hb_female	2025-06-23 16:48:13.491754	2025-06-23 16:48:13.491754
+2782	2316	ergebnis-100m-hindernisbahn-stadtwertung-manner.pdf	hb_male	2025-06-23 16:48:18.259581	2025-06-23 16:48:18.259581
+2783	2316	ergebnis-loschangriff-stadtwertung-frauen.pdf	la_female	2025-06-23 16:48:24.662047	2025-06-23 16:48:24.662047
+2784	2316	ergebnis-loschangriff-stadtwertung-manner.pdf	la_male	2025-06-23 16:48:29.909379	2025-06-23 16:48:29.909379
+2785	2316	ergebnis-loschangriff-bb-cup-frauen.pdf	la_female	2025-06-23 16:48:34.606716	2025-06-23 16:48:34.606716
+2786	2316	ergebnis-loschangriff-bb-cup-manner.pdf	la_male	2025-06-23 16:48:39.651052	2025-06-23 16:48:39.651052
+2787	2316	ergebnis-jbb-cup-ak1.pdf	la_male	2025-06-23 16:48:47.434029	2025-06-23 16:48:47.434029
+2788	2316	ergebnis-loschangriff-nass-jugend-ak2.pdf	la_male	2025-06-23 16:48:52.016031	2025-06-23 16:48:52.016031
+2789	2316	ergebnis-jbb-cup-ak2.pdf	la_male	2025-06-23 16:48:56.935154	2025-06-23 16:48:56.935154
 \.

@@ -2282,7 +2282,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2292	TGL-Cup	219	33	\N	2025-05-03	\N	2025-05-06 19:39:27.154855	2025-05-06 19:39:27.154855	\N	0	0	0	0	0	0	0	4	38	16	0	03.05.2025 - Garitz-Bornum, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2293	TGL-Cup	498	33	\N	2025-05-10	\N	2025-05-12 16:25:18.840692	2025-05-12 16:25:18.840692	\N	0	0	0	0	0	0	0	4	68	18	0	10.05.2025 - Mupperg, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2294	MV CUP Lauf 2/2025	592	13	\N	2025-05-10	\N	2025-05-15 09:50:28.422465	2025-05-15 09:50:28.422465	\N	0	0	0	0	0	0	0	12	42	27	0	10.05.2025 - Neustadt-Glewe, MV-Cup (MV CUP Lauf 2/2025)	f	f	f	f	2025
-2295	1. Lauf SAP	33	18	\N	2025-04-26	\N	2025-05-15 09:55:06.65589	2025-05-15 09:55:06.65589	\N	0	0	0	0	0	0	0	5	42	17	0	26.04.2025 - Schmilkendorf, SAP (1. Lauf SAP)	f	f	f	f	2025
+2295	1. Lauf SAP	33	18	\N	2025-04-26	\N	2025-05-15 09:55:06.65589	2025-05-15 09:55:06.65589	\N	0	0	0	8	0	0	0	5	42	17	4	26.04.2025 - Schmilkendorf, SAP (1. Lauf SAP)	f	f	f	f	2025
 2296	Amtsauscheid des Amtes Neustadt-Glewe	619	15	\N	2025-05-10	\N	2025-05-15 10:56:39.857696	2025-05-15 10:56:39.857696	\N	0	0	0	0	0	0	0	0	8	4	0	10.05.2025 - Hohewisch, Amtsausscheid (Amtsauscheid des Amtes Neustadt-Glewe)	f	f	f	f	2025
 2297	4. Stendaler Hansepokal 2025	325	10	\N	2025-05-10	\N	2025-05-15 10:58:03.622944	2025-05-15 10:58:03.622944	\N	0	0	0	0	0	0	0	20	42	18	0	10.05.2025 - Stendal, Pokallauf (4. Stendaler Hansepokal 2025)	f	f	f	f	2025
 2298	2. MV-Hinderniscup	589	13	\N	2025-05-17	\N	2025-05-17 12:22:31.239856	2025-05-17 12:22:31.239856	\N	0	0	6	23	0	0	0	0	0	8	15	17.05.2025 - Röbel/Müritz, MV-Cup (2. MV-Hinderniscup)	f	f	f	f	2025
@@ -2303,4 +2303,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2313	Birkenpokal	664	10	\N	2025-06-14	\N	2025-06-20 06:54:20.153629	2025-06-20 06:54:20.153629	\N	0	0	0	0	0	0	0	2	19	11	0	14.06.2025 - Roxförde, Pokallauf (Birkenpokal)	f	f	f	f	2025
 2314	LK Stendal	665	6	\N	2025-06-21	\N	2025-06-22 18:54:05.62276	2025-06-22 18:54:05.62276	\N	0	0	0	0	0	0	0	10	26	18	0	21.06.2025 - Tangermünde, Kreisausscheid (LK Stendal)	f	f	f	f	2025
 2315	Jugend Löschangriff nass Löberitz	666	10	\N	2025-06-21	\N	2025-06-22 18:56:17.273835	2025-06-22 18:56:17.273835	\N	0	0	0	0	0	0	0	0	0	0	0	21.06.2025 - Löberitz, Pokallauf (Jugend Löschangriff nass Löberitz)	f	f	f	f	2025
+2316	39.Planepokal / 3. BB-Cup	66	16	\N	2025-06-21	\N	2025-06-23 16:35:41.078698	2025-06-23 16:35:41.078698	\N	0	0	8	2	0	0	0	18	79	39	5	21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)	f	f	f	f	2025
 \.
