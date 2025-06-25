@@ -2304,4 +2304,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2314	LK Stendal	665	6	\N	2025-06-21	\N	2025-06-22 18:54:05.62276	2025-06-22 18:54:05.62276	\N	0	0	0	0	0	0	0	10	26	18	0	21.06.2025 - Tangermünde, Kreisausscheid (LK Stendal)	f	f	f	f	2025
 2315	Jugend Löschangriff nass Löberitz	666	10	\N	2025-06-21	\N	2025-06-22 18:56:17.273835	2025-06-22 18:56:17.273835	\N	0	0	0	0	0	0	0	0	0	0	0	21.06.2025 - Löberitz, Pokallauf (Jugend Löschangriff nass Löberitz)	f	f	f	f	2025
 2316	39.Planepokal / 3. BB-Cup	66	16	\N	2025-06-21	\N	2025-06-23 16:35:41.078698	2025-06-23 16:35:41.078698	\N	0	0	8	2	0	0	0	18	79	39	5	21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)	f	f	f	f	2025
+2317	MV CUP Lauf 3/2025	51	13	\N	2025-06-21	\N	2025-06-24 09:12:30.380043	2025-06-24 09:12:30.380043	\N	0	0	0	0	0	0	0	12	36	24	0	21.06.2025 - Hohen Viecheln, MV-Cup (MV CUP Lauf 3/2025)	f	f	f	f	2025
+2318	Amt Schlieben	41	15	\N	2025-06-14	\N	2025-06-24 09:22:27.742121	2025-06-24 09:22:27.742121	\N	0	0	0	0	0	0	0	8	21	29	0	14.06.2025 - Hohenbucko, Amtsausscheid (Amt Schlieben)	f	f	f	f	2025
 \.

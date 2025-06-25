@@ -2778,4 +2778,13 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2787	2316	ergebnis-jbb-cup-ak1.pdf	la_male	2025-06-23 16:48:47.434029	2025-06-23 16:48:47.434029
 2788	2316	ergebnis-loschangriff-nass-jugend-ak2.pdf	la_male	2025-06-23 16:48:52.016031	2025-06-23 16:48:52.016031
 2789	2316	ergebnis-jbb-cup-ak2.pdf	la_male	2025-06-23 16:48:56.935154	2025-06-23 16:48:56.935154
+2790	2317	ergebnis-loschangriff-nass-jugend.pdf		2025-06-24 09:13:01.668116	2025-06-24 09:13:01.668116
+2791	2317	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-24 09:13:05.72395	2025-06-24 09:13:05.72395
+2792	2317	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-24 09:13:09.762264	2025-06-24 09:13:09.762264
+2793	2317	ergebnis-loschangriff-nass-madchen.pdf	la_female	2025-06-24 09:13:13.516982	2025-06-24 09:13:13.516982
+2794	2318	ergebnis-loschangriff-nass-jugend-ak1.pdf		2025-06-24 09:24:25.427389	2025-06-24 09:24:25.427389
+2795	2318	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-06-24 09:24:30.031115	2025-06-24 09:24:30.031115
+2796	2318	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-24 09:24:34.020632	2025-06-24 09:24:34.020632
+2797	2318	ergebnis-loschangriff-nass-jugend-ak2.pdf		2025-06-24 09:24:38.361746	2025-06-24 09:24:38.361746
+2798	2318	ergebnis-loschangriff-nass-jugend-ak0.pdf		2025-06-24 09:24:42.69363	2025-06-24 09:24:42.69363
 \.
