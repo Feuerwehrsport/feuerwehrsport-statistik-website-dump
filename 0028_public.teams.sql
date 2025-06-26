@@ -27,7 +27,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 20	Team Sachsen-Anhalt	Team SA	0	\N	\N	sachsen-anhalt.m.png	ST	2016-01-20 21:32:03.916669	2018-01-25 09:53:03.655657	2018-01-25 09:52:39	28	10	{"male": {"din": {"pb": [2105, "16.06.2012 - Wittenberg, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 21	FF Breitenau	Breitenau	1	51.6852217169	13.7226104736	breitenau.jpg	BB	2016-01-20 21:32:04.013673	2016-01-20 21:32:04.013673	2016-01-20 21:32:04.013673	34	50	{"male": {"din": {"pb": [2600, "09.07.2016 - Doberlug-Kirchhain, Stadtausscheid (Stadtmeisterschaften Sonnewalde)"], "sb": [6803, "17.05.2025 - Sonnewalde, Amtsausscheid (Stadtmeisterschaft Sonnewalde)"]}, "tgl": {"pb": [3240, "12.09.2013 - Großbahren, Pokallauf (3. Niederlausitzpokal)"], "sb": null}}, "female": {"din": {"pb": [2901, "25.07.2012 - Cottbus, DM"], "sb": null}, "tgl": {"pb": [4264, "12.09.2013 - Großbahren, Pokallauf (3. Niederlausitzpokal)"], "sb": null}}}
 22	Team Elsnig	Elsnig	0	51.6109814084	12.9264450073	elsnig.jpg	SN	2016-01-20 21:32:04.103617	2016-01-20 21:32:04.103617	2016-01-20 21:32:04.103617	15	61	{"male": {"din": {"pb": [2213, "29.08.2015 - Taura, Pokallauf (Heedebockpokal)"], "sb": null}, "tgl": {"pb": [3023, "03.10.2018 - Pretzsch, Pokallauf (25. Elbe-Pokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-23	FF Gehren	Gehren	1	51.8046875285	13.6476802826	gehren.jpg	BB	2016-01-20 21:32:04.190608	2016-01-20 21:32:04.190608	2016-01-20 21:32:04.190608	61	159	{"male": {"din": {"pb": [2138, "23.06.2012 - Neschholz, BB-Cup"], "sb": [2247, "21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)"]}, "tgl": {"pb": [2541, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"], "sb": [2541, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"]}}, "female": {"din": {"pb": [2519, "02.06.2018 - Gehren, BB-Cup (12. Waldstadionpokallauf)"], "sb": [2531, "21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)"]}, "tgl": {"pb": [2731, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"], "sb": [2731, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"]}}}
+23	FF Gehren	Gehren	1	51.8046875285	13.6476802826	gehren.jpg	BB	2016-01-20 21:32:04.190608	2016-01-20 21:32:04.190608	2016-01-20 21:32:04.190608	62	159	{"male": {"din": {"pb": [2138, "23.06.2012 - Neschholz, BB-Cup"], "sb": [2247, "21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)"]}, "tgl": {"pb": [2541, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"], "sb": [2541, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"]}}, "female": {"din": {"pb": [2519, "02.06.2018 - Gehren, BB-Cup (12. Waldstadionpokallauf)"], "sb": [2531, "21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)"]}, "tgl": {"pb": [2731, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"], "sb": [2731, "17.05.2025 - Zerkwitz, BB-Cup (3.Lausitzer Pokallauf / BB-Cup+4BP)"]}}}
 24	FF Losenrade	Losenrade	1	52.9695688500	11.7606084365	\N	ST	2016-01-20 21:32:04.213306	2016-01-20 21:32:04.213306	2016-01-20 21:32:04.213306	20	13	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3727, "18.08.2012 - Eichstedt, SAP (7. Bürgermeisterpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 25	Team Landkreis Leipzig	LK Leipzig	0	51.2137659269	12.5024414063	Leipzig.png	SN	2016-01-20 21:32:04.297154	2018-01-25 09:53:56.711226	2018-01-25 09:53:07	39	65	{"male": {"din": {"pb": [2355, "14.09.2013 - Brandis, Pokallauf (23. Sachsenpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 26	Nationalteam Österreich	Österreich	0	48.0689029308	13.4894943237	sterreich.jpg	AT	2016-01-20 21:32:04.383542	2018-01-25 09:54:43.74898	2018-01-25 09:54:18	12	2	{"male": {"din": {"pb": [2735, "01.08.2014 - Zeulenroda, Pokallauf (EuregioCup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3425,14 +3425,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 23588, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 23593, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1079, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1080, true);
 
 
 --
@@ -3446,7 +3446,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 24873, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 24878, true);
 
 
 --
@@ -3474,7 +3474,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2318, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 58988, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59003, true);
 
 
 --
@@ -3551,7 +3551,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 23582, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 23587, true);
 
 
 --
@@ -3565,14 +3565,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4304, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4305, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 22279, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 22307, true);
 
 
 --
