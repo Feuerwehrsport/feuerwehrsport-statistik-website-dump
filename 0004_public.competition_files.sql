@@ -2787,4 +2787,31 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2796	2318	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-06-24 09:24:34.020632	2025-06-24 09:24:34.020632
 2797	2318	ergebnis-loschangriff-nass-jugend-ak2.pdf		2025-06-24 09:24:38.361746	2025-06-24 09:24:38.361746
 2798	2318	ergebnis-loschangriff-nass-jugend-ak0.pdf		2025-06-24 09:24:42.69363	2025-06-24 09:24:42.69363
+2799	2319	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-06-29 14:00:43.849049	2025-06-29 14:00:43.849049
+2800	2319	ergebnis-hakenleitersteigen-jugend.pdf		2025-06-29 14:00:52.252985	2025-06-29 14:00:52.252985
+2801	2319	ergebnis-100m-hindernisbahn-jugend.pdf		2025-06-29 14:00:57.44408	2025-06-29 14:00:57.44408
+2802	2319	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2025-06-29 14:01:02.719515	2025-06-29 14:01:02.719515
+2803	2319	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2025-06-29 14:01:10.444189	2025-06-29 14:01:10.444189
+2804	2319	ergebnis-zweikampf-frauen.pdf	zk_female	2025-06-29 14:01:15.627683	2025-06-29 14:01:15.627683
+2805	2319	ergebnis-zweikampf-manner.pdf	zk_male	2025-06-29 14:01:20.349621	2025-06-29 14:01:20.349621
+2806	2319	ergebnis-zweikampf-jugend.pdf		2025-06-29 14:01:25.957213	2025-06-29 14:01:25.957213
+2807	2319	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2025-06-29 14:01:32.998597	2025-06-29 14:01:32.998597
+2808	2319	ergebnis-zweikampf-manner-u20.pdf	zk_male	2025-06-29 14:01:39.466059	2025-06-29 14:01:39.466059
+2809	2319	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-06-29 14:01:46.455851	2025-06-29 14:01:46.455851
+2810	2319	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-06-29 14:01:51.846034	2025-06-29 14:01:51.846034
+2811	2319	ergebnis-zweikampf-frauen-u20.pdf	zk_female	2025-06-29 14:01:57.337052	2025-06-29 14:01:57.337052
+2812	2319	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-06-29 14:02:02.769739	2025-06-29 14:02:02.769739
+2813	2319	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-06-29 14:02:08.556217	2025-06-29 14:02:08.556217
+2814	2320	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-06-29 14:37:44.290088	2025-06-29 14:37:44.290088
+2815	2320	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-06-29 14:37:48.895518	2025-06-29 14:37:48.895518
+2816	2320	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-06-29 14:37:52.945647	2025-06-29 14:37:52.945647
+2817	2320	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-06-29 14:37:57.865469	2025-06-29 14:37:57.865469
+2818	2320	ergebnis-loschangriff-nass-jugend-ak1.pdf	la_male	2025-06-29 14:38:02.656123	2025-06-29 14:38:02.656123
+2819	2320	ergebnis-loschangriff-nass-jugend-ak2.pdf	la_male	2025-06-29 14:38:07.627233	2025-06-29 14:38:07.627233
+2820	2320	ergebnis-loschangriff-bb-cup-frauen.pdf	la_female	2025-06-29 14:38:12.31517	2025-06-29 14:38:12.31517
+2821	2320	ergebnis-loschangriff-bb-cup-manner.pdf	la_male	2025-06-29 14:38:16.997307	2025-06-29 14:38:16.997307
+2822	2320	ergebnis-loschangriff-jbb-cup-ak1.pdf	la_male	2025-06-29 14:38:23.700454	2025-06-29 14:38:23.700454
+2823	2320	ergebnis-loschangriff-jbb-cup-ak2.pdf	la_male	2025-06-29 14:38:29.113915	2025-06-29 14:38:29.113915
+2824	2320	ergebnis-loschangriff-4bp-manner.pdf	la_male	2025-06-29 14:38:34.9615	2025-06-29 14:38:34.9615
+2825	2320	ergebnis-loschangriff-4bp-frauen.pdf	la_female	2025-06-29 14:38:39.242298	2025-06-29 14:38:39.242298
 \.

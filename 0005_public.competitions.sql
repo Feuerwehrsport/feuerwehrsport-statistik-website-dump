@@ -2306,4 +2306,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2316	39.Planepokal / 3. BB-Cup	66	16	\N	2025-06-21	\N	2025-06-23 16:35:41.078698	2025-06-23 16:35:41.078698	\N	0	0	8	2	0	0	0	18	79	39	5	21.06.2025 - Neschholz, BB-Cup (39.Planepokal / 3. BB-Cup)	f	f	f	f	2025
 2317	MV CUP Lauf 3/2025	51	13	\N	2025-06-21	\N	2025-06-24 09:12:30.380043	2025-06-24 09:12:30.380043	\N	0	0	0	0	0	0	0	12	36	24	0	21.06.2025 - Hohen Viecheln, MV-Cup (MV CUP Lauf 3/2025)	f	f	f	f	2025
 2318	Amt Schlieben	41	15	\N	2025-06-14	\N	2025-06-24 09:22:27.742121	2025-06-24 09:22:27.742121	\N	0	0	0	0	0	0	0	8	21	29	0	14.06.2025 - Hohenbucko, Amtsausscheid (Amt Schlieben)	f	f	f	f	2025
+2319	2. Schwalbenpokal / MV Hindernis- und Steigercup	25	13	\N	2025-06-28	\N	2025-06-29 13:57:59.081218	2025-06-29 13:57:59.081218	\N	16	30	14	28	0	0	0	0	0	14	23	28.06.2025 - Ostseebad Nienhagen, MV-Cup (2. Schwalbenpokal / MV Hindernis- und Steigercup)	f	f	f	f	2025
+2320	17.Galgenbergpokal / BB-Cup + 4BP	222	32	\N	2025-06-28	\N	2025-06-29 14:29:46.942162	2025-06-29 14:29:46.942162	\N	0	0	0	0	0	0	0	50	136	27	0	28.06.2025 - Stücken, 4BP (17.Galgenbergpokal / BB-Cup + 4BP)	f	f	f	f	2025
 \.
