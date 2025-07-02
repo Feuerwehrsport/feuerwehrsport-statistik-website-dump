@@ -2814,4 +2814,8 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2823	2320	ergebnis-loschangriff-jbb-cup-ak2.pdf	la_male	2025-06-29 14:38:29.113915	2025-06-29 14:38:29.113915
 2824	2320	ergebnis-loschangriff-4bp-manner.pdf	la_male	2025-06-29 14:38:34.9615	2025-06-29 14:38:34.9615
 2825	2320	ergebnis-loschangriff-4bp-frauen.pdf	la_female	2025-06-29 14:38:39.242298	2025-06-29 14:38:39.242298
+2826	2321	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-07-01 05:36:01.663863	2025-07-01 05:36:01.663863
+2827	2321	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-07-01 05:36:20.684527	2025-07-01 05:36:20.684527
+2828	2321	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-07-01 05:36:35.29801	2025-07-01 05:36:35.29801
+2829	2321	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-07-01 05:36:45.237274	2025-07-01 05:36:45.237274
 \.

@@ -2308,4 +2308,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2318	Amt Schlieben	41	15	\N	2025-06-14	\N	2025-06-24 09:22:27.742121	2025-06-24 09:22:27.742121	\N	0	0	0	0	0	0	0	8	21	29	0	14.06.2025 - Hohenbucko, Amtsausscheid (Amt Schlieben)	f	f	f	f	2025
 2319	2. Schwalbenpokal / MV Hindernis- und Steigercup	25	13	\N	2025-06-28	\N	2025-06-29 13:57:59.081218	2025-06-29 13:57:59.081218	\N	16	30	14	28	0	0	0	0	0	14	23	28.06.2025 - Ostseebad Nienhagen, MV-Cup (2. Schwalbenpokal / MV Hindernis- und Steigercup)	f	f	f	f	2025
 2320	17.Galgenbergpokal / BB-Cup + 4BP	222	32	\N	2025-06-28	\N	2025-06-29 14:29:46.942162	2025-06-29 14:29:46.942162	\N	0	0	0	0	0	0	0	50	136	27	0	28.06.2025 - Stücken, 4BP (17.Galgenbergpokal / BB-Cup + 4BP)	f	f	f	f	2025
+2321	4. SAP + 1. Klietzer Heidepokal	667	18	\N	2025-06-28	\N	2025-07-01 05:35:32.773845	2025-07-01 05:35:32.773845	\N	0	0	0	0	0	0	0	18	69	24	0	28.06.2025 - Klietz, SAP (4. SAP + 1. Klietzer Heidepokal)	f	f	f	f	2025
 \.
