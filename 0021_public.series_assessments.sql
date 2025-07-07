@@ -414,4 +414,6 @@ COPY public.series_assessments (id, round_id, discipline, name, type, gender, cr
 1555	111	hl		Series::PersonAssessment	1	2025-06-15 17:36:54.471077	2025-06-15 17:36:54.471077
 1560	112	la		Series::TeamAssessment	1	2025-06-19 11:50:39.167884	2025-06-19 11:50:39.167884
 1565	113	la		Series::TeamAssessment	1	2025-06-19 11:52:17.026396	2025-06-19 11:52:17.026396
+1573	107	hb		Series::PersonAssessment	1	2025-07-06 20:32:26.080074	2025-07-06 20:32:26.080074
+1579	107	hb		Series::PersonAssessment	0	2025-07-06 20:34:50.464784	2025-07-06 20:34:50.464784
 \.

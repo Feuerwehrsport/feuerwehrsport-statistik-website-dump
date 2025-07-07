@@ -2849,4 +2849,8 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2858	2326	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-07-05 19:49:12.956727	2025-07-05 19:49:12.956727
 2859	2326	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-07-05 19:49:17.108646	2025-07-05 19:49:17.108646
 2860	2326	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-07-05 19:49:21.266829	2025-07-05 19:49:21.266829
+2861	2326	ergebnis-loschangriff-nass-din-manner-sap.pdf	la_male	2025-07-06 19:07:16.578593	2025-07-06 19:07:16.578593
+2862	2326	ergebnis-loschangriff-nass-din-frauen-sap.pdf	la_female	2025-07-06 19:07:21.892063	2025-07-06 19:07:21.892063
+2863	2326	ergebnis-klietzer-heidepokal-frauen.pdf		2025-07-06 19:07:26.299756	2025-07-06 19:07:26.299756
+2864	2326	ergebnis-klietzer-heidepokal-manner.pdf		2025-07-06 19:07:30.758684	2025-07-06 19:07:30.758684
 \.
