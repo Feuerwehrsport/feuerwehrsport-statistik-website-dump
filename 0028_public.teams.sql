@@ -3425,14 +3425,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 23665, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 23670, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1090, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1094, true);
 
 
 --
@@ -3474,7 +3474,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2326, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59379, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59396, true);
 
 
 --
@@ -3523,14 +3523,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 85706, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 6025, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 6069, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 381, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 385, true);
 
 
 --
@@ -3551,7 +3551,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 23659, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 23664, true);
 
 
 --
