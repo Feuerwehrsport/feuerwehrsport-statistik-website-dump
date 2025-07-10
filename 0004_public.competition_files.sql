@@ -2853,4 +2853,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2862	2326	ergebnis-loschangriff-nass-din-frauen-sap.pdf	la_female	2025-07-06 19:07:21.892063	2025-07-06 19:07:21.892063
 2863	2326	ergebnis-klietzer-heidepokal-frauen.pdf		2025-07-06 19:07:26.299756	2025-07-06 19:07:26.299756
 2864	2326	ergebnis-klietzer-heidepokal-manner.pdf		2025-07-06 19:07:30.758684	2025-07-06 19:07:30.758684
+2865	2327	ergebnis-loschangriff-nass-din-dose-frauen-kreisausscheid.pdf	la_female	2025-07-09 05:19:40.424926	2025-07-09 05:19:40.424926
+2866	2327	ergebnis-loschangriff-nass-din-dose-manner-kreisausscheid.pdf	la_male	2025-07-09 05:19:52.191779	2025-07-09 05:19:52.191779
 \.

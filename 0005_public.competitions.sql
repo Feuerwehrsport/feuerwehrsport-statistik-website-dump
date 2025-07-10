@@ -2314,4 +2314,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2324	Kreismeisterschaften JF Landkreis MOL	189	6	\N	2025-06-28	\N	2025-07-05 19:45:50.582339	2025-07-05 19:45:50.582339	\N	0	0	0	0	0	0	0	0	0	0	0	28.06.2025 - Bad Freienwalde, Kreisausscheid (Kreismeisterschaften JF Landkreis MOL)	f	f	f	f	2025
 2325	Kreismeisterschaften JF Landkreis HVL	318	6	\N	2025-06-21	\N	2025-07-05 19:48:17.824458	2025-07-05 19:48:17.824458	\N	0	0	0	0	0	0	0	0	0	0	0	21.06.2025 - Rhinow, Kreisausscheid (Kreismeisterschaften JF Landkreis HVL)	f	f	f	f	2025
 2326	1. Lauf des Thür. Feuerwehrcup	170	26	\N	2025-05-24	\N	2025-07-05 19:48:59.788842	2025-07-05 19:48:59.788842	\N	0	0	0	0	0	0	0	8	42	18	0	24.05.2025 - Vehra, Thüringer Feuerwehr-Cup (1. Lauf des Thür. Feuerwehrcup)	f	f	f	f	2025
+2327	Kreisausscheid Prignitz	668	6	\N	2025-07-05	\N	2025-07-09 05:18:29.846683	2025-07-09 05:18:29.846683	\N	0	0	0	0	0	0	0	14	18	16	0	05.07.2025 - Garz-Hoppenrade, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f	2025
 \.
