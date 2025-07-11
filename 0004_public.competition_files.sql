@@ -2855,4 +2855,60 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2864	2326	ergebnis-klietzer-heidepokal-manner.pdf		2025-07-06 19:07:30.758684	2025-07-06 19:07:30.758684
 2865	2327	ergebnis-loschangriff-nass-din-dose-frauen-kreisausscheid.pdf	la_female	2025-07-09 05:19:40.424926	2025-07-09 05:19:40.424926
 2866	2327	ergebnis-loschangriff-nass-din-dose-manner-kreisausscheid.pdf	la_male	2025-07-09 05:19:52.191779	2025-07-09 05:19:52.191779
+2867	2328	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-07-10 15:03:52.017923	2025-07-10 15:03:52.017923
+2868	2328	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-07-10 15:04:10.186999	2025-07-10 15:04:10.186999
+2869	2328	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-07-10 15:04:15.236737	2025-07-10 15:04:15.236737
+2870	2328	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-07-10 15:04:19.714629	2025-07-10 15:04:19.714629
+2871	2328	ergebnis-loschangriff-tgl-cup-frauen.pdf	la_female	2025-07-10 15:04:24.115364	2025-07-10 15:04:24.115364
+2872	2328	ergebnis-loschangriff-tgl-cup-manner.pdf	la_male	2025-07-10 15:04:29.178666	2025-07-10 15:04:29.178666
+2873	2328	ergebnis-loschangriff-manner.pdf	la_male	2025-07-10 15:04:33.533852	2025-07-10 15:04:33.533852
+2874	2328	ergebnis-loschangriff-frauen.pdf	la_female	2025-07-10 15:04:38.132868	2025-07-10 15:04:38.132868
+2875	2329	ergebnis-4x100m-hindernisstaffel-frauen.pdf	fs_female	2025-07-10 19:20:28.928338	2025-07-10 19:20:28.928338
+2876	2329	ergebnis-4x100m-hindernisstaffel-manner.pdf	fs_male	2025-07-10 19:20:33.343164	2025-07-10 19:20:33.343164
+2877	2329	ergebnis-gruppenstafette-frauen.pdf	gs_female	2025-07-10 19:20:38.086341	2025-07-10 19:20:38.086341
+2878	2329	ergebnis-gruppenstafette-manner.pdf		2025-07-10 19:20:43.068316	2025-07-10 19:20:43.068316
+2879	2329	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-07-10 19:20:47.21133	2025-07-10 19:20:47.21133
+2880	2329	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-07-10 19:20:51.405015	2025-07-10 19:20:51.405015
+2881	2329	ergebnis-100m-hindernisbahn-frauen-u15.pdf	hb_female	2025-07-10 19:20:55.524863	2025-07-10 19:20:55.524863
+2882	2329	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2025-07-10 19:20:59.810666	2025-07-10 19:20:59.810666
+2883	2329	ergebnis-100m-hindernisbahn-manner-u15.pdf	hb_male	2025-07-10 19:21:04.311615	2025-07-10 19:21:04.311615
+2884	2329	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-07-10 19:21:08.937554	2025-07-10 19:21:08.937554
+2885	2329	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2025-07-10 19:21:13.477304	2025-07-10 19:21:13.477304
+2886	2329	ergebnis-hakenleitersteigen-frauen-u15.pdf	hl_female	2025-07-10 19:21:18.042002	2025-07-10 19:21:18.042002
+2887	2329	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-07-10 19:21:22.465062	2025-07-10 19:21:22.465062
+2888	2329	ergebnis-hakenleitersteigen-manner-u15.pdf	hl_male	2025-07-10 19:21:26.928415	2025-07-10 19:21:26.928415
+2889	2329	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2025-07-10 19:21:31.343115	2025-07-10 19:21:31.343115
+2890	2329	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-07-10 19:21:35.831811	2025-07-10 19:21:35.831811
+2891	2329	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-07-10 19:21:40.195515	2025-07-10 19:21:40.195515
+2892	2329	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-07-10 19:21:44.296512	2025-07-10 19:21:44.296512
+2893	2330	ergebnis-gruppenstafette-15-18-mannlich.pdf		2025-07-10 19:26:51.339025	2025-07-10 19:26:51.339025
+2894	2330	ergebnis-loschangriff-nass-10-14-weiblich.pdf	la_female	2025-07-10 19:26:55.816259	2025-07-10 19:26:55.816259
+2895	2330	ergebnis-gruppenstafette-10-14-mannlich.pdf		2025-07-10 19:26:59.734515	2025-07-10 19:26:59.734515
+2896	2330	ergebnis-5-x-80-m-hindernisbahn-15-18-mannlich.pdf	hb_male	2025-07-10 19:27:03.939009	2025-07-10 19:27:03.939009
+2897	2330	ergebnis-gruppenstafette-10-14-weiblich.pdf	gs_female	2025-07-10 19:27:08.063928	2025-07-10 19:27:08.063928
+2898	2330	ergebnis-5-x-80-m-hindernisbahn-10-14-mannlich.pdf	hb_male	2025-07-10 19:27:12.254318	2025-07-10 19:27:12.254318
+2899	2330	ergebnis-5-x-80-m-hindernisbahn-10-14-weiblich.pdf	hb_female	2025-07-10 19:27:16.476393	2025-07-10 19:27:16.476393
+2900	2330	ergebnis-loschangriff-nass-10-14-mannlich.pdf	la_male	2025-07-10 19:27:20.61101	2025-07-10 19:27:20.61101
+2901	2330	ergebnis-loschangriff-nass-15-18-mannlich.pdf	la_male	2025-07-10 19:27:25.045416	2025-07-10 19:27:25.045416
+2902	2330	ergebnis-gruppenstafette-jugend-u10.pdf		2025-07-10 19:27:29.403644	2025-07-10 19:27:29.403644
+2903	2330	ergebnis-loschangriff-nass-jugend-u10.pdf		2025-07-10 19:27:33.699941	2025-07-10 19:27:33.699941
+2904	2330	gesamtwertung.pdf		2025-07-10 19:28:32.429849	2025-07-10 19:28:32.429849
+2905	2331	ergebnis-feuerstafette-5x80m-ak1w-10-14j.pdf		2025-07-10 19:30:14.109807	2025-07-10 19:30:14.109807
+2906	2331	ergebnis-gruppenstafette-ak1w-10-14j.pdf		2025-07-10 19:30:18.587029	2025-07-10 19:30:18.587029
+2907	2331	ergebnis-loschangriff-nass-ak1w-10-14j.pdf		2025-07-10 19:30:22.810215	2025-07-10 19:30:22.810215
+2908	2331	ergebnis-feuerstafette-5x80m-ak1m-10-14j.pdf		2025-07-10 19:30:27.020045	2025-07-10 19:30:27.020045
+2909	2331	ergebnis-gruppenstafette-ak1m-10-14j.pdf		2025-07-10 19:30:31.295877	2025-07-10 19:30:31.295877
+2910	2331	ergebnis-loschangriff-nass-ak1m-10-14j.pdf		2025-07-10 19:30:35.735189	2025-07-10 19:30:35.735189
+2911	2331	ergebnis-feuerstafette-5x80m-ak2w-15-18j.pdf		2025-07-10 19:30:39.931944	2025-07-10 19:30:39.931944
+2912	2331	ergebnis-gruppenstafette-ak2w-15-18j.pdf		2025-07-10 19:30:43.795451	2025-07-10 19:30:43.795451
+2913	2331	ergebnis-loschangriff-nass-ak2w-15-18j.pdf		2025-07-10 19:30:48.039785	2025-07-10 19:30:48.039785
+2914	2331	ergebnis-feuerstafette-5x80m-ak2m-15-18j.pdf		2025-07-10 19:30:51.929778	2025-07-10 19:30:51.929778
+2915	2331	ergebnis-gruppenstafette-ak2m-15-18j.pdf		2025-07-10 19:30:56.052666	2025-07-10 19:30:56.052666
+2916	2331	ergebnis-loschangriff-nass-ak2m-15-18j.pdf		2025-07-10 19:31:00.145655	2025-07-10 19:31:00.145655
+2917	2331	ergebnis-loschangriff-nass-ak0.pdf		2025-07-10 19:31:04.658104	2025-07-10 19:31:04.658104
+2918	2331	gesamtwertung.pdf		2025-07-10 19:31:08.746168	2025-07-10 19:31:08.746168
+2919	2332	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-07-10 19:33:36.066035	2025-07-10 19:33:36.066035
+2920	2332	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-07-10 19:33:41.766953	2025-07-10 19:33:41.766953
+2921	2332	ergebnis-loschangriff-nass-kinder.pdf		2025-07-10 19:33:46.07866	2025-07-10 19:33:46.07866
+2922	2332	ergebnis-loschangriff-nass-jugend.pdf		2025-07-10 19:33:50.465413	2025-07-10 19:33:50.465413
 \.

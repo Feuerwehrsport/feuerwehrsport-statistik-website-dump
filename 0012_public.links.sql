@@ -2709,4 +2709,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2776	Feuerwehrverein Zechin	1493	Team	https://www.amt-golzow.de/verzeichnis/visitenkarte.php?mandat=194382	2025-03-20 10:33:42.422312	2025-03-20 10:33:42.422312
 2777	Freiwillige Feuerwehr Magdeburg/Olvenstedt	2537	Team	https://feuerwehr-olvenstedt.de/	2025-05-27 17:52:38.627023	2025-05-27 17:52:38.627023
 2778	Freiwillige Feuerwehr Langwedel - Ortsfeuerwehr Etelsen	4008	Team	http://www.feuerwehr-langwedel.de	2025-06-16 13:19:17.745309	2025-06-16 13:19:17.745309
+2779	FF Quarnebeck	2456	Team	https://www.quarnebeck.de/seite/741362/vorstellung.html#content	2025-07-10 09:26:57.588539	2025-07-10 09:26:57.588539
 \.

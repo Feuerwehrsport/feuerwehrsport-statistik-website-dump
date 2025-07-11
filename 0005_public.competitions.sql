@@ -2315,4 +2315,9 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2325	Kreismeisterschaften JF Landkreis HVL	318	6	\N	2025-06-21	\N	2025-07-05 19:48:17.824458	2025-07-05 19:48:17.824458	\N	0	0	0	0	0	0	0	0	0	0	0	21.06.2025 - Rhinow, Kreisausscheid (Kreismeisterschaften JF Landkreis HVL)	f	f	f	f	2025
 2326	1. Lauf des Thür. Feuerwehrcup	170	26	\N	2025-05-24	\N	2025-07-05 19:48:59.788842	2025-07-05 19:48:59.788842	\N	0	0	0	0	0	0	0	8	42	18	0	24.05.2025 - Vehra, Thüringer Feuerwehr-Cup (1. Lauf des Thür. Feuerwehrcup)	f	f	f	f	2025
 2327	Kreisausscheid Prignitz	668	6	\N	2025-07-05	\N	2025-07-09 05:18:29.846683	2025-07-09 05:18:29.846683	\N	0	0	0	0	0	0	0	14	18	16	0	05.07.2025 - Garz-Hoppenrade, Kreisausscheid (Kreisausscheid Prignitz)	f	f	f	f	2025
+2328	TGL-Cup	167	33	\N	2025-07-05	\N	2025-07-10 15:02:38.392554	2025-07-10 15:02:38.392554	\N	0	0	0	0	0	0	0	9	97	22	0	05.07.2025 - Zella, TGL-Cup (TGL-Cup)	f	f	f	f	2025
+2329	15. Kreismeisterschaft KFV SPN	14	6	\N	2025-07-05	\N	2025-07-10 19:16:06.155285	2025-07-10 19:16:06.155285	\N	0	0	16	12	4	1	2	4	14	18	14	05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)	f	f	f	f	2025
+2330	Bereichsmeisterschaften Seelow 2025 - KJF MOL	196	6	\N	2025-06-07	\N	2025-07-10 19:26:06.493857	2025-07-10 19:26:06.493857	\N	0	0	0	0	0	0	0	0	0	0	0	07.06.2025 - Seelow, Kreisausscheid (Bereichsmeisterschaften Seelow 2025 - KJF MOL)	f	f	f	f	2025
+2331	Bürgermeisterpokal der Gemeinde Neuhausen/Spree JF	669	15	\N	2025-06-28	\N	2025-07-10 19:30:07.616749	2025-07-10 19:30:07.616749	\N	0	0	0	0	0	0	0	0	0	0	0	28.06.2025 - Groß Döbbern, Amtsausscheid (Bürgermeisterpokal der Gemeinde Neuhausen/Spree JF)	f	f	f	f	2025
+2332	KM Teltow-Fläming	670	6	\N	2025-07-05	\N	2025-07-10 19:33:14.889672	2025-07-10 19:33:14.889672	\N	0	0	0	0	0	0	0	0	12	6	0	05.07.2025 - Dobbrikow, Kreisausscheid (KM Teltow-Fläming)	f	f	f	f	2025
 \.
