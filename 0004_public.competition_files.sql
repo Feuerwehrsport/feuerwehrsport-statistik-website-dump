@@ -2911,4 +2911,14 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2920	2332	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-07-10 19:33:41.766953	2025-07-10 19:33:41.766953
 2921	2332	ergebnis-loschangriff-nass-kinder.pdf		2025-07-10 19:33:46.07866	2025-07-10 19:33:46.07866
 2922	2332	ergebnis-loschangriff-nass-jugend.pdf		2025-07-10 19:33:50.465413	2025-07-10 19:33:50.465413
+2923	2333	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-07-14 17:32:43.56759	2025-07-14 17:32:43.56759
+2924	2333	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-07-14 17:32:48.094546	2025-07-14 17:32:48.094546
+2925	2333	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-07-14 17:32:52.019591	2025-07-14 17:32:52.019591
+2926	2333	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-07-14 17:32:56.535219	2025-07-14 17:32:56.535219
+2927	2333	ergebnis-loschangriff-kreismeisterschaft-frauen.pdf	la_female	2025-07-14 17:33:01.037851	2025-07-14 17:33:01.037851
+2928	2333	ergebnis-loschangriff-kreismeisterschaft-manner.pdf	la_male	2025-07-14 17:33:06.033883	2025-07-14 17:33:06.033883
+2929	2333	ergebnis-loschangriff-4bp-frauen.pdf	la_female	2025-07-14 17:33:10.64685	2025-07-14 17:33:10.64685
+2930	2333	ergebnis-loschangriff-bb-cup-frauen.pdf	la_female	2025-07-14 17:33:15.209999	2025-07-14 17:33:15.209999
+2931	2333	ergebnis-loschangriff-4bp-manner.pdf	la_male	2025-07-14 17:33:19.709873	2025-07-14 17:33:19.709873
+2932	2333	ergebnis-loschangriff-bb-cup-manner.pdf	la_male	2025-07-14 17:33:24.683371	2025-07-14 17:33:24.683371
 \.
