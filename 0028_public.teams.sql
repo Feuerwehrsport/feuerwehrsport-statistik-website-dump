@@ -389,7 +389,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 423	FF Grebs	Grebs	1	52.2539265000	12.3929612000	\N	BB	2016-01-20 21:32:12.859319	2016-01-20 21:32:12.859319	2016-01-20 21:32:12.859319	0	7	{"male": {"din": {"pb": [2670, "12.09.2010 - Lehnin, Kreisausscheid"], "sb": null}, "tgl": {"pb": [3467, "22.08.2009 - Seddin, Pokallauf (6. Seddiner See Pokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 424	FF Lug	Lug	1	51.6301655866	13.9296340942	lug.png	BB	2016-01-20 21:32:12.949909	2016-01-20 21:32:12.949909	2016-01-20 21:32:12.949909	3	65	{"male": {"din": {"pb": [2298, "11.08.2012 - Sedlitz, Pokallauf (2. Sedlitzer Nachtpokallauf)"], "sb": null}, "tgl": {"pb": [2937, "04.06.2011 - Gehren, Pokallauf (4-Bahnen-Pokal)"], "sb": null}}, "female": {"din": {"pb": [4187, "30.08.2014 - Muckwar, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 425	FF Lühsdorf	Lühsdorf	1	52.1575203000	12.9770837867	\N	BB	2016-01-20 21:32:12.974517	2016-01-20 21:32:12.974517	2016-01-20 21:32:12.974517	0	9	{"male": {"din": {"pb": [2636, "12.09.2010 - Lehnin, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-426	FF Gräfendorf	Gräfendorf	1	51.9168036225	13.1900846958	ffg-logo.jpg	BB	2016-01-20 21:32:12.977821	2025-03-24 15:34:07.792604	2016-01-20 21:32:12.977821	73	138	{"male": {"din": {"pb": [2384, "12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)"], "sb": [2384, "12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)"]}, "tgl": {"pb": [2584, "04.05.2024 - Zerkwitz, 4BP"], "sb": [2610, "28.06.2025 - Stücken, 4BP (17.Galgenbergpokal / BB-Cup + 4BP)"]}}, "female": {"din": {"pb": [3172, "07.05.2016 - Neuendorf, BB-Cup (13. Pokallauf der FF Neuendorf)"], "sb": null}, "tgl": {"pb": [3956, "23.06.2012 - Neschholz, Pokallauf (28. Planepokallauf)"], "sb": null}}}
+426	FF Gräfendorf	Gräfendorf	1	51.9168036225	13.1900846958	ffg-logo.jpg	BB	2016-01-20 21:32:12.977821	2025-03-24 15:34:07.792604	2016-01-20 21:32:12.977821	74	138	{"male": {"din": {"pb": [2384, "12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)"], "sb": [2384, "12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)"]}, "tgl": {"pb": [2584, "04.05.2024 - Zerkwitz, 4BP"], "sb": [2610, "28.06.2025 - Stücken, 4BP (17.Galgenbergpokal / BB-Cup + 4BP)"]}}, "female": {"din": {"pb": [3172, "07.05.2016 - Neuendorf, BB-Cup (13. Pokallauf der FF Neuendorf)"], "sb": null}, "tgl": {"pb": [3956, "23.06.2012 - Neschholz, Pokallauf (28. Planepokallauf)"], "sb": null}}}
 427	FF Hohenselchow	Hohenselchow	1	53.2037391000	14.2806247000	\N	BB	2016-01-20 21:32:12.986002	2017-08-29 09:23:25.869491	2017-08-29 09:23:25.869491	7	5	{"male": {"din": {"pb": [2472, "29.09.2012 - Hohenselchow, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 428	FF Neutrebbin	Neutrebbin	1	52.6669948000	14.2261578000	851495b6d06812a71f6916e1112547f8_wappen.jpg	BB	2016-01-20 21:32:13.050045	2016-01-20 21:32:13.050045	2016-01-20 21:32:13.050045	3	57	{"male": {"din": {"pb": [2575, "05.10.2013 - Genschmar, Pokallauf (18. Oderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2770, "15.09.2017 - Doberlug-Kirchhain, Landesausscheid (Brandenburg)"], "sb": null}, "tgl": {"pb": [3298, "09.08.2014 - Neutrebbin, Pokallauf"], "sb": null}}}
 429	FF Schöllnitz	Schöllnitz	1	51.6633300000	13.9945367000	\N	BB	2016-01-20 21:32:13.06374	2016-01-20 21:32:13.06374	2016-01-20 21:32:13.06374	1	33	{"male": {"din": {"pb": [3387, "13.08.2011 - Sedlitz, Pokallauf (1. Sedlitzer Nachtpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2825, "15.09.2017 - Doberlug-Kirchhain, Landesausscheid (Brandenburg)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3430,14 +3430,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 23709, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 23715, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1102, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1105, true);
 
 
 --
@@ -3451,7 +3451,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25059, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25083, true);
 
 
 --
@@ -3479,7 +3479,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2333, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59732, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59789, true);
 
 
 --
@@ -3528,14 +3528,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 85981, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 6091, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 6095, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 388, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 389, true);
 
 
 --
@@ -3556,7 +3556,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 23703, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 23709, true);
 
 
 --
@@ -3570,14 +3570,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4309, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4310, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 22455, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 22545, true);
 
 
 --
