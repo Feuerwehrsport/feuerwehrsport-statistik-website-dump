@@ -2321,4 +2321,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2331	Bürgermeisterpokal der Gemeinde Neuhausen/Spree JF	669	15	\N	2025-06-28	\N	2025-07-10 19:30:07.616749	2025-07-10 19:30:07.616749	\N	0	0	0	0	0	0	0	0	0	0	0	28.06.2025 - Groß Döbbern, Amtsausscheid (Bürgermeisterpokal der Gemeinde Neuhausen/Spree JF)	f	f	f	f	2025
 2332	KM Teltow-Fläming	670	6	\N	2025-07-05	\N	2025-07-10 19:33:14.889672	2025-07-10 19:33:14.889672	\N	0	0	0	0	0	0	0	0	12	6	0	05.07.2025 - Dobbrikow, Kreisausscheid (KM Teltow-Fläming)	f	f	f	f	2025
 2333	3.Schlaubepokal / BB-Cup + 4BP	636	32	\N	2025-07-12	\N	2025-07-14 17:27:10.091292	2025-07-14 17:27:10.091292	\N	0	0	0	0	0	0	0	26	74	22	0	12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)	f	f	f	f	2025
+2334	4. Klosterpokal	56	10	\N	2025-07-12	\N	2025-07-17 19:40:05.072346	2025-07-17 19:40:05.072346	\N	0	0	0	0	0	0	0	8	46	21	0	12.07.2025 - Neukloster, Pokallauf (4. Klosterpokal)	f	f	f	f	2025
 \.

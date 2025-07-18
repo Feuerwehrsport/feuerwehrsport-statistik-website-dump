@@ -2921,4 +2921,8 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2930	2333	ergebnis-loschangriff-bb-cup-frauen.pdf	la_female	2025-07-14 17:33:15.209999	2025-07-14 17:33:15.209999
 2931	2333	ergebnis-loschangriff-4bp-manner.pdf	la_male	2025-07-14 17:33:19.709873	2025-07-14 17:33:19.709873
 2932	2333	ergebnis-loschangriff-bb-cup-manner.pdf	la_male	2025-07-14 17:33:24.683371	2025-07-14 17:33:24.683371
+2933	2334	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-07-17 19:41:16.82805	2025-07-17 19:41:16.82805
+2934	2334	ergebnis-ergebnisse-vorrunde.pdf	la_male	2025-07-17 19:41:23.799385	2025-07-17 19:41:23.799385
+2935	2334	ergebnis-ergebnisse-halbfinale.pdf	la_male	2025-07-17 19:41:29.383204	2025-07-17 19:41:29.383204
+2936	2334	ergebnis-ergebnisse-finale.pdf	la_male	2025-07-17 19:41:34.441899	2025-07-17 19:41:34.441899
 \.
