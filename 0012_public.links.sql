@@ -2710,4 +2710,6 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2777	Freiwillige Feuerwehr Magdeburg/Olvenstedt	2537	Team	https://feuerwehr-olvenstedt.de/	2025-05-27 17:52:38.627023	2025-05-27 17:52:38.627023
 2778	Freiwillige Feuerwehr Langwedel - Ortsfeuerwehr Etelsen	4008	Team	http://www.feuerwehr-langwedel.de	2025-06-16 13:19:17.745309	2025-06-16 13:19:17.745309
 2779	FF Quarnebeck	2456	Team	https://www.quarnebeck.de/seite/741362/vorstellung.html#content	2025-07-10 09:26:57.588539	2025-07-10 09:26:57.588539
+2780	Instagram	2789	Team	http://instagram.com/wettkampfbande_plate.de	2025-07-20 20:25:31.658622	2025-07-20 20:25:31.658622
+2781	Instagram	2789	Team	https://www.instagram.com/wettkampfbande_plate?igsh=MWVmNXpmNWJjcXB6dQ%3D%3D&utm_source=qr	2025-07-20 20:26:35.354917	2025-07-20 20:26:35.354917
 \.

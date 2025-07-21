@@ -3424,6 +3424,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4086	FF Kleinow	Kleinow	1	\N	\N	\N	\N	2025-07-09 05:19:26.390473	2025-07-09 05:19:26.390473	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4087	FF Pinnow	Pinnow	1	\N	\N	\N	\N	2025-07-10 19:19:02.109076	2025-07-10 19:19:02.109076	\N	1	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4088	FF Brokstedt	Brokstedt	1	\N	\N	\N	\N	2025-07-17 19:41:53.306633	2025-07-17 19:41:53.306633	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+4089	FF Bösenbrunn	Bösenbrunn	0	50.3958252670	12.1010971069	\N	SN	2025-07-20 12:57:21.811219	2025-07-20 13:01:29.828757	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 \.
 
 
@@ -3431,14 +3432,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 23737, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 23743, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1105, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1107, true);
 
 
 --
@@ -3452,14 +3453,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25096, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25103, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 610, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 611, true);
 
 
 --
@@ -3480,7 +3481,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2334, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59839, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 59858, true);
 
 
 --
@@ -3543,7 +3544,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 389, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2779, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2781, true);
 
 
 --
@@ -3557,7 +3558,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 23731, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 23737, true);
 
 
 --
@@ -3669,4 +3670,4 @@ SELECT pg_catalog.setval('public.team_spellings_id_seq', 293, true);
 -- Name: teams_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.teams_id_seq', 4088, true);
+SELECT pg_catalog.setval('public.teams_id_seq', 4089, true);
