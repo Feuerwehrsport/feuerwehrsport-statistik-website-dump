@@ -2925,4 +2925,22 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2934	2334	ergebnis-ergebnisse-vorrunde.pdf	la_male	2025-07-17 19:41:23.799385	2025-07-17 19:41:23.799385
 2935	2334	ergebnis-ergebnisse-halbfinale.pdf	la_male	2025-07-17 19:41:29.383204	2025-07-17 19:41:29.383204
 2936	2334	ergebnis-ergebnisse-finale.pdf	la_male	2025-07-17 19:41:34.441899	2025-07-17 19:41:34.441899
+2937	2335	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-07-21 16:56:27.093733	2025-07-21 16:56:27.093733
+2938	2335	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-07-21 16:56:31.359663	2025-07-21 16:56:31.359663
+2939	2335	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-07-21 16:56:35.820826	2025-07-21 16:56:35.820826
+2940	2335	ergebnis-4x100m-hindernisstaffel-manner.pdf	fs_male	2025-07-21 16:56:40.309387	2025-07-21 16:56:40.309387
+2941	2335	ergebnis-4x100m-hindernisstaffel-frauen.pdf	fs_female	2025-07-21 16:56:44.612108	2025-07-21 16:56:44.612108
+2942	2335	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-07-21 16:56:48.932153	2025-07-21 16:56:48.932153
+2943	2335	ergebnis-sap-manner.pdf		2025-07-21 16:56:53.648192	2025-07-21 16:56:53.648192
+2944	2335	ergebnis-sap-frauen.pdf		2025-07-21 16:56:58.633172	2025-07-21 16:56:58.633172
+2945	2336	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-07-21 18:33:52.698017	2025-07-21 18:33:52.698017
+2946	2336	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-07-21 18:34:04.351268	2025-07-21 18:34:04.351268
+2947	2336	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-07-21 18:34:09.272588	2025-07-21 18:34:09.272588
+2948	2336	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-07-21 18:34:16.017498	2025-07-21 18:34:16.017498
+2949	2336	ergebnis-loschangriff-nass-jugend-jugend.pdf	la_male	2025-07-21 18:34:57.598809	2025-07-21 18:34:57.598809
+2950	2336	ergebnis-loschangriff-nass-kinder-kinder.pdf	la_male	2025-07-21 18:35:10.483445	2025-07-21 18:35:10.483445
+2951	2336	ergebnis-loschangriff-din-frauen-tageswertung-mv-cup.pdf	la_female	2025-07-21 18:35:15.382774	2025-07-21 18:35:15.382774
+2952	2336	ergebnis-loschangriff-din-manner-tageswertung-mv-cup.pdf	la_male	2025-07-21 18:35:23.098186	2025-07-21 18:35:23.098186
+2953	2336	ergebnis-loschangriff-mv-cup-tgl-frauen.pdf	la_female	2025-07-21 18:37:07.845459	2025-07-21 18:37:07.845459
+2954	2336	ergebnis-loschangriff-mv-cup-tgl-manner.pdf	la_male	2025-07-21 18:37:13.066176	2025-07-21 18:37:13.066176
 \.

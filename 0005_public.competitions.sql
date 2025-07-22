@@ -2322,4 +2322,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2332	KM Teltow-Fläming	670	6	\N	2025-07-05	\N	2025-07-10 19:33:14.889672	2025-07-10 19:33:14.889672	\N	0	0	0	0	0	0	0	0	12	6	0	05.07.2025 - Dobbrikow, Kreisausscheid (KM Teltow-Fläming)	f	f	f	f	2025
 2333	3.Schlaubepokal / BB-Cup + 4BP	636	32	\N	2025-07-12	\N	2025-07-14 17:27:10.091292	2025-07-14 17:27:10.091292	\N	0	0	0	0	0	0	0	26	74	22	0	12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)	f	f	f	f	2025
 2334	4. Klosterpokal	56	10	\N	2025-07-12	\N	2025-07-17 19:40:05.072346	2025-07-17 19:40:05.072346	\N	0	0	0	0	0	0	0	8	46	21	0	12.07.2025 - Neukloster, Pokallauf (4. Klosterpokal)	f	f	f	f	2025
+2335	Wiepke - 5.SAP	314	18	\N	2025-07-12	\N	2025-07-21 16:47:47.724512	2025-07-21 16:47:47.724512	\N	0	0	0	0	0	0	3	17	85	24	0	12.07.2025 - Wiepke, SAP (Wiepke - 5.SAP)	f	f	f	f	2025
+2336	5. Murchiner Seeholzpokal + Finallauf MV-CUP	494	13	\N	2025-07-19	\N	2025-07-21 17:20:52.62314	2025-07-21 17:20:52.62314	\N	0	0	0	0	0	0	0	12	104	33	0	19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)	f	f	f	f	2025
 \.
