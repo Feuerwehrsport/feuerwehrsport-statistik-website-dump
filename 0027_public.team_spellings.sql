@@ -14,7 +14,7 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 7	873	FF Moisal/Kurzen Trechow	Moisal/Kurzen Trechow	2016-01-20 21:40:09.201071	2016-01-20 21:40:09.201071
 8	607	FF Lüssow Karow	Lüssow Karow	2016-01-20 21:40:09.206389	2016-01-20 21:40:09.206389
 9	616	FF Wardow Kobrow	Wardow Kobrow	2016-01-20 21:40:09.226245	2016-01-20 21:40:09.226245
-10	600	FF Börgerende Rethwisch	Börgerende Rethwisch	2016-01-20 21:40:09.250842	2016-01-20 21:40:09.250842
+10	4097	FF Börgerende Rethwisch	Börgerende Rethwisch	2016-01-20 21:40:09.250842	2016-01-20 21:40:09.250842
 11	597	Team Vorbeck / Kambs	Vorbeck / Kambs	2016-01-20 21:40:09.257795	2016-01-20 21:40:09.257795
 12	593	Team Güstrow	GÜ	2016-01-20 21:40:09.263778	2016-01-20 21:40:09.263778
 13	3	Team Lausitz	Lausitz	2016-01-20 21:40:09.266634	2016-01-20 21:40:09.266634
@@ -122,7 +122,7 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 115	331	FF Schwedt-Heinersdorf	Schwedt-Heinersdorf	2016-01-20 21:40:10.337514	2016-01-20 21:40:10.337514
 116	607	FF Lüssow / Karow	Lüssow / Karow	2016-01-20 21:40:10.340334	2016-01-20 21:40:10.340334
 117	604	FF Amt Schwaan	Amt Schwaan	2016-01-20 21:40:10.343064	2016-01-20 21:40:10.343064
-118	600	FF Börgerende / Rethwisch	Börgerende / Rethwisch	2016-01-20 21:40:10.345737	2016-01-20 21:40:10.345737
+118	4097	FF Börgerende / Rethwisch	Börgerende / Rethwisch	2016-01-20 21:40:10.345737	2016-01-20 21:40:10.345737
 119	43	FF Admannshagen / Bargeshagen	Admannshagen / Bargeshagen	2016-01-20 21:40:10.348528	2016-01-20 21:40:10.348528
 120	329	FF Willmersdorf - Stöbritz	Willmersdorf - Stöbritz	2016-01-20 21:40:10.351186	2016-01-20 21:40:10.351186
 121	201	FF Bühlau	Bühlau	2016-01-20 21:40:10.355608	2016-01-20 21:40:10.355608
@@ -151,7 +151,7 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 144	927	FF Kaulitz/Binde	Kaulitz/Binde	2016-01-20 21:40:10.527594	2016-01-20 21:40:10.527594
 145	1976	FF Leppin/Zehren	Leppin/Zehren	2016-01-20 21:40:10.531059	2016-01-20 21:40:10.531059
 146	1878	FF Dorna	Dorna	2016-01-20 21:40:10.533755	2016-01-20 21:40:10.533755
-147	600	FF Börgerende-Rethwisch	Börgerende-Rethwisch	2016-01-20 21:40:10.53663	2016-01-20 21:40:10.53663
+147	4097	FF Börgerende-Rethwisch	Börgerende-Rethwisch	2016-01-20 21:40:10.53663	2016-01-20 21:40:10.53663
 148	402	FF Blankenburg	Blankenburg	2016-01-20 21:40:10.539172	2016-01-20 21:40:10.539172
 149	1394	FF Erfurt-Wipfra	Erfurt-Wipfra	2016-01-20 21:40:10.545407	2016-01-20 21:40:10.545407
 150	1160	FF Grabow-Below	Grabow-Below	2016-01-20 21:40:10.548768	2016-01-20 21:40:10.548768
@@ -298,4 +298,6 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 291	2526	FF Cottbus-Gallinchen	Cottbus-Gallinchen	2025-02-09 19:49:09.291841	2025-02-09 19:49:09.291841
 292	417	Fire Ladies Zerkwitz	Zerkwitz	2025-05-21 09:21:30.181574	2025-05-21 09:21:30.181574
 293	2537	FF Magdeburg - Olvenstedt	Magdeburg - Olvenstedt	2025-06-04 15:07:27.163519	2025-06-04 15:07:27.163519
+294	4097	FF Börgerende/Rethwisch	Börgerende/Rethwisch	2025-07-29 06:40:32.507385	2025-07-29 06:40:32.507385
+295	4097	FF Ostseebad Börgerende/Rethwisch	Börgerende/Rethwisch	2025-07-29 06:41:06.352291	2025-07-29 06:41:06.352291
 \.

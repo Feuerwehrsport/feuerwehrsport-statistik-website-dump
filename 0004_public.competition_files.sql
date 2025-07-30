@@ -2943,4 +2943,10 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2952	2336	ergebnis-loschangriff-din-manner-tageswertung-mv-cup.pdf	la_male	2025-07-21 18:35:23.098186	2025-07-21 18:35:23.098186
 2953	2336	ergebnis-loschangriff-mv-cup-tgl-frauen.pdf	la_female	2025-07-21 18:37:07.845459	2025-07-21 18:37:07.845459
 2954	2336	ergebnis-loschangriff-mv-cup-tgl-manner.pdf	la_male	2025-07-21 18:37:13.066176	2025-07-21 18:37:13.066176
+2955	2337	ergebnis-loschangriff-nass-manner-vorlaufe.pdf	la_male	2025-07-29 06:38:29.176228	2025-07-29 06:38:29.176228
+2956	2337	ergebnis-loschangriff-nass-manner-finale.pdf	la_male	2025-07-29 06:38:33.197278	2025-07-29 06:38:33.197278
+2957	2337	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-07-29 06:38:37.458558	2025-07-29 06:38:37.458558
+2958	2337	ergebnis-loschangriff-jugendfeuerwehr.pdf		2025-07-29 06:38:43.080144	2025-07-29 06:38:43.080144
+2959	2337	ergebnis-loschangriff-kinderfeuerwehr.pdf		2025-07-29 06:38:47.519494	2025-07-29 06:38:47.519494
+2960	2337	ergebnis-loschangriff-jugendfeuerwehr-amt.pdf		2025-07-29 06:38:51.925458	2025-07-29 06:38:51.925458
 \.

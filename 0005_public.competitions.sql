@@ -2324,4 +2324,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2334	4. Klosterpokal	56	10	\N	2025-07-12	\N	2025-07-17 19:40:05.072346	2025-07-17 19:40:05.072346	\N	0	0	0	0	0	0	0	8	46	21	0	12.07.2025 - Neukloster, Pokallauf (4. Klosterpokal)	f	f	f	f	2025
 2335	Wiepke - 5.SAP	314	18	\N	2025-07-12	\N	2025-07-21 16:47:47.724512	2025-07-21 16:47:47.724512	\N	0	0	0	0	0	0	3	17	85	24	0	12.07.2025 - Wiepke, SAP (Wiepke - 5.SAP)	f	f	f	f	2025
 2336	5. Murchiner Seeholzpokal + Finallauf MV-CUP	494	13	\N	2025-07-19	\N	2025-07-21 17:20:52.62314	2025-07-21 17:20:52.62314	\N	0	0	0	0	0	0	0	12	104	33	0	19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)	f	f	f	f	2025
+2337	34. Feuerwehrtag FF Ostseebad Nienhagen	25	10	\N	2025-07-26	\N	2025-07-29 06:36:56.504823	2025-07-29 06:36:56.504823	\N	0	0	0	0	0	0	0	6	30	15	0	26.07.2025 - Ostseebad Nienhagen, Pokallauf (34. Feuerwehrtag FF Ostseebad Nienhagen)	f	f	f	f	2025
 \.
