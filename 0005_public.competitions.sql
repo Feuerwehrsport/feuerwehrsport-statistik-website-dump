@@ -2325,4 +2325,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2335	Wiepke - 5.SAP	314	18	\N	2025-07-12	\N	2025-07-21 16:47:47.724512	2025-07-21 16:47:47.724512	\N	0	0	0	0	0	0	3	17	85	24	0	12.07.2025 - Wiepke, SAP (Wiepke - 5.SAP)	f	f	f	f	2025
 2336	5. Murchiner Seeholzpokal + Finallauf MV-CUP	494	13	\N	2025-07-19	\N	2025-07-21 17:20:52.62314	2025-07-21 17:20:52.62314	\N	0	0	0	0	0	0	0	12	104	33	0	19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)	f	f	f	f	2025
 2337	34. Feuerwehrtag FF Ostseebad Nienhagen	25	10	\N	2025-07-26	\N	2025-07-29 06:36:56.504823	2025-07-29 06:36:56.504823	\N	0	0	0	0	0	0	0	6	30	15	0	26.07.2025 - Ostseebad Nienhagen, Pokallauf (34. Feuerwehrtag FF Ostseebad Nienhagen)	f	f	f	f	2025
+2338	15. Kreismeisterschaft KFV SPN	14	6	\N	2025-07-05	\N	2025-08-05 16:57:20.636294	2025-08-05 16:57:20.636294	\N	22	14	16	12	8	1	2	4	14	24	22	05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)	f	f	f	f	2025
+2339	Nessetal-Pokal	164	10	\N	2025-07-19	\N	2025-08-05 17:05:14.529637	2025-08-05 17:05:14.529637	\N	0	0	0	0	0	0	0	12	68	26	0	19.07.2025 - Gamstädt, Pokallauf (Nessetal-Pokal)	f	f	f	f	2025
 \.

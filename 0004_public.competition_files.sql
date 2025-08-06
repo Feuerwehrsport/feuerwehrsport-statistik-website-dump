@@ -2949,4 +2949,26 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 2958	2337	ergebnis-loschangriff-jugendfeuerwehr.pdf		2025-07-29 06:38:43.080144	2025-07-29 06:38:43.080144
 2959	2337	ergebnis-loschangriff-kinderfeuerwehr.pdf		2025-07-29 06:38:47.519494	2025-07-29 06:38:47.519494
 2960	2337	ergebnis-loschangriff-jugendfeuerwehr-amt.pdf		2025-07-29 06:38:51.925458	2025-07-29 06:38:51.925458
+2961	2338	ergebnis-4x100m-hindernisstaffel-frauen.pdf	fs_female	2025-08-05 17:02:52.905059	2025-08-05 17:02:52.905059
+2962	2338	ergebnis-4x100m-hindernisstaffel-manner.pdf	fs_male	2025-08-05 17:02:57.143635	2025-08-05 17:02:57.143635
+2963	2338	ergebnis-gruppenstafette-frauen.pdf	gs_female	2025-08-05 17:03:01.065585	2025-08-05 17:03:01.065585
+2964	2338	ergebnis-gruppenstafette-manner.pdf		2025-08-05 17:03:05.452523	2025-08-05 17:03:05.452523
+2965	2338	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-08-05 17:03:10.048738	2025-08-05 17:03:10.048738
+2966	2338	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-08-05 17:03:15.614715	2025-08-05 17:03:15.614715
+2967	2338	ergebnis-100m-hindernisbahn-frauen-u15.pdf	hb_female	2025-08-05 17:03:21.113944	2025-08-05 17:03:21.113944
+2968	2338	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2025-08-05 17:03:26.467498	2025-08-05 17:03:26.467498
+2969	2338	ergebnis-100m-hindernisbahn-manner-u15.pdf	hb_male	2025-08-05 17:03:31.704461	2025-08-05 17:03:31.704461
+2970	2338	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-08-05 17:03:36.257013	2025-08-05 17:03:36.257013
+2971	2338	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2025-08-05 17:03:40.487013	2025-08-05 17:03:40.487013
+2972	2338	ergebnis-hakenleitersteigen-frauen-u15.pdf	hl_female	2025-08-05 17:03:44.516244	2025-08-05 17:03:44.516244
+2973	2338	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-08-05 17:03:49.261581	2025-08-05 17:03:49.261581
+2974	2338	ergebnis-hakenleitersteigen-manner-u15.pdf	hl_male	2025-08-05 17:03:53.49812	2025-08-05 17:03:53.49812
+2975	2338	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2025-08-05 17:03:57.838804	2025-08-05 17:03:57.838804
+2976	2338	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-08-05 17:04:02.836266	2025-08-05 17:04:02.836266
+2977	2338	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-08-05 17:04:07.423734	2025-08-05 17:04:07.423734
+2978	2338	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-08-05 17:04:12.350432	2025-08-05 17:04:12.350432
+2979	2339	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-08-05 17:12:20.65178	2025-08-05 17:12:20.65178
+2980	2339	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-08-05 17:12:25.533353	2025-08-05 17:12:25.533353
+2981	2339	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-08-05 17:12:29.940789	2025-08-05 17:12:29.940789
+2982	2339	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-08-05 17:12:34.00544	2025-08-05 17:12:34.00544
 \.
