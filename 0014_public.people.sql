@@ -3337,4 +3337,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4311	Schwandt	Fiete	1	1	2025-07-30 18:29:13.273983	2025-07-30 18:29:13.273983	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4312	Herter	Marvin	1	1	2025-07-30 18:30:10.835214	2025-07-30 18:30:10.835214	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4313	Blanke	Adina	0	1	2025-08-05 17:02:32.852753	2025-08-05 17:02:32.852753	0	2	0	0	0	{"pb": {"hb": null, "hl": [1110, "05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)"], "zk": null}, "sb": {"hb": null, "hl": [1110, "05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)"], "zk": null}}	\N
+4314	Wille	Daniel	1	1	2025-08-06 12:47:11.962298	2025-08-06 12:47:11.962298	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
