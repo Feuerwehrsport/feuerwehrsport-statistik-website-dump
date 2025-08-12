@@ -3019,4 +3019,24 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3029	2340	ergebnis-hakenleitersteigen-manner-international-finale.pdf	hl_male	2025-08-09 10:37:46.179432	2025-08-09 10:37:46.179432
 3030	2340	ergebnis-100m-hindernisbahn-frauen-finale.pdf	hb_female	2025-08-09 10:37:53.119727	2025-08-09 10:37:53.119727
 3031	2340	gesamtwertung.pdf		2025-08-09 10:37:59.105642	2025-08-09 10:37:59.105642
+3032	2341	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-08-11 17:19:00.721048	2025-08-11 17:19:00.721048
+3033	2341	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-08-11 17:19:05.070831	2025-08-11 17:19:05.070831
+3034	2341	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-08-11 17:19:09.8603	2025-08-11 17:19:09.8603
+3035	2341	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-08-11 17:19:14.529152	2025-08-11 17:19:14.529152
+3036	2341	ergebnis-loschangriff-nass-jugend-ak1.pdf	la_male	2025-08-11 17:19:23.513884	2025-08-11 17:19:23.513884
+3037	2341	ergebnis-loschangriff-nass-jugend-ak2.pdf	la_male	2025-08-11 17:19:29.099364	2025-08-11 17:19:29.099364
+3038	2341	ergebnis-loschangriff-tageswertung-bb-cup-frauen.pdf	la_female	2025-08-11 17:19:33.778531	2025-08-11 17:19:33.778531
+3039	2341	ergebnis-loschangriff-tageswertung-bb-cup-manner.pdf	la_male	2025-08-11 17:19:37.956062	2025-08-11 17:19:37.956062
+3040	2341	ergebnis-loschangriff-tageswertung-jbb-ak2.pdf	la_male	2025-08-11 17:19:45.25726	2025-08-11 17:19:45.25726
+3041	2341	ergebnis-loschangriff-tageswertung-4bp-frauen.pdf	la_female	2025-08-11 17:19:50.388236	2025-08-11 17:19:50.388236
+3042	2341	ergebnis-loschangriff-tageswertung-jbb-ak1.pdf	la_male	2025-08-11 17:19:55.578558	2025-08-11 17:19:55.578558
+3043	2341	ergebnis-loschangriff-tageswertung-4bp-manner.pdf	la_male	2025-08-11 17:20:00.751105	2025-08-11 17:20:00.751105
+3044	2342	ergebnis-loschangriff-din-frauen.pdf	la_female	2025-08-11 17:40:37.726712	2025-08-11 17:40:37.726712
+3045	2342	ergebnis-loschangriff-din-manner.pdf	la_male	2025-08-11 17:40:42.217355	2025-08-11 17:40:42.217355
+3046	2342	ergebnis-loschangriff-tgl-frauen.pdf	la_female	2025-08-11 17:40:46.595242	2025-08-11 17:40:46.595242
+3047	2342	ergebnis-loschangriff-tgl-manner.pdf	la_male	2025-08-11 17:40:50.534251	2025-08-11 17:40:50.534251
+3048	2342	ergebnis-loschangriff-sap-frauen.pdf	la_female	2025-08-11 17:40:55.169867	2025-08-11 17:40:55.169867
+3049	2342	ergebnis-loschangriff-sap-manner.pdf	la_male	2025-08-11 17:40:59.941329	2025-08-11 17:40:59.941329
+3050	2342	ergebnis-loschangriff-tgl-cup-frauen.pdf	la_female	2025-08-11 17:41:04.568056	2025-08-11 17:41:04.568056
+3051	2342	ergebnis-loschangriff-tgl-cup-manner.pdf	la_male	2025-08-11 17:41:09.590571	2025-08-11 17:41:09.590571
 \.

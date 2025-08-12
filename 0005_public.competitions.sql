@@ -2328,4 +2328,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2338	15. Kreismeisterschaft KFV SPN	14	6	\N	2025-07-05	\N	2025-08-05 16:57:20.636294	2025-08-05 16:57:20.636294	\N	22	14	16	12	8	1	2	4	14	24	22	05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)	f	f	f	f	2025
 2339	Nessetal-Pokal	164	10	\N	2025-07-19	\N	2025-08-05 17:05:14.529637	2025-08-05 17:05:14.529637	\N	0	0	0	0	0	0	0	12	68	26	0	19.07.2025 - Gamstädt, Pokallauf (Nessetal-Pokal)	f	f	f	f	2025
 2340	Deutsche Meisterschaft	239	5	\N	2025-07-30	\N	2025-08-09 09:50:55.375059	2025-08-09 09:50:55.375059	\N	0	0	0	0	0	0	0	0	0	0	0	30.07.2025 - Torgau, DM (Deutsche Meisterschaft)	f	f	f	f	2025
+2341	27.Pokallauf der Feuerwehr / BB-Cup + 4BP	67	16	\N	2025-08-09	\N	2025-08-11 16:11:18.543008	2025-08-11 16:11:18.543008	\N	0	0	0	0	0	0	0	62	142	32	0	09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)	f	f	f	f	2025
+2342	Lindenpokal Tryppehna - SAP & TGL-Cup	234	33	\N	2025-08-09	\N	2025-08-11 17:31:33.812785	2025-08-11 17:31:33.812785	\N	0	0	0	0	0	0	0	25	200	26	0	09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)	f	f	f	f	2025
 \.
