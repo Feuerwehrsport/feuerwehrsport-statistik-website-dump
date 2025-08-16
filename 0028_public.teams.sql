@@ -3427,7 +3427,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4090	FF Luckow-Rieth	Luckow-Rieth	1	\N	\N	\N	\N	2025-07-21 17:24:28.052849	2025-07-21 17:24:28.052849	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3829, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [3829, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": null, "sb": null}}}
 4091	Team 4 Bahnenpokal	Team 4 Bahnenpokal	0	\N	\N	\N	\N	2025-07-21 17:25:09.826536	2025-07-21 17:25:09.826536	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4092	Straguth/Harzgerode	Straguth/Harzgerode	0	\N	\N	\N	\N	2025-07-21 17:25:18.191838	2025-07-21 17:25:18.191838	\N	0	1	{"male": {"din": {"pb": [2311, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [2311, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [2086, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [2086, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4093	Feuerwehrsport Etelsen	Feuerwehrsport Etelsen	0	\N	\N	\N	\N	2025-07-21 17:27:03.966876	2025-07-21 17:27:03.966876	\N	0	1	{"male": {"din": {"pb": [3065, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [3065, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [3506, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [3506, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+4093	Feuerwehrsport Etelsen	Feuerwehrsport Etelsen	0	\N	\N	\N	NI	2025-07-21 17:27:03.966876	2025-08-15 17:23:55.547813	\N	0	1	{"male": {"din": {"pb": [3065, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [3065, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [3506, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [3506, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4094	Team 4 Bahnenpokal	Team 4 Bahnenpokal	0	\N	\N	\N	\N	2025-07-21 17:27:13.914788	2025-07-21 17:27:13.914788	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4095	4 Bahnenpokal	Team 4 Bahnenpokal	0	\N	\N	\N	\N	2025-07-21 18:19:59.74262	2025-07-21 18:19:59.74262	\N	0	1	{"male": {"din": {"pb": [2123, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [2123, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [2397, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [2397, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4097	FF Ostseebad Börgerende/Rethwisch	Ostseebad Börgerende/Rethwisch	1	54.1395814125	11.9352936745	\N	MV	2025-07-29 06:37:39.423384	2025-07-29 06:41:58.701067	2025-07-29 06:41:18	1	22	{"male": {"din": {"pb": [3158, "16.07.2022 - Ostseebad Nienhagen, Pokallauf (31. Feuerwehrtag)"], "sb": [3342, "26.07.2025 - Ostseebad Nienhagen, Pokallauf (34. Feuerwehrtag FF Ostseebad Nienhagen)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3222, "20.07.2024 - Ostseebad Nienhagen, Kreisausscheid (33. Feuerwehrtag)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3450,14 +3450,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25219, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25239, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1120, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1121, true);
 
 
 --
@@ -3471,7 +3471,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25298, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25300, true);
 
 
 --
@@ -3499,7 +3499,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2342, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 61944, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 61968, true);
 
 
 --
@@ -3562,7 +3562,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 398, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2785, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2786, true);
 
 
 --
@@ -3576,7 +3576,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25213, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25233, true);
 
 
 --
