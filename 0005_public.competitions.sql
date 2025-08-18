@@ -2327,7 +2327,9 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2337	34. Feuerwehrtag FF Ostseebad Nienhagen	25	10	\N	2025-07-26	\N	2025-07-29 06:36:56.504823	2025-07-29 06:36:56.504823	\N	0	0	0	0	0	0	0	6	30	15	0	26.07.2025 - Ostseebad Nienhagen, Pokallauf (34. Feuerwehrtag FF Ostseebad Nienhagen)	f	f	f	f	2025
 2338	15. Kreismeisterschaft KFV SPN	14	6	\N	2025-07-05	\N	2025-08-05 16:57:20.636294	2025-08-05 16:57:20.636294	\N	22	14	16	12	8	1	2	4	14	24	22	05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)	f	f	f	f	2025
 2339	Nessetal-Pokal	164	10	\N	2025-07-19	\N	2025-08-05 17:05:14.529637	2025-08-05 17:05:14.529637	\N	0	0	0	0	0	0	0	12	68	26	0	19.07.2025 - Gamstädt, Pokallauf (Nessetal-Pokal)	f	f	f	f	2025
-2340	Deutsche Meisterschaft	239	5	\N	2025-07-30	\N	2025-08-09 09:50:55.375059	2025-08-09 09:50:55.375059	\N	0	0	0	0	0	0	0	0	0	0	0	30.07.2025 - Torgau, DM (Deutsche Meisterschaft)	f	f	f	f	2025
+2340	Deutsche Meisterschaft	239	5	1	2025-07-30	\N	2025-08-09 09:50:55.375059	2025-08-17 20:02:37.603243	\N	154	162	153	158	12	12	13	42	52	62	158	30.07.2025 - Torgau, DM (Deutsche Meisterschaft)	f	f	f	f	2025
 2341	27.Pokallauf der Feuerwehr / BB-Cup + 4BP	67	16	\N	2025-08-09	\N	2025-08-11 16:11:18.543008	2025-08-11 16:11:18.543008	\N	0	0	0	0	0	0	0	62	142	32	0	09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)	f	f	f	f	2025
-2342	Lindenpokal Tryppehna - SAP & TGL-Cup	234	33	\N	2025-08-09	\N	2025-08-11 17:31:33.812785	2025-08-11 17:31:33.812785	\N	0	0	0	0	0	0	0	25	200	26	0	09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)	f	f	f	f	2025
+2342	Lindenpokal Tryppehna - SAP & TGL-Cup	234	33	\N	2025-08-09	\N	2025-08-11 17:31:33.812785	2025-08-11 17:31:33.812785	\N	0	0	0	0	0	0	0	18	148	26	0	09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)	f	f	f	f	2025
+2343	Traditionswettkampf	671	10	\N	2025-08-15	\N	2025-08-17 20:17:54.637035	2025-08-17 20:17:54.637035	\N	0	0	0	0	0	0	0	4	8	6	0	15.08.2025 - Quarnebeck, Pokallauf (Traditionswettkampf)	f	f	f	f	2025
+2344	Tschechische Meisterschaften	672	10	\N	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-17 20:20:01.166416	\N	16	16	16	16	0	2	2	0	0	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	f	f	f	f	2025
 \.

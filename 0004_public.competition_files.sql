@@ -3039,4 +3039,11 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3049	2342	ergebnis-loschangriff-sap-manner.pdf	la_male	2025-08-11 17:40:59.941329	2025-08-11 17:40:59.941329
 3050	2342	ergebnis-loschangriff-tgl-cup-frauen.pdf	la_female	2025-08-11 17:41:04.568056	2025-08-11 17:41:04.568056
 3051	2342	ergebnis-loschangriff-tgl-cup-manner.pdf	la_male	2025-08-11 17:41:09.590571	2025-08-11 17:41:09.590571
+3052	2340	100m-hindernisbahn-frauen-semi.pdf	hb_female	2025-08-17 20:04:55.466162	2025-08-17 20:04:55.466162
+3053	2340	100m-hindernisbahn-manner-semi.pdf	hb_male	2025-08-17 20:04:55.475546	2025-08-17 20:04:55.475546
+3054	2340	hakenleitersteigen-manner-international-semi.pdf	hl_male	2025-08-17 20:04:55.47744	2025-08-17 20:04:55.47744
+3055	2340	hakenleitersteigen-manner-semi.pdf	hl_male	2025-08-17 20:04:55.479222	2025-08-17 20:04:55.479222
+3056	2340	hakenleitersteigen-frauen-semi.pdf	hl_female	2025-08-17 20:04:55.48103	2025-08-17 20:04:55.48103
+3057	2343	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-08-17 20:18:53.014807	2025-08-17 20:18:53.014807
+3058	2343	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-08-17 20:19:02.179999	2025-08-17 20:19:02.179999
 \.
