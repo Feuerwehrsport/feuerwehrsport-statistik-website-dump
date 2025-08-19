@@ -2331,5 +2331,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2341	27.Pokallauf der Feuerwehr / BB-Cup + 4BP	67	16	\N	2025-08-09	\N	2025-08-11 16:11:18.543008	2025-08-11 16:11:18.543008	\N	0	0	0	0	0	0	0	62	142	32	0	09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)	f	f	f	f	2025
 2342	Lindenpokal Tryppehna - SAP & TGL-Cup	234	33	\N	2025-08-09	\N	2025-08-11 17:31:33.812785	2025-08-11 17:31:33.812785	\N	0	0	0	0	0	0	0	18	148	26	0	09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)	f	f	f	f	2025
 2343	Traditionswettkampf	671	10	\N	2025-08-15	\N	2025-08-17 20:17:54.637035	2025-08-17 20:17:54.637035	\N	0	0	0	0	0	0	0	4	8	6	0	15.08.2025 - Quarnebeck, Pokallauf (Traditionswettkampf)	f	f	f	f	2025
-2344	Tschechische Meisterschaften	672	10	\N	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-17 20:20:01.166416	\N	16	16	16	16	0	2	2	0	0	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	f	f	f	f	2025
+2344	Tschechische Meisterschaften	672	10	\N	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-17 20:20:01.166416	\N	16	16	16	16	0	2	2	2	2	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	f	f	f	f	2025
 \.

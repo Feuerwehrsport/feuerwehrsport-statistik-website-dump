@@ -3046,4 +3046,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3056	2340	hakenleitersteigen-frauen-semi.pdf	hl_female	2025-08-17 20:04:55.48103	2025-08-17 20:04:55.48103
 3057	2343	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-08-17 20:18:53.014807	2025-08-17 20:18:53.014807
 3058	2343	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-08-17 20:19:02.179999	2025-08-17 20:19:02.179999
+3060	2344	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-08-18 07:04:45.210865	2025-08-18 07:04:45.210865
+3061	2344	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-08-18 07:04:51.676206	2025-08-18 07:04:51.676206
 \.
