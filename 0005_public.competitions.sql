@@ -2332,4 +2332,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2342	Lindenpokal Tryppehna - SAP & TGL-Cup	234	33	\N	2025-08-09	\N	2025-08-11 17:31:33.812785	2025-08-11 17:31:33.812785	\N	0	0	0	0	0	0	0	18	148	26	0	09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)	f	f	f	f	2025
 2343	Traditionswettkampf	671	10	\N	2025-08-15	\N	2025-08-17 20:17:54.637035	2025-08-17 20:17:54.637035	\N	0	0	0	0	0	0	0	4	8	6	0	15.08.2025 - Quarnebeck, Pokallauf (Traditionswettkampf)	f	f	f	f	2025
 2344	Tschechische Meisterschaften	672	10	\N	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-17 20:20:01.166416	\N	16	16	16	16	0	2	2	2	2	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	f	f	f	f	2025
+2345	TGL-Cup	405	33	\N	2025-08-23	\N	2025-08-25 16:58:42.57164	2025-08-25 16:58:42.57164	\N	0	0	0	0	0	0	0	3	63	14	0	23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)	f	f	f	f	2025
+2346	12. Lewitz-Cup	673	10	\N	2025-08-23	\N	2025-08-25 17:07:28.84975	2025-08-25 17:07:28.84975	\N	0	0	0	0	0	0	0	4	30	17	0	23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)	f	f	f	f	2025
 \.

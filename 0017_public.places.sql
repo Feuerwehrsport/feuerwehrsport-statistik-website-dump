@@ -661,4 +661,5 @@ COPY public.places (id, name, latitude, longitude, created_at, updated_at) FROM 
 670	Dobbrikow	\N	\N	2025-07-10 19:33:09.28969	2025-07-10 19:33:09.28969
 671	Quarnebeck	\N	\N	2025-08-17 20:17:45.04401	2025-08-17 20:17:45.04401
 672	Trebic (Tschechien)	\N	\N	2025-08-17 20:19:49.03505	2025-08-17 20:19:49.03505
+673	Tramm	\N	\N	2025-08-25 17:06:52.259965	2025-08-25 17:06:52.259965
 \.
