@@ -26,4 +26,5 @@ COPY public.group_score_types (id, discipline, name, regular, created_at, update
 20	fs	WKO 2023 mit Gas-Feuer	f	2024-06-07 05:12:53.776408	2024-06-07 05:12:53.776408
 21	la	BB-Jugend	f	2025-05-21 09:51:39.07566	2025-05-21 09:51:39.07566
 22	la	MV-Jugend	f	2025-05-21 09:51:52.162718	2025-05-21 09:51:52.162718
+23	la	2 B auf Dose mit DIN	f	2025-08-26 12:44:43.828148	2025-08-26 12:44:43.828148
 \.

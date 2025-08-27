@@ -3058,4 +3058,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3069	2345	ergebnis-loschangriff-nass-jugend-ak3.pdf	la_male	2025-08-25 17:04:54.20699	2025-08-25 17:04:54.20699
 3070	2346	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-08-25 17:09:11.508567	2025-08-25 17:09:11.508567
 3071	2346	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-08-25 17:09:15.756796	2025-08-25 17:09:15.756796
+3072	2347	ergebnis-loschangriff-nass-erwachsene.pdf	la_female,la_male	2025-08-26 12:45:42.887961	2025-08-26 12:45:42.887961
+3073	2347	ergebnis-u-40.pdf	la_male	2025-08-26 12:45:48.544146	2025-08-26 12:45:48.544146
 \.

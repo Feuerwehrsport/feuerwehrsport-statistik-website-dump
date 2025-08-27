@@ -459,7 +459,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 495	FF Groß Dratow	Groß Dratow	1	53.4962770500	12.8597067023	\N	MV	2016-01-20 21:32:13.67711	2016-01-20 21:32:13.67711	2016-01-20 21:32:13.67711	0	28	{"male": {"din": {"pb": [2671, "30.04.2011 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 496	FF Dreenkrögen	Dreenkrögen	1	53.4185248000	11.4963309000	\N	MV	2016-01-20 21:32:13.67984	2016-01-20 21:32:13.67984	2016-01-20 21:32:13.67984	0	29	{"male": {"din": {"pb": [3168, "03.07.2010 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 498	FF Dabel	Dabel	1	53.6667000000	11.9000000000	\N	MV	2016-01-20 21:32:13.682632	2016-01-20 21:32:13.682632	2016-01-20 21:32:13.682632	0	25	{"male": {"din": {"pb": [3368, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-499	FF Techentin	Techentin	1	53.3054929797	11.4912700653	\N	MV	2016-01-20 21:32:13.685175	2018-06-12 07:29:42.588142	2016-01-20 21:32:13.685175	10	90	{"male": {"din": {"pb": [2306, "26.05.2018 - Hohen Viecheln, MV-Cup"], "sb": [2413, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": [2912, "21.08.2021 - Kummer, Pokallauf (Mühlenpokal)"], "sb": [5233, "26.04.2025 - Kummer, MV-Cup (MV CUP Lauf 1/2025)"]}}, "female": {"din": {"pb": [9649, "16.05.2009 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+499	FF Techentin	Techentin	1	53.3054929797	11.4912700653	\N	MV	2016-01-20 21:32:13.685175	2018-06-12 07:29:42.588142	2016-01-20 21:32:13.685175	10	91	{"male": {"din": {"pb": [2306, "26.05.2018 - Hohen Viecheln, MV-Cup"], "sb": [2413, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": [2912, "21.08.2021 - Kummer, Pokallauf (Mühlenpokal)"], "sb": [5233, "26.04.2025 - Kummer, MV-Cup (MV CUP Lauf 1/2025)"]}}, "female": {"din": {"pb": [9649, "16.05.2009 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 501	FF Schwinkendorf	Schwinkendorf	1	53.6414425000	12.6836768000	\N	MV	2016-01-20 21:32:13.692712	2016-01-20 21:32:13.692712	2016-01-20 21:32:13.692712	0	5	{"male": {"din": {"pb": [3923, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 502	FF Schwanheide	Schwanheide	1	53.4301718000	10.6892177000	\N	MV	2016-01-20 21:32:13.695623	2016-01-20 21:32:13.695623	2016-01-20 21:32:13.695623	0	70	{"male": {"din": {"pb": [2330, "29.04.2012 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3417, "29.04.2012 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 503	FF Gothmann	Gothmann	1	53.3584432000	10.7423106000	\N	MV	2016-01-20 21:32:13.699103	2016-01-20 21:32:13.699103	2016-01-20 21:32:13.699103	0	8	{"male": {"din": {"pb": [2605, "03.07.2010 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -471,7 +471,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 512	FF Marihn	Marihn	1	53.5252678000	12.9973762000	\N	MV	2016-01-20 21:32:13.752411	2016-01-20 21:32:13.752411	2016-01-20 21:32:13.752411	0	5	{"male": {"din": {"pb": [3810, "27.06.2009 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4632, "27.06.2009 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 513	FF Heidhof	Heidhof	1	53.1735576000	11.2298155000	\N	MV	2016-01-20 21:32:13.760596	2016-01-20 21:32:13.760596	2016-01-20 21:32:13.760596	0	2	{"male": {"din": {"pb": [3993, "27.06.2009 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 514	FF Ankershagen	Ankershagen	1	53.4872270000	12.9569210087	\N	MV	2016-01-20 21:32:13.764289	2016-01-20 21:32:13.764289	2016-01-20 21:32:13.764289	0	2	{"male": {"din": {"pb": [4247, "27.06.2009 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-515	FF Hohewisch	Hohewisch	1	53.4071380000	11.5753451000	IMG_9711.JPG	MV	2016-01-20 21:32:13.767764	2016-09-19 19:11:48.881809	2016-09-19 19:11:48.881809	0	89	{"male": {"din": {"pb": [2152, "05.05.2018 - Schwartow, MV-Cup (MV-Cup & 8. Boizepokal)"], "sb": [2165, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [1805, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [1805, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+515	FF Hohewisch	Hohewisch	1	53.4071380000	11.5753451000	IMG_9711.JPG	MV	2016-01-20 21:32:13.767764	2016-09-19 19:11:48.881809	2016-09-19 19:11:48.881809	0	90	{"male": {"din": {"pb": [2152, "05.05.2018 - Schwartow, MV-Cup (MV-Cup & 8. Boizepokal)"], "sb": [2165, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [1805, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [1805, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 516	FF Schwaben (bei Zwickau)	Schwaben (bei Zwickau)	1	50.8926693000	12.5837476000	\N	SN	2016-01-20 21:32:13.772145	2018-01-22 14:09:34.58544	2018-01-22 14:09:33	0	3	{"male": {"din": {"pb": [3334, "01.05.2012 - Ziegelheim, Pokallauf (Pokallauf zum 18. Ziegelheimer Maibaumsetzen)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 517	FF Langenchursdorf	Langenchursdorf	1	50.8538912000	12.6685933000	\N	SN	2016-01-20 21:32:13.775476	2016-01-20 21:32:13.775476	2016-01-20 21:32:13.775476	0	1	{"male": {"din": {"pb": [4405, "24.05.2003 - Meerane, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 518	FF Greifenhain	Greifenhain	1	51.0585294000	12.5912473000	\N	SN	2016-01-20 21:32:13.778522	2016-01-20 21:32:13.778522	2016-01-20 21:32:13.778522	0	4	{"male": {"din": {"pb": [4874, "24.05.2003 - Meerane, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -970,7 +970,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1128	FF Sachsenbrunn	Sachsenbrunn	1	50.4487668000	10.9529292000	\N	TH	2016-01-20 21:32:18.318669	2016-01-20 21:32:18.318669	2016-01-20 21:32:18.318669	0	3	{"male": {"din": {"pb": [3328, "21.06.2003 - Stelzendorf, Pokallauf (6. Mühlenpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1129	FF Schmalkalden	Schmalkalden	1	50.7169496500	10.4150027324	\N	TH	2016-01-20 21:32:18.321253	2016-01-20 21:32:18.321253	2016-01-20 21:32:18.321253	0	7	{"male": {"din": {"pb": [2840, "22.08.2009 - Wahns, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1130	FF Uthleben	Uthleben	1	51.4441968000	10.8278699788	\N	TH	2016-01-20 21:32:18.32394	2016-01-20 21:32:18.32394	2016-01-20 21:32:18.32394	0	31	{"male": {"din": {"pb": [2914, "08.09.2012 - Niedersachswerfen, Pokallauf (18. Südharzpokal)"], "sb": null}, "tgl": {"pb": [3003, "26.06.2011 - Uthleben, Pokallauf (Feuerwehrfest)"], "sb": null}}, "female": {"din": {"pb": [2976, "20.09.2014 - Gamstädt, Landesausscheid (Thüringer Landesmeisterschaft im Löschangriff)"], "sb": null}, "tgl": {"pb": [3233, "06.09.2014 - Niedersachswerfen, Pokallauf (20. Südharzpokal)"], "sb": null}}}
-1132	FF Groß Laasch	Groß Laasch	1	53.3500000000	11.5500000000	\N	MV	2016-01-20 21:32:18.326763	2016-01-20 21:32:18.326763	2016-01-20 21:32:18.326763	0	13	{"male": {"din": {"pb": [2913, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"], "sb": [2913, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": [1987, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [1987, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": [4480, "14.09.2002 - Wismar, Landesausscheid"], "sb": [4750, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}}
+1132	FF Groß Laasch	Groß Laasch	1	53.3500000000	11.5500000000	\N	MV	2016-01-20 21:32:18.326763	2016-01-20 21:32:18.326763	2016-01-20 21:32:18.326763	0	14	{"male": {"din": {"pb": [2913, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"], "sb": [2913, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": [1987, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [1987, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": [4480, "14.09.2002 - Wismar, Landesausscheid"], "sb": [4750, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}}
 1133	FF Züsedom	Züsedom	1	53.4488590500	14.0155691412	\N	MV	2016-01-20 21:32:18.330684	2016-01-20 21:32:18.330684	2016-01-20 21:32:18.330684	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4810, "14.09.2002 - Wismar, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1134	FF Wendisch Priborn	Wendisch Priborn	1	53.3390296000	12.2672080000	\N	MV	2016-01-20 21:32:18.333652	2016-01-20 21:32:18.333652	2016-01-20 21:32:18.333652	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4860, "14.09.2002 - Wismar, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1135	FF Glowe	Glowe	1	54.5573475000	13.4859868881	ID000679.png	MV	2016-01-20 21:32:18.424928	2016-01-20 21:32:18.424928	2016-01-20 21:32:18.424928	0	2	{"male": {"din": {"pb": [4710, "13.06.2009 - Maltzien, Kreisausscheid (Landkreis Rügen)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [5060, "14.09.2002 - Wismar, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -1766,7 +1766,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2082	FF Badersleben	Badersleben	1	51.9848801399	10.8891677856	\N	ST	2016-01-20 21:32:24.493717	2016-01-20 21:32:24.493717	2016-01-20 21:32:24.493717	0	22	{"male": {"din": {"pb": [3400, "04.09.2010 - Elbingerode, Pokallauf (10. Brockenwirtpokal)"], "sb": null}, "tgl": {"pb": [4150, "11.06.2011 - Gröningen, Pokallauf (10. Pokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2084	Team Lewitz	Lewitz	0	53.4665913661	11.6304016113	\N	MV	2016-01-20 21:32:24.496189	2016-01-20 21:32:24.496189	2016-01-20 21:32:24.496189	0	6	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2085	FF Röddensen	Röddensen	1	52.4158487876	9.9779891968	\N	NI	2016-01-20 21:32:24.49892	2016-01-20 21:32:24.49892	2016-01-20 21:32:24.49892	0	9	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2087	FF Lüblow	Lüblow	1	53.4164894421	11.4498138428	\N	MV	2016-01-20 21:32:24.501685	2016-01-20 21:32:24.501685	2016-01-20 21:32:24.501685	0	45	{"male": {"din": {"pb": [2522, "03.10.2015 - Schwartow, Pokallauf (2. Lauf 5. Boizepokal)"], "sb": null}, "tgl": {"pb": [2834, "17.08.2013 - Reetz, Pokallauf (32. Flämingpokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+2087	FF Lüblow	Lüblow	1	53.4164894421	11.4498138428	\N	MV	2016-01-20 21:32:24.501685	2016-01-20 21:32:24.501685	2016-01-20 21:32:24.501685	0	46	{"male": {"din": {"pb": [2522, "03.10.2015 - Schwartow, Pokallauf (2. Lauf 5. Boizepokal)"], "sb": null}, "tgl": {"pb": [2834, "17.08.2013 - Reetz, Pokallauf (32. Flämingpokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2088	FF Spiegelhagen	Spiegelhagen	1	53.0861890126	11.8981933594	\N	BB	2016-01-20 21:32:24.504486	2016-01-20 21:32:24.504486	2016-01-20 21:32:24.504486	0	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2089	FF Selbelang	Selbelang	1	52.6320210356	12.7173614502	\N	BB	2016-01-20 21:32:24.507803	2016-01-20 21:32:24.507803	2016-01-20 21:32:24.507803	0	12	{"male": {"din": {"pb": [2874, "10.09.2016 - Rhinow, Pokallauf (11. Otto-Lilienthal-Cup)"], "sb": null}, "tgl": {"pb": [3553, "23.09.2017 - Rhinow, Pokallauf (12. Otto-Lilienthal-Cup)"], "sb": null}}, "female": {"din": {"pb": [3387, "15.09.2017 - Doberlug-Kirchhain, Landesausscheid (Brandenburg)"], "sb": null}, "tgl": {"pb": [11233, "10.09.2016 - Rhinow, Pokallauf (11. Otto-Lilienthal-Cup)"], "sb": null}}}
 2090	FF Vietznitz	Vietznitz	1	52.6718022732	12.6401138306	\N	BB	2016-01-20 21:32:24.511143	2016-01-20 21:32:24.511143	2016-01-20 21:32:24.511143	0	8	{"male": {"din": {"pb": [2697, "09.05.2015 - Vietznitz, Amtsausscheid"], "sb": null}, "tgl": {"pb": [3312, "10.09.2016 - Rhinow, Pokallauf (11. Otto-Lilienthal-Cup)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -1875,7 +1875,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2199	FF Hordorf / Bode	Hordorf / Bode	1	51.9956623828	11.1957550049	\N	ST	2016-01-20 21:32:25.181976	2016-01-20 21:32:25.181976	2016-01-20 21:32:25.181976	0	24	{"male": {"din": {"pb": [3396, "24.09.2011 - Hordorf, Kreisausscheid (Kreismeisterschaft Altkreis Börde 2011)"], "sb": null}, "tgl": {"pb": [3088, "13.06.2009 - Gröningen, Pokallauf (8. Pokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2202	FF Vettin/Kehrberg (Altherren)	Vettin/Kehrberg (Altherren)	1	53.0378069843	12.1812629700	\N	BB	2016-01-20 21:32:25.194224	2016-01-26 16:43:33.057907	2016-01-26 16:43:33.057907	0	8	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2203	FF Sanz	Sanz	1	54.0065581700	13.4386825562	\N	MV	2016-01-20 21:32:25.197972	2016-01-20 21:32:25.197972	2016-01-20 21:32:25.197972	0	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2204	FF Neustadt - Glewe	Neustadt - Glewe	1	53.3743171928	11.5878295898	IMG-20210707-WA0051.jpg	MV	2016-01-20 21:32:25.202031	2021-07-20 10:47:53.918537	2016-01-20 21:32:25.202031	0	54	{"male": {"din": {"pb": [2380, "10.06.2023 - Techentin, Pokallauf (29. Techentiner Feuerwehrtreffen)"], "sb": [2948, "10.05.2025 - Hohewisch, Amtsausscheid (Amtsauscheid des Amtes Neustadt-Glewe)"]}, "tgl": {"pb": [2624, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [2624, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+2204	FF Neustadt - Glewe	Neustadt - Glewe	1	53.3743171928	11.5878295898	IMG-20210707-WA0051.jpg	MV	2016-01-20 21:32:25.202031	2021-07-20 10:47:53.918537	2016-01-20 21:32:25.202031	0	55	{"male": {"din": {"pb": [2380, "10.06.2023 - Techentin, Pokallauf (29. Techentiner Feuerwehrtreffen)"], "sb": [2948, "10.05.2025 - Hohewisch, Amtsausscheid (Amtsauscheid des Amtes Neustadt-Glewe)"]}, "tgl": {"pb": [2624, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [2624, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2205	FF Züsow	Züsow	1	53.9225379063	11.6733169556	\N	MV	2016-01-20 21:32:25.227236	2016-01-20 21:32:25.227236	2016-01-20 21:32:25.227236	0	19	{"male": {"din": {"pb": [99999999, "15.06.2024 - Hohen Viecheln, Kreisausscheid (Kreisausscheid NWM)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2206	FF Herzberg Lenschow	Herzberg Lenschow	1	53.5286765405	11.9256591797	\N	MV	2016-01-20 21:32:25.248947	2016-01-20 21:32:25.248947	2016-01-20 21:32:25.248947	0	3	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2207	FF Drispeth	Drispeth	1	53.7704279242	11.3859558105	\N	MV	2016-01-20 21:32:25.261657	2016-01-20 21:32:25.261657	2016-01-20 21:32:25.261657	0	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -1958,8 +1958,8 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2319	FF Goldberg	Goldberg	1	53.5835379622	12.0835876465	\N	MV	2016-01-20 21:32:26.073497	2016-01-20 21:32:26.073497	2016-01-20 21:32:26.073497	0	5	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [3792, "19.05.2012 - Medow, Amtsausscheid"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2320	FF Stolpe	Stolpe	1	53.3585430484	11.7409515381	\N	MV	2016-01-20 21:32:26.076038	2016-01-20 21:32:26.076038	2016-01-20 21:32:26.076038	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2321	FF Matzlow	Matzlow	1	53.4473755724	11.7014694214	\N	MV	2016-01-20 21:32:26.078888	2016-01-20 21:32:26.078888	2016-01-20 21:32:26.078888	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2322	FF Wöbbelin Dreenkrögen	Wöbbelin Dreenkrögen	1	53.3999121352	11.5009689331	\N	MV	2016-01-20 21:32:26.081493	2016-01-20 21:32:26.081493	2016-01-20 21:32:26.081493	0	15	{"male": {"din": {"pb": [2650, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": [3229, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2324	FF Fahrbinde	Fahrbinde	1	53.4436949603	11.4848327637	\N	MV	2016-01-20 21:32:26.08421	2016-01-20 21:32:26.08421	2016-01-20 21:32:26.08421	0	9	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+2322	FF Wöbbelin Dreenkrögen	Wöbbelin Dreenkrögen	1	53.3999121352	11.5009689331	\N	MV	2016-01-20 21:32:26.081493	2016-01-20 21:32:26.081493	2016-01-20 21:32:26.081493	0	16	{"male": {"din": {"pb": [2650, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": [3229, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+2324	FF Fahrbinde	Fahrbinde	1	53.4436949603	11.4848327637	\N	MV	2016-01-20 21:32:26.08421	2016-01-20 21:32:26.08421	2016-01-20 21:32:26.08421	0	10	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2325	FF Muchow	Muchow	1	53.3109804409	11.6870498657	\N	MV	2016-01-20 21:32:26.089573	2016-01-20 21:32:26.089573	2016-01-20 21:32:26.089573	0	11	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2326	FF Matzlow-Garwitz	Matzlow-Garwitz	1	53.4494202191	11.7000961304	\N	MV	2016-01-20 21:32:26.092169	2016-01-20 21:32:26.092169	2016-01-20 21:32:26.092169	0	5	{"male": {"din": {"pb": [4668, "14.09.2024 - Neustadt-Glewe, Kreisausscheid (Kreisfeuerwehrverbandstag LUP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2327	FF Milow	Milow	1	53.1887561935	11.5397644043	\N	MV	2016-01-20 21:32:26.094791	2016-01-20 21:32:26.094791	2016-01-20 21:32:26.094791	0	4	{"male": {"din": {"pb": [6080, "02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -2357,7 +2357,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2784	FG Amt Parchimer Umland	Amt PCH U	0	53.4291738804	11.8377685547	\N	MV	2016-10-24 09:32:25.461472	2016-10-26 19:57:32.041835	2016-10-26 19:57:32.041835	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2785	FF Göhlen	Göhlen	1	53.3054416917	11.3677597046	\N	MV	2016-10-24 09:32:29.490804	2016-10-26 18:06:15.268386	2016-10-26 18:06:15.268386	0	8	{"male": {"din": {"pb": [2798, "14.09.2024 - Neustadt-Glewe, Kreisausscheid (Kreisfeuerwehrverbandstag LUP)"], "sb": null}, "tgl": {"pb": [2475, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [2475, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2786	FF Sülstorf	Sülstorf	1	53.5111221921	11.3777160645	\N	MV	2016-10-24 09:33:33.544447	2016-10-26 18:07:49.115228	2016-10-26 18:07:49.115228	0	3	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2787	FF Warlow	Warlow	1	53.3454276264	11.4068984985	\N	MV	2016-10-24 09:40:49.849928	2016-10-26 18:03:06.723719	2016-10-26 18:03:06.723719	0	9	{"male": {"din": {"pb": [2721, "14.09.2024 - Neustadt-Glewe, Kreisausscheid (Kreisfeuerwehrverbandstag LUP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3980, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": [4031, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}}
+2787	FF Warlow	Warlow	1	53.3454276264	11.4068984985	\N	MV	2016-10-24 09:40:49.849928	2016-10-26 18:03:06.723719	2016-10-26 18:03:06.723719	0	10	{"male": {"din": {"pb": [2721, "14.09.2024 - Neustadt-Glewe, Kreisausscheid (Kreisfeuerwehrverbandstag LUP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3980, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": [4031, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}}
 2788	FF Wendisch Waren	Wendisch Waren	1	53.5733460539	12.1299362183	\N	MV	2016-10-24 09:41:15.044163	2016-10-26 18:04:14.319194	2016-10-26 18:04:14.319194	0	5	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2789	FF Plate	Plate	1	53.5509152059	11.4999389648	\N	MV	2016-10-24 09:41:53.766244	2016-10-26 18:05:12.708308	2016-10-26 18:05:12.708308	0	21	{"male": {"din": {"pb": [2355, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"], "sb": [2355, "19.07.2025 - Murchin, MV-Cup (5. Murchiner Seeholzpokal + Finallauf MV-CUP)"]}, "tgl": {"pb": [2015, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [2015, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2791	FF Bösenrode	Bösenrode	1	51.4655581572	10.9918212891	\N	ST	2016-10-24 15:38:56.538812	2016-10-26 17:55:25.490939	2016-10-26 17:55:25.490939	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [4241, "26.06.2011 - Uthleben, Pokallauf (Feuerwehrfest)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -2813,7 +2813,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3319	FF Wittenbeck	Wittenbeck	1	54.1266362000	11.7909831000	\N	MV	2018-06-02 20:15:46.066691	2018-06-06 19:48:44.584924	2018-06-06 19:48:42	0	2	{"male": {"din": {"pb": [7364, "02.06.2018 - Börgerende-Rethwisch, Amtsausscheid (Bad Doberan-Land)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3320	FF Saidenbach Mittel-, Nieder-, Obersaida	Saidenbach	0	50.7620775674	13.3040785789	\N	SN	2018-06-06 20:20:55.202363	2018-06-28 07:46:06.49507	2018-06-06 20:21:34	0	3	{"male": {"din": {"pb": [3673, "02.06.2018 - Großolbersdorf, Pokallauf (6. Erzgebirgspokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3321	Amt Schönberger Land	Schönberger Land	0	53.8821675000	10.9118507266	\N	MV	2018-06-10 18:33:27.885572	2018-06-12 15:52:15.088955	2018-06-12 15:52:13	0	9	{"male": {"din": {"pb": [2253, "26.05.2018 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": [2397, "05.05.2018 - Schwartow, MV-Cup (MV-Cup & 8. Boizepokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3322	FF Neu Lüblow	Neu Lüblow	1	53.3818049000	11.4593141000	\N	MV	2018-06-12 09:06:04.791014	2018-06-12 15:52:01.089609	2018-06-12 15:51:59	4	7	{"male": {"din": {"pb": [2716, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": [2876, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+3322	FF Neu Lüblow	Neu Lüblow	1	53.3818049000	11.4593141000	\N	MV	2018-06-12 09:06:04.791014	2018-06-12 15:52:01.089609	2018-06-12 15:51:59	4	8	{"male": {"din": {"pb": [2716, "01.06.2024 - Techentin, Pokallauf (30. Techentiner Feuerwehrtreffen)"], "sb": [2876, "14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3323	FF Ludwigslust	Ludwigslust	1	53.3300229000	11.4993644000	\N	MV	2018-06-12 09:06:17.704445	2018-06-12 15:51:48.669952	2018-06-12 15:51:47	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3325	FF Karstädt	Karstädt	1	53.2883824000	11.4893222000	\N	MV	2018-06-12 09:06:40.347836	2018-06-12 15:51:30.604018	2018-06-12 15:51:29	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3326	FF Zollgrün	Zollgrün	1	50.5199798500	11.8221947656	\N	TH	2018-06-13 07:43:20.3983	2018-06-13 15:42:05.60414	2018-06-13 15:42:04	0	3	{"male": {"din": {"pb": [3750, "03.06.2018 - Tanna, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3318,7 +3318,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3945	FFW Neuenkirchen bei Anklam	FF Neuenkirchen	1	\N	\N	\N		2024-06-09 14:14:34.915287	2024-06-09 14:14:34.915287	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3946	FF Osterwieck	Osterwieck	1	\N	\N	\N		2024-06-11 18:55:09.503755	2024-06-11 18:55:09.503755	\N	0	1	{"male": {"din": {"pb": [2817, "08.06.2024 - Rübeland, TGL-Cup (3. TGL-Cup 2024)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3947	FF Rukieten	FF Rukieten	1	53.8989904724	12.1553206444	\N	MV	2024-06-17 09:18:58.54824	2024-06-17 09:21:33.577466	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3948	FF Camburg	Camburg	1	51.0532368000	11.7112936000	\N	TH	2024-06-22 20:46:43.937658	2024-11-24 18:49:06.475477	2024-11-24 18:49:05	2	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+3948	FF Camburg	Camburg	1	51.0532368000	11.7112936000	LOGO_FF_DBC_alle_1_1_-_Kopie.png	TH	2024-06-22 20:46:43.937658	2025-08-26 08:42:34.660243	2024-11-24 18:49:05	2	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3949	Team Selke Aue	Selke Aue	0	\N	\N	\N		2024-06-24 08:04:06.163436	2024-06-24 08:04:06.163436	\N	0	2	{"male": {"din": {"pb": [2641, "22.06.2024 - Harzgerode, TGL-Cup (TGL-Cup und SAP)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3950	FF Cumlosen	Cumlosen	1	53.0317392796	11.6573846340	\N		2024-07-08 10:37:58.787074	2024-07-09 13:59:23.559973	\N	0	12	{"male": {"din": {"pb": [2395, "28.06.2025 - Klietz, SAP (4. SAP + 1. Klietzer Heidepokal)"], "sb": [2395, "28.06.2025 - Klietz, SAP (4. SAP + 1. Klietzer Heidepokal)"]}, "tgl": {"pb": [1962, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [1962, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": [3239, "26.04.2025 - Kummer, MV-Cup (MV CUP Lauf 1/2025)"], "sb": [3239, "26.04.2025 - Kummer, MV-Cup (MV CUP Lauf 1/2025)"]}, "tgl": {"pb": [2767, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [2767, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}}
 3951	FF Groß Breese	Groß Breese	1	53.0046290227	11.8217289448	\N		2024-07-08 10:38:14.22757	2024-07-09 14:01:25.374495	\N	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3454,14 +3454,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25363, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25367, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1130, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1131, true);
 
 
 --
@@ -3475,42 +3475,42 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25499, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25521, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 619, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 621, true);
 
 
 --
 -- Name: competition_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competition_files_id_seq', 3071, true);
+SELECT pg_catalog.setval('public.competition_files_id_seq', 3073, true);
 
 
 --
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 2346, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 2347, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 62514, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 62549, true);
 
 
 --
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 385, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 386, true);
 
 
 --
@@ -3531,21 +3531,21 @@ SELECT pg_catalog.setval('public.federal_states_id_seq', 16, true);
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3747, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3749, true);
 
 
 --
 -- Name: group_score_types_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_types_id_seq', 22, true);
+SELECT pg_catalog.setval('public.group_score_types_id_seq', 23, true);
 
 
 --
 -- Name: group_scores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_scores_id_seq', 87088, true);
+SELECT pg_catalog.setval('public.group_scores_id_seq', 87114, true);
 
 
 --
@@ -3566,7 +3566,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 403, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2786, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2787, true);
 
 
 --
@@ -3580,7 +3580,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25357, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25361, true);
 
 
 --
@@ -3608,14 +3608,14 @@ SELECT pg_catalog.setval('public.person_participations_id_seq', 22897, true);
 -- Name: person_spellings_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_spellings_id_seq', 227, true);
+SELECT pg_catalog.setval('public.person_spellings_id_seq', 228, true);
 
 
 --
 -- Name: places_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.places_id_seq', 673, true);
+SELECT pg_catalog.setval('public.places_id_seq', 674, true);
 
 
 --

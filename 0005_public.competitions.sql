@@ -2334,4 +2334,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2344	Tschechische Meisterschaften	672	10	\N	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-17 20:20:01.166416	\N	16	16	16	16	0	2	2	2	2	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	f	f	f	f	2025
 2345	TGL-Cup	405	33	\N	2025-08-23	\N	2025-08-25 16:58:42.57164	2025-08-25 16:58:42.57164	\N	0	0	0	0	0	0	0	3	63	14	0	23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2346	12. Lewitz-Cup	673	10	\N	2025-08-23	\N	2025-08-25 17:07:28.84975	2025-08-25 17:07:28.84975	\N	0	0	0	0	0	0	0	4	30	17	0	23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)	f	f	f	f	2025
+2347	90.Jahre Feuerwehr Wöbbelin-Dreenkrögen	674	10	\N	2025-08-02	\N	2025-08-26 08:44:32.820909	2025-08-26 08:44:32.820909	\N	0	0	0	0	0	0	0	2	24	11	0	02.08.2025 - Wöbbelin, Pokallauf (90.Jahre Feuerwehr Wöbbelin-Dreenkrögen)	f	f	f	f	2025
 \.
