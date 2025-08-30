@@ -62,7 +62,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 58	FF Helfta	Helfta	1	51.5036661000	11.5736559000	helfta.jpg	ST	2016-01-20 21:32:06.453068	2016-01-20 21:32:06.453068	2016-01-20 21:32:06.453068	6	29	{"male": {"din": {"pb": [2359, "21.08.2010 - Erdeborn, Pokallauf (130 Jahre FF Erdeborn)"], "sb": null}, "tgl": {"pb": [3945, "19.09.1998 - Thalheim, Landesausscheid (2. Landespokallauf im Löschangriff-Naß (Sachsen-Anhalt))"], "sb": null}}, "female": {"din": {"pb": [3296, "19.05.2007 - Gollma, Pokallauf (12. Parkpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 59	FF Warin	Warin	1	53.8045570430	11.7104923725	warin.jpg	MV	2016-01-20 21:32:06.540277	2016-01-20 21:32:06.540277	2016-01-20 21:32:06.540277	22	69	{"male": {"din": {"pb": [2378, "14.05.2011 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 60	FF Lossa	Lossa	1	51.2201098500	11.4137649536	lossa.jpg	ST	2016-01-20 21:32:06.635652	2016-01-20 21:32:06.635652	2016-01-20 21:32:06.635652	8	15	{"male": {"din": {"pb": [2866, "20.06.2009 - Drosa, SAP (8. Pokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3458, "25.07.2012 - Cottbus, DM"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
-61	Team Deutschland	Deutschland	0	51.0834196000	10.4234469000	deutschland.png	DE	2016-01-20 21:32:06.727563	2018-01-25 09:50:50.053097	2018-01-25 09:50:48	123	21	{"male": {"din": {"pb": [3005, "06.09.2007 - Ostrava (CZ), EM"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4483, "19.08.2017 - Taura, Pokallauf (Heedebockpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+61	Team Deutschland	Deutschland	0	51.0834196000	10.4234469000	deutschland.png	DE	2016-01-20 21:32:06.727563	2018-01-25 09:50:50.053097	2018-01-25 09:50:48	123	22	{"male": {"din": {"pb": [3005, "06.09.2007 - Ostrava (CZ), EM"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4483, "19.08.2017 - Taura, Pokallauf (Heedebockpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 62	FF Frankenhain	Frankenhain	1	51.7015020992	13.4139633179	ff_frankenhain.jpg	BB	2016-01-20 21:32:06.740952	2024-09-02 12:57:43.738026	2016-01-20 21:32:06.740952	24	25	{"male": {"din": {"pb": [2650, "14.06.2025 - Hohenbucko, Amtsausscheid (Amt Schlieben)"], "sb": [2650, "14.06.2025 - Hohenbucko, Amtsausscheid (Amt Schlieben)"]}, "tgl": {"pb": [3382, "03.07.2010 - Theisa, Pokallauf (12. Pokallauf)"], "sb": null}}, "female": {"din": {"pb": [3352, "04.05.2024 - Proßmarke, Amtsausscheid (29. Amtsausscheid Amt Schlieben)"], "sb": [3449, "14.06.2025 - Hohenbucko, Amtsausscheid (Amt Schlieben)"]}, "tgl": {"pb": [4700, "05.07.2014 - Theisa, Pokallauf (16. Pokallauf)"], "sb": null}}}
 63	FF Groß Drewitz	Drewitz	1	51.9584553164	14.6362352371	\N	BB	2016-01-20 21:32:06.744825	2016-01-20 21:32:06.744825	2016-01-20 21:32:06.744825	10	16	{"male": {"din": {"pb": [2711, "20.06.2009 - Forst, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3317, "15.10.2010 - Klein Radden, Pokallauf (3. Spreewald-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 64	FF Klein Gaglow	Gaglow	1	51.7212864000	14.2964566000	\N	BB	2016-01-20 21:32:06.74816	2016-01-20 21:32:06.74816	2016-01-20 21:32:06.74816	26	53	{"male": {"din": {"pb": [2443, "15.06.2013 - Hänchen, Kreisausscheid"], "sb": [3434, "05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3519, "11.10.2004 - Sergen, Pokallauf (6. Wanderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3454,14 +3454,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25381, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25399, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1132, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1133, true);
 
 
 --
@@ -3475,7 +3475,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25521, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25540, true);
 
 
 --
@@ -3496,14 +3496,14 @@ SELECT pg_catalog.setval('public.competition_files_id_seq', 3073, true);
 -- Name: competitions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.competitions_id_seq', 2347, true);
+SELECT pg_catalog.setval('public.competitions_id_seq', 2348, true);
 
 
 --
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 62563, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 62618, true);
 
 
 --
@@ -3531,7 +3531,7 @@ SELECT pg_catalog.setval('public.federal_states_id_seq', 16, true);
 -- Name: group_score_categories_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3749, true);
+SELECT pg_catalog.setval('public.group_score_categories_id_seq', 3752, true);
 
 
 --
@@ -3545,21 +3545,21 @@ SELECT pg_catalog.setval('public.group_score_types_id_seq', 23, true);
 -- Name: group_scores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.group_scores_id_seq', 87114, true);
+SELECT pg_catalog.setval('public.group_scores_id_seq', 87122, true);
 
 
 --
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 6286, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 6296, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 403, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 404, true);
 
 
 --
@@ -3580,7 +3580,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25375, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25393, true);
 
 
 --
@@ -3615,7 +3615,7 @@ SELECT pg_catalog.setval('public.person_spellings_id_seq', 228, true);
 -- Name: places_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.places_id_seq', 674, true);
+SELECT pg_catalog.setval('public.places_id_seq', 675, true);
 
 
 --
@@ -3629,7 +3629,7 @@ SELECT pg_catalog.setval('public.score_types_id_seq', 5, true);
 -- Name: scores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.scores_id_seq', 48304, true);
+SELECT pg_catalog.setval('public.scores_id_seq', 48368, true);
 
 
 --

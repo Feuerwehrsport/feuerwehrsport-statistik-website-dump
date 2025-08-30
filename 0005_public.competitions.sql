@@ -2294,7 +2294,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2304	1. Lauf Stadtpokal Dornburg-Camburg	661	10	\N	2025-05-24	\N	2025-05-28 08:47:10.288245	2025-05-28 08:47:10.288245	\N	0	0	6	6	0	0	0	0	0	3	6	24.05.2025 - Dornburg-Camburg, Pokallauf (1. Lauf Stadtpokal Dornburg-Camburg)	f	f	f	f	2025
 2305	Amt Bützow-Land und LRO	662	6	\N	2025-05-24	\N	2025-06-03 11:27:17.30279	2025-06-03 11:27:17.30279	\N	0	0	0	0	0	0	0	6	72	27	0	24.05.2025 - Zernin, Kreisausscheid (Amt Bützow-Land und LRO)	f	f	f	f	2025
 2306	3.Pokallauf Harzgerode / 3.SAP-Cup	637	18	\N	2025-05-31	\N	2025-06-03 19:01:31.037462	2025-06-03 19:01:31.037462	\N	0	0	0	0	0	0	0	12	64	23	0	31.05.2025 - Harzgerode, SAP (3.Pokallauf Harzgerode / 3.SAP-Cup)	f	f	f	f	2025
-2307	1. Deutschland-Cup und 2.BB-Cup	200	35	\N	2025-06-07	\N	2025-06-14 20:34:57.030147	2025-06-17 07:06:12.628314		109	117	97	88	11	0	0	24	38	43	116	07.06.2025 - Langengrassau, D-Cup (1. Deutschland-Cup und 2.BB-Cup)	t	t	t	t	2025
+2307	1. Deutschland-Cup und 2.BB-Cup	200	35	2	2025-06-07	\N	2025-06-14 20:34:57.030147	2025-08-29 13:32:05.401107		109	117	97	88	11	0	0	24	38	43	116	07.06.2025 - Langengrassau, D-Cup (1. Deutschland-Cup und 2.BB-Cup)	t	t	t	t	2025
 2308	31. Techentiner Feuerwehrtreffen	386	10	\N	2025-06-14	\N	2025-06-15 15:45:07.326405	2025-06-15 15:45:07.326405	\N	18	30	20	25	0	0	0	4	36	28	31	14.06.2025 - Techentin, Pokallauf (31. Techentiner Feuerwehrtreffen)	f	f	f	f	2025
 2309	Stadtmeisterschaft Sonnewalde	49	15	\N	2025-05-17	\N	2025-06-17 12:05:52.459638	2025-06-17 12:05:52.459638	\N	0	0	0	0	2	0	0	3	13	13	0	17.05.2025 - Sonnewalde, Amtsausscheid (Stadtmeisterschaft Sonnewalde)	f	f	f	f	2025
 2310	TGL-Cup	199	33	\N	2025-06-14	\N	2025-06-17 12:09:16.31039	2025-06-17 12:09:16.31039	\N	0	0	0	0	0	0	0	7	46	14	0	14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)	f	f	f	f	2025
@@ -2327,12 +2327,13 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2337	34. Feuerwehrtag FF Ostseebad Nienhagen	25	10	\N	2025-07-26	\N	2025-07-29 06:36:56.504823	2025-07-29 06:36:56.504823	\N	0	0	0	0	0	0	0	6	30	15	0	26.07.2025 - Ostseebad Nienhagen, Pokallauf (34. Feuerwehrtag FF Ostseebad Nienhagen)	f	f	f	f	2025
 2338	15. Kreismeisterschaft KFV SPN	14	6	\N	2025-07-05	\N	2025-08-05 16:57:20.636294	2025-08-05 16:57:20.636294	\N	22	14	16	12	8	1	2	4	14	24	22	05.07.2025 - Cottbus, Kreisausscheid (15. Kreismeisterschaft KFV SPN)	f	f	f	f	2025
 2339	Nessetal-Pokal	164	10	\N	2025-07-19	\N	2025-08-05 17:05:14.529637	2025-08-05 17:05:14.529637	\N	0	0	0	0	0	0	0	12	68	26	0	19.07.2025 - Gamstädt, Pokallauf (Nessetal-Pokal)	f	f	f	f	2025
-2340	Deutsche Meisterschaft	239	5	1	2025-07-30	\N	2025-08-09 09:50:55.375059	2025-08-17 20:02:37.603243	\N	154	162	153	158	12	12	13	42	52	62	158	30.07.2025 - Torgau, DM (Deutsche Meisterschaft)	f	f	f	f	2025
+2340	Deutsche Meisterschaft	239	5	1	2025-07-30	\N	2025-08-09 09:50:55.375059	2025-08-29 13:31:56.236169		154	162	153	158	12	12	13	42	52	62	158	30.07.2025 - Torgau, DM (Deutsche Meisterschaft)	t	t	t	t	2025
 2341	27.Pokallauf der Feuerwehr / BB-Cup + 4BP	67	16	\N	2025-08-09	\N	2025-08-11 16:11:18.543008	2025-08-11 16:11:18.543008	\N	0	0	0	0	0	0	0	62	142	32	0	09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)	f	f	f	f	2025
 2342	Lindenpokal Tryppehna - SAP & TGL-Cup	234	33	\N	2025-08-09	\N	2025-08-11 17:31:33.812785	2025-08-11 17:31:33.812785	\N	0	0	0	0	0	0	0	18	148	26	0	09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)	f	f	f	f	2025
 2343	Traditionswettkampf	671	10	\N	2025-08-15	\N	2025-08-17 20:17:54.637035	2025-08-17 20:17:54.637035	\N	0	0	0	0	0	0	0	4	8	6	0	15.08.2025 - Quarnebeck, Pokallauf (Traditionswettkampf)	f	f	f	f	2025
-2344	Tschechische Meisterschaften	672	10	\N	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-17 20:20:01.166416	\N	16	16	16	16	0	2	2	2	2	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	f	f	f	f	2025
+2344	Tschechische Meisterschaften	672	10	1	2025-08-15	\N	2025-08-17 20:20:01.166416	2025-08-29 13:31:42.6808		16	16	16	16	0	2	2	2	2	2	20	15.08.2025 - Trebic (Tschechien), Pokallauf (Tschechische Meisterschaften)	t	t	t	t	2025
 2345	TGL-Cup	405	33	\N	2025-08-23	\N	2025-08-25 16:58:42.57164	2025-08-25 16:58:42.57164	\N	0	0	0	0	0	0	0	3	63	14	0	23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)	f	f	f	f	2025
 2346	12. Lewitz-Cup	673	10	\N	2025-08-23	\N	2025-08-25 17:07:28.84975	2025-08-25 17:07:28.84975	\N	0	0	0	0	0	0	0	4	30	17	0	23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)	f	f	f	f	2025
 2347	90.Jahre Feuerwehr Wöbbelin-Dreenkrögen	674	10	\N	2025-08-02	\N	2025-08-26 08:44:32.820909	2025-08-26 08:44:32.820909	\N	0	0	0	0	0	0	0	2	24	11	0	02.08.2025 - Wöbbelin, Pokallauf (90.Jahre Feuerwehr Wöbbelin-Dreenkrögen)	f	f	f	f	2025
+2348	Europa Meisterschaft	675	21	1	2025-08-26	\N	2025-08-29 13:18:54.753039	2025-08-29 13:28:49.54332		16	16	16	16	0	2	2	2	2	2	18	26.08.2025 - Dolna Banya (Bulgarien), EM (Europa Meisterschaft)	t	t	t	t	2025
 \.
