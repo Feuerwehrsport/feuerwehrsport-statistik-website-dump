@@ -3288,7 +3288,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3909	FF Demen	Demen	1	53.6290231000	11.7634251000	\N	MV	2023-09-04 08:32:20.835565	2023-10-25 13:06:17.074336	2023-10-25 13:06:02	0	3	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [99999999, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"], "sb": [99999999, "23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3910	FF Obere Warnow	Obere Warnow	1	53.5301731000	11.8884665000	\N	MV	2023-09-04 08:32:24.146939	2023-10-25 13:05:01.868264	2023-10-25 13:05:00	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3911	FF Ländeken	Ländeken	1	\N	\N	\N		2023-09-06 08:33:43.655082	2023-09-06 08:33:43.655082	\N	0	1	{"male": {"din": {"pb": [3621, "20.05.2023 - Schlenzer, Amtsausscheid (Amtsausscheid Dahme/Mark)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3912	FF Gräfendorf/Werbig	Gräfendorf/Werbig	1	51.9273508384	13.1905460358	ff-gw.gif		2023-09-06 08:33:52.100592	2025-03-28 08:22:01.511863	\N	15	4	{"male": {"din": {"pb": [2394, "01.06.2024 - Görsdorf, Amtsausscheid (Dahme/Mark)"], "sb": [2521, "05.07.2025 - Dobbrikow, Kreisausscheid (KM Teltow-Fläming)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+3912	FF Gräfendorf/Werbig	Gräfendorf/Werbig	1	51.9273508384	13.1905460358	ff-gw.gif	BB	2023-09-06 08:33:52.100592	2025-08-30 12:25:08.581185	\N	15	4	{"male": {"din": {"pb": [2394, "01.06.2024 - Görsdorf, Amtsausscheid (Dahme/Mark)"], "sb": [2521, "05.07.2025 - Dobbrikow, Kreisausscheid (KM Teltow-Fläming)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3913	FF Cottbus-Saspow	Cottbus-Saspow	1	51.7875894500	14.3575198209	\N	BB	2023-09-06 08:38:07.529413	2023-10-25 13:06:35.986063	2023-10-25 13:06:35	0	2	{"male": {"din": {"pb": [2741, "02.10.2023 - Merzdorf, Pokallauf (23. Flutlichtpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3914	FF Wiesenau	Wiesenau	1	52.2309612000	14.5910238000	\N	BB	2023-09-06 08:53:17.09204	2023-10-25 13:05:36.107395	2023-10-25 13:05:34	0	8	{"male": {"din": {"pb": [2657, "28.06.2025 - Stücken, 4BP (17.Galgenbergpokal / BB-Cup + 4BP)"], "sb": [2657, "28.06.2025 - Stücken, 4BP (17.Galgenbergpokal / BB-Cup + 4BP)"]}, "tgl": {"pb": [2874, "12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)"], "sb": [2874, "12.07.2025 - Groß Muckrow, 4BP (3.Schlaubepokal / BB-Cup + 4BP)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3915	FF Karow Berlin	Karow Berlin	1	52.6150868000	13.4862758000	\N	BE	2023-09-17 19:33:49.776816	2023-10-25 13:04:46.406258	2023-10-25 13:04:45	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3454,14 +3454,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25399, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25415, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1133, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1135, true);
 
 
 --
@@ -3475,7 +3475,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25540, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25546, true);
 
 
 --
@@ -3503,7 +3503,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2348, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 62618, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 62646, true);
 
 
 --
@@ -3566,7 +3566,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 404, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2787, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2788, true);
 
 
 --
@@ -3580,7 +3580,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25393, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25409, true);
 
 
 --
@@ -3601,7 +3601,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4334, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 22897, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 22919, true);
 
 
 --
