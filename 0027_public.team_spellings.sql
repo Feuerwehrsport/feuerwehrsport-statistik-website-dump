@@ -300,4 +300,5 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 293	2537	FF Magdeburg - Olvenstedt	Magdeburg - Olvenstedt	2025-06-04 15:07:27.163519	2025-06-04 15:07:27.163519
 294	4097	FF Börgerende/Rethwisch	Börgerende/Rethwisch	2025-07-29 06:40:32.507385	2025-07-29 06:40:32.507385
 295	4097	FF Ostseebad Börgerende/Rethwisch	Börgerende/Rethwisch	2025-07-29 06:41:06.352291	2025-07-29 06:41:06.352291
+296	329	FF Wilmersdorf-Stöbritz	Wilmersdorf-Stöbritz	2025-08-31 07:21:54.580351	2025-08-31 07:21:54.580351
 \.

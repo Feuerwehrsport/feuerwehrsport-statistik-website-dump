@@ -2336,4 +2336,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2346	12. Lewitz-Cup	673	10	\N	2025-08-23	\N	2025-08-25 17:07:28.84975	2025-08-25 17:07:28.84975	\N	0	0	0	0	0	0	0	4	30	17	0	23.08.2025 - Tramm, Pokallauf (12. Lewitz-Cup)	f	f	f	f	2025
 2347	90.Jahre Feuerwehr Wöbbelin-Dreenkrögen	674	10	\N	2025-08-02	\N	2025-08-26 08:44:32.820909	2025-08-26 08:44:32.820909	\N	0	0	0	0	0	0	0	2	24	11	0	02.08.2025 - Wöbbelin, Pokallauf (90.Jahre Feuerwehr Wöbbelin-Dreenkrögen)	f	f	f	f	2025
 2348	Europa Meisterschaft	675	21	1	2025-08-26	\N	2025-08-29 13:18:54.753039	2025-08-29 13:28:49.54332		16	16	16	16	0	2	2	2	2	2	18	26.08.2025 - Dolna Banya (Bulgarien), EM (Europa Meisterschaft)	t	t	t	t	2025
+2349	Amtsausscheid Dahme/Mark	676	15	\N	2025-05-10	\N	2025-08-31 07:13:27.715763	2025-08-31 07:14:12.131868		0	0	0	0	0	0	0	1	18	11	0	10.05.2025 - Rietdorf, Amtsausscheid (Amtsausscheid Dahme/Mark)	f	f	f	f	2025
+2350	9. Sommernachtslauf	58	10	\N	2025-08-29	\N	2025-08-31 07:16:54.56611	2025-08-31 07:16:54.56611	\N	0	0	0	0	0	0	0	6	30	18	0	29.08.2025 - Walddrehna, Pokallauf (9. Sommernachtslauf)	f	f	f	f	2025
+2351	Brandenburger 4-Bahnenpokal	275	32	\N	2025-08-30	\N	2025-08-31 08:50:07.719178	2025-08-31 08:50:07.719178	\N	0	0	0	0	0	0	0	44	71	18	0	30.08.2025 - Libbenichen, 4BP (Brandenburger 4-Bahnenpokal)	f	f	f	f	2025
 \.

@@ -3060,4 +3060,15 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3071	2346	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-08-25 17:09:15.756796	2025-08-25 17:09:15.756796
 3072	2347	ergebnis-loschangriff-nass-erwachsene.pdf	la_female,la_male	2025-08-26 12:45:42.887961	2025-08-26 12:45:42.887961
 3073	2347	ergebnis-u-40.pdf	la_male	2025-08-26 12:45:48.544146	2025-08-26 12:45:48.544146
+3074	2350	2025-08-29walddrehna.pdf	la_female,la_male	2025-08-31 07:21:05.312672	2025-08-31 07:21:05.312672
+3075	2351	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-08-31 08:52:02.184723	2025-08-31 08:52:02.184723
+3076	2351	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-08-31 08:52:10.90909	2025-08-31 08:52:10.90909
+3077	2351	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-08-31 08:52:15.562789	2025-08-31 08:52:15.562789
+3078	2351	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-08-31 08:52:20.186037	2025-08-31 08:52:20.186037
+3079	2351	ergebnis-loschangriff-kreismeisterschaft-mol-manner.pdf	la_male	2025-08-31 08:52:24.799166	2025-08-31 08:52:24.799166
+3080	2351	ergebnis-loschangriff-kreismeisterschaft-mol-frauen.pdf	la_female	2025-08-31 08:52:28.809507	2025-08-31 08:52:28.809507
+3081	2351	ergebnis-loschangriff-tageswertung-4bp-frauen.pdf	la_female	2025-08-31 08:52:33.231176	2025-08-31 08:52:33.231176
+3082	2351	ergebnis-loschangriff-tageswertung-4bp-manner.pdf	la_male	2025-08-31 08:52:38.09266	2025-08-31 08:52:38.09266
+3083	2351	ergebnis-gruppenstafette-jugend-u10.pdf	gs_female	2025-08-31 08:52:51.292565	2025-08-31 08:52:51.292565
+3084	2351	ergebnis-loschangriff-jugend.pdf	la_male	2025-08-31 08:52:57.735678	2025-08-31 08:52:57.735678
 \.
