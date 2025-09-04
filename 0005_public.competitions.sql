@@ -2339,4 +2339,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2349	Amtsausscheid Dahme/Mark	676	15	\N	2025-05-10	\N	2025-08-31 07:13:27.715763	2025-08-31 07:14:12.131868		0	0	0	0	0	0	0	1	18	11	0	10.05.2025 - Rietdorf, Amtsausscheid (Amtsausscheid Dahme/Mark)	f	f	f	f	2025
 2350	9. Sommernachtslauf	58	10	\N	2025-08-29	\N	2025-08-31 07:16:54.56611	2025-08-31 07:16:54.56611	\N	0	0	0	0	0	0	0	6	30	18	0	29.08.2025 - Walddrehna, Pokallauf (9. Sommernachtslauf)	f	f	f	f	2025
 2351	Brandenburger 4-Bahnenpokal	275	32	\N	2025-08-30	\N	2025-08-31 08:50:07.719178	2025-08-31 08:50:07.719178	\N	0	0	0	0	0	0	0	44	71	18	0	30.08.2025 - Libbenichen, 4BP (Brandenburger 4-Bahnenpokal)	f	f	f	f	2025
+2352	18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland	318	10	\N	2025-08-30	\N	2025-09-03 09:50:19.015301	2025-09-03 09:50:19.015301	\N	0	0	0	0	0	0	0	0	55	15	0	30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)	f	f	f	f	2025
+2353	5. Lauf Ostsachsenpokal	77	34	\N	2025-08-30	\N	2025-09-03 09:53:29.121464	2025-09-03 09:53:29.121464	\N	0	0	5	8	0	0	0	6	8	15	7	30.08.2025 - Lauba, Ostsachsenpokal (5. Lauf Ostsachsenpokal)	f	f	f	f	2025
 \.

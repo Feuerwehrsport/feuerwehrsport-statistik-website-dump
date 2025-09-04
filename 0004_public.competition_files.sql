@@ -3071,4 +3071,12 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3082	2351	ergebnis-loschangriff-tageswertung-4bp-manner.pdf	la_male	2025-08-31 08:52:38.09266	2025-08-31 08:52:38.09266
 3083	2351	ergebnis-gruppenstafette-jugend-u10.pdf	gs_female	2025-08-31 08:52:51.292565	2025-08-31 08:52:51.292565
 3084	2351	ergebnis-loschangriff-jugend.pdf	la_male	2025-08-31 08:52:57.735678	2025-08-31 08:52:57.735678
+3085	2352	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-09-03 09:51:14.981331	2025-09-03 09:51:14.981331
+3086	2352	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-09-03 09:51:19.940688	2025-09-03 09:51:19.940688
+3087	2353	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-09-03 09:55:49.460182	2025-09-03 09:55:49.460182
+3088	2353	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-09-03 09:55:55.559727	2025-09-03 09:55:55.559727
+3089	2353	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-09-03 09:56:05.102794	2025-09-03 09:56:05.102794
+3090	2353	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-09-03 09:56:10.374745	2025-09-03 09:56:10.374745
+3091	2353	ergebnis-loschangriff-nass-u20.pdf	la_male	2025-09-03 09:56:22.565109	2025-09-03 09:56:22.565109
+3092	2353	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-09-03 09:56:29.372914	2025-09-03 09:56:29.372914
 \.
