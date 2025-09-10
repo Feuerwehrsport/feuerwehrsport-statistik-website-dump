@@ -3079,4 +3079,13 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3090	2353	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-09-03 09:56:10.374745	2025-09-03 09:56:10.374745
 3091	2353	ergebnis-loschangriff-nass-u20.pdf	la_male	2025-09-03 09:56:22.565109	2025-09-03 09:56:22.565109
 3092	2353	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-09-03 09:56:29.372914	2025-09-03 09:56:29.372914
+3093	2354	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-09-09 14:16:27.840581	2025-09-09 14:16:27.840581
+3094	2354	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-09-09 14:16:32.195541	2025-09-09 14:16:32.195541
+3095	2354	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-09-09 14:16:36.412846	2025-09-09 14:16:36.412846
+3096	2354	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-09-09 14:16:51.86284	2025-09-09 14:16:51.86284
+3097	2355	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-09-09 14:22:16.035062	2025-09-09 14:22:16.035062
+3098	2355	ergebnis-loschangriff-nass-tgl-frauen.pdf	la_female	2025-09-09 14:22:21.442318	2025-09-09 14:22:21.442318
+3099	2355	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-09-09 14:22:25.517709	2025-09-09 14:22:25.517709
+3100	2355	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-09-09 14:22:29.470293	2025-09-09 14:22:29.470293
+3101	2355	ergebnis-kreisausscheid-weimarer-land.pdf	la_male	2025-09-09 14:22:37.561276	2025-09-09 14:22:37.561276
 \.
