@@ -3088,4 +3088,6 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3099	2355	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-09-09 14:22:25.517709	2025-09-09 14:22:25.517709
 3100	2355	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-09-09 14:22:29.470293	2025-09-09 14:22:29.470293
 3101	2355	ergebnis-kreisausscheid-weimarer-land.pdf	la_male	2025-09-09 14:22:37.561276	2025-09-09 14:22:37.561276
+3102	2356	ergebnis-loschangriff-nass-wk1-ab-8-14-jahren.pdf		2025-09-10 08:42:25.178873	2025-09-10 08:46:07.311692
+3103	2356	ergebnis-loschangriff-nass-wk2-ab-14-18-jahren.pdf		2025-09-10 08:42:29.558594	2025-09-10 08:45:58.065369
 \.
