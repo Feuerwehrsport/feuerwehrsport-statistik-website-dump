@@ -217,7 +217,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 230	FF Lawalde	Lawalde	1	51.0787436000	14.6024500000	\N	SN	2016-01-20 21:32:10.5758	2016-01-20 21:32:10.5758	2016-01-20 21:32:10.5758	0	49	{"male": {"din": {"pb": [2567, "31.07.2010 - Löbau, Kreisausscheid"], "sb": null}, "tgl": {"pb": [3331, "17.05.2008 - Lawalde, Oberlausitzpokal"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 231	FF Grießbach	Grießbach	1	50.7133671000	13.0446381000	\N	SN	2016-01-20 21:32:10.578888	2016-01-20 21:32:10.578888	2016-01-20 21:32:10.578888	9	15	{"male": {"din": {"pb": [2989, "05.05.2012 - Scharfenstein, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [8843, "10.05.2014 - Scharfenstein, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 232	FF Rackel	Rackel	1	51.2143454000	14.5813208000	\N	SN	2016-01-20 21:32:10.582328	2016-01-20 21:32:10.582328	2016-01-20 21:32:10.582328	0	30	{"male": {"din": {"pb": [2804, "14.07.2013 - Preititz, Pokallauf (3. Lauf Kreispokal Bautzen 2013)"], "sb": null}, "tgl": {"pb": [3184, "06.07.2014 - Guttau, Pokallauf"], "sb": null}}, "female": {"din": {"pb": [3954, "01.07.2012 - Rackel, Pokallauf (2. Lauf Kreispokal Bautzen 2012)"], "sb": null}, "tgl": {"pb": [4966, "01.07.2012 - Rackel, Pokallauf (2. Lauf Kreispokal Bautzen 2012)"], "sb": null}}}
-233	FF Klipphausen	Klipphausen	1	51.0749571000	13.5293546000	\N	SN	2016-01-20 21:32:10.585559	2016-01-20 21:32:10.585559	2016-01-20 21:32:10.585559	0	7	{"male": {"din": {"pb": [3329, "05.06.2016 - Großenhain, Kreisausscheid (KFV Meißen)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+233	FF Klipphausen	Klipphausen	1	51.0749571000	13.5293546000	Schriftzuglogo_JF_DF_bunt.gif	SN	2016-01-20 21:32:10.585559	2025-09-11 04:40:46.486546	2016-01-20 21:32:10.585559	0	7	{"male": {"din": {"pb": [3329, "05.06.2016 - Großenhain, Kreisausscheid (KFV Meißen)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 234	FF Knautnaundorf	Knautnaundorf	1	51.2542590000	12.2702125000	\N	SN	2016-01-20 21:32:10.594372	2016-01-20 21:32:10.594372	2016-01-20 21:32:10.594372	0	6	{"male": {"din": {"pb": [3772, "13.09.2008 - Narsdorf, Landesausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 235	FF Eppendorf	Eppendorf	1	50.7988796000	13.2305784000	\N	SN	2016-01-20 21:32:10.597793	2016-01-20 21:32:10.597793	2016-01-20 21:32:10.597793	1	24	{"male": {"din": {"pb": [3478, "17.05.2008 - Freiberg, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [4009, "11.07.2009 - Eppendorf, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 236	FF Krummenhennersdorf	Krummenhennersdorf	1	50.9805863000	13.3671500000	\N	SN	2016-01-20 21:32:10.601018	2016-01-20 21:32:10.601018	2016-01-20 21:32:10.601018	0	54	{"male": {"din": {"pb": [3049, "10.09.2016 - Ziegenhain, Pokallauf (2. Nachtpokal im Löschangriff)"], "sb": null}, "tgl": {"pb": [3455, "04.06.2016 - Großolbersdorf, Pokallauf (4. Erzgebirgspokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3459,7 +3459,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25538, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25540, true);
 
 
 --
@@ -3480,7 +3480,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25712, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25715, true);
 
 
 --
@@ -3508,7 +3508,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2356, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63126, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63130, true);
 
 
 --
@@ -3585,7 +3585,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25532, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25534, true);
 
 
 --
