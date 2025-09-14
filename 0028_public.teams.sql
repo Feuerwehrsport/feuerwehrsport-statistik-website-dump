@@ -1378,7 +1378,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1615	Team Lausitz / MOL	Lausitz / MOL	0	\N	\N	\N	BB	2016-01-20 21:32:21.413136	2016-01-20 21:32:21.413136	2018-09-20 13:04:08.041644	17	3	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [2656, "27.09.2014 - Narsdorf, D-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1621	FF Brodau	Brodau	1	51.4931409703	12.3383331299	\N	SN	2016-01-20 21:32:21.416027	2016-01-20 21:32:21.416027	2016-01-20 21:32:21.416027	0	8	{"male": {"din": {"pb": [2950, "03.10.2016 - Pretzsch, Pokallauf (23. Elbe-Pokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1622	FF Zaasch/Roitzsch	Zaasch/Roitzsch	1	51.5628254036	12.2710418701	\N	ST	2016-01-20 21:32:21.431025	2016-01-20 21:32:21.431025	2016-01-20 21:32:21.431025	0	1	{"male": {"din": {"pb": [3479, "17.05.2014 - Gollma, Pokallauf (19. Parkpokallauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-1623	FF Eisdorf	Eisdorf	1	51.4617147508	11.8197870255	\N	ST	2016-01-20 21:32:21.434083	2016-01-20 21:32:21.434083	2016-01-20 21:32:21.434083	0	34	{"male": {"din": {"pb": [2361, "21.08.2010 - Erdeborn, Pokallauf (130 Jahre FF Erdeborn)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3453, "06.08.2016 - Tryppehna, SAP (5. Lindenpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+1623	FF Eisdorf	Eisdorf	1	51.4617147508	11.8197870255	\N	ST	2016-01-20 21:32:21.434083	2016-01-20 21:32:21.434083	2016-01-20 21:32:21.434083	7	34	{"male": {"din": {"pb": [2361, "21.08.2010 - Erdeborn, Pokallauf (130 Jahre FF Erdeborn)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3453, "06.08.2016 - Tryppehna, SAP (5. Lindenpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1624	FF Trebelshain	Trebelshain	1	51.3575336000	12.8295476000	trebelshain.jpg	SN	2016-01-20 21:32:21.436737	2016-02-22 20:48:07.632575	2016-02-22 20:48:07.632575	10	34	{"male": {"din": {"pb": [2066, "12.07.2014 - Teupitz, Pokallauf (4. Teupitz - Cup)"], "sb": null}, "tgl": {"pb": [2172, "05.07.2014 - Zella, Pokallauf (EXTRA-LIGA)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1625	FF Riedebeck	Riedebeck	1	51.8029400000	13.6795369000	\N	BB	2016-01-20 21:32:21.43968	2016-01-20 21:32:21.43968	2016-01-20 21:32:21.43968	0	3	{"male": {"din": {"pb": [4640, "13.05.2006 - Gehren, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [6100, "13.05.2006 - Gehren, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1626	FF Pitschen-Pickel	Pitschen-Pickel	1	51.8721188000	13.5918476000	\N	BB	2016-01-20 21:32:21.442774	2016-01-20 21:32:21.442774	2016-01-20 21:32:21.442774	0	4	{"male": {"din": {"pb": [4758, "24.05.2014 - Langengrassau, Amtsausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3459,14 +3459,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25549, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25558, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1153, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1154, true);
 
 
 --
@@ -3480,7 +3480,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25721, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25730, true);
 
 
 --
@@ -3508,7 +3508,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2356, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63151, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63178, true);
 
 
 --
@@ -3585,7 +3585,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25543, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25552, true);
 
 
 --
@@ -3599,14 +3599,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4343, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4350, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 23096, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 23110, true);
 
 
 --

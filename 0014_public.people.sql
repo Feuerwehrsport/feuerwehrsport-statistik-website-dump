@@ -3348,4 +3348,11 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4341	Einert	Sandrine	0	1	2025-09-03 09:54:46.831647	2025-09-03 09:54:46.831647	2	0	0	0	0	{"pb": {"hb": [2582, "30.08.2025 - Lauba, Ostsachsenpokal (5. Lauf Ostsachsenpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2582, "30.08.2025 - Lauba, Ostsachsenpokal (5. Lauf Ostsachsenpokal)"], "hl": null, "zk": null}}	\N
 4342	Petzold	Fynn	1	1	2025-09-03 09:55:06.501677	2025-09-03 09:55:06.501677	2	0	0	0	0	{"pb": {"hb": [2640, "30.08.2025 - Lauba, Ostsachsenpokal (5. Lauf Ostsachsenpokal)"], "hl": null, "zk": null}, "sb": {"hb": [2640, "30.08.2025 - Lauba, Ostsachsenpokal (5. Lauf Ostsachsenpokal)"], "hl": null, "zk": null}}	\N
 4343	Schade	Raphael	1	1	2025-09-03 19:34:56.115302	2025-09-03 19:34:56.115302	0	0	4	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4344	Bachmann	Heather-Marie	0	1	2025-09-13 10:03:49.033369	2025-09-13 10:03:49.033369	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4345	Nutsch	Maik	1	1	2025-09-13 10:04:23.031999	2025-09-13 10:04:23.031999	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4346	Klemmt	Maximilian	1	1	2025-09-13 10:05:01.512911	2025-09-13 10:05:01.512911	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4347	Millnitz	Dirk	1	1	2025-09-13 10:05:26.458539	2025-09-13 10:05:26.458539	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4348	Wuttke	Tim 	1	1	2025-09-13 10:06:42.069859	2025-09-13 10:06:42.069859	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4349	Schneider	Phillip	1	1	2025-09-13 10:08:50.694264	2025-09-13 10:08:50.694264	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4350	Friede	Christoph 	1	1	2025-09-13 10:09:19.799947	2025-09-13 10:09:19.799947	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.
