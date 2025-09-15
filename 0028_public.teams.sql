@@ -3459,14 +3459,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25558, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25565, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1154, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1155, true);
 
 
 --
@@ -3480,14 +3480,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25730, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25732, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 627, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 628, true);
 
 
 --
@@ -3508,7 +3508,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2356, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63178, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63188, true);
 
 
 --
@@ -3585,7 +3585,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25552, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25559, true);
 
 
 --
@@ -3669,7 +3669,7 @@ SELECT pg_catalog.setval('public.series_participations_id_seq', 69358, true);
 -- Name: series_rounds_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.series_rounds_id_seq', 113, true);
+SELECT pg_catalog.setval('public.series_rounds_id_seq', 114, true);
 
 
 --
