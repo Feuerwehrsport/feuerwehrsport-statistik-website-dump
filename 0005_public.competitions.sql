@@ -2344,4 +2344,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2354	12.Tollensetalpokal	298	10	\N	2025-09-06	\N	2025-09-09 14:14:20.863956	2025-09-09 14:14:20.863956	\N	0	0	0	0	0	0	0	4	36	11	0	06.09.2025 - Altentreptow, Pokallauf (12.Tollensetalpokal)	f	f	f	f	2025
 2355	14. Ilmtalpokal 2025	209	26	\N	2025-09-06	\N	2025-09-09 14:18:49.071894	2025-09-09 14:18:49.071894	\N	0	0	0	0	0	0	0	8	83	26	0	06.09.2025 - Zottelstedt, Thüringer Feuerwehr-Cup (14. Ilmtalpokal 2025)	f	f	f	f	2025
 2356	Löschangriff Nass Klipphausen	677	10	\N	2025-09-06	\N	2025-09-10 08:43:47.657338	2025-09-10 08:43:47.657338	\N	0	0	0	0	0	0	0	0	0	0	0	06.09.2025 - Klipphausen, Pokallauf (Löschangriff Nass Klipphausen)	f	f	f	f	2025
+2357	Sächsischer Steigerup	17	20	4	2025-05-18	\N	2025-09-15 09:59:11.010355	2025-09-15 10:03:55.504511		53	65	0	0	0	0	0	0	0	17	62	18.05.2025 - Taura, Sächsischer Steigercup (Sächsischer Steigerup)	f	f	f	f	2025
 \.
