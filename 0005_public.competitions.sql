@@ -1351,7 +1351,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1352	11. Pokallauf	410	10	\N	2009-05-16	\N	2018-02-08 11:39:12.846932	2018-02-08 11:39:12.846932		0	0	0	0	0	0	0	4	36	17	0	16.05.2009 - Hordorf, Pokallauf (11. Pokallauf)	f	f	f	f	2009
 1353	10. Flutlichtwettkampf der Feuerwehren	314	10	\N	2011-10-07	\N	2018-02-12 11:31:36.061171	2018-02-16 11:54:36.091632		0	0	0	0	0	0	0	4	64	34	0	07.10.2011 - Wiepke, Pokallauf (10. Flutlichtwettkampf der Feuerwehren)	f	f	f	f	2011
 1354	36. Flämingpokallauf	232	10	\N	2017-06-10	\N	2018-02-13 11:52:31.046072	2018-02-13 11:52:31.046072		0	0	0	0	0	0	0	0	9	5	0	10.06.2017 - Reetz, Pokallauf (36. Flämingpokallauf)	f	f	f	f	2017
-1355	Schiefpokal	405	10	\N	2017-05-20	\N	2018-02-13 16:58:32.937236	2018-02-13 16:58:32.937236		0	0	0	0	0	0	0	0	52	19	0	20.05.2017 - Beckwitz, Pokallauf (Schiefpokal)	f	f	f	f	2017
+1355	Schiefpokal	405	10	\N	2017-05-20	\N	2018-02-13 16:58:32.937236	2018-02-13 16:58:32.937236		0	0	0	0	0	0	0	0	52	18	0	20.05.2017 - Beckwitz, Pokallauf (Schiefpokal)	f	f	f	f	2017
 1356	27. Brandtsheidepokallauf 	420	10	\N	2017-06-16	\N	2018-02-13 17:35:55.498387	2018-02-13 17:35:55.498387		0	0	0	0	0	0	0	2	17	13	0	16.06.2017 - Medewitz / Mark, Pokallauf (27. Brandtsheidepokallauf )	f	f	f	f	2017
 1357	Spritzenfest	345	10	\N	2014-09-27	\N	2018-02-14 15:39:28.185881	2018-02-14 15:39:28.185881		0	0	0	0	0	0	0	2	10	6	0	27.09.2014 - Hohengandern, Pokallauf (Spritzenfest)	f	f	f	f	2014
 1358	1. Nachtlauf	348	10	\N	2014-09-27	\N	2018-02-14 15:44:32.332588	2018-02-14 15:44:32.332588		0	0	0	0	0	0	0	2	22	12	0	27.09.2014 - Urbach, Pokallauf (1. Nachtlauf)	f	f	f	f	2014
@@ -1928,7 +1928,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 1931	1. Rackither TGL-Pokal	588	10	\N	2017-05-01	\N	2019-05-03 06:56:52.5405	2019-05-03 06:59:36.216816		0	0	0	0	0	0	0	0	10	5	0	01.05.2017 - Rackith, Pokallauf (1. Rackither TGL-Pokal)	f	f	f	f	2017
 1932	12. Floodlightcup	421	10	\N	2018-06-15	\N	2019-05-03 08:17:02.856015	2019-05-03 08:17:02.856015		0	0	0	0	0	0	0	4	22	13	0	15.06.2018 - Kemberg, Pokallauf (12. Floodlightcup)	f	f	f	f	2018
 1933	10. Floodlightcup	421	10	\N	2016-07-08	\N	2019-05-03 08:24:07.643684	2019-05-03 08:24:07.643684		0	0	0	0	0	0	0	2	28	15	0	08.07.2016 - Kemberg, Pokallauf (10. Floodlightcup)	f	f	f	f	2016
-1934	2. Lauf TGL-Cup	405	10	\N	2019-05-04	\N	2019-05-06 15:36:39.025354	2019-05-06 15:36:39.025354		0	0	0	0	0	0	0	2	64	19	0	04.05.2019 - Beckwitz, Pokallauf (2. Lauf TGL-Cup)	f	f	f	f	2019
+1934	2. Lauf TGL-Cup	405	10	\N	2019-05-04	\N	2019-05-06 15:36:39.025354	2019-05-06 15:36:39.025354		0	0	0	0	0	0	0	2	64	18	0	04.05.2019 - Beckwitz, Pokallauf (2. Lauf TGL-Cup)	f	f	f	f	2019
 1935	3. Rackither TGL-Pokal	588	10	\N	2019-04-27	\N	2019-05-09 11:37:00.04038	2019-05-09 11:39:30.70318		0	0	0	0	0	0	0	0	12	6	0	27.04.2019 - Rackith, Pokallauf (3. Rackither TGL-Pokal)	f	f	f	f	2019
 1936	1. MV-Hinderniscup	589	13	\N	2019-05-11	\N	2019-05-11 19:06:51.492284	2019-05-11 19:06:51.492284		0	0	8	22	0	0	0	0	0	12	15	11.05.2019 - Röbel/Müritz, MV-Cup (1. MV-Hinderniscup)	f	f	f	f	2019
 1937	Feuerwehrfest	170	10	\N	2019-05-11	\N	2019-05-12 19:35:06.918343	2019-05-12 19:35:06.918343		0	0	0	0	0	0	0	8	20	14	0	11.05.2019 - Vehra, Pokallauf (Feuerwehrfest)	f	f	f	f	2019

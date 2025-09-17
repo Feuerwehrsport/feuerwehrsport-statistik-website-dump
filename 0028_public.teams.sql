@@ -2576,7 +2576,6 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3061	Team Oberes Haselbachtal	Oberes Haselbachtal	0	51.2316843000	14.0495405000	\N	SN	2018-02-07 10:12:14.950213	2018-05-16 16:51:12.712254	2018-05-16 16:51:11	0	4	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [3408, "01.10.2016 - Bischofswerda, Pokallauf (24. Pokal des Oberbürgermeisters)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3062	FF Zschornewitz	Zschornewitz	1	51.7151177896	12.4030494690	\N	ST	2018-02-08 08:58:58.574809	2018-02-08 09:05:03.877774	2018-02-08 09:05:02	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [4153, "02.05.2009 - Garitz-Bornum, Pokallauf (Pokal des Bürgermeisters)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3063	FF Leitzkau	Leitzkau	1	52.0582959717	11.9527816772	\N	ST	2018-02-08 09:00:04.660605	2018-02-08 09:03:58.370949	2018-02-08 09:03:56	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": [8425, "02.05.2009 - Garitz-Bornum, Pokallauf (Pokal des Bürgermeisters)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3064	FF Beckwitz	Beckwitzer Gurken	0	51.4967321000	12.9937194000	\N	SN	2018-02-13 17:14:38.110871	2018-02-13 17:45:12.813439	2018-02-13 17:43:21	0	2	{"male": {"din": {"pb": [2744, "04.05.2019 - Beckwitz, Pokallauf (2. Lauf TGL-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3065	FF Sprotta	Sprotta	1	51.4880673000	12.7038800000	\N	SN	2018-02-13 17:16:10.536171	2018-02-13 17:46:51.709097	2018-02-13 17:46:49	0	23	{"male": {"din": {"pb": [2257, "06.08.2022 - Tryppehna, SAP (9. Lindenpokal & 4. Lauf TGL-CUP &  5. Lauf Sachsen-Anhalt Pokal)"], "sb": null}, "tgl": {"pb": [2247, "01.07.2023 - Zella, TGL-Cup (3. Lauf TGL-Cup)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3066	FF Holzthaleben	Holzthaleben	1	51.3423289000	10.5924794000	\N	TH	2018-02-14 15:45:33.070644	2018-02-14 15:46:29.125407	2018-02-14 15:46:26	0	13	{"male": {"din": {"pb": [2750, "19.06.2010 - Holzthaleben, Pokallauf (Feuerwehrfest)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3690, "21.08.2010 - Urbach, Pokallauf (Tag der Feuerwehr)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3067	Team Niedergebrand	Niedergebrand	0	51.4212624986	10.6024932861	\N	TH	2018-02-14 15:45:45.092145	2018-02-14 15:47:05.427696	2018-02-14 15:47:03	0	1	{"male": {"din": {"pb": [2367, "27.09.2014 - Urbach, Pokallauf (1. Nachtlauf)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3459,14 +3458,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25571, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25575, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1156, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1162, true);
 
 
 --
@@ -3480,14 +3479,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25758, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25763, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 628, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 629, true);
 
 
 --
@@ -3508,14 +3507,14 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2357, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63249, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63273, true);
 
 
 --
 -- Name: entity_merges_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.entity_merges_id_seq', 387, true);
+SELECT pg_catalog.setval('public.entity_merges_id_seq', 388, true);
 
 
 --
@@ -3557,14 +3556,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 87492, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 6366, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 6458, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 414, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 419, true);
 
 
 --
@@ -3585,7 +3584,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25565, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25569, true);
 
 
 --
@@ -3599,7 +3598,7 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4351, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4352, true);
 
 
 --
@@ -3690,7 +3689,7 @@ SELECT pg_catalog.setval('public.tags_id_seq', 1251, true);
 -- Name: team_spellings_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.team_spellings_id_seq', 296, true);
+SELECT pg_catalog.setval('public.team_spellings_id_seq', 297, true);
 
 
 --

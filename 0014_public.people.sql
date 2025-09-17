@@ -3356,4 +3356,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4349	Schneider	Phillip	1	1	2025-09-13 10:08:50.694264	2025-09-13 10:08:50.694264	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4350	Friede	Christoph 	1	1	2025-09-13 10:09:19.799947	2025-09-13 10:09:19.799947	0	0	2	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4351	Hempel	Mia	0	1	2025-09-15 09:59:20.351585	2025-09-15 09:59:20.351585	0	2	0	0	0	{"pb": {"hb": null, "hl": [1680, "18.05.2025 - Taura, Sächsischer Steigercup (Sächsischer Steigerup)"], "zk": null}, "sb": {"hb": null, "hl": [1680, "18.05.2025 - Taura, Sächsischer Steigercup (Sächsischer Steigerup)"], "zk": null}}	\N
+4352	Wille	Daniel	1	1	2025-09-16 12:34:33.299741	2025-09-16 12:34:33.299741	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.

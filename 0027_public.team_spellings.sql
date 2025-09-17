@@ -301,4 +301,5 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 294	4097	FF Börgerende/Rethwisch	Börgerende/Rethwisch	2025-07-29 06:40:32.507385	2025-07-29 06:40:32.507385
 295	4097	FF Ostseebad Börgerende/Rethwisch	Börgerende/Rethwisch	2025-07-29 06:41:06.352291	2025-07-29 06:41:06.352291
 296	329	FF Wilmersdorf-Stöbritz	Wilmersdorf-Stöbritz	2025-08-31 07:21:54.580351	2025-08-31 07:21:54.580351
+297	91	FF Beckwitz	Beckwitzer Gurken	2025-09-16 20:16:45.62627	2025-09-16 20:16:45.62627
 \.
