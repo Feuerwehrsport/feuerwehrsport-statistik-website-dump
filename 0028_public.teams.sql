@@ -3341,7 +3341,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 3992	FF Kuhsdorf	Kuhsdorf	1	\N	\N	\N		2024-11-24 19:56:09.813259	2024-11-24 19:56:09.813259	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3993	FF Neuhausen	Neuhausen	1	\N	\N	\N		2024-11-24 19:56:12.668986	2024-11-24 19:56:12.668986	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3994	FF Grütz	Grütz	1	\N	\N	\N		2024-11-24 20:01:12.945681	2024-11-24 20:01:12.945681	\N	0	2	{"male": {"din": {"pb": [3993, "02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-3995	FF Bensdorf	Bensdorf	1	\N	\N	\N	BB	2024-11-24 20:01:16.645688	2025-07-10 20:52:57.444185	\N	0	3	{"male": {"din": {"pb": [2513, "30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)"], "sb": [2513, "30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)"]}, "tgl": {"pb": [3810, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": [4070, "30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+3995	FF Bensdorf	Bensdorf	1	52.4101893199	12.3587144032	\N	BB	2024-11-24 20:01:16.645688	2025-09-21 16:23:59.202556	\N	0	3	{"male": {"din": {"pb": [2513, "30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)"], "sb": [2513, "30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)"]}, "tgl": {"pb": [3810, "14.09.2024 - Rhinow, Pokallauf (17. Otto-Lilienthal-Cup)"], "sb": [4070, "30.08.2025 - Rhinow, Pokallauf (18. Otto-Lilienthal-Cup| DIN | TGL |Team Havelland)"]}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3996	FF Bahnitz	Bahnitz	1	\N	\N	\N		2024-11-24 20:01:19.640968	2024-11-24 20:01:19.640968	\N	0	1	{"male": {"din": {"pb": [5416, "02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3997	FF Knoblauch	Knoblauch	1	\N	\N	\N		2024-11-24 20:01:22.871468	2024-11-24 20:01:22.871468	\N	0	1	{"male": {"din": {"pb": [7180, "02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 3998	FF Möthlitz	Möthlitz	1	\N	\N	\N		2024-11-24 20:01:25.508602	2024-11-24 20:01:25.508602	\N	0	1	{"male": {"din": {"pb": [99999999, "02.10.2024 - Nitzahn, Pokallauf (Nachtlauf der FF Nitzahn | DIN | TGL)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3458,14 +3458,14 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 25829, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 25856, true);
 
 
 --
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1162, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1165, true);
 
 
 --
@@ -3479,7 +3479,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 25763, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 25764, true);
 
 
 --
@@ -3507,7 +3507,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2357, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63527, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 63559, true);
 
 
 --
@@ -3556,14 +3556,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 87492, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 6458, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 6461, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 419, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 420, true);
 
 
 --
@@ -3584,7 +3584,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 25823, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 25850, true);
 
 
 --
