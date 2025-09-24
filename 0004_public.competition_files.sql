@@ -3090,4 +3090,18 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3101	2355	ergebnis-kreisausscheid-weimarer-land.pdf	la_male	2025-09-09 14:22:37.561276	2025-09-09 14:22:37.561276
 3102	2356	ergebnis-loschangriff-nass-wk1-ab-8-14-jahren.pdf		2025-09-10 08:42:25.178873	2025-09-10 08:46:07.311692
 3103	2356	ergebnis-loschangriff-nass-wk2-ab-14-18-jahren.pdf		2025-09-10 08:42:29.558594	2025-09-10 08:45:58.065369
+3104	2358	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-09-23 08:03:09.387764	2025-09-23 08:03:09.387764
+3105	2358	ergebnis-loschangriff-nass-landerlauf-manner.pdf	la_male	2025-09-23 08:03:16.758915	2025-09-23 08:03:16.758915
+3106	2358	ergebnis-loschangriff-nass-landerlauf-frauen.pdf	la_female	2025-09-23 08:03:21.29647	2025-09-23 08:03:21.29647
+3107	2358	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-09-23 08:03:25.558679	2025-09-23 08:03:25.558679
+3108	2358	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-09-23 08:03:30.141973	2025-09-23 08:03:30.141973
+3109	2359	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-09-23 14:50:50.944108	2025-09-23 14:50:50.944108
+3110	2359	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-09-23 14:50:55.422525	2025-09-23 14:50:55.422525
+3111	2359	gesamtwertung-zeiten-manner.pdf	la_male	2025-09-23 14:51:28.593638	2025-09-23 14:51:28.593638
+3112	2360	ergebnis-loschangriff-nass-jugend.pdf	la_male	2025-09-23 14:58:23.53119	2025-09-23 14:58:23.53119
+3113	2360	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-09-23 14:58:28.461018	2025-09-23 14:58:28.461018
+3114	2360	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-09-23 14:58:32.65245	2025-09-23 14:58:32.65245
+3115	2361	ergebnis-loschangriff-nass-din-frauen.pdf	la_female	2025-09-23 15:02:43.621553	2025-09-23 15:02:43.621553
+3116	2361	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-09-23 15:02:48.461715	2025-09-23 15:02:48.461715
+3117	2361	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-09-23 15:02:52.861751	2025-09-23 15:02:52.861751
 \.
