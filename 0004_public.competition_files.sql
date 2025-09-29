@@ -3131,4 +3131,28 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3142	2360	ergebnis-hl-manner-gaste.pdf		2025-09-25 15:25:26.104591	2025-09-25 15:25:26.104591
 3143	2360	ergebnis-hl-frauen-u-20-steigercup.pdf		2025-09-25 15:25:30.956448	2025-09-25 15:25:30.956448
 3144	2360	ergebnis-hl-frauen-u-20-gaste.pdf		2025-09-25 15:25:35.656444	2025-09-25 15:25:35.656444
+3145	2362	ergebnis-loschangriff-nass-jugend.pdf	la_female,la_male	2025-09-28 11:38:24.484542	2025-09-28 11:38:24.484542
+3146	2362	ergebnis-loschangriff-nass-kinder.pdf	la_female,la_male	2025-09-28 11:38:30.111081	2025-09-28 11:38:30.111081
+3147	2363	ergebnis-100m-hindernisbahn-manner-u15.pdf	hb_male	2025-09-28 11:39:49.249336	2025-09-28 11:39:49.249336
+3148	2363	ergebnis-hakenleitersteigen-manner-u15.pdf	hl_male	2025-09-28 11:39:56.246639	2025-09-28 11:39:56.246639
+3149	2363	ergebnis-100m-hindernisbahn-frauen-u15.pdf	hb_female	2025-09-28 11:40:01.001705	2025-09-28 11:40:01.001705
+3150	2363	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2025-09-28 11:40:07.089016	2025-09-28 11:40:07.089016
+3151	2363	ergebnis-hakenleitersteigen-frauen-u15.pdf	hl_female	2025-09-28 11:40:12.529912	2025-09-28 11:40:12.529912
+3152	2363	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2025-09-28 11:40:17.952078	2025-09-28 11:40:17.952078
+3153	2363	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-09-28 11:40:24.433723	2025-09-28 11:40:24.433723
+3154	2363	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-09-28 11:40:28.892348	2025-09-28 11:40:28.892348
+3155	2363	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-09-28 11:40:33.542183	2025-09-28 11:40:33.542183
+3156	2363	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-09-28 11:40:37.84024	2025-09-28 11:40:37.84024
+3157	2363	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-09-28 11:40:41.966372	2025-09-28 11:40:41.966372
+3158	2363	ergebnis-gruppenstafette-frauen.pdf	gs_female	2025-09-28 11:40:46.229835	2025-09-28 11:40:46.229835
+3159	2363	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2025-09-28 11:40:50.682907	2025-09-28 11:40:50.682907
+3160	2363	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-09-28 11:40:54.961675	2025-09-28 11:40:54.961675
+3161	2363	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-09-28 11:40:59.758208	2025-09-28 11:40:59.758208
+3162	2363	ergebnis-zweikampf-frauen.pdf	zk_female	2025-09-28 11:41:04.153693	2025-09-28 11:41:04.153693
+3163	2363	ergebnis-zweikampf-manner.pdf	zk_male	2025-09-28 11:41:08.33337	2025-09-28 11:41:08.33337
+3164	2363	ergebnis-zweikampf-manner-u20.pdf	zk_male	2025-09-28 11:41:12.766131	2025-09-28 11:41:12.766131
+3165	2363	ergebnis-zweikampf-manner-u15.pdf	zk_male	2025-09-28 11:41:17.71945	2025-09-28 11:41:17.71945
+3166	2363	ergebnis-zweikampf-frauen-u15.pdf	zk_female	2025-09-28 11:41:21.967007	2025-09-28 11:41:21.967007
+3167	2363	ergebnis-zweikampf-frauen-u20.pdf	zk_female	2025-09-28 11:41:26.781572	2025-09-28 11:41:26.781572
+3168	2363	gesamtwertung.pdf		2025-09-28 11:41:31.136828	2025-09-28 11:41:31.136828
 \.

@@ -2349,4 +2349,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2359	19. Nachtpokal Gräfendorf - Die große Löschnacht	141	10	\N	2025-09-20	\N	2025-09-23 14:48:33.975523	2025-09-23 14:48:33.975523	\N	0	0	0	0	0	0	0	2	27	29	0	20.09.2025 - Gräfendorf, Pokallauf (19. Nachtpokal Gräfendorf - Die große Löschnacht)	f	f	f	f	2025
 2360	4. Pokallauf Dannefeld	632	10	\N	2025-09-20	\N	2025-09-23 14:54:53.713607	2025-09-23 14:54:53.713607	\N	0	0	0	0	0	0	0	6	26	16	0	20.09.2025 - Dannefeld, Pokallauf (4. Pokallauf Dannefeld)	f	f	f	f	2025
 2361	7. Nachtaktivenpokal Hohengöhren	653	10	\N	2025-09-20	\N	2025-09-23 15:01:17.053573	2025-09-23 15:01:17.053573	\N	0	0	0	0	0	0	0	16	44	30	0	20.09.2025 - Hohengöhren , Pokallauf (7. Nachtaktivenpokal Hohengöhren)	f	f	f	f	2025
+2362	10. Jugend-Flutlichtpokal	607	10	\N	2025-09-27	\N	2025-09-28 11:38:13.409767	2025-09-28 11:38:13.409767	\N	0	0	0	0	0	0	0	0	0	0	0	27.09.2025 - Bargeshagen , Pokallauf (10. Jugend-Flutlichtpokal)	f	f	f	f	2025
+2363	2. Deutschland-Cup	1	35	2	2025-09-27	\N	2025-09-28 11:39:28.530315	2025-09-28 11:41:40.914367	\N	91	94	101	70	10	0	0	14	8	23	101	27.09.2025 - Charlottenthal, D-Cup (2. Deutschland-Cup)	f	f	f	f	2025
 \.
