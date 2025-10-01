@@ -2351,4 +2351,9 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2361	7. Nachtaktivenpokal Hohengöhren	653	10	\N	2025-09-20	\N	2025-09-23 15:01:17.053573	2025-09-23 15:01:17.053573	\N	0	0	0	0	0	0	0	16	44	30	0	20.09.2025 - Hohengöhren , Pokallauf (7. Nachtaktivenpokal Hohengöhren)	f	f	f	f	2025
 2362	10. Jugend-Flutlichtpokal	607	10	\N	2025-09-27	\N	2025-09-28 11:38:13.409767	2025-09-28 11:38:13.409767	\N	0	0	0	0	0	0	0	0	0	0	0	27.09.2025 - Bargeshagen , Pokallauf (10. Jugend-Flutlichtpokal)	f	f	f	f	2025
 2363	2. Deutschland-Cup	1	35	2	2025-09-27	\N	2025-09-28 11:39:28.530315	2025-09-28 11:41:40.914367	\N	91	94	101	70	10	0	0	14	8	23	101	27.09.2025 - Charlottenthal, D-Cup (2. Deutschland-Cup)	f	f	f	f	2025
+2364	5. Nachtpokal Cumlosen	679	10	\N	2025-09-27	\N	2025-09-30 09:39:31.160448	2025-09-30 09:39:31.160448	\N	0	0	0	0	0	0	0	4	14	9	0	27.09.2025 - Cumlosen, Pokallauf (5. Nachtpokal Cumlosen)	f	f	f	f	2025
+2365	Heedebockpokal Gruppenstafette	239	10	\N	2025-07-31	\N	2025-09-30 09:42:57.271322	2025-09-30 09:42:57.271322	\N	0	0	0	0	0	0	0	0	0	0	0	31.07.2025 - Torgau, Pokallauf (Heedebockpokal Gruppenstafette)	f	f	f	f	2025
+2366	Heedebockpokal Hakenleitersteigen	17	10	\N	2025-08-02	\N	2025-09-30 09:44:06.954919	2025-09-30 09:44:06.954919	\N	12	12	0	0	0	0	0	0	0	6	12	02.08.2025 - Taura, Pokallauf (Heedebockpokal Hakenleitersteigen)	f	f	f	f	2025
+2367	26. Herbstpokal der JFw	121	10	\N	2025-09-13	\N	2025-09-30 09:45:27.731168	2025-09-30 09:45:27.731168	\N	0	0	0	0	0	0	0	0	0	0	0	13.09.2025 - Gölsdorf, Pokallauf (26. Herbstpokal der JFw)	f	f	f	f	2025
+2368	3. Lauf Stadtpokal	661	10	\N	2025-09-13	\N	2025-09-30 09:46:50.576445	2025-09-30 09:46:50.576445	\N	0	0	0	0	0	0	0	0	0	0	0	13.09.2025 - Dornburg-Camburg, Pokallauf (3. Lauf Stadtpokal)	f	f	f	f	2025
 \.

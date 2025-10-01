@@ -3155,4 +3155,44 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3166	2363	ergebnis-zweikampf-frauen-u15.pdf	zk_female	2025-09-28 11:41:21.967007	2025-09-28 11:41:21.967007
 3167	2363	ergebnis-zweikampf-frauen-u20.pdf	zk_female	2025-09-28 11:41:26.781572	2025-09-28 11:41:26.781572
 3168	2363	gesamtwertung.pdf		2025-09-28 11:41:31.136828	2025-09-28 11:41:31.136828
+3169	2364	ergebnis-loschangriff-nass-frauen-din.pdf	la_female	2025-09-30 09:41:33.886828	2025-09-30 09:41:33.886828
+3170	2364	ergebnis-loschangriff-nass-manner-din.pdf	la_male	2025-09-30 09:41:38.279916	2025-09-30 09:41:38.279916
+3171	2364	ergebnis-loschangriff-nass-florian.pdf		2025-09-30 09:42:06.450155	2025-09-30 09:42:06.450155
+3172	2364	ergebnis-loschangriff-nass-ak2-madchen.pdf	la_female	2025-09-30 09:42:11.34185	2025-09-30 09:42:11.34185
+3173	2364	ergebnis-loschangriff-nass-ak1-madchen.pdf	la_female	2025-09-30 09:42:15.717067	2025-09-30 09:42:15.717067
+3174	2364	ergebnis-loschangriff-nass-jugend-ak2.pdf		2025-09-30 09:42:19.862988	2025-09-30 09:42:19.862988
+3175	2364	ergebnis-loschangriff-nass-jugend-ak1.pdf		2025-09-30 09:42:24.102921	2025-09-30 09:42:24.102921
+3176	2365	ergebnis-gruppenstafette-u15.pdf		2025-09-30 09:43:33.735349	2025-09-30 09:43:33.735349
+3177	2365	ergebnis-gruppenstafette-u20.pdf		2025-09-30 09:43:37.875023	2025-09-30 09:43:37.875023
+3178	2366	ergebnis-hakenleitersteigen-u10-jungen.pdf	hl_male	2025-09-30 09:44:13.259841	2025-09-30 09:44:13.259841
+3179	2366	ergebnis-hakenleitersteigen-u10-madchen.pdf	hl_female	2025-09-30 09:44:17.539282	2025-09-30 09:44:17.539282
+3180	2367	ergebnis-loschangriff-nass-jugend-mannlich.pdf	la_male	2025-09-30 09:45:41.873563	2025-09-30 09:45:41.873563
+3181	2367	ergebnis-loschangriff-nass-jugend-weiblich.pdf	la_female	2025-09-30 09:45:46.104523	2025-09-30 09:45:46.104523
+3182	2367	ergebnis-loschangriff-nass-kinder-mannlich.pdf	la_male	2025-09-30 09:45:50.166677	2025-09-30 09:45:50.166677
+3183	2367	ergebnis-loschangriff-nass-kinder-weiblich.pdf	la_female	2025-09-30 09:45:53.805183	2025-09-30 09:45:53.805183
+3184	2367	ergebnis-loschangriff-nass-krumel.pdf		2025-09-30 09:45:57.825203	2025-09-30 09:45:57.825203
+3185	2368	ergebnis-loschangriff-trocken-jugendfeuerwehr-wertungsgruppe-60-bis-83.pdf		2025-09-30 09:46:57.628125	2025-09-30 09:46:57.628125
+3186	2368	ergebnis-loschangriff-trocken-jugendfeuerwehr-wertungsgruppe-84-bis-112.pdf		2025-09-30 09:47:01.73469	2025-09-30 09:47:01.73469
+3187	2368	ergebnis-loschangriff-trocken-jugendfeuerwehr-madels-loschangriff-trocken-jugendfeuerwehr-madels.pdf		2025-09-30 09:47:05.936365	2025-09-30 09:47:05.936365
+3188	2368	ergebnis-100m-hindernisbahn-jugend-m-100m-bahn.pdf		2025-09-30 09:47:19.963616	2025-09-30 09:47:19.963616
+3189	2357	ergebnis-hl-frauen-gesamt.pdf		2025-09-30 09:48:53.661579	2025-09-30 09:48:53.661579
+3190	2364	ergebnis-hl-jungen-sachsen.pdf		2025-09-30 09:48:59.757552	2025-09-30 09:48:59.757552
+3191	2364	ergebnis-hl-frauen-u-20-gaste.pdf		2025-09-30 09:49:04.943163	2025-09-30 09:49:04.943163
+3192	2364	ergebnis-hl-frauen-u-20-steigercup.pdf		2025-09-30 09:49:09.480162	2025-09-30 09:49:09.480162
+3193	2364	ergebnis-hl-manner-gaste.pdf		2025-09-30 09:49:13.76393	2025-09-30 09:49:13.76393
+3194	2364	ergebnis-hl-manner-gesamt.pdf		2025-09-30 09:49:18.114589	2025-09-30 09:49:18.114589
+3195	2364	ergebnis-hl-manner-steigercup.pdf		2025-09-30 09:49:22.222537	2025-09-30 09:49:22.222537
+3196	2364	ergebnis-hl-madchen-u-10-gaste.pdf		2025-09-30 09:49:26.536024	2025-09-30 09:49:26.536024
+3197	2364	ergebnis-hl-manner-u-20-gesamt.pdf		2025-09-30 09:49:31.19902	2025-09-30 09:49:31.19902
+3198	2364	ergebnis-hl-frauen-gaste.pdf		2025-09-30 09:49:35.325406	2025-09-30 09:49:35.325406
+3199	2364	ergebnis-hl-madchen-u-15-steigercup.pdf		2025-09-30 09:49:39.206943	2025-09-30 09:49:39.206943
+3200	2364	ergebnis-hl-jungen-u-10-sachsen.pdf		2025-09-30 09:49:43.162515	2025-09-30 09:49:43.162515
+3201	2364	ergebnis-hl-jungen-u-15-gaste.pdf		2025-09-30 09:49:47.895842	2025-09-30 09:49:47.895842
+3202	2364	ergebnis-hl-jungen-u-10-gaste.pdf		2025-09-30 09:49:52.155308	2025-09-30 09:49:52.155308
+3203	2364	ergebnis-hl-jungen-u-15-gesamt.pdf		2025-09-30 09:49:56.657395	2025-09-30 09:49:56.657395
+3204	2364	ergebnis-hl-jungen-u-10-gesamt.pdf		2025-09-30 09:50:01.277491	2025-09-30 09:50:01.277491
+3205	2364	ergebnis-hl-madchen-u-10-gesamt.pdf		2025-09-30 09:50:05.903553	2025-09-30 09:50:05.903553
+3206	2364	ergebnis-hl-madchen-u-10-sachsen.pdf		2025-09-30 09:50:10.499943	2025-09-30 09:50:10.499943
+3207	2364	ergebnis-hl-madchen-u-15-gaste.pdf		2025-09-30 09:50:16.59061	2025-09-30 09:50:16.59061
+3208	2364	ergebnis-hl-jungen-u-15-steigercup.pdf		2025-09-30 09:50:21.609865	2025-09-30 09:50:21.609865
 \.
