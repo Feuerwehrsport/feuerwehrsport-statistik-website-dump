@@ -3195,4 +3195,23 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3206	2364	ergebnis-hl-madchen-u-10-sachsen.pdf		2025-09-30 09:50:10.499943	2025-09-30 09:50:10.499943
 3207	2364	ergebnis-hl-madchen-u-15-gaste.pdf		2025-09-30 09:50:16.59061	2025-09-30 09:50:16.59061
 3208	2364	ergebnis-hl-jungen-u-15-steigercup.pdf		2025-09-30 09:50:21.609865	2025-09-30 09:50:21.609865
+3209	2369	ergebnis-zweikampf-manner.pdf	zk_male	2025-10-03 14:27:29.155964	2025-10-03 14:27:29.155964
+3210	2369	ergebnis-zweikampf-frauen.pdf	zk_female	2025-10-03 14:27:38.660826	2025-10-03 14:27:38.660826
+3211	2369	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-10-03 14:27:43.014858	2025-10-03 14:27:43.014858
+3212	2369	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-10-03 14:27:47.182333	2025-10-03 14:27:47.182333
+3213	2369	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2025-10-03 14:27:51.041768	2025-10-03 14:27:51.041768
+3214	2369	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2025-10-03 14:27:55.534585	2025-10-03 14:27:55.534585
+3215	2369	ergebnis-hakenleitersteigen-manner-u15.pdf	hl_male	2025-10-03 14:27:59.653196	2025-10-03 14:27:59.653196
+3216	2369	ergebnis-4x100m-hindernisstaffel-frauen.pdf	fs_female	2025-10-03 14:28:04.361225	2025-10-03 14:28:04.361225
+3217	2369	ergebnis-100m-hindernisbahn-manner-u15.pdf	hb_male	2025-10-03 14:28:08.450257	2025-10-03 14:28:08.450257
+3218	2369	ergebnis-hakenleitersteigen-frauen-u15.pdf	hl_female	2025-10-03 14:28:12.855631	2025-10-03 14:28:12.855631
+3219	2369	ergebnis-hakenleitersteigen-manner-u20.pdf	hl_male	2025-10-03 14:28:17.634693	2025-10-03 14:28:17.634693
+3220	2369	ergebnis-4x100m-hindernisstaffel-manner.pdf	fs_male	2025-10-03 14:28:21.823467	2025-10-03 14:28:21.823467
+3221	2369	ergebnis-gruppenstafette-frauen.pdf	gs_female	2025-10-03 14:28:43.5212	2025-10-03 14:28:43.5212
+3222	2369	ergebnis-100m-hindernisbahn-frauen-u15.pdf	hb_female	2025-10-03 14:28:55.573369	2025-10-03 14:28:55.573369
+3223	2369	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2025-10-03 14:28:59.681971	2025-10-03 14:28:59.681971
+3224	2369	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2025-10-03 14:29:04.328388	2025-10-03 14:29:04.328388
+3225	2369	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-10-03 14:29:08.434236	2025-10-03 14:29:08.434236
+3226	2369	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-10-03 14:29:13.879177	2025-10-03 14:29:13.879177
+3227	2369	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-10-03 14:29:18.305958	2025-10-03 14:29:18.305958
 \.
