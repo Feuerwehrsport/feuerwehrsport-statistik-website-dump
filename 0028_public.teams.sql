@@ -1078,7 +1078,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 1253	FF Neuhardenberg	Neuhardenberg	1	52.5965971000	14.2383658000	\N	BB	2016-01-20 21:32:19.069967	2016-01-20 21:32:19.069967	2016-01-20 21:32:19.069967	0	3	{"male": {"din": {"pb": [3481, "05.10.2013 - Genschmar, Pokallauf (18. Oderpokal)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1254	FF Krimnitz	Krimnitz	1	51.8688315000	13.9186860000	\N	BB	2016-01-20 21:32:19.080693	2016-01-20 21:32:19.080693	2016-01-20 21:32:19.080693	0	23	{"male": {"din": {"pb": [2206, "13.06.2015 - Gehren, BB-Cup"], "sb": [2799, "29.08.2025 - Walddrehna, Pokallauf (9. Sommernachtslauf)"]}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [5257, "14.07.2007 - Ragow, Pokallauf"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1255	FF Wulkow b. Booßen	Wulkow b. Booßen	1	52.4029043000	14.4673222000	\N	BB	2016-01-20 21:32:19.083947	2016-01-20 21:32:19.083947	2016-01-20 21:32:19.083947	0	2	{"male": {"din": {"pb": [3935, "01.10.2016 - Genschmar, Pokallauf (7. Supercup & 20. Oderpokal)"], "sb": null}, "tgl": {"pb": [4909, "05.10.2013 - Genschmar, Pokallauf (18. Oderpokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-1260	FF Groß Lübbenau	Groß Lübbenau	1	51.8276091911	13.9797592163	\N	BB	2016-01-20 21:32:19.087373	2016-01-20 21:32:19.087373	2016-01-20 21:32:19.087373	8	78	{"male": {"din": {"pb": [2154, "27.05.2017 - Klein Radden, Extra-Liga (10. Spreewaldcup)"], "sb": [2196, "19.09.2025 - Doberlug-Kirchhain, Landesausscheid (16. LM der Feuerwehren des Landes Brandenburg)"]}, "tgl": {"pb": [2125, "09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)"], "sb": [2125, "09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)"]}}, "female": {"din": {"pb": [2470, "01.06.2019 - Gehren, BB-Cup (13, Waldstadionpokallauf und 2. Lauf BB-Cup)"], "sb": [2538, "19.09.2025 - Doberlug-Kirchhain, Landesausscheid (16. LM der Feuerwehren des Landes Brandenburg)"]}, "tgl": {"pb": [3028, "30.08.2025 - Libbenichen, 4BP (Brandenburger 4-Bahnenpokal)"], "sb": [3028, "30.08.2025 - Libbenichen, 4BP (Brandenburger 4-Bahnenpokal)"]}}}
+1260	FF Groß Lübbenau	Groß Lübbenau	1	51.8276091911	13.9797592163	Wappen_Luebbenau.png	BB	2016-01-20 21:32:19.087373	2025-10-05 19:30:37.11177	2016-01-20 21:32:19.087373	10	78	{"male": {"din": {"pb": [2154, "27.05.2017 - Klein Radden, Extra-Liga (10. Spreewaldcup)"], "sb": [2196, "19.09.2025 - Doberlug-Kirchhain, Landesausscheid (16. LM der Feuerwehren des Landes Brandenburg)"]}, "tgl": {"pb": [2125, "09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)"], "sb": [2125, "09.08.2025 - Schwanebeck, BB-Cup (27.Pokallauf der Feuerwehr / BB-Cup + 4BP)"]}}, "female": {"din": {"pb": [2470, "01.06.2019 - Gehren, BB-Cup (13, Waldstadionpokallauf und 2. Lauf BB-Cup)"], "sb": [2538, "19.09.2025 - Doberlug-Kirchhain, Landesausscheid (16. LM der Feuerwehren des Landes Brandenburg)"]}, "tgl": {"pb": [3028, "30.08.2025 - Libbenichen, 4BP (Brandenburger 4-Bahnenpokal)"], "sb": [3028, "30.08.2025 - Libbenichen, 4BP (Brandenburger 4-Bahnenpokal)"]}}}
 1261	FF Sella	Sella	1	51.3867313000	13.9836842000	\N	BB	2016-01-20 21:32:19.100446	2016-01-20 21:32:19.100446	2016-01-20 21:32:19.100446	0	9	{"male": {"din": {"pb": [2760, "01.08.2015 - Kittlitz, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3511, "01.08.2015 - Kittlitz, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1262	FF Lipten	Lipten	1	51.6471910000	13.9275993000	\N	BB	2016-01-20 21:32:19.104299	2016-01-20 21:32:19.104299	2016-01-20 21:32:19.104299	1	12	{"male": {"din": {"pb": [2987, "06.09.2014 - Gahlen, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3318, "16.07.2016 - Altdöbern, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 1263	FF Brieske	Brieske	1	51.5052310000	13.9730729000	\N	BB	2016-01-20 21:32:19.108779	2016-01-20 21:32:19.108779	2016-01-20 21:32:19.108779	0	15	{"male": {"din": {"pb": [2502, "10.08.2013 - Sedlitz, Pokallauf (3. Sedlitzer Nachtpokallauf)"], "sb": null}, "tgl": {"pb": [3966, "08.08.2015 - Lauta, Feuerwehr-Cup-Sachsen"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3490,7 +3490,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 26683, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1190, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1191, true);
 
 
 --
@@ -3504,14 +3504,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 199, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 26034, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 26055, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 632, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 633, true);
 
 
 --
@@ -3532,7 +3532,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2369, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65145, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65184, true);
 
 
 --
@@ -3623,14 +3623,14 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4381, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4382, true);
 
 
 --
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 23319, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 23339, true);
 
 
 --
