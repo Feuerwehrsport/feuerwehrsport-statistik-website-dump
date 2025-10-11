@@ -3214,4 +3214,10 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3225	2369	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2025-10-03 14:29:08.434236	2025-10-03 14:29:08.434236
 3226	2369	ergebnis-hakenleitersteigen-frauen-u20.pdf	hl_female	2025-10-03 14:29:13.879177	2025-10-03 14:29:13.879177
 3227	2369	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2025-10-03 14:29:18.305958	2025-10-03 14:29:18.305958
+3228	2370	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-10-10 18:59:52.786256	2025-10-10 18:59:52.786256
+3229	2370	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-10-10 18:59:56.972958	2025-10-10 18:59:56.972958
+3230	2371	ergebnis-loschangriff-nass-din-manner.pdf	la_male	2025-10-10 19:01:06.329317	2025-10-10 19:01:06.329317
+3231	2371	ergebnis-loschangriff-nass-tgl-manner.pdf	la_male	2025-10-10 19:01:10.907079	2025-10-10 19:01:10.907079
+3232	2373	ergebnis-loschangriff-nass-frauen.pdf	la_female	2025-10-10 19:07:07.646976	2025-10-10 19:07:07.646976
+3233	2373	ergebnis-loschangriff-nass-manner.pdf	la_male	2025-10-10 19:07:11.873621	2025-10-10 19:07:11.873621
 \.

@@ -2357,4 +2357,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2367	26. Herbstpokal der JFw	121	10	\N	2025-09-13	\N	2025-09-30 09:45:27.731168	2025-09-30 09:45:27.731168	\N	0	0	0	0	0	0	0	0	0	0	0	13.09.2025 - Gölsdorf, Pokallauf (26. Herbstpokal der JFw)	f	f	f	f	2025
 2368	3. Lauf Stadtpokal	661	10	\N	2025-09-13	\N	2025-09-30 09:46:50.576445	2025-09-30 09:46:50.576445	\N	0	0	0	0	0	0	0	0	0	0	0	13.09.2025 - Dornburg-Camburg, Pokallauf (3. Lauf Stadtpokal)	f	f	f	f	2025
 2369	16. LM der Feuerwehren des Landes Brandenburg	60	2	\N	2025-09-19	\N	2025-10-03 14:08:19.534934	2025-10-03 14:08:19.534934	\N	68	62	54	82	13	9	7	39	80	82	70	19.09.2025 - Doberlug-Kirchhain, Landesausscheid (16. LM der Feuerwehren des Landes Brandenburg)	f	f	f	f	2025
+2370	Gulaschpokal 3	680	10	\N	2025-09-27	\N	2025-10-10 18:58:59.580375	2025-10-10 18:58:59.580375	\N	0	0	0	0	0	0	0	2	12	7	0	27.09.2025 - Lübars, Pokallauf (Gulaschpokal 3)	f	f	f	f	2025
+2371	Nachtlauf	652	10	\N	2025-10-02	\N	2025-10-10 19:00:52.862971	2025-10-10 19:00:52.862971	\N	0	0	0	0	0	0	0	1	21	15	0	02.10.2025 - Nitzahn, Pokallauf (Nachtlauf)	f	f	f	f	2025
+2373	25. Flutlichtpokal	143	10	\N	2025-10-02	\N	2025-10-10 19:05:58.613902	2025-10-10 19:05:58.613902	\N	0	0	0	0	0	0	0	14	56	35	0	02.10.2025 - Merzdorf, Pokallauf (25. Flutlichtpokal)	f	f	f	f	2025
 \.
