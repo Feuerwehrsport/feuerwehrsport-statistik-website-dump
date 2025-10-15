@@ -2360,4 +2360,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2370	Gulaschpokal 3	680	10	\N	2025-09-27	\N	2025-10-10 18:58:59.580375	2025-10-10 18:58:59.580375	\N	0	0	0	0	0	0	0	2	12	7	0	27.09.2025 - Lübars, Pokallauf (Gulaschpokal 3)	f	f	f	f	2025
 2371	Nachtlauf	652	10	\N	2025-10-02	\N	2025-10-10 19:00:52.862971	2025-10-10 19:00:52.862971	\N	0	0	0	0	0	0	0	1	21	15	0	02.10.2025 - Nitzahn, Pokallauf (Nachtlauf)	f	f	f	f	2025
 2373	25. Flutlichtpokal	143	10	\N	2025-10-02	\N	2025-10-10 19:05:58.613902	2025-10-10 19:05:58.613902	\N	0	0	0	0	0	0	0	14	56	35	0	02.10.2025 - Merzdorf, Pokallauf (25. Flutlichtpokal)	f	f	f	f	2025
+2374	8.Herbstcup	619	10	\N	2025-10-11	\N	2025-10-14 08:09:00.79312	2025-10-14 08:09:00.79312	\N	0	0	0	0	0	0	0	10	62	36	0	11.10.2025 - Hohewisch, Pokallauf (8.Herbstcup)	f	f	f	f	2025
+2375	23. Flutlichtlöschangriff	314	10	\N	2025-10-10	\N	2025-10-14 08:25:01.795674	2025-10-14 08:25:01.795674	\N	0	0	0	0	0	0	0	8	72	40	0	10.10.2025 - Wiepke, Pokallauf (23. Flutlichtlöschangriff)	f	f	f	f	2025
 \.
