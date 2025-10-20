@@ -2364,4 +2364,6 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2375	23. Flutlichtlöschangriff	314	10	\N	2025-10-10	\N	2025-10-14 08:25:01.795674	2025-10-14 08:25:01.795674	\N	0	0	0	0	0	0	0	8	72	40	0	10.10.2025 - Wiepke, Pokallauf (23. Flutlichtlöschangriff)	f	f	f	f	2025
 2376	29.Oderpokal und 15.Supercup / 4-Bahnenpokal	142	32	\N	2025-10-04	\N	2025-10-15 14:46:06.769718	2025-10-15 14:46:06.769718	\N	0	0	0	0	0	0	0	28	83	20	0	04.10.2025 - Genschmar, 4BP (29.Oderpokal und 15.Supercup / 4-Bahnenpokal)	f	f	f	f	2025
 2377	Pokallauf unter Flutlicht	634	10	\N	2025-10-02	\N	2025-10-15 14:51:29.962544	2025-10-15 14:51:29.962544	\N	0	0	0	0	0	0	0	9	38	17	0	02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)	f	f	f	f	2025
+2378	Gemeindeausscheid der JF Kolkwitz 2025	456	10	\N	2025-06-14	\N	2025-10-19 17:00:06.205182	2025-10-19 17:00:06.205182	\N	0	0	0	0	0	0	0	0	0	0	0	14.06.2025 - Kolkwitz, Pokallauf (Gemeindeausscheid der JF Kolkwitz 2025)	f	f	f	f	2025
+2379	Leistungsvergleich JF SPN 2025	14	6	\N	2025-10-11	\N	2025-10-19 17:01:26.219197	2025-10-19 17:01:26.219197	\N	0	0	0	0	0	0	0	0	0	0	0	11.10.2025 - Cottbus, Kreisausscheid (Leistungsvergleich JF SPN 2025)	f	f	f	f	2025
 \.
