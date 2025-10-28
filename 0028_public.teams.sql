@@ -1797,7 +1797,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 2116	FF Hohen Gresse	Hohen Gresse	1	\N	\N	\N	MV	2016-01-20 21:32:24.643494	2018-09-20 13:02:06.504333	2018-09-20 13:01:53	0	1	{"male": {"din": {"pb": [2259, "14.08.2011 - Hamburg, Pokallauf (1. Hamburg-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2117	FF Schoppendorf	Schoppendorf	1	50.9259773676	11.2671661377	\N	TH	2016-01-20 21:32:24.645955	2016-01-20 21:32:24.645955	2016-01-20 21:32:24.645955	0	3	{"male": {"din": {"pb": [2828, "04.07.2015 - Bad Berka, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2118	FF Rittersdorf	Rittersdorf	1	50.8185168560	11.2345504761	\N	TH	2016-01-20 21:32:24.648595	2016-01-20 21:32:24.648595	2016-01-20 21:32:24.648595	0	7	{"male": {"din": {"pb": [4016, "04.07.2015 - Bad Berka, Kreisausscheid"], "sb": null}, "tgl": {"pb": [5348, "10.09.2010 - Erfurt-Waltersleben, Pokallauf (Nachtlauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-2119	FF Harzgerode	Harzgerode	1	51.6397546345	11.1408233643	\N	ST	2016-01-20 21:32:24.651264	2016-01-20 21:32:24.651264	2016-01-20 21:32:24.651264	0	55	{"male": {"din": {"pb": [2150, "14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)"], "sb": [2150, "14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)"]}, "tgl": {"pb": [2130, "23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)"], "sb": [2130, "23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)"]}}, "female": {"din": {"pb": [2607, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"], "sb": [2607, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"]}, "tgl": {"pb": [2577, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"], "sb": [2577, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"]}}}
+2119	FF Harzgerode	Harzgerode	1	51.6397546345	11.1408233643	\N	ST	2016-01-20 21:32:24.651264	2016-01-20 21:32:24.651264	2016-01-20 21:32:24.651264	1	55	{"male": {"din": {"pb": [2150, "14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)"], "sb": [2150, "14.06.2025 - Rübeland, TGL-Cup (TGL-Cup)"]}, "tgl": {"pb": [2130, "23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)"], "sb": [2130, "23.08.2025 - Beckwitz, TGL-Cup (TGL-Cup)"]}}, "female": {"din": {"pb": [2607, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"], "sb": [2607, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"]}, "tgl": {"pb": [2577, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"], "sb": [2577, "09.08.2025 - Tryppehna, TGL-Cup (Lindenpokal Tryppehna - SAP & TGL-Cup)"]}}}
 2120	FF Hedersleben	Hedersleben	1	51.8595315099	11.2482833862	\N	ST	2016-01-20 21:32:24.654009	2016-01-20 21:32:24.654009	2016-01-20 21:32:24.654009	7	10	{"male": {"din": {"pb": [2762, "23.06.2018 - Gröningen, Pokallauf (16. Pokallauf)"], "sb": null}, "tgl": {"pb": [4104, "13.06.2009 - Gröningen, Pokallauf (8. Pokallauf)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2121	FF Ermsleben	Ermsleben	1	51.7295799705	11.3433837891	\N	ST	2016-01-20 21:32:24.656697	2016-01-20 21:32:24.656697	2016-01-20 21:32:24.656697	0	5	{"male": {"din": {"pb": [5135, "09.10.2010 - Hedersleben, Kreisausscheid"], "sb": null}, "tgl": {"pb": [5790, "10.07.2010 - Elend, Pokallauf (2. Harzpokal)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 2122	FF Hausneindorf	Hausneindorf	1	51.8412929567	11.2678527832	\N	ST	2016-01-20 21:32:24.659222	2016-01-20 21:32:24.659222	2016-01-20 21:32:24.659222	0	1	{"male": {"din": {"pb": [5362, "09.10.2010 - Hedersleben, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3500,7 +3500,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 26683, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1204, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1205, true);
 
 
 --
@@ -3514,7 +3514,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 203, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 26146, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 26152, true);
 
 
 --
@@ -3542,7 +3542,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2379, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65435, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65447, true);
 
 
 --
@@ -3640,7 +3640,7 @@ SELECT pg_catalog.setval('public.people_id_seq', 4382, true);
 -- Name: person_participations_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.person_participations_id_seq', 23339, true);
+SELECT pg_catalog.setval('public.person_participations_id_seq', 23347, true);
 
 
 --
