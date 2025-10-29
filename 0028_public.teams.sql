@@ -3500,7 +3500,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 26683, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1205, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1206, true);
 
 
 --
