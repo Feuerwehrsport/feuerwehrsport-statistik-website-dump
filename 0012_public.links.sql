@@ -2718,4 +2718,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2787	Förderverein 	515	Team	https://fv-hohewisch.de/	2025-08-26 08:00:06.829094	2025-08-26 08:00:06.829094
 2788	Homepage der FF Gräfendorf/Werbig	3912	Team	http://www.feuerwehr-graefendorf.de	2025-08-30 12:24:58.684476	2025-08-30 12:24:58.684476
 2789	https://www.instagram.com/jfw_klipphausen/	233	Team	http://	2025-09-10 18:49:13.873667	2025-09-10 18:49:13.873667
+2790	Wettkampfbande Plate 	2789	Team	https://www.instagram.com/wettkampfbande_plate?igsh=ZWVpajg3aWQ5enNn	2026-01-25 02:35:23.56108	2026-01-25 02:35:23.56108
 \.

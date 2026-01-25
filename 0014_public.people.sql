@@ -3387,4 +3387,5 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4381	Bosset	Antonia	0	1	2025-10-03 14:24:58.356681	2025-10-03 14:24:58.356681	0	2	0	0	0	{"pb": {"hb": null, "hl": [1421, "19.09.2025 - Doberlug-Kirchhain, Landesausscheid (16. LM der Feuerwehren des Landes Brandenburg)"], "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4382	Teichert	Jens	1	1	2025-10-05 18:54:45.455284	2025-10-05 18:54:45.455284	0	0	6	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 4383	Scholz	Lenny-Jo	1	1	2026-01-08 09:17:35.57629	2026-01-08 09:17:35.57629	0	0	5	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4384	Lau	Julien	1	1	2026-01-24 20:49:38.644419	2026-01-24 20:49:38.644419	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
 \.

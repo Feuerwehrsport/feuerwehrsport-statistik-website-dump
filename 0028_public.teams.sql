@@ -3486,6 +3486,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4152	FF Haina	Haina	1	\N	\N	\N	\N	2025-10-15 14:51:54.636711	2025-10-15 14:51:54.636711	\N	0	1	{"male": {"din": {"pb": [3493, "02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)"], "sb": null}, "tgl": {"pb": [4713, "02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4153	FF Herda/Förtha	Herda/Förtha	1	\N	\N	\N	\N	2025-10-15 14:51:59.502984	2025-10-15 14:51:59.502984	\N	0	1	{"male": {"din": {"pb": [4879, "02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)"], "sb": null}, "tgl": {"pb": [3622, "02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)"], "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4154	FF Crock/Eisfeld	Crock/Eisfeld	1	\N	\N	\N	\N	2025-10-15 14:52:03.71795	2025-10-15 14:52:03.71795	\N	0	1	{"male": {"din": {"pb": [5697, "02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+4155	FF Groß Kordshagen	FF GKF	1	51.0000000000	13.0000000000	\N	MV	2026-01-24 20:44:32.656515	2026-01-24 20:47:02.388314	\N	0	0	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 \.
 
 
@@ -3500,7 +3501,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 26793, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1215, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1217, true);
 
 
 --
@@ -3514,14 +3515,14 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 203, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 26212, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 26220, true);
 
 
 --
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 634, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 636, true);
 
 
 --
@@ -3542,7 +3543,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2379, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65653, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65667, true);
 
 
 --
@@ -3605,7 +3606,7 @@ SELECT pg_catalog.setval('public.import_requests_id_seq', 449, true);
 -- Name: links_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.links_id_seq', 2789, true);
+SELECT pg_catalog.setval('public.links_id_seq', 2790, true);
 
 
 --
@@ -3633,7 +3634,7 @@ SELECT pg_catalog.setval('public.nations_id_seq', 11, true);
 -- Name: people_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.people_id_seq', 4383, true);
+SELECT pg_catalog.setval('public.people_id_seq', 4384, true);
 
 
 --
@@ -3731,4 +3732,4 @@ SELECT pg_catalog.setval('public.team_spellings_id_seq', 297, true);
 -- Name: teams_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.teams_id_seq', 4154, true);
+SELECT pg_catalog.setval('public.teams_id_seq', 4155, true);
