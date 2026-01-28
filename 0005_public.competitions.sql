@@ -2366,4 +2366,5 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2377	Pokallauf unter Flutlicht	634	10	\N	2025-10-02	\N	2025-10-15 14:51:29.962544	2025-10-15 14:51:29.962544	\N	0	0	0	0	0	0	0	9	38	17	0	02.10.2025 - Eisfeld, Pokallauf (Pokallauf unter Flutlicht)	f	f	f	f	2025
 2378	Gemeindeausscheid der JF Kolkwitz 2025	456	10	\N	2025-06-14	\N	2025-10-19 17:00:06.205182	2025-10-19 17:00:06.205182	\N	0	0	0	0	0	0	0	0	0	0	0	14.06.2025 - Kolkwitz, Pokallauf (Gemeindeausscheid der JF Kolkwitz 2025)	f	f	f	f	2025
 2379	Leistungsvergleich JF SPN 2025	14	6	\N	2025-10-11	\N	2025-10-19 17:01:26.219197	2025-10-19 17:01:26.219197	\N	0	0	0	0	0	0	0	0	0	0	0	11.10.2025 - Cottbus, Kreisausscheid (Leistungsvergleich JF SPN 2025)	f	f	f	f	2025
+2380	Neujahrssteigen 2026	3	29	\N	2026-01-24	\N	2026-01-27 09:35:35.732527	2026-01-27 09:35:35.732527	\N	9	43	0	0	0	0	0	0	0	9	17	24.01.2026 - Tribsees, Neujahrssteigen (Neujahrssteigen 2026)	f	f	f	f	2026
 \.

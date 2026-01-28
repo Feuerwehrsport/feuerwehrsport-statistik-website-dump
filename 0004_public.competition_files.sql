@@ -3254,4 +3254,12 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3265	2379	ergebnis-gruppenstafette-ak1w-10-14j.pdf		2025-10-19 17:02:13.696813	2025-10-19 17:02:13.696813
 3266	2379	ergebnis-feuerstafette-5x80m-ak1m-10-14j.pdf		2025-10-19 17:02:18.213365	2025-10-19 17:02:18.213365
 3267	2379	gesamtwertung.pdf		2025-10-19 17:02:22.386619	2025-10-19 17:02:22.386619
+3268	2380	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2026-01-27 09:38:32.129754	2026-01-27 09:38:32.129754
+3269	2380	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2026-01-27 09:38:37.098137	2026-01-27 09:38:37.098137
+3270	2380	ergebnis-hakenleitersteigen-madchen-ak2.pdf	hl_female	2026-01-27 09:38:41.514892	2026-01-27 09:38:41.514892
+3271	2380	ergebnis-hakenleitersteigen-jungen-ak2.pdf	hl_male	2026-01-27 09:38:45.766509	2026-01-27 09:38:45.766509
+3272	2380	ergebnis-hakenleitersteigen-madchen-ak1-u12.pdf	hl_female	2026-01-27 09:38:50.142012	2026-01-27 09:38:50.142012
+3273	2380	ergebnis-hakenleitersteigen-jungen-ak1-u12.pdf	hl_male	2026-01-27 09:38:54.816999	2026-01-27 09:38:54.816999
+3274	2380	ergebnis-hakenleitersteigen-jungen-ak1-u15.pdf	hl_male	2026-01-27 09:38:59.122537	2026-01-27 09:38:59.122537
+3275	2380	ergebnis-hakenleitersteigen-madchen-ak1-u15.pdf	hl_female	2026-01-27 09:39:03.461593	2026-01-27 09:39:03.461593
 \.
