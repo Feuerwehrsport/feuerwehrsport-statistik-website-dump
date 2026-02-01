@@ -3465,7 +3465,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 4131	FF Urstromtal	Urstromtal	1	\N	\N	\N	\N	2025-09-23 14:50:03.570334	2025-09-23 14:50:03.570334	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4132	FF Trebbin Zug	Trebbin Zug	1	\N	\N	\N	\N	2025-09-23 14:50:06.590054	2025-09-23 14:50:06.590054	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4133	FF Groß Schwarzlosen	Groß Schwarzlosen	1	\N	\N	\N	\N	2025-09-23 15:01:32.868099	2025-09-23 15:01:32.868099	\N	0	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-4134	Wettkampfgruppe Gardelegen	Wettkampfgruppe Gardelegen	0	\N	\N	\N	ST	2025-09-23 15:02:19.068857	2026-01-30 20:25:21.773639	\N	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
+4134	Wettkampfgruppe Gardelegen	Wettkampfgruppe Gardelegen	0	\N	\N	IMG-20240827-WA0023.jpg	ST	2025-09-23 15:02:19.068857	2026-01-31 15:11:43.707357	\N	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4135	FF Krüssau	Krüssau	1	\N	\N	\N	\N	2025-09-23 15:02:22.854378	2025-09-23 15:02:22.854378	\N	0	2	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4136	SDH Slantiny	Slantiny	1	\N	\N	\N	\N	2025-09-28 11:42:11.338243	2025-09-28 11:42:11.338243	\N	7	1	{"male": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3458, "27.09.2025 - Charlottenthal, D-Cup (2. Deutschland-Cup)"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 4137	FF Berlin-Lichtenberg	Berlin-Lichtenberg	1	\N	\N	\N		2025-09-29 12:00:00.817234	2025-09-29 12:00:00.817234	\N	0	1	{"male": {"din": {"pb": [2809, "30.07.2025 - Torgau, DM (Deutsche Meisterschaft)"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3494,7 +3494,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 -- Name: admin_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.admin_users_id_seq', 26795, true);
+SELECT pg_catalog.setval('public.admin_users_id_seq', 26796, true);
 
 
 --
@@ -3515,7 +3515,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 203, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 26244, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 26247, true);
 
 
 --
@@ -3543,7 +3543,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2380, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65723, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65726, true);
 
 
 --
@@ -3620,7 +3620,7 @@ SELECT pg_catalog.setval('public.m3_assets_id_seq', 14, true);
 -- Name: m3_logins_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.m3_logins_id_seq', 26789, true);
+SELECT pg_catalog.setval('public.m3_logins_id_seq', 26790, true);
 
 
 --
