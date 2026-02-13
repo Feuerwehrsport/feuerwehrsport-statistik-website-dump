@@ -2,10 +2,10 @@
 -- PostgreSQL database dump
 --
 
-\restrict muxqvw3ddyvNw7qhtcdEGaZxNebe4NYcfaPRtG53ldbo8uFgxlns9TFHwDCvgKU
+\restrict QnKnbbq5Y0vLNIqvmynBD8uEWea4Y9LkMs6hJf1pt9jkomgmwJGbh16QfLcAJmC
 
--- Dumped from database version 15.15 (Debian 15.15-0+deb12u1)
--- Dumped by pg_dump version 15.15 (Debian 15.15-0+deb12u1)
+-- Dumped from database version 15.16 (Debian 15.16-0+deb12u1)
+-- Dumped by pg_dump version 15.16 (Debian 15.16-0+deb12u1)
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
