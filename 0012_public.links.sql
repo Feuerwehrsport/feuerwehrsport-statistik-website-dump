@@ -2719,4 +2719,5 @@ COPY public.links (id, label, linkable_id, linkable_type, url, created_at, updat
 2788	Homepage der FF Gräfendorf/Werbig	3912	Team	http://www.feuerwehr-graefendorf.de	2025-08-30 12:24:58.684476	2025-08-30 12:24:58.684476
 2789	https://www.instagram.com/jfw_klipphausen/	233	Team	http://	2025-09-10 18:49:13.873667	2025-09-10 18:49:13.873667
 2790	Wettkampfbande Plate 	2789	Team	https://www.instagram.com/wettkampfbande_plate?igsh=ZWVpajg3aWQ5enNn	2026-01-25 02:35:23.56108	2026-01-25 02:35:23.56108
+2791	Feuerwehrsport Schwanheide	502	Team	https://www.instagram.com/feuerwehrsport_schwanheide?igsh=aWsyeTliYXNhNHRt&utm_source=qr	2026-02-17 05:58:36.149971	2026-02-17 05:58:36.149971
 \.
