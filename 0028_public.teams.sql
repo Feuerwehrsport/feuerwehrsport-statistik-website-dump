@@ -461,7 +461,7 @@ COPY public.teams (id, name, shortcut, status, latitude, longitude, image, state
 498	FF Dabel	Dabel	1	53.6667000000	11.9000000000	\N	MV	2016-01-20 21:32:13.682632	2016-01-20 21:32:13.682632	2016-01-20 21:32:13.682632	0	26	{"male": {"din": {"pb": [3368, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 499	FF Techentin	Techentin	1	53.3054929797	11.4912700653	\N	MV	2016-01-20 21:32:13.685175	2018-06-12 07:29:42.588142	2016-01-20 21:32:13.685175	10	93	{"male": {"din": {"pb": [2306, "26.05.2018 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": [2912, "21.08.2021 - Kummer, Pokallauf (Mühlenpokal)"], "sb": null}}, "female": {"din": {"pb": [9649, "16.05.2009 - Kummer, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 501	FF Schwinkendorf	Schwinkendorf	1	53.6414425000	12.6836768000	\N	MV	2016-01-20 21:32:13.692712	2016-01-20 21:32:13.692712	2016-01-20 21:32:13.692712	0	5	{"male": {"din": {"pb": [3923, "25.04.2009 - Ventschow, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
-502	FF Schwanheide	Schwanheide	1	53.4301718000	10.6892177000	\N	MV	2016-01-20 21:32:13.695623	2016-01-20 21:32:13.695623	2016-01-20 21:32:13.695623	0	72	{"male": {"din": {"pb": [2330, "29.04.2012 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3417, "29.04.2012 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
+502	FF Schwanheide	Schwanheide	1	53.4301718000	10.6892177000	IMG_6812.jpeg	MV	2016-01-20 21:32:13.695623	2026-02-24 13:55:04.745046	2016-01-20 21:32:13.695623	0	72	{"male": {"din": {"pb": [2330, "29.04.2012 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": [3417, "29.04.2012 - Hohen Viecheln, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}}
 503	FF Gothmann	Gothmann	1	53.3584432000	10.7423106000	\N	MV	2016-01-20 21:32:13.699103	2016-01-20 21:32:13.699103	2016-01-20 21:32:13.699103	0	8	{"male": {"din": {"pb": [2605, "03.07.2010 - Groß Plasten, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 504	FF Dolgen	Dolgen	1	53.4188940000	13.7229221000	\N	MV	2016-01-20 21:32:13.70235	2016-01-20 21:32:13.70235	2016-01-20 21:32:13.70235	0	6	{"male": {"din": {"pb": [2245, "26.06.2010 - Wesenberg, Kreisausscheid"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
 505	FF Jesendorf	Jesendorf	1	53.8038589000	11.5992328000	\N	MV	2016-01-20 21:32:13.712365	2016-01-20 21:32:13.712365	2016-01-20 21:32:13.712365	0	11	{"male": {"din": {"pb": [3077, "22.08.2009 - Tribsees, MV-Cup"], "sb": null}, "tgl": {"pb": null, "sb": null}}, "female": {"din": {"pb": null, "sb": null}, "tgl": {"pb": null, "sb": null}}}
@@ -3515,7 +3515,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 203, true);
 -- Name: change_logs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_logs_id_seq', 26256, true);
+SELECT pg_catalog.setval('public.change_logs_id_seq', 26258, true);
 
 
 --
@@ -3543,7 +3543,7 @@ SELECT pg_catalog.setval('public.competitions_id_seq', 2380, true);
 -- Name: delayed_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65742, true);
+SELECT pg_catalog.setval('public.delayed_jobs_id_seq', 65744, true);
 
 
 --
