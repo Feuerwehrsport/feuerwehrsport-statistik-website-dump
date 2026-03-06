@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict FxQ6gX1gqnzZBalcbUZ7IXEGnXHrsCUSUpmGRVMMqgT2Qps1IEv0tLQkIvL1MpH
+\restrict BVoJJfYN3RzTp7DQ45ClOvu9znjrjtptAF53PobggO3rcw3ZekhazmgmI16gXd0
 
 -- Dumped from database version 15.16 (Debian 15.16-0+deb12u1)
 -- Dumped by pg_dump version 15.16 (Debian 15.16-0+deb12u1)
@@ -1340,7 +1340,9 @@ CREATE TABLE public.series_rounds (
     updated_at timestamp without time zone NOT NULL,
     official boolean DEFAULT false NOT NULL,
     full_cup_count integer DEFAULT 4 NOT NULL,
-    kind_id bigint
+    kind_id bigint,
+    team_assessments_config_jsonb jsonb DEFAULT '[]'::jsonb,
+    person_assessments_config_jsonb jsonb DEFAULT '[]'::jsonb
 );
 
 
