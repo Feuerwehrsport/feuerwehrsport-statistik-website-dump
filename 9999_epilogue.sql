@@ -217,14 +217,6 @@ ALTER TABLE ONLY public.scores
 
 
 --
--- Name: series_assessments series_assessments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.series_assessments
-    ADD CONSTRAINT series_assessments_pkey PRIMARY KEY (id);
-
-
---
 -- Name: series_cups series_cups_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -241,11 +233,19 @@ ALTER TABLE ONLY public.series_kinds
 
 
 --
--- Name: series_participations series_participations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+-- Name: series_person_assessments series_person_assessments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-ALTER TABLE ONLY public.series_participations
-    ADD CONSTRAINT series_participations_pkey PRIMARY KEY (id);
+ALTER TABLE ONLY public.series_person_assessments
+    ADD CONSTRAINT series_person_assessments_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_person_participations series_person_participations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_person_participations
+    ADD CONSTRAINT series_person_participations_pkey PRIMARY KEY (id);
 
 
 --
@@ -254,6 +254,22 @@ ALTER TABLE ONLY public.series_participations
 
 ALTER TABLE ONLY public.series_rounds
     ADD CONSTRAINT series_rounds_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_team_assessments series_team_assessments_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_assessments
+    ADD CONSTRAINT series_team_assessments_pkey PRIMARY KEY (id);
+
+
+--
+-- Name: series_team_participations series_team_participations_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_participations
+    ADD CONSTRAINT series_team_participations_pkey PRIMARY KEY (id);
 
 
 --
@@ -657,10 +673,101 @@ CREATE UNIQUE INDEX index_series_kinds_on_slug ON public.series_kinds USING btre
 
 
 --
+-- Name: index_series_person_assessments_on_discipline; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_person_assessments_on_discipline ON public.series_person_assessments USING btree (discipline);
+
+
+--
+-- Name: index_series_person_assessments_on_key; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_person_assessments_on_key ON public.series_person_assessments USING btree (key);
+
+
+--
+-- Name: index_series_person_assessments_on_round_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_person_assessments_on_round_id ON public.series_person_assessments USING btree (round_id);
+
+
+--
+-- Name: index_series_person_participations_on_cup_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_person_participations_on_cup_id ON public.series_person_participations USING btree (cup_id);
+
+
+--
+-- Name: index_series_person_participations_on_person_assessment_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_person_participations_on_person_assessment_id ON public.series_person_participations USING btree (person_assessment_id);
+
+
+--
+-- Name: index_series_person_participations_on_person_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_person_participations_on_person_id ON public.series_person_participations USING btree (person_id);
+
+
+--
 -- Name: index_series_rounds_on_kind_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 CREATE INDEX index_series_rounds_on_kind_id ON public.series_rounds USING btree (kind_id);
+
+
+--
+-- Name: index_series_team_assessments_on_discipline; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_assessments_on_discipline ON public.series_team_assessments USING btree (discipline);
+
+
+--
+-- Name: index_series_team_assessments_on_key; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_assessments_on_key ON public.series_team_assessments USING btree (key);
+
+
+--
+-- Name: index_series_team_assessments_on_round_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_assessments_on_round_id ON public.series_team_assessments USING btree (round_id);
+
+
+--
+-- Name: index_series_team_participations_on_cup_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_participations_on_cup_id ON public.series_team_participations USING btree (cup_id);
+
+
+--
+-- Name: index_series_team_participations_on_team_assessment_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_participations_on_team_assessment_id ON public.series_team_participations USING btree (team_assessment_id);
+
+
+--
+-- Name: index_series_team_participations_on_team_id; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_participations_on_team_id ON public.series_team_participations USING btree (team_id);
+
+
+--
+-- Name: index_series_team_participations_on_team_number; Type: INDEX; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE INDEX index_series_team_participations_on_team_number ON public.series_team_participations USING btree (team_number);
 
 
 --
@@ -891,27 +998,19 @@ ALTER TABLE ONLY public.team_spellings
 
 
 --
--- Name: series_participations fk_rails_10e3de7ab6; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.series_participations
-    ADD CONSTRAINT fk_rails_10e3de7ab6 FOREIGN KEY (team_id) REFERENCES public.teams(id);
-
-
---
--- Name: series_participations fk_rails_15526a74ba; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.series_participations
-    ADD CONSTRAINT fk_rails_15526a74ba FOREIGN KEY (cup_id) REFERENCES public.series_cups(id);
-
-
---
 -- Name: scores fk_rails_17052afd34; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.scores
     ADD CONSTRAINT fk_rails_17052afd34 FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
+-- Name: series_person_participations fk_rails_1914343401; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_person_participations
+    ADD CONSTRAINT fk_rails_1914343401 FOREIGN KEY (person_id) REFERENCES public.people(id);
 
 
 --
@@ -939,11 +1038,11 @@ ALTER TABLE ONLY public.admin_users
 
 
 --
--- Name: series_assessments fk_rails_2fdd48a6eb; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+-- Name: series_person_participations fk_rails_317a639550; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-ALTER TABLE ONLY public.series_assessments
-    ADD CONSTRAINT fk_rails_2fdd48a6eb FOREIGN KEY (round_id) REFERENCES public.series_rounds(id);
+ALTER TABLE ONLY public.series_person_participations
+    ADD CONSTRAINT fk_rails_317a639550 FOREIGN KEY (cup_id) REFERENCES public.series_cups(id);
 
 
 --
@@ -987,11 +1086,27 @@ ALTER TABLE ONLY public.change_requests
 
 
 --
+-- Name: series_team_participations fk_rails_4c3c8b229e; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_participations
+    ADD CONSTRAINT fk_rails_4c3c8b229e FOREIGN KEY (team_id) REFERENCES public.teams(id);
+
+
+--
 -- Name: solid_queue_blocked_executions fk_rails_4cd34e2228; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.solid_queue_blocked_executions
     ADD CONSTRAINT fk_rails_4cd34e2228 FOREIGN KEY (job_id) REFERENCES public.solid_queue_jobs(id) ON DELETE CASCADE;
+
+
+--
+-- Name: series_team_participations fk_rails_53cc6debcc; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_participations
+    ADD CONSTRAINT fk_rails_53cc6debcc FOREIGN KEY (cup_id) REFERENCES public.series_cups(id);
 
 
 --
@@ -1075,11 +1190,35 @@ ALTER TABLE ONLY public.group_score_categories
 
 
 --
+-- Name: series_team_participations fk_rails_a89f618238; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_participations
+    ADD CONSTRAINT fk_rails_a89f618238 FOREIGN KEY (team_assessment_id) REFERENCES public.series_team_assessments(id);
+
+
+--
 -- Name: person_spellings fk_rails_a9dc923e30; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
 ALTER TABLE ONLY public.person_spellings
     ADD CONSTRAINT fk_rails_a9dc923e30 FOREIGN KEY (person_id) REFERENCES public.people(id);
+
+
+--
+-- Name: series_person_participations fk_rails_b1bd31a8dc; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_person_participations
+    ADD CONSTRAINT fk_rails_b1bd31a8dc FOREIGN KEY (person_assessment_id) REFERENCES public.series_person_assessments(id);
+
+
+--
+-- Name: series_person_assessments fk_rails_b4efda4528; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_person_assessments
+    ADD CONSTRAINT fk_rails_b4efda4528 FOREIGN KEY (round_id) REFERENCES public.series_rounds(id);
 
 
 --
@@ -1115,6 +1254,14 @@ ALTER TABLE ONLY public.solid_queue_scheduled_executions
 
 
 --
+-- Name: series_team_assessments fk_rails_cc55c86aa7; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_assessments
+    ADD CONSTRAINT fk_rails_cc55c86aa7 FOREIGN KEY (round_id) REFERENCES public.series_rounds(id);
+
+
+--
 -- Name: change_requests fk_rails_d283e0df68; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1136,14 +1283,6 @@ ALTER TABLE ONLY public.change_logs
 
 ALTER TABLE ONLY public.competitions
     ADD CONSTRAINT fk_rails_deb9c05685 FOREIGN KEY (place_id) REFERENCES public.places(id);
-
-
---
--- Name: series_participations fk_rails_e0f7fe67d8; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.series_participations
-    ADD CONSTRAINT fk_rails_e0f7fe67d8 FOREIGN KEY (assessment_id) REFERENCES public.series_assessments(id);
 
 
 --
@@ -1179,14 +1318,6 @@ ALTER TABLE ONLY public.import_request_files
 
 
 --
--- Name: series_participations fk_rails_fb34e7583c; Type: FK CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.series_participations
-    ADD CONSTRAINT fk_rails_fb34e7583c FOREIGN KEY (person_id) REFERENCES public.people(id);
-
-
---
 -- Name: SCHEMA public; Type: ACL; Schema: -; Owner: postgres
 --
 
@@ -1198,5 +1329,5 @@ GRANT ALL ON SCHEMA public TO PUBLIC;
 -- PostgreSQL database dump complete
 --
 
-\unrestrict 8ci1rwnFhxxydOTKdxfb0HxnVpxvV7WlJUuEAy961RqDTtUpenK9C69uzkdT5vX
+\unrestrict AESl7YfGhhXnatnZDdOKpgkdOVBhvm7fxknrWPMQV6ShnbvcpctZQvRCM2oxq49
 

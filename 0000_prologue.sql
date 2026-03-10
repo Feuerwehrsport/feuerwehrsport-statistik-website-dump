@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict 8ci1rwnFhxxydOTKdxfb0HxnVpxvV7WlJUuEAy961RqDTtUpenK9C69uzkdT5vX
+\restrict AESl7YfGhhXnatnZDdOKpgkdOVBhvm7fxknrWPMQV6ShnbvcpctZQvRCM2oxq49
 
 -- Dumped from database version 15.16 (Debian 15.16-0+deb12u1)
 -- Dumped by pg_dump version 15.16 (Debian 15.16-0+deb12u1)
@@ -1175,45 +1175,6 @@ ALTER SEQUENCE public.scores_id_seq OWNED BY public.scores.id;
 
 
 --
--- Name: series_assessments; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.series_assessments (
-    id integer NOT NULL,
-    round_id integer NOT NULL,
-    discipline character varying(3) NOT NULL,
-    name character varying(200),
-    type character varying(200) NOT NULL,
-    gender integer NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
-);
-
-
-ALTER TABLE public.series_assessments OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: series_assessments_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.series_assessments_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.series_assessments_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: series_assessments_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.series_assessments_id_seq OWNED BY public.series_assessments.id;
-
-
---
 -- Name: series_cups; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -1286,32 +1247,27 @@ ALTER SEQUENCE public.series_kinds_id_seq OWNED BY public.series_kinds.id;
 
 
 --
--- Name: series_participations; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+-- Name: series_person_assessments; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-CREATE TABLE public.series_participations (
+CREATE TABLE public.series_person_assessments (
     id integer NOT NULL,
-    assessment_id integer NOT NULL,
-    cup_id integer NOT NULL,
-    type character varying NOT NULL,
-    team_id integer,
-    team_number integer,
-    person_id integer,
-    "time" integer NOT NULL,
-    points integer DEFAULT 0 NOT NULL,
-    rank integer NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
+    round_id integer NOT NULL,
+    discipline character varying(3) NOT NULL,
+    key character varying NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
 );
 
 
-ALTER TABLE public.series_participations OWNER TO "feuerwehrsport-statistik";
+ALTER TABLE public.series_person_assessments OWNER TO "feuerwehrsport-statistik";
 
 --
--- Name: series_participations_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+-- Name: series_person_assessments_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-CREATE SEQUENCE public.series_participations_id_seq
+CREATE SEQUENCE public.series_person_assessments_id_seq
+    AS integer
     START WITH 1
     INCREMENT BY 1
     NO MINVALUE
@@ -1319,13 +1275,54 @@ CREATE SEQUENCE public.series_participations_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.series_participations_id_seq OWNER TO "feuerwehrsport-statistik";
+ALTER TABLE public.series_person_assessments_id_seq OWNER TO "feuerwehrsport-statistik";
 
 --
--- Name: series_participations_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+-- Name: series_person_assessments_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-ALTER SEQUENCE public.series_participations_id_seq OWNED BY public.series_participations.id;
+ALTER SEQUENCE public.series_person_assessments_id_seq OWNED BY public.series_person_assessments.id;
+
+
+--
+-- Name: series_person_participations; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.series_person_participations (
+    id integer NOT NULL,
+    person_assessment_id integer NOT NULL,
+    cup_id integer NOT NULL,
+    person_id integer NOT NULL,
+    "time" integer NOT NULL,
+    points integer DEFAULT 0 NOT NULL,
+    rank integer NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.series_person_participations OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_person_participations_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.series_person_participations_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.series_person_participations_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_person_participations_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.series_person_participations_id_seq OWNED BY public.series_person_participations.id;
 
 
 --
@@ -1367,6 +1364,87 @@ ALTER TABLE public.series_rounds_id_seq OWNER TO "feuerwehrsport-statistik";
 --
 
 ALTER SEQUENCE public.series_rounds_id_seq OWNED BY public.series_rounds.id;
+
+
+--
+-- Name: series_team_assessments; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.series_team_assessments (
+    id integer NOT NULL,
+    round_id integer NOT NULL,
+    discipline character varying(3) NOT NULL,
+    key character varying NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.series_team_assessments OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_team_assessments_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.series_team_assessments_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.series_team_assessments_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_team_assessments_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.series_team_assessments_id_seq OWNED BY public.series_team_assessments.id;
+
+
+--
+-- Name: series_team_participations; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE TABLE public.series_team_participations (
+    id integer NOT NULL,
+    team_assessment_id integer NOT NULL,
+    cup_id integer NOT NULL,
+    team_id integer NOT NULL,
+    team_number integer NOT NULL,
+    team_gender integer NOT NULL,
+    "time" integer NOT NULL,
+    points integer DEFAULT 0 NOT NULL,
+    rank integer NOT NULL,
+    created_at timestamp(6) without time zone NOT NULL,
+    updated_at timestamp(6) without time zone NOT NULL
+);
+
+
+ALTER TABLE public.series_team_participations OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_team_participations_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+CREATE SEQUENCE public.series_team_participations_id_seq
+    AS integer
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.series_team_participations_id_seq OWNER TO "feuerwehrsport-statistik";
+
+--
+-- Name: series_team_participations_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER SEQUENCE public.series_team_participations_id_seq OWNED BY public.series_team_participations.id;
 
 
 --
@@ -2147,13 +2225,6 @@ ALTER TABLE ONLY public.scores ALTER COLUMN id SET DEFAULT nextval('public.score
 
 
 --
--- Name: series_assessments id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.series_assessments ALTER COLUMN id SET DEFAULT nextval('public.series_assessments_id_seq'::regclass);
-
-
---
 -- Name: series_cups id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -2168,10 +2239,17 @@ ALTER TABLE ONLY public.series_kinds ALTER COLUMN id SET DEFAULT nextval('public
 
 
 --
--- Name: series_participations id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+-- Name: series_person_assessments id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-ALTER TABLE ONLY public.series_participations ALTER COLUMN id SET DEFAULT nextval('public.series_participations_id_seq'::regclass);
+ALTER TABLE ONLY public.series_person_assessments ALTER COLUMN id SET DEFAULT nextval('public.series_person_assessments_id_seq'::regclass);
+
+
+--
+-- Name: series_person_participations id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_person_participations ALTER COLUMN id SET DEFAULT nextval('public.series_person_participations_id_seq'::regclass);
 
 
 --
@@ -2179,6 +2257,20 @@ ALTER TABLE ONLY public.series_participations ALTER COLUMN id SET DEFAULT nextva
 --
 
 ALTER TABLE ONLY public.series_rounds ALTER COLUMN id SET DEFAULT nextval('public.series_rounds_id_seq'::regclass);
+
+
+--
+-- Name: series_team_assessments id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_assessments ALTER COLUMN id SET DEFAULT nextval('public.series_team_assessments_id_seq'::regclass);
+
+
+--
+-- Name: series_team_participations id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
+--
+
+ALTER TABLE ONLY public.series_team_participations ALTER COLUMN id SET DEFAULT nextval('public.series_team_participations_id_seq'::regclass);
 
 
 --
