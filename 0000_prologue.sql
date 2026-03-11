@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict AESl7YfGhhXnatnZDdOKpgkdOVBhvm7fxknrWPMQV6ShnbvcpctZQvRCM2oxq49
+\restrict MIjkZOKwbqb50RzwJOL0I4l4iHfyrwGhsQ1ctH03aOp1gjFvy3PKe068eDJwUwr
 
 -- Dumped from database version 15.16 (Debian 15.16-0+deb12u1)
 -- Dumped by pg_dump version 15.16 (Debian 15.16-0+deb12u1)
@@ -1332,7 +1332,6 @@ ALTER SEQUENCE public.series_person_participations_id_seq OWNED BY public.series
 CREATE TABLE public.series_rounds (
     id integer NOT NULL,
     year integer NOT NULL,
-    aggregate_type character varying NOT NULL,
     created_at timestamp without time zone NOT NULL,
     updated_at timestamp without time zone NOT NULL,
     official boolean DEFAULT false NOT NULL,
