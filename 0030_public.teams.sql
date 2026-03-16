@@ -3732,21 +3732,21 @@ SELECT pg_catalog.setval('public.solid_queue_blocked_executions_id_seq', 1, fals
 -- Name: solid_queue_claimed_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_claimed_executions_id_seq', 1876, true);
+SELECT pg_catalog.setval('public.solid_queue_claimed_executions_id_seq', 2019, true);
 
 
 --
 -- Name: solid_queue_failed_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_failed_executions_id_seq', 1034, true);
+SELECT pg_catalog.setval('public.solid_queue_failed_executions_id_seq', 1105, true);
 
 
 --
 -- Name: solid_queue_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_jobs_id_seq', 1876, true);
+SELECT pg_catalog.setval('public.solid_queue_jobs_id_seq', 2019, true);
 
 
 --
@@ -3760,28 +3760,28 @@ SELECT pg_catalog.setval('public.solid_queue_pauses_id_seq', 1, false);
 -- Name: solid_queue_processes_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_processes_id_seq', 60, true);
+SELECT pg_catalog.setval('public.solid_queue_processes_id_seq', 64, true);
 
 
 --
 -- Name: solid_queue_ready_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_ready_executions_id_seq', 1876, true);
+SELECT pg_catalog.setval('public.solid_queue_ready_executions_id_seq', 2019, true);
 
 
 --
 -- Name: solid_queue_recurring_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_recurring_executions_id_seq', 1535, true);
+SELECT pg_catalog.setval('public.solid_queue_recurring_executions_id_seq', 1678, true);
 
 
 --
 -- Name: solid_queue_recurring_tasks_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_recurring_tasks_id_seq', 45, true);
+SELECT pg_catalog.setval('public.solid_queue_recurring_tasks_id_seq', 48, true);
 
 
 --
