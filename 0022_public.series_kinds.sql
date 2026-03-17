@@ -16,5 +16,5 @@ COPY public.series_kinds (id, name, slug, created_at, updated_at) FROM stdin;
 11	BB-Cup	bb-cup	2023-03-12 22:50:51.022399	2023-03-12 22:50:51.022399
 12	MV-Hinderniscup	mv-hinderniscup	2023-03-12 22:50:51.042793	2023-03-12 22:50:51.042793
 13	MV-Steigercup	mv-steigercup	2023-03-12 22:50:51.0462	2023-03-12 22:50:51.0462
-14	Sachen-Anhalt Pokal	sachsen-anhalt-pokal	2024-05-16 08:57:40.231737	2024-05-16 08:57:40.231737
+14	Sachsen-Anhalt Pokal	sachsen-anhalt-pokal	2024-05-16 08:57:40.231737	2026-03-16 19:59:58.890212
 \.
