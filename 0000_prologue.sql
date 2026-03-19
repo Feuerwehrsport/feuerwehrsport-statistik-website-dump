@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict raAEK0qj049jzIscPIswdKp846teG107JZZGbAMx4w45XkDFN0PZvePOcSuFaVL
+\restrict cncanpaTLoHT6AzAp2YcMlPIed38HAVErlMa58TFoPX6PKbKgGgnshoGIP6vf9h
 
 -- Dumped from database version 15.16 (Debian 15.16-0+deb12u1)
 -- Dumped by pg_dump version 15.16 (Debian 15.16-0+deb12u1)
@@ -1297,7 +1297,9 @@ CREATE TABLE public.series_person_participations (
     points integer DEFAULT 0 NOT NULL,
     rank integer NOT NULL,
     created_at timestamp(6) without time zone NOT NULL,
-    updated_at timestamp(6) without time zone NOT NULL
+    updated_at timestamp(6) without time zone NOT NULL,
+    points_correction integer,
+    points_correction_hint character varying(200)
 );
 
 
@@ -1418,7 +1420,9 @@ CREATE TABLE public.series_team_participations (
     points integer DEFAULT 0 NOT NULL,
     rank integer NOT NULL,
     created_at timestamp(6) without time zone NOT NULL,
-    updated_at timestamp(6) without time zone NOT NULL
+    updated_at timestamp(6) without time zone NOT NULL,
+    points_correction integer,
+    points_correction_hint character varying(200)
 );
 
 
