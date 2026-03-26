@@ -3393,4 +3393,9 @@ COPY public.people (id, last_name, first_name, gender, nation_id, created_at, up
 4387	Kühlberg	Hans	1	1	2026-01-27 09:38:09.376795	2026-01-27 09:38:09.376795	0	3	0	0	0	{"pb": {"hb": null, "hl": [1265, "24.01.2026 - Tribsees, Neujahrssteigen (Neujahrssteigen 2026)"], "zk": null}, "sb": {"hb": null, "hl": [1265, "24.01.2026 - Tribsees, Neujahrssteigen (Neujahrssteigen 2026)"], "zk": null}}	\N
 4388	Greta	Kühlberg	0	1	2026-01-27 09:38:26.629708	2026-01-27 09:38:26.629708	0	3	0	0	0	{"pb": {"hb": null, "hl": [1090, "24.01.2026 - Tribsees, Neujahrssteigen (Neujahrssteigen 2026)"], "zk": null}, "sb": {"hb": null, "hl": [1090, "24.01.2026 - Tribsees, Neujahrssteigen (Neujahrssteigen 2026)"], "zk": null}}	\N
 4389	Köchel	Finja	0	1	2026-02-19 06:51:25.896581	2026-02-19 06:51:25.896581	0	0	0	0	0	{"pb": {"hb": null, "hl": null, "zk": null}, "sb": {"hb": null, "hl": null, "zk": null}}	\N
+4390	Balzer	Jonas	1	1	2026-03-25 20:21:48.37181	2026-03-25 20:21:48.37181	0	0	0	0	0	{}	\N
+4391	Walpuski	Felix	1	1	2026-03-25 20:22:10.592957	2026-03-25 20:22:10.592957	0	0	0	0	0	{}	\N
+4392	Anspach	Marvin	1	1	2026-03-25 20:23:27.743239	2026-03-25 20:23:27.743239	0	0	0	0	0	{}	\N
+4393	Nasdal	Rico	1	1	2026-03-25 20:25:57.835099	2026-03-25 20:25:57.835099	0	0	0	0	0	{}	\N
+4394	Kullick	Benjamin	1	1	2026-03-25 20:26:54.340559	2026-03-25 20:26:54.340559	0	0	0	0	0	{}	\N
 \.
