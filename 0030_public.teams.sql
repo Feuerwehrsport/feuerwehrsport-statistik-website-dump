@@ -3501,7 +3501,7 @@ SELECT pg_catalog.setval('public.admin_users_id_seq', 26848, true);
 -- Name: api_users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.api_users_id_seq', 1227, true);
+SELECT pg_catalog.setval('public.api_users_id_seq', 1228, true);
 
 
 --
@@ -3585,14 +3585,14 @@ SELECT pg_catalog.setval('public.group_scores_id_seq', 88559, true);
 -- Name: import_request_files_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_request_files_id_seq', 6691, true);
+SELECT pg_catalog.setval('public.import_request_files_id_seq', 6705, true);
 
 
 --
 -- Name: import_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.import_requests_id_seq', 452, true);
+SELECT pg_catalog.setval('public.import_requests_id_seq', 453, true);
 
 
 --
@@ -3732,21 +3732,21 @@ SELECT pg_catalog.setval('public.solid_queue_blocked_executions_id_seq', 58, tru
 -- Name: solid_queue_claimed_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_claimed_executions_id_seq', 4054, true);
+SELECT pg_catalog.setval('public.solid_queue_claimed_executions_id_seq', 4202, true);
 
 
 --
 -- Name: solid_queue_failed_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_failed_executions_id_seq', 2192, true);
+SELECT pg_catalog.setval('public.solid_queue_failed_executions_id_seq', 2266, true);
 
 
 --
 -- Name: solid_queue_jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_jobs_id_seq', 4054, true);
+SELECT pg_catalog.setval('public.solid_queue_jobs_id_seq', 4202, true);
 
 
 --
@@ -3767,14 +3767,14 @@ SELECT pg_catalog.setval('public.solid_queue_processes_id_seq', 68, true);
 -- Name: solid_queue_ready_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_ready_executions_id_seq', 4054, true);
+SELECT pg_catalog.setval('public.solid_queue_ready_executions_id_seq', 4202, true);
 
 
 --
 -- Name: solid_queue_recurring_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_recurring_executions_id_seq', 3557, true);
+SELECT pg_catalog.setval('public.solid_queue_recurring_executions_id_seq', 3702, true);
 
 
 --
@@ -3788,14 +3788,14 @@ SELECT pg_catalog.setval('public.solid_queue_recurring_tasks_id_seq', 51, true);
 -- Name: solid_queue_scheduled_executions_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_scheduled_executions_id_seq', 426, true);
+SELECT pg_catalog.setval('public.solid_queue_scheduled_executions_id_seq', 428, true);
 
 
 --
 -- Name: solid_queue_semaphores_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.solid_queue_semaphores_id_seq', 13, true);
+SELECT pg_catalog.setval('public.solid_queue_semaphores_id_seq', 14, true);
 
 
 --
