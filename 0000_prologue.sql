@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict TMHYbmSn5MrLmxyK8BM6vGpzwOLfUbgkT7pYzfmQ6iq3IAiwPcIPrCl0IeWZavW
+\restrict feuerwehrsportstatstik123
 
 -- Dumped from database version 15.16 (Debian 15.16-0+deb12u1)
 -- Dumped by pg_dump version 15.16 (Debian 15.16-0+deb12u1)

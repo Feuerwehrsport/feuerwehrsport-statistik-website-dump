@@ -1329,5 +1329,5 @@ GRANT ALL ON SCHEMA public TO PUBLIC;
 -- PostgreSQL database dump complete
 --
 
-\unrestrict TMHYbmSn5MrLmxyK8BM6vGpzwOLfUbgkT7pYzfmQ6iq3IAiwPcIPrCl0IeWZavW
+\unrestrict feuerwehrsportstatstik123
 
