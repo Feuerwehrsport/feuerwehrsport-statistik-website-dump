@@ -1885,43 +1885,6 @@ ALTER SEQUENCE public.solid_queue_semaphores_id_seq OWNED BY public.solid_queue_
 
 
 --
--- Name: tags; Type: TABLE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE TABLE public.tags (
-    id integer NOT NULL,
-    taggable_id integer NOT NULL,
-    taggable_type character varying NOT NULL,
-    name character varying NOT NULL,
-    created_at timestamp without time zone NOT NULL,
-    updated_at timestamp without time zone NOT NULL
-);
-
-
-ALTER TABLE public.tags OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: tags_id_seq; Type: SEQUENCE; Schema: public; Owner: feuerwehrsport-statistik
---
-
-CREATE SEQUENCE public.tags_id_seq
-    START WITH 1
-    INCREMENT BY 1
-    NO MINVALUE
-    NO MAXVALUE
-    CACHE 1;
-
-
-ALTER TABLE public.tags_id_seq OWNER TO "feuerwehrsport-statistik";
-
---
--- Name: tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER SEQUENCE public.tags_id_seq OWNED BY public.tags.id;
-
-
---
 -- Name: team_competitions; Type: VIEW; Schema: public; Owner: feuerwehrsport-statistik
 --
 
@@ -2358,13 +2321,6 @@ ALTER TABLE ONLY public.solid_queue_scheduled_executions ALTER COLUMN id SET DEF
 --
 
 ALTER TABLE ONLY public.solid_queue_semaphores ALTER COLUMN id SET DEFAULT nextval('public.solid_queue_semaphores_id_seq'::regclass);
-
-
---
--- Name: tags id; Type: DEFAULT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.tags ALTER COLUMN id SET DEFAULT nextval('public.tags_id_seq'::regclass);
 
 
 --

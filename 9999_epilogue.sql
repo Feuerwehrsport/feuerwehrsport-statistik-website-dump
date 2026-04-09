@@ -369,14 +369,6 @@ ALTER TABLE ONLY public.solid_queue_semaphores
 
 
 --
--- Name: tags tags_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
---
-
-ALTER TABLE ONLY public.tags
-    ADD CONSTRAINT tags_pkey PRIMARY KEY (id);
-
-
---
 -- Name: team_spellings team_spellings_pkey; Type: CONSTRAINT; Schema: public; Owner: feuerwehrsport-statistik
 --
 
