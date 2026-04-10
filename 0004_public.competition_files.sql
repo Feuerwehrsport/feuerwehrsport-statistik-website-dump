@@ -3262,4 +3262,24 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3273	2380	ergebnis-hakenleitersteigen-jungen-ak1-u12.pdf	hl_male	2026-01-27 09:38:54.816999	2026-01-27 09:38:54.816999
 3274	2380	ergebnis-hakenleitersteigen-jungen-ak1-u15.pdf	hl_male	2026-01-27 09:38:59.122537	2026-01-27 09:38:59.122537
 3275	2380	ergebnis-hakenleitersteigen-madchen-ak1-u15.pdf	hl_female	2026-01-27 09:39:03.461593	2026-01-27 09:39:03.461593
+3276	2381	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2026-04-09 21:10:51.157369	2026-04-09 21:10:51.157369
+3277	2381	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2026-04-09 21:10:54.922095	2026-04-09 21:10:54.922095
+3278	2381	ergebnis-100m-hindernisbahn-jugend.pdf	hb_female,hb_male	2026-04-09 21:11:00.649007	2026-04-09 21:11:00.649007
+3279	2382	ergebnis-hakenleitersteigen-jugend.pdf	hl_female,hl_male	2026-04-09 21:22:16.537206	2026-04-09 21:22:16.537206
+3280	2382	ergebnis-hakenleitersteigen-frauen.pdf	hl_female	2026-04-09 21:22:24.363175	2026-04-09 21:22:24.363175
+3281	2382	ergebnis-hakenleitersteigen-manner.pdf	hl_male	2026-04-09 21:22:28.296633	2026-04-09 21:22:28.296633
+3282	2383	ergebnis-100m-hindernisbahn-u15-madchen.pdf	hb_female	2026-04-09 21:35:08.528588	2026-04-09 21:35:08.528588
+3283	2383	ergebnis-100m-hindernisbahn-u15-jungen.pdf	hb_male	2026-04-09 21:35:11.424086	2026-04-09 21:35:11.424086
+3284	2383	ergebnis-100m-hindernisbahn-u18-madchen.pdf	hb_female	2026-04-09 21:35:14.8709	2026-04-09 21:35:14.8709
+3285	2383	ergebnis-100m-hindernisbahn-u18-jungen.pdf	hb_male	2026-04-09 21:35:18.0074	2026-04-09 21:35:18.0074
+3286	2383	ergebnis-100m-hindernisbahn-u20-frauen.pdf	hb_female	2026-04-09 21:35:21.218264	2026-04-09 21:35:21.218264
+3287	2383	ergebnis-100m-hindernisbahn-u20-manner.pdf	hb_male	2026-04-09 21:35:24.141606	2026-04-09 21:35:24.141606
+3288	2383	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2026-04-09 21:35:27.676805	2026-04-09 21:35:27.676805
+3289	2383	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2026-04-09 21:35:30.531498	2026-04-09 21:35:30.531498
+3290	2383	ergebnis-100m-hindernisbahn-frauen-finale.pdf	hb_female	2026-04-09 21:35:35.35339	2026-04-09 21:35:35.35339
+3291	2383	ergebnis-100m-hindernisbahn-manner-finale.pdf	hb_male	2026-04-09 21:35:37.980938	2026-04-09 21:35:37.980938
+3292	2383	ergebnis-100m-hindernisbahn-u10-jungen.pdf	hb_male	2026-04-09 21:35:41.569376	2026-04-09 21:35:41.569376
+3293	2383	ergebnis-100m-hindernisbahn-u10-madchen.pdf	hb_female	2026-04-09 21:35:44.181362	2026-04-09 21:35:44.181362
+3294	2383	ergebnis-gruppenstafette-frauen.pdf	gs_female	2026-04-09 21:35:48.66115	2026-04-09 21:35:48.66115
+3295	2383	ergebnis-gruppenstafette-mixed-gruppenstafette.pdf		2026-04-09 21:35:51.209076	2026-04-09 21:35:51.209076
 \.

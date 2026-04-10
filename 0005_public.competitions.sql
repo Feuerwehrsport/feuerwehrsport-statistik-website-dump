@@ -2367,4 +2367,7 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2378	Gemeindeausscheid der JF Kolkwitz 2025	456	10	\N	2025-06-14	\N	2025-10-19 17:00:06.205182	2025-10-19 17:00:06.205182	\N	0	0	0	0	0	0	0	0	0	0	0	14.06.2025 - Kolkwitz, Pokallauf (Gemeindeausscheid der JF Kolkwitz 2025)	f	f	f	f	2025
 2379	Leistungsvergleich JF SPN 2025	14	6	\N	2025-10-11	\N	2025-10-19 17:01:26.219197	2025-10-19 17:01:26.219197	\N	0	0	0	0	0	0	0	0	0	0	0	11.10.2025 - Cottbus, Kreisausscheid (Leistungsvergleich JF SPN 2025)	f	f	f	f	2025
 2380	Neujahrssteigen 2026	3	29	\N	2026-01-24	\N	2026-01-27 09:35:35.732527	2026-01-27 09:35:35.732527	\N	9	43	0	0	0	0	0	0	0	9	17	24.01.2026 - Tribsees, Neujahrssteigen (Neujahrssteigen 2026)	f	f	f	f	2026
+2381	1. MV-Hinderniscup	367	4	\N	2026-03-25	\N	2026-04-09 21:05:16.282904	2026-04-09 21:05:16.282904	\N	0	0	0	0	0	0	0	0	0	0	0	25.03.2026 - Rostock, Hallenpokal (1. MV-Hinderniscup)	f	f	f	f	2026
+2382	4. Adventssteigen	617	10	\N	2025-12-07	\N	2026-04-09 21:19:35.418446	2026-04-09 21:19:35.418446	\N	0	0	0	0	0	0	0	0	0	0	0	07.12.2025 - Beselin, Pokallauf (4. Adventssteigen)	f	f	f	f	2025
+2383	HALLENpokal	9	4	\N	2026-03-14	\N	2026-04-09 21:28:25.880154	2026-04-09 21:28:25.880154	\N	0	0	0	0	0	0	0	0	0	0	0	14.03.2026 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f	2026
 \.
