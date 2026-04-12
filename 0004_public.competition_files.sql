@@ -3282,4 +3282,57 @@ COPY public.competition_files (id, competition_id, file, keys_string, created_at
 3293	2383	ergebnis-100m-hindernisbahn-u10-madchen.pdf	hb_female	2026-04-09 21:35:44.181362	2026-04-09 21:35:44.181362
 3294	2383	ergebnis-gruppenstafette-frauen.pdf	gs_female	2026-04-09 21:35:48.66115	2026-04-09 21:35:48.66115
 3295	2383	ergebnis-gruppenstafette-mixed-gruppenstafette.pdf		2026-04-09 21:35:51.209076	2026-04-09 21:35:51.209076
+3296	2384	ergebnis-hl-frauen-gaste.pdf	hl_female	2026-04-11 20:13:11.885713	2026-04-11 20:13:11.885713
+3297	2384	ergebnis-hl-frauen-u-20-gesamt.pdf	hl_female	2026-04-11 20:13:17.327334	2026-04-11 20:13:17.327334
+3298	2384	ergebnis-hl-jungen-u-15-gaste.pdf	hl_male	2026-04-11 20:13:21.889498	2026-04-11 20:13:21.889498
+3299	2384	ergebnis-hl-jungen-gesamt.pdf	hl_male	2026-04-11 20:13:25.864063	2026-04-11 20:13:25.864063
+3300	2384	ergebnis-hl-jungen-u-15-gesamt.pdf	hl_male	2026-04-11 20:13:30.018811	2026-04-11 20:13:30.018811
+3301	2384	ergebnis-hl-madchen-u-10-sachsen.pdf	hl_female	2026-04-11 20:13:33.888636	2026-04-11 20:13:33.888636
+3302	2384	ergebnis-hl-madchen-u-10-gaste.pdf	hl_female	2026-04-11 20:13:37.823064	2026-04-11 20:13:37.823064
+3303	2384	ergebnis-hl-manner-u-20-gast.pdf	hl_male	2026-04-11 20:13:41.382261	2026-04-11 20:13:41.382261
+3304	2384	ergebnis-hl-manner-gaste.pdf	hl_male	2026-04-11 20:13:45.737366	2026-04-11 20:13:45.737366
+3305	2384	ergebnis-hl-manner-u-20-gesamt.pdf	hl_male	2026-04-11 20:13:49.599349	2026-04-11 20:13:49.599349
+3306	2384	ergebnis-hl-frauen-u-20-gaste.pdf	hl_female	2026-04-11 20:13:53.459531	2026-04-11 20:13:53.459531
+3307	2384	ergebnis-hl-jungen-sachsen.pdf	hl_male	2026-04-11 20:13:59.289896	2026-04-11 20:13:59.289896
+3308	2384	ergebnis-hl-jungen-gaste.pdf	hl_male	2026-04-11 20:14:03.49973	2026-04-11 20:14:03.49973
+3309	2384	ergebnis-hl-frauen-u-20-steigercup.pdf	hl_female	2026-04-11 20:14:07.119022	2026-04-11 20:14:07.119022
+3310	2384	ergebnis-hl-manner-u-20-steigercup.pdf	hl_male	2026-04-11 20:14:11.318328	2026-04-11 20:14:11.318328
+3311	2384	ergebnis-hl-madchen-u-10-gesamt.pdf	hl_female	2026-04-11 20:14:17.419953	2026-04-11 20:14:17.419953
+3312	2384	ergebnis-hl-jungen-u-10-gesamt.pdf	hl_male	2026-04-11 20:14:22.265253	2026-04-11 20:14:22.265253
+3313	2384	ergebnis-hl-jungen-u-10-sachsen.pdf	hl_male	2026-04-11 20:14:25.99349	2026-04-11 20:14:25.99349
+3314	2384	ergebnis-hl-jungen-u-10-gaste.pdf	hl_male	2026-04-11 20:14:29.62413	2026-04-11 20:14:29.62413
+3315	2384	ergebnis-hl-madchen-u-15-gesamt.pdf	hl_female	2026-04-11 20:14:34.510828	2026-04-11 20:14:34.510828
+3316	2384	ergebnis-hl-frauen-gesamt.pdf	hl_female	2026-04-11 20:14:39.080101	2026-04-11 20:14:39.080101
+3317	2384	ergebnis-hl-manner-gesamt.pdf	hl_male	2026-04-11 20:14:43.181571	2026-04-11 20:14:43.181571
+3318	2384	ergebnis-hl-madchen-u-15-gaste.pdf	hl_female	2026-04-11 20:14:46.530355	2026-04-11 20:14:46.530355
+3319	2384	ergebnis-hl-frauen-steigercup.pdf	hl_female	2026-04-11 20:14:51.115476	2026-04-11 20:14:51.115476
+3320	2384	ergebnis-hl-manner-steigercup.pdf	hl_male	2026-04-11 20:14:54.821319	2026-04-11 20:14:54.821319
+3321	2384	ergebnis-hl-madchen-u-15-steigercup.pdf	hl_female	2026-04-11 20:14:58.615021	2026-04-11 20:14:58.615021
+3322	2384	ergebnis-hl-jungen-u-15-steigercup.pdf	hl_male	2026-04-11 20:15:02.2169	2026-04-11 20:15:02.2169
+3323	2385	ergebnis-4x100m-hindernisstaffel-frauen.pdf	fs_female	2026-04-11 20:22:16.476487	2026-04-11 20:22:16.476487
+3324	2385	ergebnis-4x100m-hindernisstaffel-manner.pdf	fs_male	2026-04-11 20:22:23.75588	2026-04-11 20:22:23.75588
+3325	2385	ergebnis-gruppenstafette-u20.pdf	gs_female	2026-04-11 20:22:28.678477	2026-04-11 20:22:28.678477
+3326	2385	ergebnis-100m-hindernisbahn-manner.pdf	hb_male	2026-04-11 20:22:42.603587	2026-04-11 20:22:42.603587
+3327	2385	ergebnis-100m-hindernisbahn-frauen.pdf	hb_female	2026-04-11 20:22:46.931725	2026-04-11 20:22:46.931725
+3328	2385	ergebnis-loschangriff-nass-manner.pdf	la_male	2026-04-11 20:22:51.192094	2026-04-11 20:22:51.192094
+3329	2385	ergebnis-loschangriff-nass-frauen.pdf	la_female	2026-04-11 20:22:55.138866	2026-04-11 20:22:55.138866
+3330	2385	ergebnis-100m-hindernisbahn-manner-u20.pdf	hb_male	2026-04-11 20:22:58.938023	2026-04-11 20:22:58.938023
+3331	2385	ergebnis-gruppenstafette.pdf	gs_female	2026-04-11 20:23:04.271055	2026-04-11 20:23:04.271055
+3332	2385	ergebnis-100m-hindernisbahn-frauen-u15.pdf	hb_female	2026-04-11 20:23:07.855174	2026-04-11 20:23:07.855174
+3333	2385	ergebnis-loschangriff-nass-manner-u-140.pdf	la_male	2026-04-11 20:23:11.886782	2026-04-11 20:23:11.886782
+3334	2385	ergebnis-100m-hindernisbahn-frauen-u20.pdf	hb_female	2026-04-11 20:23:15.86409	2026-04-11 20:23:15.86409
+3335	2385	ergebnis-loschangriff-nass-frauen-u-140.pdf	la_female	2026-04-11 20:23:20.751656	2026-04-11 20:23:20.751656
+3336	2385	ergebnis-100m-hindernisbahn-manner-u15.pdf	hb_male	2026-04-11 20:23:24.278184	2026-04-11 20:23:24.278184
+3337	2386	ergebnis-loschangriff-nass-frauen.pdf	la_female	2026-04-11 20:25:41.045382	2026-04-11 20:25:41.045382
+3338	2386	ergebnis-loschangriff-nass-jungen-15-18.pdf	la_male	2026-04-11 20:25:45.355081	2026-04-11 20:25:45.355081
+3339	2386	ergebnis-loschangriff-nass-manner.pdf	la_male	2026-04-11 20:25:49.317954	2026-04-11 20:25:49.317954
+3340	2386	ergebnis-gruppenstafette-jugend-10-14.pdf		2026-04-11 20:25:52.577013	2026-04-11 20:25:52.577013
+3341	2386	ergebnis-gruppenstafette-jugend-u10.pdf		2026-04-11 20:25:55.525419	2026-04-11 20:25:55.525419
+3342	2386	ergebnis-gruppenstafette-jungen-15-18.pdf		2026-04-11 20:25:58.50856	2026-04-11 20:25:58.50856
+3343	2386	ergebnis-loschangriff-nass-jugend-10-14.pdf		2026-04-11 20:26:02.132328	2026-04-11 20:26:02.132328
+3344	2387	ergebnis-loschangriff-trocken-jf-wg-60-bis-83-jungenfeuerwehr-wg-60-bis-83.pdf	la_male	2026-04-11 20:29:56.154345	2026-04-11 20:29:56.154345
+3345	2387	ergebnis-loschangriff-trocken-jf-wg-84-bis-112-jungenfeuerwehr-wg-84-bis-112.pdf	la_male	2026-04-11 20:29:58.916236	2026-04-11 20:29:58.916236
+3346	2387	ergebnis-loschangriff-nass-frauen-frauen.pdf	la_female	2026-04-11 20:30:01.382565	2026-04-11 20:30:01.382565
+3347	2387	ergebnis-loschangriff-nass-manner-manner.pdf	la_male	2026-04-11 20:30:03.696987	2026-04-11 20:30:03.696987
+3348	2388	Zottelstedt_2024__1_.pdf	la_female,la_male	2026-04-11 20:35:39.718079	2026-04-11 20:35:39.718079
 \.

@@ -303,4 +303,16 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 296	329	FF Wilmersdorf-Stöbritz	Wilmersdorf-Stöbritz	2025-08-31 07:21:54.580351	2025-08-31 07:21:54.580351
 297	91	FF Beckwitz	Beckwitzer Gurken	2025-09-16 20:16:45.62627	2025-09-16 20:16:45.62627
 298	2363	Ortswehr Sandow	Sandow	2026-01-27 09:40:45.639714	2026-01-27 09:40:45.639714
+299	2379	FF Beulbar Ilmsdorf	Beulbar Ilmsdorf	2026-04-11 20:37:16.501881	2026-04-11 20:37:16.501881
+300	2379	FF Beuelbar Ilmsdorf	Beuelbar Ilmsdorf	2026-04-11 20:37:20.299271	2026-04-11 20:37:20.299271
+301	3434	Wettkampfteam Reuth	Reuth	2026-04-11 20:42:15.00652	2026-04-11 20:42:15.00652
+302	3896	SDH Slantiny	Slantiny	2026-04-11 20:50:27.083813	2026-04-11 20:50:27.083813
+303	2454	Wettkampfgruppe Gardelegen	Wettkampfgruppe Gardelegen	2026-04-11 20:52:36.672763	2026-04-11 20:52:36.672763
+304	1160	FF Grabow Below	Grabow Below	2026-04-11 20:55:12.050236	2026-04-11 20:55:12.050236
+305	4021	FF Muchow / Möllenbeck	Muchow / Möllenbeck	2026-04-11 20:56:00.295744	2026-04-11 20:56:00.295744
+306	3854	FF Unstrut - Gramme 2	Unstrut - Gramme 2	2026-04-11 21:02:18.349098	2026-04-11 21:02:18.349098
+307	4082	FF Giesenlage	Giesenlage	2026-04-11 21:07:14.00894	2026-04-11 21:07:14.00894
+308	3913	FF Cottbus Saspow	Cottbus Saspow	2026-04-11 21:49:07.034465	2026-04-11 21:49:07.034465
+309	358	Team Firesport	Firesport	2026-04-11 21:49:43.573832	2026-04-11 21:49:43.573832
+310	3277	FF Großderschau-Rübehorst	Großderschau-Rübehorst	2026-04-11 21:56:26.709444	2026-04-11 21:56:26.709444
 \.

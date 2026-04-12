@@ -2370,4 +2370,9 @@ COPY public.competitions (id, name, place_id, event_id, score_type_id, date, pub
 2381	1. MV-Hinderniscup	367	4	\N	2026-03-25	\N	2026-04-09 21:05:16.282904	2026-04-09 21:05:16.282904	\N	0	0	0	0	0	0	0	0	0	0	0	25.03.2026 - Rostock, Hallenpokal (1. MV-Hinderniscup)	f	f	f	f	2026
 2382	4. Adventssteigen	617	10	\N	2025-12-07	\N	2026-04-09 21:19:35.418446	2026-04-09 21:19:35.418446	\N	0	0	0	0	0	0	0	0	0	0	0	07.12.2025 - Beselin, Pokallauf (4. Adventssteigen)	f	f	f	f	2025
 2383	HALLENpokal	9	4	\N	2026-03-14	\N	2026-04-09 21:28:25.880154	2026-04-09 21:28:25.880154	\N	0	0	0	0	0	0	0	0	0	0	0	14.03.2026 - Halle, Hallenpokal (HALLENpokal)	f	f	f	f	2026
+2384		2	20	4	2025-08-31	\N	2026-04-11 19:42:03.517557	2026-04-11 19:46:21.6552	\N	0	0	0	0	0	0	0	0	0	0	0	31.08.2025 - Narsdorf, Sächsischer Steigercup	f	f	f	f	2025
+2385	Sachsen Cup	681	10	\N	2025-09-20	\N	2026-04-11 20:17:53.75228	2026-04-11 20:17:53.75228	\N	0	0	0	0	0	0	0	0	0	0	0	20.09.2025 - Zwickau, Pokallauf (Sachsen Cup)	f	f	f	f	2025
+2386	Pokal des Amtes Märkische Schweiz	112	15	\N	2025-09-20	\N	2026-04-11 20:24:11.389172	2026-04-11 20:24:11.389172	\N	0	0	0	0	0	0	0	0	0	0	0	20.09.2025 - Ihlow, Amtsausscheid (Pokal des Amtes Märkische Schweiz)	f	f	f	f	2025
+2387	1. Frauenprießnitzer Flutlichtwettkampf	682	10	\N	2025-11-08	\N	2026-04-11 20:27:50.774669	2026-04-11 20:27:50.774669	\N	0	0	0	0	0	0	0	0	0	0	0	08.11.2025 - Frauenprießnitz, Pokallauf (1. Frauenprießnitzer Flutlichtwettkampf)	f	f	f	f	2025
+2388		209	26	\N	2024-08-31	\N	2026-04-11 20:33:07.455958	2026-04-11 20:33:07.455958	\N	0	0	0	0	0	0	0	0	0	0	0	31.08.2024 - Zottelstedt, Thüringer Feuerwehr-Cup	f	f	f	f	2024
 \.
