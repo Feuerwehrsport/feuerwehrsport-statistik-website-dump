@@ -290,7 +290,7 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 283	2409	FF Bräunsdorf-Limbach-Oberfrona	Bräunsdorf-Limbach-Oberfrona	2024-11-25 21:39:00.686383	2024-11-25 21:39:00.686383
 284	2458	FF Bräunsdorf-Freiberg	Bräunsdorf-Freiberg	2024-11-25 21:39:04.74069	2024-11-25 21:39:04.74069
 285	2409	FF Bräunsdorf-Limbach	Bräunsdorf-Limbach	2024-11-25 21:39:08.185272	2024-11-25 21:39:08.185272
-286	3943	Czech Team	Czech Team	2025-02-09 19:38:35.153656	2025-02-09 19:38:35.153656
+286	2855	Czech Team	Czech Team	2025-02-09 19:38:35.153656	2025-02-09 19:38:35.153656
 287	10	Märkisch - Oderland	Märkisch - Oderland	2025-02-09 19:39:17.534769	2025-02-09 19:39:17.534769
 288	57	FF Buch (Altmark)	Buch (Altmark)	2025-02-09 19:40:08.456963	2025-02-09 19:40:08.456963
 289	57	FF Buch-Altmark	Buch-Altmark	2025-02-09 19:41:05.012882	2025-02-09 19:41:05.012882
@@ -315,4 +315,5 @@ COPY public.team_spellings (id, team_id, name, shortcut, created_at, updated_at)
 308	3913	FF Cottbus Saspow	Cottbus Saspow	2026-04-11 21:49:07.034465	2026-04-11 21:49:07.034465
 309	358	Team Firesport	Firesport	2026-04-11 21:49:43.573832	2026-04-11 21:49:43.573832
 310	3277	FF Großderschau-Rübehorst	Großderschau-Rübehorst	2026-04-11 21:56:26.709444	2026-04-11 21:56:26.709444
+311	2855	Czech Republic	Czech	2026-04-12 06:21:08.257608	2026-04-12 06:21:08.257608
 \.
