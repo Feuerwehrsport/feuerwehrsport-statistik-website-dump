@@ -3480,7 +3480,7 @@ SELECT pg_catalog.setval('public.bla_badges_id_seq', 203, true);
 -- Name: change_requests_id_seq; Type: SEQUENCE SET; Schema: public; Owner: feuerwehrsport-statistik
 --
 
-SELECT pg_catalog.setval('public.change_requests_id_seq', 648, true);
+SELECT pg_catalog.setval('public.change_requests_id_seq', 649, true);
 
 
 --
